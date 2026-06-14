@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "title": "BCA",
+  "kicker": "Undergraduate computer-applications degree",
+  "blocks": [
+    {
+      "type": "text",
+      "body": "A three-year degree focused on software and computer applications — programming, databases, web and the basics of IT. Lighter on heavy maths than B.Tech CSE, it's an affordable, practical route into software, often followed by an MCA."
+    },
+    {
+      "type": "facts",
+      "title": "Key facts",
+      "items": [
+        { "label": "Course length", "value": "3 years", "note": "4 years under some NEP-aligned universities" },
+        { "label": "Typical next degree", "value": "MCA", "note": "2-year master's, software & data-leaning" }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "How you get in",
+      "body": "Mostly 10+2 merit; some colleges use an entrance test (e.g. IPU CET)."
+    },
+    {
+      "type": "list",
+      "title": "At a glance",
+      "items": [
+        "A software-first path that doesn't need JEE.",
+        "Many employers treat BCA + MCA as comparable to a CS degree for software roles.",
+        "Build projects and internships early — they matter more than the tag."
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Roles this often leads to",
+      "items": [
+        { "label": "Frontend Developer", "href": "/roles/frontend-developer" },
+        { "label": "Backend Developer", "href": "/roles/backend-developer" },
+        { "label": "Data Analyst", "href": "/roles/data-analyst" }
+      ]
+    }
+  ],
+  "meta": { "lastReviewed": "2026-06", "createdBy": { "kind": "ai", "name": "Claude", "at": "2026-06" } }
+}

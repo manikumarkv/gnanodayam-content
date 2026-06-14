@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "title": "MBBS",
+  "kicker": "Undergraduate medical degree",
+  "blocks": [
+    {
+      "type": "text",
+      "body": "A five-and-a-half-year medical degree (including a one-year rotating internship) that qualifies you as a doctor. Most graduates then specialise via NEET-PG (MD/MS), or work in clinical practice, government health services or research."
+    },
+    {
+      "type": "facts",
+      "title": "Key facts",
+      "items": [
+        { "label": "Course length", "value": "5.5 years", "note": "4.5 years academic + 1 year internship" },
+        { "label": "MBBS seats", "value": "~1.1 lakh", "source": "NMC, approx.", "date": "2024", "verified": false },
+        { "label": "NEET applicants", "value": "~24 lakh", "source": "NTA NEET-UG, approx.", "date": "2024", "verified": false }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "How you get in",
+      "body": "NEET-UG — the single national entrance exam for all MBBS seats."
+    },
+    {
+      "type": "list",
+      "title": "At a glance",
+      "items": [
+        "Highly competitive: lakhs of applicants for ~1.1 lakh seats.",
+        "Most doctors specialise later via NEET-PG (MD/MS).",
+        "Paths include clinical practice, government service, study abroad and research."
+      ]
+    }
+  ],
+  "meta": { "lastReviewed": "2026-06", "createdBy": { "kind": "ai", "name": "Claude", "at": "2026-06" } }
+}

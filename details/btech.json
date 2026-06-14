@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "title": "B.Tech / B.E.",
+  "kicker": "Undergraduate engineering degree",
+  "blocks": [
+    {
+      "type": "text",
+      "body": "A four-year engineering degree (B.Tech, or B.E. at some universities). You pick a branch — CSE, ECE, Mechanical and so on — and study core science, your specialisation, labs and projects. It's the broadest and most common technical degree in India, opening software, core-engineering, government and higher-study paths alike."
+    },
+    {
+      "type": "facts",
+      "title": "Key facts",
+      "items": [
+        { "label": "Course length", "value": "4 years", "note": "8 semesters; lateral entry to year 2 for diploma holders" },
+        { "label": "Engineering colleges", "value": "~3,500–4,200", "source": "AICTE-approved, approx.", "date": "2024–25", "verified": false },
+        { "label": "Annual B.E./B.Tech seats", "value": "~12–15 lakh", "source": "AICTE intake, approx.", "date": "2024–25", "verified": false }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "How you get in",
+      "body": "JEE Main / Advanced, or a state CET (EAMCET, MHT-CET, KCET, WBJEE…)."
+    },
+    {
+      "type": "list",
+      "title": "At a glance",
+      "items": [
+        "23 IITs, 31 NITs and 26 IIITs sit alongside thousands of private & state colleges.",
+        "Your branch matters less than people say — many graduates switch fields.",
+        "Common next steps: a job, GATE → PSU / M.Tech, or an MS abroad."
+      ]
+    },
+    {
+      "type": "chart",
+      "chartType": "line",
+      "title": "Typical fresher CTC by experience",
+      "unit": "₹L",
+      "categories": ["0 yr", "2 yr", "5 yr"],
+      "series": [{ "label": "Median CTC", "values": [4, 8, 16] }],
+      "source": "Glassdoor + Levels.fyi, approx.",
+      "date": "2026",
+      "verified": false,
+      "note": "Indicative; varies widely by branch, company and city."
+    },
+    {
+      "type": "links",
+      "title": "Roles this often leads to",
+      "items": [
+        { "label": "Frontend Developer", "href": "/roles/frontend-developer" },
+        { "label": "Data Analyst", "href": "/roles/data-analyst" },
+        { "label": "VLSI Design Engineer", "href": "/roles/vlsi-design-engineer" }
+      ]
+    }
+  ],
+  "meta": { "lastReviewed": "2026-06", "createdBy": { "kind": "ai", "name": "Claude", "at": "2026-06" } }
+}

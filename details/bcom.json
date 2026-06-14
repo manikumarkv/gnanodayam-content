@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "title": "B.Com",
+  "kicker": "Undergraduate commerce degree",
+  "blocks": [
+    {
+      "type": "text",
+      "body": "A three-year commerce degree covering accounting, finance, taxation, economics and business law. It's the base for professional courses like CA, CMA and CS, and for analyst and management careers — often followed by an M.Com or an MBA."
+    },
+    {
+      "type": "facts",
+      "title": "Key facts",
+      "items": [
+        { "label": "Course length", "value": "3 years", "note": "General or Honours; 6 semesters" },
+        { "label": "Annual graduates", "value": "~10–12 lakh", "source": "AISHE, approx.", "date": "2021–22", "verified": false }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "How you get in",
+      "body": "Mostly 10+2 (commerce preferred) on merit; some universities use an entrance test (e.g. DU CUET)."
+    },
+    {
+      "type": "list",
+      "title": "At a glance",
+      "items": [
+        "The default launchpad for CA, CMA, CS and CFA aspirants.",
+        "Strong fit for accounting, finance, banking and analyst roles.",
+        "An MBA or M.Com is a common next step into management."
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Roles this often leads to",
+      "items": [{ "label": "Business Analyst", "href": "/roles/business-analyst" }]
+    }
+  ],
+  "meta": { "lastReviewed": "2026-06", "createdBy": { "kind": "ai", "name": "Claude", "at": "2026-06" } }
+}

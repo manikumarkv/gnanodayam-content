@@ -1,0 +1,31 @@
+name: Build details index
+# Regenerates details/index.json from the details/*.json files on every push, so authors
+# only add/remove a content doc and the index keeps itself in sync.
+on:
+  push:
+    branches: [main]
+    paths: ['details/**', '!details/index.json'] # the bot's own index commit doesn't re-trigger
+permissions:
+  contents: write
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Regenerate details/index.json from the *.json files
+        run: |
+          ls details/*.json \
+            | xargs -n1 basename \
+            | grep -v '^index.json$' \
+            | sed 's/\.json$//' \
+            | sort \
+            | jq -R . | jq -s . > details/index.json
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet details/index.json; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add details/index.json
+            git commit -m "chore: regenerate details index [skip ci]"
+            git push
+          fi
