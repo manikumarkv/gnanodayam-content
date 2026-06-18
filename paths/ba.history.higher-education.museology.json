@@ -1,0 +1,10 @@
+{
+  "code": "ba.history.higher-education.museology",
+  "parent": "ba.history.higher-education",
+  "label": "Museology",
+  "type": "field",
+  "description": "Curating museums and heritage.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

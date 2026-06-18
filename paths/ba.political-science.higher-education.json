@@ -1,0 +1,15 @@
+{
+  "code": "ba.political-science.higher-education",
+  "parent": "ba.political-science",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Master’s, law, journalism or public policy.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.political-science.higher-education.ma-pol-sci",
+    "ba.political-science.higher-education.llb",
+    "ba.political-science.higher-education.ma-journalism",
+    "ba.political-science.higher-education.public-policy"
+  ]
+}

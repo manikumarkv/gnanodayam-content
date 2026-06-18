@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.government-administration.public-health-mph",
+  "parent": "mbbs.government-administration",
+  "label": "Public Health (MPH)",
+  "type": "field",
+  "description": "Master of Public Health.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

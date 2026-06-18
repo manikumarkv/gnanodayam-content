@@ -1,0 +1,10 @@
+{
+  "code": "job-work.private-sector-entry-roles",
+  "parent": "job-work",
+  "label": "Private-sector entry roles",
+  "type": "field",
+  "description": "Entry-level jobs open right after Class 12.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

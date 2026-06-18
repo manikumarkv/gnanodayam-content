@@ -1,0 +1,14 @@
+{
+  "code": "bsc.chemistry",
+  "parent": "bsc",
+  "label": "Chemistry",
+  "type": "branch",
+  "description": "Matter and reactions — pharma, materials, labs.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.chemistry.job",
+    "bsc.chemistry.higher-education",
+    "bsc.chemistry.government"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "ba.economics.higher-education",
+  "parent": "ba.economics",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Master’s in economics, an MBA or data science.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.economics.higher-education.ma-msc-economics",
+    "ba.economics.higher-education.mba",
+    "ba.economics.higher-education.data-science"
+  ]
+}

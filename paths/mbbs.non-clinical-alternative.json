@@ -1,0 +1,15 @@
+{
+  "code": "mbbs.non-clinical-alternative",
+  "parent": "mbbs",
+  "label": "Non-clinical / Alternative",
+  "type": "fork",
+  "description": "Careers beyond the clinic.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "mbbs.non-clinical-alternative.medical-research",
+    "mbbs.non-clinical-alternative.hospital-administration-mha-mba",
+    "mbbs.non-clinical-alternative.pharma-clinical-research",
+    "mbbs.non-clinical-alternative.medical-writing"
+  ]
+}

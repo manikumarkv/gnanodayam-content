@@ -1,0 +1,10 @@
+{
+  "code": "btech.mechanical.government.defence-tgc",
+  "parent": "btech.mechanical.government",
+  "label": "Defence (TGC)",
+  "type": "field",
+  "description": "Officer entry into the armed forces.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

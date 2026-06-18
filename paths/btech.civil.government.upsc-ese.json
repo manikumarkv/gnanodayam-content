@@ -1,0 +1,10 @@
+{
+  "code": "btech.civil.government.upsc-ese",
+  "parent": "btech.civil.government",
+  "label": "UPSC (ESE)",
+  "type": "field",
+  "description": "Engineering Services — govt engineering officer.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

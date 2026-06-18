@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.pg-specialisation-neet-pg.ms.general-surgery",
+  "parent": "mbbs.pg-specialisation-neet-pg.ms",
+  "label": "General Surgery",
+  "type": "field",
+  "description": "A medical specialisation you can train into (via NEET-PG).",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

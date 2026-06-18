@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.job.quality-analyst",
+  "parent": "bsc.physics.job",
+  "label": "Quality Analyst",
+  "type": "role",
+  "description": "Check and assure quality.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

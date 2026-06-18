@@ -1,0 +1,10 @@
+{
+  "code": "vocational-skilling.polytechnic-diploma",
+  "parent": "vocational-skilling",
+  "label": "Polytechnic Diploma",
+  "type": "field",
+  "description": "A 3-year technical diploma; lateral entry into engineering.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

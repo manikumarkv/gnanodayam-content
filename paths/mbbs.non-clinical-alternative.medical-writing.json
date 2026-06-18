@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.non-clinical-alternative.medical-writing",
+  "parent": "mbbs.non-clinical-alternative",
+  "label": "Medical Writing",
+  "type": "field",
+  "description": "A path you can explore from here.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

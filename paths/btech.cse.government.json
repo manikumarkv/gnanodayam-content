@@ -1,0 +1,16 @@
+{
+  "code": "btech.cse.government",
+  "parent": "btech.cse",
+  "label": "Government",
+  "type": "fork",
+  "description": "Public-sector tech and officer roles via national exams.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.cse.government.gate-psu",
+    "btech.cse.government.upsc-civil-services",
+    "btech.cse.government.isro-drdo-scientist",
+    "btech.cse.government.state-psc",
+    "btech.cse.government.ssc"
+  ]
+}

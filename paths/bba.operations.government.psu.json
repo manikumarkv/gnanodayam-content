@@ -1,0 +1,10 @@
+{
+  "code": "bba.operations.government.psu",
+  "parent": "bba.operations.government",
+  "label": "PSU",
+  "type": "field",
+  "description": "Roles in public-sector companies.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bcom.finance.government.banking-po",
+  "parent": "bcom.finance.government",
+  "label": "Banking (PO)",
+  "type": "field",
+  "description": "Public-sector banking via national exams.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

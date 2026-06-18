@@ -1,0 +1,10 @@
+{
+  "code": "btech.eee.job.control-automation-engineer",
+  "parent": "btech.eee.job",
+  "label": "Control & Automation Engineer",
+  "type": "role",
+  "description": "Automate industrial systems and machines.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

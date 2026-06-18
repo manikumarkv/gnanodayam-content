@@ -1,0 +1,10 @@
+{
+  "code": "bsc.computer-science.job.backend-developer",
+  "parent": "bsc.computer-science.job",
+  "label": "Backend Developer",
+  "type": "role",
+  "description": "Build the server, APIs and databases behind an app.",
+  "roleSlug": "backend-developer",
+  "status": "published",
+  "children": []
+}

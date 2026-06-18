@@ -1,0 +1,10 @@
+{
+  "code": "btech.mechanical.job.design-engineer-cad",
+  "parent": "btech.mechanical.job",
+  "label": "Design Engineer (CAD)",
+  "type": "role",
+  "description": "Design parts and products in CAD.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

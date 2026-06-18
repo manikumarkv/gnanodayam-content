@@ -1,0 +1,10 @@
+{
+  "code": "ba.psychology.government.govt-hospital-psychologist",
+  "parent": "ba.psychology.government",
+  "label": "Govt-hospital Psychologist",
+  "type": "field",
+  "description": "Psychologist in government hospitals.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

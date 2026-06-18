@@ -1,0 +1,10 @@
+{
+  "code": "btech.ece.job.data-analyst",
+  "parent": "btech.ece.job",
+  "label": "Data Analyst",
+  "type": "role",
+  "description": "Turn raw data into charts and decisions — SQL, Excel.",
+  "roleSlug": "data-analyst",
+  "status": "published",
+  "children": []
+}

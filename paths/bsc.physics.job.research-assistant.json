@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.job.research-assistant",
+  "parent": "bsc.physics.job",
+  "label": "Research Assistant",
+  "type": "role",
+  "description": "Support research projects.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

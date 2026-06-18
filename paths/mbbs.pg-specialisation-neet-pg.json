@@ -1,0 +1,15 @@
+{
+  "code": "mbbs.pg-specialisation-neet-pg",
+  "parent": "mbbs",
+  "label": "PG Specialisation (NEET-PG)",
+  "type": "fork",
+  "description": "Crack NEET-PG for an MD or MS.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "mbbs.pg-specialisation-neet-pg.md",
+    "mbbs.pg-specialisation-neet-pg.ms",
+    "mbbs.pg-specialisation-neet-pg.dnb",
+    "mbbs.pg-specialisation-neet-pg.diploma-courses"
+  ]
+}

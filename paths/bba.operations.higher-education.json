@@ -1,0 +1,13 @@
+{
+  "code": "bba.operations.higher-education",
+  "parent": "bba.operations",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "An MBA or PGDM in operations/SCM.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.operations.higher-education.mba-operations-scm",
+    "bba.operations.higher-education.pgdm"
+  ]
+}

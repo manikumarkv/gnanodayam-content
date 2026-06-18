@@ -1,0 +1,10 @@
+{
+  "code": "ba.english-literature.government.upsc",
+  "parent": "ba.english-literature.government",
+  "label": "UPSC",
+  "type": "field",
+  "description": "Civil services and central posts via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

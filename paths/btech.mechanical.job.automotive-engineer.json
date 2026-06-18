@@ -1,0 +1,10 @@
+{
+  "code": "btech.mechanical.job.automotive-engineer",
+  "parent": "btech.mechanical.job",
+  "label": "Automotive Engineer",
+  "type": "role",
+  "description": "Design and build vehicles and components.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

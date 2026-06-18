@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.higher-education.msc-physics",
+  "parent": "bsc.physics.higher-education",
+  "label": "M.Sc Physics",
+  "type": "field",
+  "description": "Subject master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

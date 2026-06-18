@@ -1,0 +1,10 @@
+{
+  "code": "bba.marketing.job.sales-executive",
+  "parent": "bba.marketing.job",
+  "label": "Sales Executive",
+  "type": "role",
+  "description": "Sell products and hit targets.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

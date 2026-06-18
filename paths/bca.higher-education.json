@@ -1,0 +1,14 @@
+{
+  "code": "bca.higher-education",
+  "parent": "bca",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Convert to MCA, M.Sc or an MBA in IT.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bca.higher-education.mca",
+    "bca.higher-education.msc-cs-it",
+    "bca.higher-education.mba-it"
+  ]
+}

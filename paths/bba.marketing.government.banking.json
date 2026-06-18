@@ -1,0 +1,10 @@
+{
+  "code": "bba.marketing.government.banking",
+  "parent": "bba.marketing.government",
+  "label": "Banking",
+  "type": "field",
+  "description": "Public-sector banking via national exams.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

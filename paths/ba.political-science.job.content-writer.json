@@ -1,0 +1,10 @@
+{
+  "code": "ba.political-science.job.content-writer",
+  "parent": "ba.political-science.job",
+  "label": "Content Writer",
+  "type": "role",
+  "description": "Write content that informs and engages.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

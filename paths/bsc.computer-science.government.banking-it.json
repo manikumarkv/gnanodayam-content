@@ -1,0 +1,10 @@
+{
+  "code": "bsc.computer-science.government.banking-it",
+  "parent": "bsc.computer-science.government",
+  "label": "Banking IT",
+  "type": "field",
+  "description": "Specialist IT officer in public-sector banks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

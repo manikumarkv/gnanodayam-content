@@ -1,0 +1,10 @@
+{
+  "code": "bba.finance.job.accounts-executive",
+  "parent": "bba.finance.job",
+  "label": "Accounts Executive",
+  "type": "role",
+  "description": "Handle day-to-day accounting tasks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

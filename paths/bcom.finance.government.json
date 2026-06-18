@@ -1,0 +1,15 @@
+{
+  "code": "bcom.finance.government",
+  "parent": "bcom.finance",
+  "label": "Government",
+  "type": "fork",
+  "description": "Officer roles at the RBI, SEBI and banks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bcom.finance.government.rbi-grade-b",
+    "bcom.finance.government.sebi-grade-a",
+    "bcom.finance.government.banking-po",
+    "bcom.finance.government.lic-aao"
+  ]
+}

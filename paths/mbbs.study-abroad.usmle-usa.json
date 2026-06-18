@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.study-abroad.usmle-usa",
+  "parent": "mbbs.study-abroad",
+  "label": "USMLE (USA)",
+  "type": "field",
+  "description": "US medical licensing exam.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

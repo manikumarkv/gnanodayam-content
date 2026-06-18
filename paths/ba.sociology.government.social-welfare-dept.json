@@ -1,0 +1,10 @@
+{
+  "code": "ba.sociology.government.social-welfare-dept",
+  "parent": "ba.sociology.government",
+  "label": "Social Welfare Dept",
+  "type": "field",
+  "description": "State social-welfare department roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

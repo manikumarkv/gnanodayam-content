@@ -1,0 +1,10 @@
+{
+  "code": "bcom.banking-insurance.job.relationship-manager",
+  "parent": "bcom.banking-insurance.job",
+  "label": "Relationship Manager",
+  "type": "role",
+  "description": "Manage and grow client relationships.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

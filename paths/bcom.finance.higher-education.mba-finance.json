@@ -1,0 +1,10 @@
+{
+  "code": "bcom.finance.higher-education.mba-finance",
+  "parent": "bcom.finance.higher-education",
+  "label": "MBA (Finance)",
+  "type": "field",
+  "description": "Management degree; pivot into business and leadership.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

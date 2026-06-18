@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.government.upsc",
+  "parent": "bsc.physics.government",
+  "label": "UPSC",
+  "type": "field",
+  "description": "Civil services and central posts via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

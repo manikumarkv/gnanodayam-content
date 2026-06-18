@@ -1,0 +1,10 @@
+{
+  "code": "btech.ai-ml.job.machine-learning-engineer",
+  "parent": "btech.ai-ml.job",
+  "label": "Machine Learning Engineer",
+  "type": "role",
+  "description": "Build and ship models that learn from data.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

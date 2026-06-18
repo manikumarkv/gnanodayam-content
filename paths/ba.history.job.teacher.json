@@ -1,0 +1,10 @@
+{
+  "code": "ba.history.job.teacher",
+  "parent": "ba.history.job",
+  "label": "Teacher",
+  "type": "role",
+  "description": "Teach and shape students.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

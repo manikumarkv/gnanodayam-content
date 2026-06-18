@@ -1,0 +1,10 @@
+{
+  "code": "bsc.biology-life-sciences.job.biotech-associate",
+  "parent": "bsc.biology-life-sciences.job",
+  "label": "Biotech Associate",
+  "type": "role",
+  "description": "Work in biotech labs and processes.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

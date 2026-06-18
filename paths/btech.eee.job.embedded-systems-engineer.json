@@ -1,0 +1,10 @@
+{
+  "code": "btech.eee.job.embedded-systems-engineer",
+  "parent": "btech.eee.job",
+  "label": "Embedded Systems Engineer",
+  "type": "role",
+  "description": "Program the chips inside devices — C, microcontrollers.",
+  "roleSlug": "embedded-systems-engineer",
+  "status": "published",
+  "children": []
+}

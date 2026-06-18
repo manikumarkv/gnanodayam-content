@@ -1,0 +1,10 @@
+{
+  "code": "bcom.taxation.higher-education.cs",
+  "parent": "bcom.taxation.higher-education",
+  "label": "CS",
+  "type": "field",
+  "description": "Company Secretary — corporate law and governance.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

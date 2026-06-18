@@ -1,0 +1,10 @@
+{
+  "code": "ba.economics.higher-education.ma-msc-economics",
+  "parent": "ba.economics.higher-education",
+  "label": "MA / M.Sc Economics",
+  "type": "field",
+  "description": "Arts master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

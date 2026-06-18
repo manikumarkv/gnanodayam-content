@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.government-administration.armed-forces-medical",
+  "parent": "mbbs.government-administration",
+  "label": "Armed Forces Medical",
+  "type": "field",
+  "description": "A path you can explore from here.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

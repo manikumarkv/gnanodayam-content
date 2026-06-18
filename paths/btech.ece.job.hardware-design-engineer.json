@@ -1,0 +1,10 @@
+{
+  "code": "btech.ece.job.hardware-design-engineer",
+  "parent": "btech.ece.job",
+  "label": "Hardware Design Engineer",
+  "type": "role",
+  "description": "Design electronic hardware and circuit boards.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

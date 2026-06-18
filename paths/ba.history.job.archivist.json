@@ -1,0 +1,10 @@
+{
+  "code": "ba.history.job.archivist",
+  "parent": "ba.history.job",
+  "label": "Archivist",
+  "type": "role",
+  "description": "Preserve records and heritage.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

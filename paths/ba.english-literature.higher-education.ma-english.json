@@ -1,0 +1,10 @@
+{
+  "code": "ba.english-literature.higher-education.ma-english",
+  "parent": "ba.english-literature.higher-education",
+  "label": "MA English",
+  "type": "field",
+  "description": "Arts master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

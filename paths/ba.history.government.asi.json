@@ -1,0 +1,10 @@
+{
+  "code": "ba.history.government.asi",
+  "parent": "ba.history.government",
+  "label": "ASI",
+  "type": "field",
+  "description": "Archaeology Survey of India roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

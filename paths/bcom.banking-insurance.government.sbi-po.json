@@ -1,0 +1,10 @@
+{
+  "code": "bcom.banking-insurance.government.sbi-po",
+  "parent": "bcom.banking-insurance.government",
+  "label": "SBI PO",
+  "type": "field",
+  "description": "State Bank of India officer/clerk exams.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

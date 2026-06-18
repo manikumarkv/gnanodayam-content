@@ -1,0 +1,10 @@
+{
+  "code": "bba.human-resources.government.psu-hr",
+  "parent": "bba.human-resources.government",
+  "label": "PSU HR",
+  "type": "field",
+  "description": "HR roles in public-sector companies.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

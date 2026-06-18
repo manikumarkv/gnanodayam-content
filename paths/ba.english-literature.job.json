@@ -1,0 +1,16 @@
+{
+  "code": "ba.english-literature.job",
+  "parent": "ba.english-literature",
+  "label": "Job",
+  "type": "fork",
+  "description": "Writing, editing and media roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.english-literature.job.content-writer",
+    "ba.english-literature.job.copywriter",
+    "ba.english-literature.job.editor",
+    "ba.english-literature.job.journalist",
+    "ba.english-literature.job.technical-writer"
+  ]
+}

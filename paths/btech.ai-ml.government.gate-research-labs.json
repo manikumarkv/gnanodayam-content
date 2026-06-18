@@ -1,0 +1,10 @@
+{
+  "code": "btech.ai-ml.government.gate-research-labs",
+  "parent": "btech.ai-ml.government",
+  "label": "GATE → research labs",
+  "type": "field",
+  "description": "Crack GATE to join a public-sector company.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bba.marketing.higher-education.mba-marketing",
+  "parent": "bba.marketing.higher-education",
+  "label": "MBA (Marketing)",
+  "type": "field",
+  "description": "Management degree; pivot into business and leadership.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

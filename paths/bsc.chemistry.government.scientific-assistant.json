@@ -1,0 +1,10 @@
+{
+  "code": "bsc.chemistry.government.scientific-assistant",
+  "parent": "bsc.chemistry.government",
+  "label": "Scientific Assistant",
+  "type": "field",
+  "description": "Technical govt research-support roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

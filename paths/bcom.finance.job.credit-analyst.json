@@ -1,0 +1,10 @@
+{
+  "code": "bcom.finance.job.credit-analyst",
+  "parent": "bcom.finance.job",
+  "label": "Credit Analyst",
+  "type": "role",
+  "description": "Assess lending and credit risk.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

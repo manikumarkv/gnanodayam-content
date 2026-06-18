@@ -1,0 +1,10 @@
+{
+  "code": "bcom.finance.government.sebi-grade-a",
+  "parent": "bcom.finance.government",
+  "label": "SEBI Grade A",
+  "type": "field",
+  "description": "Officer at the markets regulator.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

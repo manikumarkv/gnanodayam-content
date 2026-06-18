@@ -1,0 +1,14 @@
+{
+  "code": "btech.ece.higher-education",
+  "parent": "btech.ece",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Specialise in VLSI, embedded or communications.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.ece.higher-education.mtech-vlsi-embedded-communication-signal-processing",
+    "btech.ece.higher-education.ms-abroad",
+    "btech.ece.higher-education.mba"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "btech.cse.job.qa-sdet",
+  "parent": "btech.cse.job",
+  "label": "QA / SDET",
+  "type": "role",
+  "description": "Test software and automate the checks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

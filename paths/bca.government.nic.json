@@ -1,0 +1,10 @@
+{
+  "code": "bca.government.nic",
+  "parent": "bca.government",
+  "label": "NIC",
+  "type": "field",
+  "description": "Government IT and informatics roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

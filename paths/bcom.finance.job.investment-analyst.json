@@ -1,0 +1,10 @@
+{
+  "code": "bcom.finance.job.investment-analyst",
+  "parent": "bcom.finance.job",
+  "label": "Investment Analyst",
+  "type": "role",
+  "description": "Research investments and markets.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

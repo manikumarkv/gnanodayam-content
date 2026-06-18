@@ -1,0 +1,10 @@
+{
+  "code": "bsc.mathematics.government.teaching-net",
+  "parent": "bsc.mathematics.government",
+  "label": "Teaching (NET)",
+  "type": "field",
+  "description": "Teach in schools or colleges via NET/TET.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

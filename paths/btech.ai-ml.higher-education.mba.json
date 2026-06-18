@@ -1,0 +1,10 @@
+{
+  "code": "btech.ai-ml.higher-education.mba",
+  "parent": "btech.ai-ml.higher-education",
+  "label": "MBA",
+  "type": "field",
+  "description": "Management degree; pivot into business and leadership.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "ba.english-literature.job.copywriter",
+  "parent": "ba.english-literature.job",
+  "label": "Copywriter",
+  "type": "role",
+  "description": "Write persuasive copy for brands.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

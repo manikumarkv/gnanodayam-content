@@ -1,0 +1,10 @@
+{
+  "code": "btech.ai-ml.job.nlp-engineer",
+  "parent": "btech.ai-ml.job",
+  "label": "NLP Engineer",
+  "type": "role",
+  "description": "Build AI that understands language.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

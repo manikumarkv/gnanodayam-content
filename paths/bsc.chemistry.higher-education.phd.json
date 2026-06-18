@@ -1,0 +1,10 @@
+{
+  "code": "bsc.chemistry.higher-education.phd",
+  "parent": "bsc.chemistry.higher-education",
+  "label": "PhD",
+  "type": "field",
+  "description": "Research career via a doctorate.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

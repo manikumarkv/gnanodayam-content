@@ -1,0 +1,10 @@
+{
+  "code": "bcom.taxation.government.gst-commercial-tax-officer",
+  "parent": "bcom.taxation.government",
+  "label": "GST / Commercial Tax Officer",
+  "type": "field",
+  "description": "State / central tax officer roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

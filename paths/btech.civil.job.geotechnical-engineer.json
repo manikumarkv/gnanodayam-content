@@ -1,0 +1,10 @@
+{
+  "code": "btech.civil.job.geotechnical-engineer",
+  "parent": "btech.civil.job",
+  "label": "Geotechnical Engineer",
+  "type": "role",
+  "description": "Engineer soil and foundations.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "btech.cse.job.full-stack-developer",
+  "parent": "btech.cse.job",
+  "label": "Full-Stack Developer",
+  "type": "role",
+  "description": "Work across both front-end and back-end.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

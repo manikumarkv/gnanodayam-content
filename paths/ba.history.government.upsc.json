@@ -1,0 +1,10 @@
+{
+  "code": "ba.history.government.upsc",
+  "parent": "ba.history.government",
+  "label": "UPSC",
+  "type": "field",
+  "description": "Civil services and central posts via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

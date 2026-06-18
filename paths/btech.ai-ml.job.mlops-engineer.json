@@ -1,0 +1,10 @@
+{
+  "code": "btech.ai-ml.job.mlops-engineer",
+  "parent": "btech.ai-ml.job",
+  "label": "MLOps Engineer",
+  "type": "role",
+  "description": "Run ML models reliably in production.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

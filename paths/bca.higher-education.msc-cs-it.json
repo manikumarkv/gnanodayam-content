@@ -1,0 +1,10 @@
+{
+  "code": "bca.higher-education.msc-cs-it",
+  "parent": "bca.higher-education",
+  "label": "M.Sc (CS / IT)",
+  "type": "field",
+  "description": "Subject master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

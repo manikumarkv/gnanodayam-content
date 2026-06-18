@@ -1,0 +1,10 @@
+{
+  "code": "bba.human-resources.job.recruiter",
+  "parent": "bba.human-resources.job",
+  "label": "Recruiter",
+  "type": "role",
+  "description": "Find and hire the right people.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

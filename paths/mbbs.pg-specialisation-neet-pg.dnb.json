@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.pg-specialisation-neet-pg.dnb",
+  "parent": "mbbs.pg-specialisation-neet-pg",
+  "label": "DNB",
+  "type": "field",
+  "description": "Post-graduate medical training (DNB).",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

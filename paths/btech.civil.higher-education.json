@@ -1,0 +1,14 @@
+{
+  "code": "btech.civil.higher-education",
+  "parent": "btech.civil",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Specialise in structural, transport or environmental.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.civil.higher-education.mtech-structural-transportation-environmental-geotech",
+    "btech.civil.higher-education.ms-abroad",
+    "btech.civil.higher-education.mba-construction-mgmt"
+  ]
+}

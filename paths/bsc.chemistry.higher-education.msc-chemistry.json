@@ -1,0 +1,10 @@
+{
+  "code": "bsc.chemistry.higher-education.msc-chemistry",
+  "parent": "bsc.chemistry.higher-education",
+  "label": "M.Sc Chemistry",
+  "type": "field",
+  "description": "Subject master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

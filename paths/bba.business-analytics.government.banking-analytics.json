@@ -1,0 +1,10 @@
+{
+  "code": "bba.business-analytics.government.banking-analytics",
+  "parent": "bba.business-analytics.government",
+  "label": "Banking Analytics",
+  "type": "field",
+  "description": "Analytics roles in banking.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

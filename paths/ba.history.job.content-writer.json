@@ -1,0 +1,10 @@
+{
+  "code": "ba.history.job.content-writer",
+  "parent": "ba.history.job",
+  "label": "Content Writer",
+  "type": "role",
+  "description": "Write content that informs and engages.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

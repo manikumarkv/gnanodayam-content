@@ -1,0 +1,15 @@
+{
+  "code": "bcom.accounting.job",
+  "parent": "bcom.accounting",
+  "label": "Job",
+  "type": "fork",
+  "description": "Accounting and audit roles in firms and companies.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bcom.accounting.job.accountant",
+    "bcom.accounting.job.auditor",
+    "bcom.accounting.job.accounts-executive",
+    "bcom.accounting.job.bookkeeper"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "government-competitive.banking-ibps-sbi",
+  "parent": "government-competitive",
+  "label": "Banking (IBPS / SBI)",
+  "type": "field",
+  "description": "Public-sector banking via national exams.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

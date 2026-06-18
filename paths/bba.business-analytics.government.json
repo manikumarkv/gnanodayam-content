@@ -1,0 +1,13 @@
+{
+  "code": "bba.business-analytics.government",
+  "parent": "bba.business-analytics",
+  "label": "Government",
+  "type": "fork",
+  "description": "Analytics in banking and central services.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.business-analytics.government.banking-analytics",
+    "bba.business-analytics.government.ssc"
+  ]
+}

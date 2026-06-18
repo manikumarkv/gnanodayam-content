@@ -1,0 +1,10 @@
+{
+  "code": "bba.operations.higher-education.pgdm",
+  "parent": "bba.operations.higher-education",
+  "label": "PGDM",
+  "type": "field",
+  "description": "Management diploma; pivot into business roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

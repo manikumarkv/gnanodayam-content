@@ -1,0 +1,10 @@
+{
+  "code": "bsc.biology-life-sciences.higher-education.phd",
+  "parent": "bsc.biology-life-sciences.higher-education",
+  "label": "PhD",
+  "type": "field",
+  "description": "Research career via a doctorate.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

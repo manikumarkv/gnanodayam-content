@@ -1,0 +1,13 @@
+{
+  "code": "ba.psychology.higher-education",
+  "parent": "ba.psychology",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Specialise — clinical, counselling or organisational.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.psychology.higher-education.ma-msc-psychology-clinical-counselling-organisational",
+    "ba.psychology.higher-education.mba-hr"
+  ]
+}

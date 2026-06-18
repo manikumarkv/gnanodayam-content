@@ -1,0 +1,10 @@
+{
+  "code": "bcom.accounting.job.accountant",
+  "parent": "bcom.accounting.job",
+  "label": "Accountant",
+  "type": "role",
+  "description": "Record and report a business's money.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

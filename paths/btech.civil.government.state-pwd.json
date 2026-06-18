@@ -1,0 +1,10 @@
+{
+  "code": "btech.civil.government.state-pwd",
+  "parent": "btech.civil.government",
+  "label": "State PWD",
+  "type": "field",
+  "description": "State public-works department roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

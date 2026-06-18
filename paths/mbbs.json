@@ -1,0 +1,16 @@
+{
+  "code": "mbbs",
+  "parent": "higher-education",
+  "label": "MBBS",
+  "type": "degree",
+  "description": "Medicine; practice, specialise, or serve in government.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "mbbs.clinical-practice",
+    "mbbs.pg-specialisation-neet-pg",
+    "mbbs.study-abroad",
+    "mbbs.government-administration",
+    "mbbs.non-clinical-alternative"
+  ]
+}

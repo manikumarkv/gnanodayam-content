@@ -1,0 +1,10 @@
+{
+  "code": "ba.economics.government.rbi-grade-b",
+  "parent": "ba.economics.government",
+  "label": "RBI Grade B",
+  "type": "field",
+  "description": "Officer role at India’s central bank.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

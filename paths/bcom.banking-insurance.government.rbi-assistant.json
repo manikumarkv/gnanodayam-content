@@ -1,0 +1,10 @@
+{
+  "code": "bcom.banking-insurance.government.rbi-assistant",
+  "parent": "bcom.banking-insurance.government",
+  "label": "RBI Assistant",
+  "type": "field",
+  "description": "Officer role at India’s central bank.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

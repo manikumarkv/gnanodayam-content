@@ -1,0 +1,18 @@
+{
+  "code": "bca.job",
+  "parent": "bca",
+  "label": "Job",
+  "type": "fork",
+  "description": "Entry software, web and support roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bca.job.frontend-developer",
+    "bca.job.backend-developer",
+    "bca.job.data-analyst",
+    "bca.job.software-developer",
+    "bca.job.web-developer",
+    "bca.job.qa-engineer",
+    "bca.job.it-support"
+  ]
+}

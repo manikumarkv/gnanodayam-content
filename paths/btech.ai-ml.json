@@ -1,0 +1,14 @@
+{
+  "code": "btech.ai-ml",
+  "parent": "btech",
+  "label": "AI & ML",
+  "type": "branch",
+  "description": "Build systems that learn — data, models and intelligence.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.ai-ml.job",
+    "btech.ai-ml.higher-education",
+    "btech.ai-ml.government"
+  ]
+}

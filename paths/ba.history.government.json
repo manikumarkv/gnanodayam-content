@@ -1,0 +1,15 @@
+{
+  "code": "ba.history.government",
+  "parent": "ba.history",
+  "label": "Government",
+  "type": "fork",
+  "description": "Civil services, archaeology survey, teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.history.government.upsc",
+    "ba.history.government.asi",
+    "ba.history.government.state-psc",
+    "ba.history.government.teaching-tet-net"
+  ]
+}

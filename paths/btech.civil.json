@@ -1,0 +1,14 @@
+{
+  "code": "btech.civil",
+  "parent": "btech",
+  "label": "Civil",
+  "type": "branch",
+  "description": "Build the physical world — structures, roads, water, sites.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.civil.job",
+    "btech.civil.higher-education",
+    "btech.civil.government"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "ba.english-literature.government.teaching-net-tet",
+  "parent": "ba.english-literature.government",
+  "label": "Teaching (NET / TET)",
+  "type": "field",
+  "description": "Teach in schools or colleges via NET/TET.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

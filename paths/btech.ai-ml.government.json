@@ -1,0 +1,14 @@
+{
+  "code": "btech.ai-ml.government",
+  "parent": "btech.ai-ml",
+  "label": "Government",
+  "type": "fork",
+  "description": "Research roles at national labs and via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.ai-ml.government.gate-research-labs",
+    "btech.ai-ml.government.isro-drdo",
+    "btech.ai-ml.government.upsc"
+  ]
+}

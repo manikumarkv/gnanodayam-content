@@ -1,0 +1,10 @@
+{
+  "code": "ba.psychology.job.research-assistant",
+  "parent": "ba.psychology.job",
+  "label": "Research Assistant",
+  "type": "role",
+  "description": "Support research projects.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

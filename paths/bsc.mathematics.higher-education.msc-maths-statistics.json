@@ -1,0 +1,10 @@
+{
+  "code": "bsc.mathematics.higher-education.msc-maths-statistics",
+  "parent": "bsc.mathematics.higher-education",
+  "label": "M.Sc (Maths / Statistics)",
+  "type": "field",
+  "description": "Subject master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

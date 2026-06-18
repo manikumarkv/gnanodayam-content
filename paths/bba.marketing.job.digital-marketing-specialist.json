@@ -1,0 +1,10 @@
+{
+  "code": "bba.marketing.job.digital-marketing-specialist",
+  "parent": "bba.marketing.job",
+  "label": "Digital Marketing Specialist",
+  "type": "role",
+  "description": "Grow reach online — SEO, ads, social.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

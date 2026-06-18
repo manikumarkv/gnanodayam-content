@@ -1,0 +1,14 @@
+{
+  "code": "ba.economics",
+  "parent": "ba",
+  "label": "Economics",
+  "type": "branch",
+  "description": "How economies work — analysis, policy, finance.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.economics.job",
+    "ba.economics.higher-education",
+    "ba.economics.government"
+  ]
+}

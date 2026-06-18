@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.government-administration.state-health-services",
+  "parent": "mbbs.government-administration",
+  "label": "State Health Services",
+  "type": "field",
+  "description": "A path you can explore from here.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

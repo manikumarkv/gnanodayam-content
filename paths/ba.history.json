@@ -1,0 +1,14 @@
+{
+  "code": "ba.history",
+  "parent": "ba",
+  "label": "History",
+  "type": "branch",
+  "description": "The past — research, heritage, teaching, writing.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.history.job",
+    "ba.history.higher-education",
+    "ba.history.government"
+  ]
+}

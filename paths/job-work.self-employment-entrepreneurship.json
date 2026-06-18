@@ -1,0 +1,10 @@
+{
+  "code": "job-work.self-employment-entrepreneurship",
+  "parent": "job-work",
+  "label": "Self-employment / Entrepreneurship",
+  "type": "field",
+  "description": "Start something of your own — a trade or small business.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

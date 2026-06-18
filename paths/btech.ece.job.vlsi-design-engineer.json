@@ -1,0 +1,10 @@
+{
+  "code": "btech.ece.job.vlsi-design-engineer",
+  "parent": "btech.ece.job",
+  "label": "VLSI Design Engineer",
+  "type": "role",
+  "description": "Design the silicon chips themselves — RTL, verification.",
+  "roleSlug": "vlsi-design-engineer",
+  "status": "published",
+  "children": []
+}

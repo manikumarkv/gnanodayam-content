@@ -1,0 +1,15 @@
+{
+  "code": "bsc.mathematics.job",
+  "parent": "bsc.mathematics",
+  "label": "Job",
+  "type": "fork",
+  "description": "Analytics and quantitative roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.mathematics.job.data-analyst",
+    "bsc.mathematics.job.actuarial-analyst",
+    "bsc.mathematics.job.quantitative-analyst",
+    "bsc.mathematics.job.statistician"
+  ]
+}

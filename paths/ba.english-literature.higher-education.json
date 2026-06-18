@@ -1,0 +1,15 @@
+{
+  "code": "ba.english-literature.higher-education",
+  "parent": "ba.english-literature",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Master’s, journalism, an MBA or B.Ed.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.english-literature.higher-education.ma-english",
+    "ba.english-literature.higher-education.ma-journalism",
+    "ba.english-literature.higher-education.mba",
+    "ba.english-literature.higher-education.bed"
+  ]
+}

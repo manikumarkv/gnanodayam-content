@@ -1,0 +1,10 @@
+{
+  "code": "ba.history.job.researcher",
+  "parent": "ba.history.job",
+  "label": "Researcher",
+  "type": "role",
+  "description": "Investigate and produce findings.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

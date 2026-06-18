@@ -1,0 +1,10 @@
+{
+  "code": "bba.finance.job.business-analyst",
+  "parent": "bba.finance.job",
+  "label": "Business Analyst",
+  "type": "role",
+  "description": "Bridge business needs and tech — requirements, process.",
+  "roleSlug": "business-analyst",
+  "status": "published",
+  "children": []
+}

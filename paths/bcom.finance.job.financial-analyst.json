@@ -1,0 +1,10 @@
+{
+  "code": "bcom.finance.job.financial-analyst",
+  "parent": "bcom.finance.job",
+  "label": "Financial Analyst",
+  "type": "role",
+  "description": "Analyse finances to guide decisions.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

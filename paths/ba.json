@@ -1,0 +1,17 @@
+{
+  "code": "ba",
+  "parent": "higher-education",
+  "label": "BA",
+  "type": "degree",
+  "description": "Arts & humanities; broad base for civil services, media, law.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.economics",
+    "ba.political-science",
+    "ba.history",
+    "ba.psychology",
+    "ba.english-literature",
+    "ba.sociology"
+  ]
+}

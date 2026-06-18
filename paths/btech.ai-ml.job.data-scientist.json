@@ -1,0 +1,10 @@
+{
+  "code": "btech.ai-ml.job.data-scientist",
+  "parent": "btech.ai-ml.job",
+  "label": "Data Scientist",
+  "type": "role",
+  "description": "Find patterns and build predictions from data.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

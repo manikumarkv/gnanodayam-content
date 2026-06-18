@@ -1,0 +1,10 @@
+{
+  "code": "ba.english-literature.job.journalist",
+  "parent": "ba.english-literature.job",
+  "label": "Journalist",
+  "type": "role",
+  "description": "Report and tell news stories.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

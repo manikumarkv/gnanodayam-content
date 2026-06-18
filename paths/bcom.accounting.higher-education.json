@@ -1,0 +1,15 @@
+{
+  "code": "bcom.accounting.higher-education",
+  "parent": "bcom.accounting",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Professional credentials and master’s degrees.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bcom.accounting.higher-education.ca",
+    "bcom.accounting.higher-education.cma",
+    "bcom.accounting.higher-education.mcom",
+    "bcom.accounting.higher-education.mba-finance"
+  ]
+}

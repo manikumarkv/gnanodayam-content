@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.non-clinical-alternative.hospital-administration-mha-mba",
+  "parent": "mbbs.non-clinical-alternative",
+  "label": "Hospital Administration (MHA / MBA)",
+  "type": "field",
+  "description": "A path you can explore from here.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bba.business-analytics.government.ssc",
+  "parent": "bba.business-analytics.government",
+  "label": "SSC",
+  "type": "field",
+  "description": "Central govt clerical and officer posts via SSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

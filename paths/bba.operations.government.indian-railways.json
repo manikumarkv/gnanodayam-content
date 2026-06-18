@@ -1,0 +1,10 @@
+{
+  "code": "bba.operations.government.indian-railways",
+  "parent": "bba.operations.government",
+  "label": "Indian Railways",
+  "type": "field",
+  "description": "Engineering and officer posts in the Railways.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

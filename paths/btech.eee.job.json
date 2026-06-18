@@ -1,0 +1,17 @@
+{
+  "code": "btech.eee.job",
+  "parent": "btech.eee",
+  "label": "Job",
+  "type": "fork",
+  "description": "Electrical, power and embedded roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.eee.job.embedded-systems-engineer",
+    "btech.eee.job.vlsi-design-engineer",
+    "btech.eee.job.electrical-design-engineer",
+    "btech.eee.job.power-systems-engineer",
+    "btech.eee.job.control-automation-engineer",
+    "btech.eee.job.maintenance-engineer"
+  ]
+}

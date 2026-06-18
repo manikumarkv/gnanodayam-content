@@ -1,0 +1,14 @@
+{
+  "code": "btech.it",
+  "parent": "btech",
+  "label": "IT",
+  "type": "branch",
+  "description": "Information technology — building and running software systems.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.it.job",
+    "btech.it.higher-education",
+    "btech.it.government"
+  ]
+}

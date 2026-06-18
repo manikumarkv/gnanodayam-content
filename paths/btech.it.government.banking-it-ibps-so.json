@@ -1,0 +1,10 @@
+{
+  "code": "btech.it.government.banking-it-ibps-so",
+  "parent": "btech.it.government",
+  "label": "Banking IT (IBPS SO)",
+  "type": "field",
+  "description": "Specialist IT officer in public-sector banks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

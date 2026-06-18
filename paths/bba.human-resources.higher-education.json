@@ -1,0 +1,13 @@
+{
+  "code": "bba.human-resources.higher-education",
+  "parent": "bba.human-resources",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "An MBA or MA in HR.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.human-resources.higher-education.mba-hr",
+    "bba.human-resources.higher-education.ma-hr"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "btech.it.government.gate-psu",
+  "parent": "btech.it.government",
+  "label": "GATE → PSU",
+  "type": "field",
+  "description": "Crack GATE to join a public-sector company.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

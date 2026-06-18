@@ -1,0 +1,10 @@
+{
+  "code": "btech.cse.job.backend-developer",
+  "parent": "btech.cse.job",
+  "label": "Backend Developer",
+  "type": "role",
+  "description": "Build the server, APIs and databases behind an app.",
+  "roleSlug": "backend-developer",
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bsc.chemistry.government.drug-inspector",
+  "parent": "bsc.chemistry.government",
+  "label": "Drug Inspector",
+  "type": "field",
+  "description": "Regulate drugs and pharma quality.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

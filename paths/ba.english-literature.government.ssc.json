@@ -1,0 +1,10 @@
+{
+  "code": "ba.english-literature.government.ssc",
+  "parent": "ba.english-literature.government",
+  "label": "SSC",
+  "type": "field",
+  "description": "Central govt clerical and officer posts via SSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

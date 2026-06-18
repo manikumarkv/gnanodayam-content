@@ -1,0 +1,10 @@
+{
+  "code": "bba.finance.government.rbi",
+  "parent": "bba.finance.government",
+  "label": "RBI",
+  "type": "field",
+  "description": "Officer role at India’s central bank.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

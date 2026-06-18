@@ -1,0 +1,10 @@
+{
+  "code": "bsc.biology-life-sciences.job.research-associate",
+  "parent": "bsc.biology-life-sciences.job",
+  "label": "Research Associate",
+  "type": "role",
+  "description": "Support scientific research.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

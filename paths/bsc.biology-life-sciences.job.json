@@ -1,0 +1,15 @@
+{
+  "code": "bsc.biology-life-sciences.job",
+  "parent": "bsc.biology-life-sciences",
+  "label": "Job",
+  "type": "fork",
+  "description": "Lab, research and biotech support roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.biology-life-sciences.job.lab-technician",
+    "bsc.biology-life-sciences.job.research-associate",
+    "bsc.biology-life-sciences.job.biotech-associate",
+    "bsc.biology-life-sciences.job.clinical-research-associate"
+  ]
+}

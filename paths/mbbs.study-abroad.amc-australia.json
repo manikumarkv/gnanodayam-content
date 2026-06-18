@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.study-abroad.amc-australia",
+  "parent": "mbbs.study-abroad",
+  "label": "AMC (Australia)",
+  "type": "field",
+  "description": "Australian medical licensing exam.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

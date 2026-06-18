@@ -1,0 +1,10 @@
+{
+  "code": "vocational-skilling.iti-industrial-training-institute",
+  "parent": "vocational-skilling",
+  "label": "ITI (Industrial Training Institute)",
+  "type": "field",
+  "description": "Trade certification — India’s largest skilling channel.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}
