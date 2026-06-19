@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Archaeology Survey of India roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

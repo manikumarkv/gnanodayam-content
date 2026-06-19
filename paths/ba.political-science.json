@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Government, policy and international relations.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.political-science.job",
-    "ba.political-science.higher-education",
-    "ba.political-science.government"
-  ]
+  "status": "published"
 }

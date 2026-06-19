@@ -5,9 +5,5 @@
   "type": "fork",
   "description": "Master’s in a life-science field, or a PhD.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.biology-life-sciences.higher-education.msc-biotech-microbiology-zoology-botany",
-    "bsc.biology-life-sciences.higher-education.phd"
-  ]
+  "status": "published"
 }

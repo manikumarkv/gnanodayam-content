@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Build software applications.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

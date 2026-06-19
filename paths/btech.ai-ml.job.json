@@ -5,13 +5,5 @@
   "type": "fork",
   "description": "Machine-learning and data roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.ai-ml.job.machine-learning-engineer",
-    "btech.ai-ml.job.data-scientist",
-    "btech.ai-ml.job.data-analyst",
-    "btech.ai-ml.job.nlp-engineer",
-    "btech.ai-ml.job.computer-vision-engineer",
-    "btech.ai-ml.job.mlops-engineer"
-  ]
+  "status": "published"
 }

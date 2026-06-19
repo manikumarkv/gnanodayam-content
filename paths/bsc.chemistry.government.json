@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Drug inspection, scientific posts, teaching.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.chemistry.government.drug-inspector",
-    "bsc.chemistry.government.scientific-assistant",
-    "bsc.chemistry.government.upsc",
-    "bsc.chemistry.government.teaching-net"
-  ]
+  "status": "published"
 }

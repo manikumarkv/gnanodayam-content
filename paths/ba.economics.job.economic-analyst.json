@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Analyse economic data and trends.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "A path you can explore from here.",
   "roleSlug": "product-manager",
-  "status": "published",
-  "children": []
+  "status": "published"
 }

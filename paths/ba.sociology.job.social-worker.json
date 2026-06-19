@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Support people and communities.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

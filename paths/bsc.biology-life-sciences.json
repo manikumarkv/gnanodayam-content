@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Living systems — biotech, research, health.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.biology-life-sciences.job",
-    "bsc.biology-life-sciences.higher-education",
-    "bsc.biology-life-sciences.government"
-  ]
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Carry out chemical analysis.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

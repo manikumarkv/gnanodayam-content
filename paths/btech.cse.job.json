@@ -5,16 +5,5 @@
   "type": "fork",
   "description": "Private-sector software roles you can target from CSE.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.cse.job.frontend-developer",
-    "btech.cse.job.backend-developer",
-    "btech.cse.job.full-stack-developer",
-    "btech.cse.job.data-analyst",
-    "btech.cse.job.cloud-devops-engineer",
-    "btech.cse.job.machine-learning-engineer",
-    "btech.cse.job.mobile-app-developer",
-    "btech.cse.job.qa-sdet",
-    "btech.cse.job.cybersecurity-analyst"
-  ]
+  "status": "published"
 }

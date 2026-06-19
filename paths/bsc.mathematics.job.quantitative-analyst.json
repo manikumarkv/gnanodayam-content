@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Model markets and risk with maths.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

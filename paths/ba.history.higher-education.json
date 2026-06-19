@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Master’s, B.Ed, museology or archaeology.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.history.higher-education.ma-history",
-    "ba.history.higher-education.bed",
-    "ba.history.higher-education.museology",
-    "ba.history.higher-education.archaeology"
-  ]
+  "status": "published"
 }

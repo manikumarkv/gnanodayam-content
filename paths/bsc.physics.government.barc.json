@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Atomic-research scientist and technical posts.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

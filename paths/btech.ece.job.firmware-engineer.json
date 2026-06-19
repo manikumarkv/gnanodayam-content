@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Write the low-level code that runs on devices.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

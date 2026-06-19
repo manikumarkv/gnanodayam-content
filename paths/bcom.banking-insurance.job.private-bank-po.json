@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Officer role in a private bank.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

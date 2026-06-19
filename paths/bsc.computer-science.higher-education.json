@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Convert to a tech master’s or an MBA.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.computer-science.higher-education.mca",
-    "bsc.computer-science.higher-education.msc-cs-it",
-    "bsc.computer-science.higher-education.mba-it"
-  ]
+  "status": "published"
 }

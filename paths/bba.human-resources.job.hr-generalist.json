@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Cover the full range of HR work.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

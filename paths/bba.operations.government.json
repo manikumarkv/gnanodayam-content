@@ -5,9 +5,5 @@
   "type": "fork",
   "description": "Railways and PSU operations.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.operations.government.indian-railways",
-    "bba.operations.government.psu"
-  ]
+  "status": "published"
 }

@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Policy, writing, media and development roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.political-science.job.policy-analyst",
-    "ba.political-science.job.content-writer",
-    "ba.political-science.job.journalist",
-    "ba.political-science.job.ngo-development"
-  ]
+  "status": "published"
 }

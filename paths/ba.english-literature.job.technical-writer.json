@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Explain complex products clearly.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

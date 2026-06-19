@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Support users and IT systems.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

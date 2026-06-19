@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Keep IT systems and users running.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

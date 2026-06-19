@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Master’s, social work (MSW) or an MBA.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.sociology.higher-education.ma-sociology",
-    "ba.sociology.higher-education.msw",
-    "ba.sociology.higher-education.mba"
-  ]
+  "status": "published"
 }

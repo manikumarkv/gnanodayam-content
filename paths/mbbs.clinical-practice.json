@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Treat patients straight after MBBS.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "mbbs.clinical-practice.general-physician",
-    "mbbs.clinical-practice.resident-doctor",
-    "mbbs.clinical-practice.medical-officer"
-  ]
+  "status": "published"
 }

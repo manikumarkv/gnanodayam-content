@@ -5,6 +5,5 @@
   "type": "field",
   "description": "State Bank of India officer/clerk exams.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

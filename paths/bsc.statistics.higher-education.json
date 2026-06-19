@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Master’s in statistics, an MBA or actuarial.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.statistics.higher-education.msc-statistics",
-    "bsc.statistics.higher-education.mba",
-    "bsc.statistics.higher-education.actuarial-science"
-  ]
+  "status": "published"
 }

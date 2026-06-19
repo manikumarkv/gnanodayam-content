@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Managing money in a business.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.finance.job",
-    "bba.finance.higher-education",
-    "bba.finance.government"
-  ]
+  "status": "published"
 }

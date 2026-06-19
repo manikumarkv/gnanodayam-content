@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Handle day-to-day accounting tasks.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

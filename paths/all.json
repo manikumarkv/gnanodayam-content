@@ -1,0 +1,4430 @@
+[
+  {
+    "code": "after-12th",
+    "parent": null,
+    "label": "After 12th",
+    "type": "stage",
+    "description": "What do you want to do next? Keep studying, start working, learn a trade, or aim for a government job.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba",
+    "parent": "higher-education",
+    "label": "BA",
+    "type": "degree",
+    "description": "Arts & humanities; broad base for civil services, media, law.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics",
+    "parent": "ba",
+    "label": "Economics",
+    "type": "branch",
+    "description": "How economies work — analysis, policy, finance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.government",
+    "parent": "ba.economics",
+    "label": "Government",
+    "type": "fork",
+    "description": "Economic service, RBI and civil services.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.government.indian-economic-service-upsc-ies",
+    "parent": "ba.economics.government",
+    "label": "Indian Economic Service (UPSC IES)",
+    "type": "field",
+    "description": "Economic Service officer via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.government.rbi-grade-b",
+    "parent": "ba.economics.government",
+    "label": "RBI Grade B",
+    "type": "field",
+    "description": "Officer role at India’s central bank.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.government.upsc-cse",
+    "parent": "ba.economics.government",
+    "label": "UPSC CSE",
+    "type": "field",
+    "description": "IAS, IPS and more via India’s toughest exam.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.higher-education",
+    "parent": "ba.economics",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s in economics, an MBA or data science.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.higher-education.data-science",
+    "parent": "ba.economics.higher-education",
+    "label": "Data Science",
+    "type": "field",
+    "description": "Upskill into data science.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.higher-education.ma-msc-economics",
+    "parent": "ba.economics.higher-education",
+    "label": "MA / M.Sc Economics",
+    "type": "field",
+    "description": "Arts master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.higher-education.mba",
+    "parent": "ba.economics.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.job",
+    "parent": "ba.economics",
+    "label": "Job",
+    "type": "fork",
+    "description": "Analyst and research roles in business and finance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.job.business-analyst",
+    "parent": "ba.economics.job",
+    "label": "Business Analyst",
+    "type": "role",
+    "description": "Bridge business needs and tech — requirements, process.",
+    "roleSlug": "business-analyst",
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.job.economic-analyst",
+    "parent": "ba.economics.job",
+    "label": "Economic Analyst",
+    "type": "role",
+    "description": "Analyse economic data and trends.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.job.market-research-analyst",
+    "parent": "ba.economics.job",
+    "label": "Market Research Analyst",
+    "type": "role",
+    "description": "Study markets and customers.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.economics.job.research-analyst",
+    "parent": "ba.economics.job",
+    "label": "Research Analyst",
+    "type": "role",
+    "description": "Research and analyse for decisions.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature",
+    "parent": "ba",
+    "label": "English / Literature",
+    "type": "branch",
+    "description": "Language and writing — media, content, teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.government",
+    "parent": "ba.english-literature",
+    "label": "Government",
+    "type": "fork",
+    "description": "Civil services, SSC and teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.government.ssc",
+    "parent": "ba.english-literature.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.government.teaching-net-tet",
+    "parent": "ba.english-literature.government",
+    "label": "Teaching (NET / TET)",
+    "type": "field",
+    "description": "Teach in schools or colleges via NET/TET.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.government.upsc",
+    "parent": "ba.english-literature.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.higher-education",
+    "parent": "ba.english-literature",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s, journalism, an MBA or B.Ed.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.higher-education.bed",
+    "parent": "ba.english-literature.higher-education",
+    "label": "B.Ed",
+    "type": "field",
+    "description": "Teaching qualification for schools.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.higher-education.ma-english",
+    "parent": "ba.english-literature.higher-education",
+    "label": "MA English",
+    "type": "field",
+    "description": "Arts master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.higher-education.ma-journalism",
+    "parent": "ba.english-literature.higher-education",
+    "label": "MA Journalism",
+    "type": "field",
+    "description": "Arts master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.higher-education.mba",
+    "parent": "ba.english-literature.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.job",
+    "parent": "ba.english-literature",
+    "label": "Job",
+    "type": "fork",
+    "description": "Writing, editing and media roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.job.content-writer",
+    "parent": "ba.english-literature.job",
+    "label": "Content Writer",
+    "type": "role",
+    "description": "Write content that informs and engages.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.job.copywriter",
+    "parent": "ba.english-literature.job",
+    "label": "Copywriter",
+    "type": "role",
+    "description": "Write persuasive copy for brands.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.job.editor",
+    "parent": "ba.english-literature.job",
+    "label": "Editor",
+    "type": "role",
+    "description": "Shape and polish written content.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.job.journalist",
+    "parent": "ba.english-literature.job",
+    "label": "Journalist",
+    "type": "role",
+    "description": "Report and tell news stories.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.english-literature.job.technical-writer",
+    "parent": "ba.english-literature.job",
+    "label": "Technical Writer",
+    "type": "role",
+    "description": "Explain complex products clearly.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history",
+    "parent": "ba",
+    "label": "History",
+    "type": "branch",
+    "description": "The past — research, heritage, teaching, writing.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.government",
+    "parent": "ba.history",
+    "label": "Government",
+    "type": "fork",
+    "description": "Civil services, archaeology survey, teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.government.asi",
+    "parent": "ba.history.government",
+    "label": "ASI",
+    "type": "field",
+    "description": "Archaeology Survey of India roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.government.state-psc",
+    "parent": "ba.history.government",
+    "label": "State PSC",
+    "type": "field",
+    "description": "State-government officer posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.government.teaching-tet-net",
+    "parent": "ba.history.government",
+    "label": "Teaching (TET / NET)",
+    "type": "field",
+    "description": "Teach in schools or colleges via NET/TET.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.government.upsc",
+    "parent": "ba.history.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.higher-education",
+    "parent": "ba.history",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s, B.Ed, museology or archaeology.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.higher-education.archaeology",
+    "parent": "ba.history.higher-education",
+    "label": "Archaeology",
+    "type": "field",
+    "description": "Study and dig into the past.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.higher-education.bed",
+    "parent": "ba.history.higher-education",
+    "label": "B.Ed",
+    "type": "field",
+    "description": "Teaching qualification for schools.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.higher-education.ma-history",
+    "parent": "ba.history.higher-education",
+    "label": "MA History",
+    "type": "field",
+    "description": "Arts master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.higher-education.museology",
+    "parent": "ba.history.higher-education",
+    "label": "Museology",
+    "type": "field",
+    "description": "Curating museums and heritage.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.job",
+    "parent": "ba.history",
+    "label": "Job",
+    "type": "fork",
+    "description": "Research, archival, writing and teaching roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.job.archivist",
+    "parent": "ba.history.job",
+    "label": "Archivist",
+    "type": "role",
+    "description": "Preserve records and heritage.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.job.content-writer",
+    "parent": "ba.history.job",
+    "label": "Content Writer",
+    "type": "role",
+    "description": "Write content that informs and engages.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.job.researcher",
+    "parent": "ba.history.job",
+    "label": "Researcher",
+    "type": "role",
+    "description": "Investigate and produce findings.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.history.job.teacher",
+    "parent": "ba.history.job",
+    "label": "Teacher",
+    "type": "role",
+    "description": "Teach and shape students.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science",
+    "parent": "ba",
+    "label": "Political Science",
+    "type": "branch",
+    "description": "Government, policy and international relations.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.government",
+    "parent": "ba.political-science",
+    "label": "Government",
+    "type": "fork",
+    "description": "Civil services and state administration.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.government.ssc",
+    "parent": "ba.political-science.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.government.state-psc",
+    "parent": "ba.political-science.government",
+    "label": "State PSC",
+    "type": "field",
+    "description": "State-government officer posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.government.upsc-civil-services",
+    "parent": "ba.political-science.government",
+    "label": "UPSC Civil Services",
+    "type": "field",
+    "description": "IAS, IPS and more via India’s toughest exam.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.higher-education",
+    "parent": "ba.political-science",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s, law, journalism or public policy.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.higher-education.llb",
+    "parent": "ba.political-science.higher-education",
+    "label": "LLB",
+    "type": "field",
+    "description": "Law degree — practice, corporate or judiciary.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.higher-education.ma-journalism",
+    "parent": "ba.political-science.higher-education",
+    "label": "MA Journalism",
+    "type": "field",
+    "description": "Arts master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.higher-education.ma-pol-sci",
+    "parent": "ba.political-science.higher-education",
+    "label": "MA Pol Sci",
+    "type": "field",
+    "description": "Arts master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.higher-education.public-policy",
+    "parent": "ba.political-science.higher-education",
+    "label": "Public Policy",
+    "type": "field",
+    "description": "Study to shape policy and governance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.job",
+    "parent": "ba.political-science",
+    "label": "Job",
+    "type": "fork",
+    "description": "Policy, writing, media and development roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.job.content-writer",
+    "parent": "ba.political-science.job",
+    "label": "Content Writer",
+    "type": "role",
+    "description": "Write content that informs and engages.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.job.journalist",
+    "parent": "ba.political-science.job",
+    "label": "Journalist",
+    "type": "role",
+    "description": "Report and tell news stories.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.job.ngo-development",
+    "parent": "ba.political-science.job",
+    "label": "NGO / Development",
+    "type": "role",
+    "description": "Work on social impact and development.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.political-science.job.policy-analyst",
+    "parent": "ba.political-science.job",
+    "label": "Policy Analyst",
+    "type": "role",
+    "description": "Research and shape policy.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology",
+    "parent": "ba",
+    "label": "Psychology",
+    "type": "branch",
+    "description": "The mind — counselling, HR, research, clinical.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.government",
+    "parent": "ba.psychology",
+    "label": "Government",
+    "type": "fork",
+    "description": "Civil services and govt-hospital psychology (post-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.government.govt-hospital-psychologist",
+    "parent": "ba.psychology.government",
+    "label": "Govt-hospital Psychologist",
+    "type": "field",
+    "description": "Psychologist in government hospitals.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.government.state-psc",
+    "parent": "ba.psychology.government",
+    "label": "State PSC",
+    "type": "field",
+    "description": "State-government officer posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.government.upsc",
+    "parent": "ba.psychology.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.higher-education",
+    "parent": "ba.psychology",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Specialise — clinical, counselling or organisational.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.higher-education.ma-msc-psychology-clinical-counselling-organisational",
+    "parent": "ba.psychology.higher-education",
+    "label": "MA / M.Sc Psychology (Clinical / Counselling / Organisational)",
+    "type": "field",
+    "description": "Arts master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.higher-education.mba-hr",
+    "parent": "ba.psychology.higher-education",
+    "label": "MBA HR",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.job",
+    "parent": "ba.psychology",
+    "label": "Job",
+    "type": "fork",
+    "description": "HR, counselling-support and research roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.job.counsellor-with-certification",
+    "parent": "ba.psychology.job",
+    "label": "Counsellor (with certification)",
+    "type": "role",
+    "description": "Support people's mental wellbeing.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.job.hr-executive",
+    "parent": "ba.psychology.job",
+    "label": "HR Executive",
+    "type": "role",
+    "description": "Handle hiring, onboarding and people ops.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.psychology.job.research-assistant",
+    "parent": "ba.psychology.job",
+    "label": "Research Assistant",
+    "type": "role",
+    "description": "Support research projects.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology",
+    "parent": "ba",
+    "label": "Sociology",
+    "type": "branch",
+    "description": "Society and people — development, HR, research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.government",
+    "parent": "ba.sociology",
+    "label": "Government",
+    "type": "fork",
+    "description": "Civil services and social-welfare departments.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.government.social-welfare-dept",
+    "parent": "ba.sociology.government",
+    "label": "Social Welfare Dept",
+    "type": "field",
+    "description": "State social-welfare department roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.government.state-psc",
+    "parent": "ba.sociology.government",
+    "label": "State PSC",
+    "type": "field",
+    "description": "State-government officer posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.government.upsc",
+    "parent": "ba.sociology.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.higher-education",
+    "parent": "ba.sociology",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s, social work (MSW) or an MBA.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.higher-education.ma-sociology",
+    "parent": "ba.sociology.higher-education",
+    "label": "MA Sociology",
+    "type": "field",
+    "description": "Arts master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.higher-education.mba",
+    "parent": "ba.sociology.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.higher-education.msw",
+    "parent": "ba.sociology.higher-education",
+    "label": "MSW",
+    "type": "field",
+    "description": "Master of Social Work.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.job",
+    "parent": "ba.sociology",
+    "label": "Job",
+    "type": "fork",
+    "description": "Social work, development, HR and research roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.job.hr-executive",
+    "parent": "ba.sociology.job",
+    "label": "HR Executive",
+    "type": "role",
+    "description": "Handle hiring, onboarding and people ops.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.job.ngo-development",
+    "parent": "ba.sociology.job",
+    "label": "NGO / Development",
+    "type": "role",
+    "description": "Work on social impact and development.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.job.researcher",
+    "parent": "ba.sociology.job",
+    "label": "Researcher",
+    "type": "role",
+    "description": "Investigate and produce findings.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "ba.sociology.job.social-worker",
+    "parent": "ba.sociology.job",
+    "label": "Social Worker",
+    "type": "role",
+    "description": "Support people and communities.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba",
+    "parent": "higher-education",
+    "label": "BBA",
+    "type": "degree",
+    "description": "Business administration; the runway to management & an MBA.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics",
+    "parent": "bba",
+    "label": "Business Analytics",
+    "type": "branch",
+    "description": "Decisions from data — the analytics route.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.government",
+    "parent": "bba.business-analytics",
+    "label": "Government",
+    "type": "fork",
+    "description": "Analytics in banking and central services.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.government.banking-analytics",
+    "parent": "bba.business-analytics.government",
+    "label": "Banking Analytics",
+    "type": "field",
+    "description": "Analytics roles in banking.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.government.ssc",
+    "parent": "bba.business-analytics.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.higher-education",
+    "parent": "bba.business-analytics",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "An MBA or M.Sc in analytics.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.higher-education.mba-business-analytics",
+    "parent": "bba.business-analytics.higher-education",
+    "label": "MBA (Business Analytics)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.higher-education.msc-analytics",
+    "parent": "bba.business-analytics.higher-education",
+    "label": "M.Sc Analytics",
+    "type": "field",
+    "description": "Subject master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.job",
+    "parent": "bba.business-analytics",
+    "label": "Job",
+    "type": "fork",
+    "description": "Analyst and product roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.job.business-analyst",
+    "parent": "bba.business-analytics.job",
+    "label": "Business Analyst",
+    "type": "role",
+    "description": "Bridge business needs and tech — requirements, process.",
+    "roleSlug": "business-analyst",
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.job.data-analyst",
+    "parent": "bba.business-analytics.job",
+    "label": "Data Analyst",
+    "type": "role",
+    "description": "Turn raw data into charts and decisions — SQL, Excel.",
+    "roleSlug": "data-analyst",
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.job.product-manager",
+    "parent": "bba.business-analytics.job",
+    "label": "Product Manager",
+    "type": "role",
+    "description": "A path you can explore from here.",
+    "roleSlug": "product-manager",
+    "status": "published"
+  },
+  {
+    "code": "bba.business-analytics.job.reporting-analyst",
+    "parent": "bba.business-analytics.job",
+    "label": "Reporting Analyst",
+    "type": "role",
+    "description": "Build reports and dashboards.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance",
+    "parent": "bba",
+    "label": "Finance",
+    "type": "branch",
+    "description": "Managing money in a business.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.government",
+    "parent": "bba.finance",
+    "label": "Government",
+    "type": "fork",
+    "description": "Public-sector banking and the RBI.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.government.banking-ibps-sbi",
+    "parent": "bba.finance.government",
+    "label": "Banking (IBPS / SBI)",
+    "type": "field",
+    "description": "Public-sector banking via national exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.government.rbi",
+    "parent": "bba.finance.government",
+    "label": "RBI",
+    "type": "field",
+    "description": "Officer role at India’s central bank.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.higher-education",
+    "parent": "bba.finance",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "An MBA in finance, CFA or M.Com.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.higher-education.cfa",
+    "parent": "bba.finance.higher-education",
+    "label": "CFA",
+    "type": "field",
+    "description": "Global credential for investment and finance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.higher-education.mba-finance",
+    "parent": "bba.finance.higher-education",
+    "label": "MBA (Finance)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.higher-education.mcom",
+    "parent": "bba.finance.higher-education",
+    "label": "M.Com",
+    "type": "field",
+    "description": "Master’s in commerce.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.job",
+    "parent": "bba.finance",
+    "label": "Job",
+    "type": "fork",
+    "description": "Finance and analyst roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.job.accounts-executive",
+    "parent": "bba.finance.job",
+    "label": "Accounts Executive",
+    "type": "role",
+    "description": "Handle day-to-day accounting tasks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.job.business-analyst",
+    "parent": "bba.finance.job",
+    "label": "Business Analyst",
+    "type": "role",
+    "description": "Bridge business needs and tech — requirements, process.",
+    "roleSlug": "business-analyst",
+    "status": "published"
+  },
+  {
+    "code": "bba.finance.job.financial-analyst",
+    "parent": "bba.finance.job",
+    "label": "Financial Analyst",
+    "type": "role",
+    "description": "Analyse finances to guide decisions.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources",
+    "parent": "bba",
+    "label": "Human Resources",
+    "type": "branch",
+    "description": "People — hiring, culture, operations.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.government",
+    "parent": "bba.human-resources",
+    "label": "Government",
+    "type": "fork",
+    "description": "HR posts in PSUs and via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.government.psu-hr",
+    "parent": "bba.human-resources.government",
+    "label": "PSU HR",
+    "type": "field",
+    "description": "HR roles in public-sector companies.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.government.ssc",
+    "parent": "bba.human-resources.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.higher-education",
+    "parent": "bba.human-resources",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "An MBA or MA in HR.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.higher-education.ma-hr",
+    "parent": "bba.human-resources.higher-education",
+    "label": "MA HR",
+    "type": "field",
+    "description": "Arts master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.higher-education.mba-hr",
+    "parent": "bba.human-resources.higher-education",
+    "label": "MBA (HR)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.job",
+    "parent": "bba.human-resources",
+    "label": "Job",
+    "type": "fork",
+    "description": "HR and recruitment roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.job.hr-executive",
+    "parent": "bba.human-resources.job",
+    "label": "HR Executive",
+    "type": "role",
+    "description": "Handle hiring, onboarding and people ops.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.job.hr-generalist",
+    "parent": "bba.human-resources.job",
+    "label": "HR Generalist",
+    "type": "role",
+    "description": "Cover the full range of HR work.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.human-resources.job.recruiter",
+    "parent": "bba.human-resources.job",
+    "label": "Recruiter",
+    "type": "role",
+    "description": "Find and hire the right people.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing",
+    "parent": "bba",
+    "label": "Marketing",
+    "type": "branch",
+    "description": "Reaching customers — brand, digital, sales.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.government",
+    "parent": "bba.marketing",
+    "label": "Government",
+    "type": "fork",
+    "description": "Banking and clerical posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.government.banking",
+    "parent": "bba.marketing.government",
+    "label": "Banking",
+    "type": "field",
+    "description": "Public-sector banking via national exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.government.ssc",
+    "parent": "bba.marketing.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.higher-education",
+    "parent": "bba.marketing",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "An MBA or PGDM in marketing.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.higher-education.mba-marketing",
+    "parent": "bba.marketing.higher-education",
+    "label": "MBA (Marketing)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.higher-education.pgdm",
+    "parent": "bba.marketing.higher-education",
+    "label": "PGDM",
+    "type": "field",
+    "description": "Management diploma; pivot into business roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.job",
+    "parent": "bba.marketing",
+    "label": "Job",
+    "type": "fork",
+    "description": "Marketing and sales roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.job.brand-associate",
+    "parent": "bba.marketing.job",
+    "label": "Brand Associate",
+    "type": "role",
+    "description": "Support a brand's image and campaigns.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.job.digital-marketing-specialist",
+    "parent": "bba.marketing.job",
+    "label": "Digital Marketing Specialist",
+    "type": "role",
+    "description": "Grow reach online — SEO, ads, social.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.job.marketing-executive",
+    "parent": "bba.marketing.job",
+    "label": "Marketing Executive",
+    "type": "role",
+    "description": "Run marketing campaigns and outreach.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.marketing.job.sales-executive",
+    "parent": "bba.marketing.job",
+    "label": "Sales Executive",
+    "type": "role",
+    "description": "Sell products and hit targets.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations",
+    "parent": "bba",
+    "label": "Operations",
+    "type": "branch",
+    "description": "Making the business run — supply chain, logistics.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.government",
+    "parent": "bba.operations",
+    "label": "Government",
+    "type": "fork",
+    "description": "Railways and PSU operations.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.government.indian-railways",
+    "parent": "bba.operations.government",
+    "label": "Indian Railways",
+    "type": "field",
+    "description": "Engineering and officer posts in the Railways.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.government.psu",
+    "parent": "bba.operations.government",
+    "label": "PSU",
+    "type": "field",
+    "description": "Roles in public-sector companies.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.higher-education",
+    "parent": "bba.operations",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "An MBA or PGDM in operations/SCM.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.higher-education.mba-operations-scm",
+    "parent": "bba.operations.higher-education",
+    "label": "MBA (Operations / SCM)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.higher-education.pgdm",
+    "parent": "bba.operations.higher-education",
+    "label": "PGDM",
+    "type": "field",
+    "description": "Management diploma; pivot into business roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.job",
+    "parent": "bba.operations",
+    "label": "Job",
+    "type": "fork",
+    "description": "Operations and supply-chain roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.job.logistics-coordinator",
+    "parent": "bba.operations.job",
+    "label": "Logistics Coordinator",
+    "type": "role",
+    "description": "Move goods on time and on budget.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.job.operations-executive",
+    "parent": "bba.operations.job",
+    "label": "Operations Executive",
+    "type": "role",
+    "description": "Keep day-to-day operations running.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bba.operations.job.supply-chain-associate",
+    "parent": "bba.operations.job",
+    "label": "Supply Chain Associate",
+    "type": "role",
+    "description": "Coordinate sourcing and delivery.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca",
+    "parent": "higher-education",
+    "label": "BCA",
+    "type": "degree",
+    "description": "Computer applications; a direct route into software.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.government",
+    "parent": "bca",
+    "label": "Government",
+    "type": "fork",
+    "description": "Tech and clerical posts via national exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.government.banking-it",
+    "parent": "bca.government",
+    "label": "Banking IT",
+    "type": "field",
+    "description": "Specialist IT officer in public-sector banks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.government.nic",
+    "parent": "bca.government",
+    "label": "NIC",
+    "type": "field",
+    "description": "Government IT and informatics roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.government.ssc",
+    "parent": "bca.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.higher-education",
+    "parent": "bca",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Convert to MCA, M.Sc or an MBA in IT.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.higher-education.mba-it",
+    "parent": "bca.higher-education",
+    "label": "MBA (IT)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.higher-education.mca",
+    "parent": "bca.higher-education",
+    "label": "MCA",
+    "type": "field",
+    "description": "Master’s that converts you into a software career.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.higher-education.msc-cs-it",
+    "parent": "bca.higher-education",
+    "label": "M.Sc (CS / IT)",
+    "type": "field",
+    "description": "Subject master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.job",
+    "parent": "bca",
+    "label": "Job",
+    "type": "fork",
+    "description": "Entry software, web and support roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.job.backend-developer",
+    "parent": "bca.job",
+    "label": "Backend Developer",
+    "type": "role",
+    "description": "Build the server, APIs and databases behind an app.",
+    "roleSlug": "backend-developer",
+    "status": "published"
+  },
+  {
+    "code": "bca.job.data-analyst",
+    "parent": "bca.job",
+    "label": "Data Analyst",
+    "type": "role",
+    "description": "Turn raw data into charts and decisions — SQL, Excel.",
+    "roleSlug": "data-analyst",
+    "status": "published"
+  },
+  {
+    "code": "bca.job.frontend-developer",
+    "parent": "bca.job",
+    "label": "Frontend Developer",
+    "type": "role",
+    "description": "Build the screens users see — React, HTML/CSS/JS.",
+    "roleSlug": "frontend-developer",
+    "status": "published"
+  },
+  {
+    "code": "bca.job.it-support",
+    "parent": "bca.job",
+    "label": "IT Support",
+    "type": "role",
+    "description": "Support users and IT systems.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.job.qa-engineer",
+    "parent": "bca.job",
+    "label": "QA Engineer",
+    "type": "role",
+    "description": "Test software and automate checks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.job.software-developer",
+    "parent": "bca.job",
+    "label": "Software Developer",
+    "type": "role",
+    "description": "Build software applications.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bca.job.web-developer",
+    "parent": "bca.job",
+    "label": "Web Developer",
+    "type": "role",
+    "description": "Build and maintain websites.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom",
+    "parent": "higher-education",
+    "label": "B.Com",
+    "type": "degree",
+    "description": "Commerce degree; the base for accounting, finance and business.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting",
+    "parent": "bcom",
+    "label": "Accounting",
+    "type": "branch",
+    "description": "The books — recording, auditing and reporting money.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.government",
+    "parent": "bcom.accounting",
+    "label": "Government",
+    "type": "fork",
+    "description": "Audit and accounts posts via SSC and banking exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.government.banking-ibps-sbi",
+    "parent": "bcom.accounting.government",
+    "label": "Banking (IBPS / SBI)",
+    "type": "field",
+    "description": "Public-sector banking via national exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.government.ssc-cgl-auditor-accountant",
+    "parent": "bcom.accounting.government",
+    "label": "SSC CGL (Auditor / Accountant)",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.government.state-psc",
+    "parent": "bcom.accounting.government",
+    "label": "State PSC",
+    "type": "field",
+    "description": "State-government officer posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.higher-education",
+    "parent": "bcom.accounting",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Professional credentials and master’s degrees.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.higher-education.ca",
+    "parent": "bcom.accounting.higher-education",
+    "label": "CA",
+    "type": "field",
+    "description": "Chartered Accountancy — audit, tax and finance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.higher-education.cma",
+    "parent": "bcom.accounting.higher-education",
+    "label": "CMA",
+    "type": "field",
+    "description": "Cost & Management Accountancy.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.higher-education.mba-finance",
+    "parent": "bcom.accounting.higher-education",
+    "label": "MBA (Finance)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.higher-education.mcom",
+    "parent": "bcom.accounting.higher-education",
+    "label": "M.Com",
+    "type": "field",
+    "description": "Master’s in commerce.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.job",
+    "parent": "bcom.accounting",
+    "label": "Job",
+    "type": "fork",
+    "description": "Accounting and audit roles in firms and companies.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.job.accountant",
+    "parent": "bcom.accounting.job",
+    "label": "Accountant",
+    "type": "role",
+    "description": "Record and report a business's money.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.job.accounts-executive",
+    "parent": "bcom.accounting.job",
+    "label": "Accounts Executive",
+    "type": "role",
+    "description": "Handle day-to-day accounting tasks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.job.auditor",
+    "parent": "bcom.accounting.job",
+    "label": "Auditor",
+    "type": "role",
+    "description": "Check that accounts are accurate and honest.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.accounting.job.bookkeeper",
+    "parent": "bcom.accounting.job",
+    "label": "Bookkeeper",
+    "type": "role",
+    "description": "Keep the daily financial records.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance",
+    "parent": "bcom",
+    "label": "Banking & Insurance",
+    "type": "branch",
+    "description": "Customer-facing money services and risk.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.government",
+    "parent": "bcom.banking-insurance",
+    "label": "Government",
+    "type": "fork",
+    "description": "Public-sector bank and insurance exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.government.ibps-po-clerk",
+    "parent": "bcom.banking-insurance.government",
+    "label": "IBPS PO / Clerk",
+    "type": "field",
+    "description": "Public-sector banking via national exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.government.lic-aao",
+    "parent": "bcom.banking-insurance.government",
+    "label": "LIC AAO",
+    "type": "field",
+    "description": "Officer role at LIC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.government.rbi-assistant",
+    "parent": "bcom.banking-insurance.government",
+    "label": "RBI Assistant",
+    "type": "field",
+    "description": "Officer role at India’s central bank.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.government.sbi-po",
+    "parent": "bcom.banking-insurance.government",
+    "label": "SBI PO",
+    "type": "field",
+    "description": "State Bank of India officer/clerk exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.higher-education",
+    "parent": "bcom.banking-insurance",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "An MBA or M.Com to step up.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.higher-education.mba-banking-finance",
+    "parent": "bcom.banking-insurance.higher-education",
+    "label": "MBA (Banking & Finance)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.higher-education.mcom",
+    "parent": "bcom.banking-insurance.higher-education",
+    "label": "M.Com",
+    "type": "field",
+    "description": "Master’s in commerce.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.job",
+    "parent": "bcom.banking-insurance",
+    "label": "Job",
+    "type": "fork",
+    "description": "Branch, relationship and advisory roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.job.insurance-advisor",
+    "parent": "bcom.banking-insurance.job",
+    "label": "Insurance Advisor",
+    "type": "role",
+    "description": "Advise customers on insurance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.job.loan-officer",
+    "parent": "bcom.banking-insurance.job",
+    "label": "Loan Officer",
+    "type": "role",
+    "description": "Assess and process loans.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.job.private-bank-po",
+    "parent": "bcom.banking-insurance.job",
+    "label": "Private Bank PO",
+    "type": "role",
+    "description": "Officer role in a private bank.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.banking-insurance.job.relationship-manager",
+    "parent": "bcom.banking-insurance.job",
+    "label": "Relationship Manager",
+    "type": "role",
+    "description": "Manage and grow client relationships.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance",
+    "parent": "bcom",
+    "label": "Finance",
+    "type": "branch",
+    "description": "Money in motion — analysis, investment and markets.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.government",
+    "parent": "bcom.finance",
+    "label": "Government",
+    "type": "fork",
+    "description": "Officer roles at the RBI, SEBI and banks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.government.banking-po",
+    "parent": "bcom.finance.government",
+    "label": "Banking (PO)",
+    "type": "field",
+    "description": "Public-sector banking via national exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.government.lic-aao",
+    "parent": "bcom.finance.government",
+    "label": "LIC AAO",
+    "type": "field",
+    "description": "Officer role at LIC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.government.rbi-grade-b",
+    "parent": "bcom.finance.government",
+    "label": "RBI Grade B",
+    "type": "field",
+    "description": "Officer role at India’s central bank.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.government.sebi-grade-a",
+    "parent": "bcom.finance.government",
+    "label": "SEBI Grade A",
+    "type": "field",
+    "description": "Officer at the markets regulator.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.higher-education",
+    "parent": "bcom.finance",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Global finance credentials and an MBA.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.higher-education.cfa",
+    "parent": "bcom.finance.higher-education",
+    "label": "CFA",
+    "type": "field",
+    "description": "Global credential for investment and finance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.higher-education.frm",
+    "parent": "bcom.finance.higher-education",
+    "label": "FRM",
+    "type": "field",
+    "description": "Risk-management credential.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.higher-education.mba-finance",
+    "parent": "bcom.finance.higher-education",
+    "label": "MBA (Finance)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.higher-education.mcom",
+    "parent": "bcom.finance.higher-education",
+    "label": "M.Com",
+    "type": "field",
+    "description": "Master’s in commerce.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.job",
+    "parent": "bcom.finance",
+    "label": "Job",
+    "type": "fork",
+    "description": "Analyst roles across finance and business.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.job.business-analyst",
+    "parent": "bcom.finance.job",
+    "label": "Business Analyst",
+    "type": "role",
+    "description": "Bridge business needs and tech — requirements, process.",
+    "roleSlug": "business-analyst",
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.job.credit-analyst",
+    "parent": "bcom.finance.job",
+    "label": "Credit Analyst",
+    "type": "role",
+    "description": "Assess lending and credit risk.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.job.financial-analyst",
+    "parent": "bcom.finance.job",
+    "label": "Financial Analyst",
+    "type": "role",
+    "description": "Analyse finances to guide decisions.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.finance.job.investment-analyst",
+    "parent": "bcom.finance.job",
+    "label": "Investment Analyst",
+    "type": "role",
+    "description": "Research investments and markets.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation",
+    "parent": "bcom",
+    "label": "Taxation",
+    "type": "branch",
+    "description": "Direct & indirect tax — compliance and advisory.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.government",
+    "parent": "bcom.taxation",
+    "label": "Government",
+    "type": "fork",
+    "description": "Income-tax and commercial-tax officer posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.government.gst-commercial-tax-officer",
+    "parent": "bcom.taxation.government",
+    "label": "GST / Commercial Tax Officer",
+    "type": "field",
+    "description": "State / central tax officer roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.government.income-tax-ssc-cgl",
+    "parent": "bcom.taxation.government",
+    "label": "Income Tax (SSC CGL)",
+    "type": "field",
+    "description": "Income-tax officer via SSC CGL.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.government.state-psc",
+    "parent": "bcom.taxation.government",
+    "label": "State PSC",
+    "type": "field",
+    "description": "State-government officer posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.higher-education",
+    "parent": "bcom.taxation",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "CA, CS or a law degree to go deeper.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.higher-education.ca",
+    "parent": "bcom.taxation.higher-education",
+    "label": "CA",
+    "type": "field",
+    "description": "Chartered Accountancy — audit, tax and finance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.higher-education.cs",
+    "parent": "bcom.taxation.higher-education",
+    "label": "CS",
+    "type": "field",
+    "description": "Company Secretary — corporate law and governance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.higher-education.llb-taxation",
+    "parent": "bcom.taxation.higher-education",
+    "label": "LLB (Taxation)",
+    "type": "field",
+    "description": "Law degree — practice, corporate or judiciary.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.higher-education.mcom",
+    "parent": "bcom.taxation.higher-education",
+    "label": "M.Com",
+    "type": "field",
+    "description": "Master’s in commerce.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.job",
+    "parent": "bcom.taxation",
+    "label": "Job",
+    "type": "fork",
+    "description": "Tax and GST roles in firms and consultancies.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.job.gst-practitioner",
+    "parent": "bcom.taxation.job",
+    "label": "GST Practitioner",
+    "type": "role",
+    "description": "Handle GST filing and compliance.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.job.tax-analyst",
+    "parent": "bcom.taxation.job",
+    "label": "Tax Analyst",
+    "type": "role",
+    "description": "Work on tax computation and filing.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bcom.taxation.job.tax-consultant",
+    "parent": "bcom.taxation.job",
+    "label": "Tax Consultant",
+    "type": "role",
+    "description": "Advise on tax and keep clients compliant.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc",
+    "parent": "higher-education",
+    "label": "B.Sc",
+    "type": "degree",
+    "description": "Science degree; specialise, then go to industry or research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences",
+    "parent": "bsc",
+    "label": "Biology / Life Sciences",
+    "type": "branch",
+    "description": "Living systems — biotech, research, health.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.government",
+    "parent": "bsc.biology-life-sciences",
+    "label": "Government",
+    "type": "fork",
+    "description": "Research councils, forest service, drug inspection.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.government.drug-inspector",
+    "parent": "bsc.biology-life-sciences.government",
+    "label": "Drug Inspector",
+    "type": "field",
+    "description": "Regulate drugs and pharma quality.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.government.forest-service-ifs",
+    "parent": "bsc.biology-life-sciences.government",
+    "label": "Forest Service (IFS)",
+    "type": "field",
+    "description": "Indian Forest Service via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.government.icmr",
+    "parent": "bsc.biology-life-sciences.government",
+    "label": "ICMR",
+    "type": "field",
+    "description": "Medical research at the ICMR.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.government.teaching-net",
+    "parent": "bsc.biology-life-sciences.government",
+    "label": "Teaching (NET)",
+    "type": "field",
+    "description": "Teach in schools or colleges via NET/TET.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.government.upsc",
+    "parent": "bsc.biology-life-sciences.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.higher-education",
+    "parent": "bsc.biology-life-sciences",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s in a life-science field, or a PhD.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.higher-education.msc-biotech-microbiology-zoology-botany",
+    "parent": "bsc.biology-life-sciences.higher-education",
+    "label": "M.Sc (Biotech / Microbiology / Zoology / Botany)",
+    "type": "field",
+    "description": "Subject master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.higher-education.phd",
+    "parent": "bsc.biology-life-sciences.higher-education",
+    "label": "PhD",
+    "type": "field",
+    "description": "Research career via a doctorate.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.job",
+    "parent": "bsc.biology-life-sciences",
+    "label": "Job",
+    "type": "fork",
+    "description": "Lab, research and biotech support roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.job.biotech-associate",
+    "parent": "bsc.biology-life-sciences.job",
+    "label": "Biotech Associate",
+    "type": "role",
+    "description": "Work in biotech labs and processes.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.job.clinical-research-associate",
+    "parent": "bsc.biology-life-sciences.job",
+    "label": "Clinical Research Associate",
+    "type": "role",
+    "description": "Run and monitor clinical trials.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.job.lab-technician",
+    "parent": "bsc.biology-life-sciences.job",
+    "label": "Lab Technician",
+    "type": "role",
+    "description": "Run lab tests and equipment.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.biology-life-sciences.job.research-associate",
+    "parent": "bsc.biology-life-sciences.job",
+    "label": "Research Associate",
+    "type": "role",
+    "description": "Support scientific research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry",
+    "parent": "bsc",
+    "label": "Chemistry",
+    "type": "branch",
+    "description": "Matter and reactions — pharma, materials, labs.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.government",
+    "parent": "bsc.chemistry",
+    "label": "Government",
+    "type": "fork",
+    "description": "Drug inspection, scientific posts, teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.government.drug-inspector",
+    "parent": "bsc.chemistry.government",
+    "label": "Drug Inspector",
+    "type": "field",
+    "description": "Regulate drugs and pharma quality.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.government.scientific-assistant",
+    "parent": "bsc.chemistry.government",
+    "label": "Scientific Assistant",
+    "type": "field",
+    "description": "Technical govt research-support roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.government.teaching-net",
+    "parent": "bsc.chemistry.government",
+    "label": "Teaching (NET)",
+    "type": "field",
+    "description": "Teach in schools or colleges via NET/TET.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.government.upsc",
+    "parent": "bsc.chemistry.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.higher-education",
+    "parent": "bsc.chemistry",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s, an MBA in pharma, or a PhD.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.higher-education.mba-pharma",
+    "parent": "bsc.chemistry.higher-education",
+    "label": "MBA (Pharma)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.higher-education.msc-chemistry",
+    "parent": "bsc.chemistry.higher-education",
+    "label": "M.Sc Chemistry",
+    "type": "field",
+    "description": "Subject master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.higher-education.phd",
+    "parent": "bsc.chemistry.higher-education",
+    "label": "PhD",
+    "type": "field",
+    "description": "Research career via a doctorate.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.job",
+    "parent": "bsc.chemistry",
+    "label": "Job",
+    "type": "fork",
+    "description": "Lab, QC and production roles, especially in pharma.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.job.lab-chemist",
+    "parent": "bsc.chemistry.job",
+    "label": "Lab Chemist",
+    "type": "role",
+    "description": "Carry out chemical analysis.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.job.production-chemist",
+    "parent": "bsc.chemistry.job",
+    "label": "Production Chemist",
+    "type": "role",
+    "description": "Run chemical production processes.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.chemistry.job.qc-qa-analyst-pharma",
+    "parent": "bsc.chemistry.job",
+    "label": "QC / QA Analyst (Pharma)",
+    "type": "role",
+    "description": "Ensure pharma products meet standards.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science",
+    "parent": "bsc",
+    "label": "Computer Science",
+    "type": "branch",
+    "description": "Software and data, the science track.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.government",
+    "parent": "bsc.computer-science",
+    "label": "Government",
+    "type": "fork",
+    "description": "Tech and clerical posts via national exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.government.banking-it",
+    "parent": "bsc.computer-science.government",
+    "label": "Banking IT",
+    "type": "field",
+    "description": "Specialist IT officer in public-sector banks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.government.nic",
+    "parent": "bsc.computer-science.government",
+    "label": "NIC",
+    "type": "field",
+    "description": "Government IT and informatics roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.government.ssc",
+    "parent": "bsc.computer-science.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.higher-education",
+    "parent": "bsc.computer-science",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Convert to a tech master’s or an MBA.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.higher-education.mba-it",
+    "parent": "bsc.computer-science.higher-education",
+    "label": "MBA (IT)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.higher-education.mca",
+    "parent": "bsc.computer-science.higher-education",
+    "label": "MCA",
+    "type": "field",
+    "description": "Master’s that converts you into a software career.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.higher-education.msc-cs-it",
+    "parent": "bsc.computer-science.higher-education",
+    "label": "M.Sc (CS / IT)",
+    "type": "field",
+    "description": "Subject master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.job",
+    "parent": "bsc.computer-science",
+    "label": "Job",
+    "type": "fork",
+    "description": "Entry software and data roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.job.backend-developer",
+    "parent": "bsc.computer-science.job",
+    "label": "Backend Developer",
+    "type": "role",
+    "description": "Build the server, APIs and databases behind an app.",
+    "roleSlug": "backend-developer",
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.job.data-analyst",
+    "parent": "bsc.computer-science.job",
+    "label": "Data Analyst",
+    "type": "role",
+    "description": "Turn raw data into charts and decisions — SQL, Excel.",
+    "roleSlug": "data-analyst",
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.job.frontend-developer",
+    "parent": "bsc.computer-science.job",
+    "label": "Frontend Developer",
+    "type": "role",
+    "description": "Build the screens users see — React, HTML/CSS/JS.",
+    "roleSlug": "frontend-developer",
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.job.it-support",
+    "parent": "bsc.computer-science.job",
+    "label": "IT Support",
+    "type": "role",
+    "description": "Support users and IT systems.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.job.qa-engineer",
+    "parent": "bsc.computer-science.job",
+    "label": "QA Engineer",
+    "type": "role",
+    "description": "Test software and automate checks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.computer-science.job.software-developer",
+    "parent": "bsc.computer-science.job",
+    "label": "Software Developer",
+    "type": "role",
+    "description": "Build software applications.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics",
+    "parent": "bsc",
+    "label": "Mathematics",
+    "type": "branch",
+    "description": "Numbers and logic — analytics, actuarial, research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.government",
+    "parent": "bsc.mathematics",
+    "label": "Government",
+    "type": "fork",
+    "description": "Statistical services and central exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.government.indian-statistical-service-upsc-iss",
+    "parent": "bsc.mathematics.government",
+    "label": "Indian Statistical Service (UPSC ISS)",
+    "type": "field",
+    "description": "Statistical Service officer via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.government.ssc",
+    "parent": "bsc.mathematics.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.government.teaching-net",
+    "parent": "bsc.mathematics.government",
+    "label": "Teaching (NET)",
+    "type": "field",
+    "description": "Teach in schools or colleges via NET/TET.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.higher-education",
+    "parent": "bsc.mathematics",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s in maths/stats, MCA or actuarial.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.higher-education.actuarial-science",
+    "parent": "bsc.mathematics.higher-education",
+    "label": "Actuarial Science",
+    "type": "field",
+    "description": "Qualify as an actuary.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.higher-education.mba",
+    "parent": "bsc.mathematics.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.higher-education.mca",
+    "parent": "bsc.mathematics.higher-education",
+    "label": "MCA",
+    "type": "field",
+    "description": "Master’s that converts you into a software career.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.higher-education.msc-maths-statistics",
+    "parent": "bsc.mathematics.higher-education",
+    "label": "M.Sc (Maths / Statistics)",
+    "type": "field",
+    "description": "Subject master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.job",
+    "parent": "bsc.mathematics",
+    "label": "Job",
+    "type": "fork",
+    "description": "Analytics and quantitative roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.job.actuarial-analyst",
+    "parent": "bsc.mathematics.job",
+    "label": "Actuarial Analyst",
+    "type": "role",
+    "description": "Price risk for insurance and pensions.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.job.data-analyst",
+    "parent": "bsc.mathematics.job",
+    "label": "Data Analyst",
+    "type": "role",
+    "description": "Turn raw data into charts and decisions — SQL, Excel.",
+    "roleSlug": "data-analyst",
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.job.quantitative-analyst",
+    "parent": "bsc.mathematics.job",
+    "label": "Quantitative Analyst",
+    "type": "role",
+    "description": "Model markets and risk with maths.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.mathematics.job.statistician",
+    "parent": "bsc.mathematics.job",
+    "label": "Statistician",
+    "type": "role",
+    "description": "Apply statistics to real problems.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics",
+    "parent": "bsc",
+    "label": "Physics",
+    "type": "branch",
+    "description": "The fundamental science — research, labs, industry.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.government",
+    "parent": "bsc.physics",
+    "label": "Government",
+    "type": "fork",
+    "description": "Scientific roles at ISRO, DRDO, BARC; teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.government.barc",
+    "parent": "bsc.physics.government",
+    "label": "BARC",
+    "type": "field",
+    "description": "Atomic-research scientist and technical posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.government.isro-drdo-scientific-assistant",
+    "parent": "bsc.physics.government",
+    "label": "ISRO / DRDO (Scientific Assistant)",
+    "type": "field",
+    "description": "Scientist and technical posts at national space agency.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.government.teaching-net-lectureship",
+    "parent": "bsc.physics.government",
+    "label": "Teaching (NET / Lectureship)",
+    "type": "field",
+    "description": "Teach in schools or colleges via NET/TET.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.government.upsc",
+    "parent": "bsc.physics.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.higher-education",
+    "parent": "bsc.physics",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s, integrated PhD or study abroad.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.higher-education.integrated-phd",
+    "parent": "bsc.physics.higher-education",
+    "label": "Integrated PhD",
+    "type": "field",
+    "description": "Research track straight into a doctorate.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.higher-education.ms-abroad",
+    "parent": "bsc.physics.higher-education",
+    "label": "MS abroad",
+    "type": "field",
+    "description": "Master’s overseas — research or industry track.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.higher-education.msc-physics",
+    "parent": "bsc.physics.higher-education",
+    "label": "M.Sc Physics",
+    "type": "field",
+    "description": "Subject master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.job",
+    "parent": "bsc.physics",
+    "label": "Job",
+    "type": "fork",
+    "description": "Lab, research-support and analysis roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.job.lab-technician",
+    "parent": "bsc.physics.job",
+    "label": "Lab Technician",
+    "type": "role",
+    "description": "Run lab tests and equipment.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.job.quality-analyst",
+    "parent": "bsc.physics.job",
+    "label": "Quality Analyst",
+    "type": "role",
+    "description": "Check and assure quality.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.physics.job.research-assistant",
+    "parent": "bsc.physics.job",
+    "label": "Research Assistant",
+    "type": "role",
+    "description": "Support research projects.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics",
+    "parent": "bsc",
+    "label": "Statistics",
+    "type": "branch",
+    "description": "Data and inference — analytics and research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.government",
+    "parent": "bsc.statistics",
+    "label": "Government",
+    "type": "fork",
+    "description": "Statistical services, RBI and central exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.government.indian-statistical-service-upsc-iss",
+    "parent": "bsc.statistics.government",
+    "label": "Indian Statistical Service (UPSC ISS)",
+    "type": "field",
+    "description": "Statistical Service officer via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.government.rbi",
+    "parent": "bsc.statistics.government",
+    "label": "RBI",
+    "type": "field",
+    "description": "Officer role at India’s central bank.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.government.ssc",
+    "parent": "bsc.statistics.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.higher-education",
+    "parent": "bsc.statistics",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s in statistics, an MBA or actuarial.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.higher-education.actuarial-science",
+    "parent": "bsc.statistics.higher-education",
+    "label": "Actuarial Science",
+    "type": "field",
+    "description": "Qualify as an actuary.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.higher-education.mba",
+    "parent": "bsc.statistics.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.higher-education.msc-statistics",
+    "parent": "bsc.statistics.higher-education",
+    "label": "M.Sc Statistics",
+    "type": "field",
+    "description": "Subject master’s — depth, research or teaching.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.job",
+    "parent": "bsc.statistics",
+    "label": "Job",
+    "type": "fork",
+    "description": "Analyst roles across data and business.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.job.business-analyst",
+    "parent": "bsc.statistics.job",
+    "label": "Business Analyst",
+    "type": "role",
+    "description": "Bridge business needs and tech — requirements, process.",
+    "roleSlug": "business-analyst",
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.job.data-analyst",
+    "parent": "bsc.statistics.job",
+    "label": "Data Analyst",
+    "type": "role",
+    "description": "Turn raw data into charts and decisions — SQL, Excel.",
+    "roleSlug": "data-analyst",
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.job.research-analyst",
+    "parent": "bsc.statistics.job",
+    "label": "Research Analyst",
+    "type": "role",
+    "description": "Research and analyse for decisions.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "bsc.statistics.job.statistician",
+    "parent": "bsc.statistics.job",
+    "label": "Statistician",
+    "type": "role",
+    "description": "Apply statistics to real problems.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech",
+    "parent": "higher-education",
+    "label": "B.Tech",
+    "type": "degree",
+    "description": "Four-year engineering degree; pick a branch, then a career lane.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml",
+    "parent": "btech",
+    "label": "AI & ML",
+    "type": "branch",
+    "description": "Build systems that learn — data, models and intelligence.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.government",
+    "parent": "btech.ai-ml",
+    "label": "Government",
+    "type": "fork",
+    "description": "Research roles at national labs and via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.government.gate-research-labs",
+    "parent": "btech.ai-ml.government",
+    "label": "GATE → research labs",
+    "type": "field",
+    "description": "Crack GATE to join a public-sector company.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.government.isro-drdo",
+    "parent": "btech.ai-ml.government",
+    "label": "ISRO / DRDO",
+    "type": "field",
+    "description": "Scientist and technical posts at national space agency.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.government.upsc",
+    "parent": "btech.ai-ml.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.higher-education",
+    "parent": "btech.ai-ml",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Deepen into AI or data science, here or abroad.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.higher-education.mba",
+    "parent": "btech.ai-ml.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.higher-education.ms-abroad",
+    "parent": "btech.ai-ml.higher-education",
+    "label": "MS abroad",
+    "type": "field",
+    "description": "Master’s overseas — research or industry track.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.higher-education.mtech-ai-data-science",
+    "parent": "btech.ai-ml.higher-education",
+    "label": "M.Tech (AI / Data Science)",
+    "type": "field",
+    "description": "Two-year master’s — specialise deeper or enter research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.job",
+    "parent": "btech.ai-ml",
+    "label": "Job",
+    "type": "fork",
+    "description": "Machine-learning and data roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.job.computer-vision-engineer",
+    "parent": "btech.ai-ml.job",
+    "label": "Computer Vision Engineer",
+    "type": "role",
+    "description": "Build AI that understands images and video.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.job.data-analyst",
+    "parent": "btech.ai-ml.job",
+    "label": "Data Analyst",
+    "type": "role",
+    "description": "Turn raw data into charts and decisions — SQL, Excel.",
+    "roleSlug": "data-analyst",
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.job.data-scientist",
+    "parent": "btech.ai-ml.job",
+    "label": "Data Scientist",
+    "type": "role",
+    "description": "Find patterns and build predictions from data.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.job.machine-learning-engineer",
+    "parent": "btech.ai-ml.job",
+    "label": "Machine Learning Engineer",
+    "type": "role",
+    "description": "Build and ship models that learn from data.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.job.mlops-engineer",
+    "parent": "btech.ai-ml.job",
+    "label": "MLOps Engineer",
+    "type": "role",
+    "description": "Run ML models reliably in production.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ai-ml.job.nlp-engineer",
+    "parent": "btech.ai-ml.job",
+    "label": "NLP Engineer",
+    "type": "role",
+    "description": "Build AI that understands language.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil",
+    "parent": "btech",
+    "label": "Civil",
+    "type": "branch",
+    "description": "Build the physical world — structures, roads, water, sites.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.government",
+    "parent": "btech.civil",
+    "label": "Government",
+    "type": "fork",
+    "description": "PWD, railways, PSUs and engineering services.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.government.defence-mes",
+    "parent": "btech.civil.government",
+    "label": "Defence (MES)",
+    "type": "field",
+    "description": "Officer entry into the armed forces.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.government.gate-psu",
+    "parent": "btech.civil.government",
+    "label": "GATE → PSU",
+    "type": "field",
+    "description": "Crack GATE to join a public-sector company.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.government.indian-railways",
+    "parent": "btech.civil.government",
+    "label": "Indian Railways",
+    "type": "field",
+    "description": "Engineering and officer posts in the Railways.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.government.state-pwd",
+    "parent": "btech.civil.government",
+    "label": "State PWD",
+    "type": "field",
+    "description": "State public-works department roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.government.upsc-ese",
+    "parent": "btech.civil.government",
+    "label": "UPSC (ESE)",
+    "type": "field",
+    "description": "Engineering Services — govt engineering officer.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.higher-education",
+    "parent": "btech.civil",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Specialise in structural, transport or environmental.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.higher-education.mba-construction-mgmt",
+    "parent": "btech.civil.higher-education",
+    "label": "MBA (Construction Mgmt)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.higher-education.ms-abroad",
+    "parent": "btech.civil.higher-education",
+    "label": "MS abroad",
+    "type": "field",
+    "description": "Master’s overseas — research or industry track.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.higher-education.mtech-structural-transportation-environmental-geotech",
+    "parent": "btech.civil.higher-education",
+    "label": "M.Tech (Structural / Transportation / Environmental / Geotech)",
+    "type": "field",
+    "description": "Two-year master’s — specialise deeper or enter research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.job",
+    "parent": "btech.civil",
+    "label": "Job",
+    "type": "fork",
+    "description": "Design, site and project roles in construction.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.job.estimation-engineer",
+    "parent": "btech.civil.job",
+    "label": "Estimation Engineer",
+    "type": "role",
+    "description": "Cost and quantify construction work.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.job.geotechnical-engineer",
+    "parent": "btech.civil.job",
+    "label": "Geotechnical Engineer",
+    "type": "role",
+    "description": "Engineer soil and foundations.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.job.site-construction-engineer",
+    "parent": "btech.civil.job",
+    "label": "Site / Construction Engineer",
+    "type": "role",
+    "description": "Run construction on the ground.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.job.structural-engineer",
+    "parent": "btech.civil.job",
+    "label": "Structural Engineer",
+    "type": "role",
+    "description": "Design buildings and structures that stand up.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.job.surveyor",
+    "parent": "btech.civil.job",
+    "label": "Surveyor",
+    "type": "role",
+    "description": "Measure and map land for projects.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.civil.job.transportation-engineer",
+    "parent": "btech.civil.job",
+    "label": "Transportation Engineer",
+    "type": "role",
+    "description": "Design roads, transit and traffic systems.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse",
+    "parent": "btech",
+    "label": "CSE",
+    "type": "branch",
+    "description": "Computer science — software, data, AI and the systems behind them.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.government",
+    "parent": "btech.cse",
+    "label": "Government",
+    "type": "fork",
+    "description": "Public-sector tech and officer roles via national exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.government.gate-psu",
+    "parent": "btech.cse.government",
+    "label": "GATE → PSU",
+    "type": "field",
+    "description": "Crack GATE to join a public-sector company.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.government.isro-drdo-scientist",
+    "parent": "btech.cse.government",
+    "label": "ISRO / DRDO Scientist",
+    "type": "field",
+    "description": "Scientist and technical posts at national space agency.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.government.ssc",
+    "parent": "btech.cse.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.government.state-psc",
+    "parent": "btech.cse.government",
+    "label": "State PSC",
+    "type": "field",
+    "description": "State-government officer posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.government.upsc-civil-services",
+    "parent": "btech.cse.government",
+    "label": "UPSC Civil Services",
+    "type": "field",
+    "description": "IAS, IPS and more via India’s toughest exam.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.higher-education",
+    "parent": "btech.cse",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Study deeper or pivot — M.Tech, MS abroad or an MBA.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.higher-education.mba",
+    "parent": "btech.cse.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.higher-education.mca",
+    "parent": "btech.cse.higher-education",
+    "label": "MCA",
+    "type": "field",
+    "description": "Master’s that converts you into a software career.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.higher-education.ms-abroad-cs",
+    "parent": "btech.cse.higher-education",
+    "label": "MS abroad (CS)",
+    "type": "field",
+    "description": "Master’s overseas — research or industry track.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.higher-education.mtech-cse-ai-data-science",
+    "parent": "btech.cse.higher-education",
+    "label": "M.Tech (CSE / AI / Data Science)",
+    "type": "field",
+    "description": "Two-year master’s — specialise deeper or enter research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job",
+    "parent": "btech.cse",
+    "label": "Job",
+    "type": "fork",
+    "description": "Private-sector software roles you can target from CSE.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job.backend-developer",
+    "parent": "btech.cse.job",
+    "label": "Backend Developer",
+    "type": "role",
+    "description": "Build the server, APIs and databases behind an app.",
+    "roleSlug": "backend-developer",
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job.cloud-devops-engineer",
+    "parent": "btech.cse.job",
+    "label": "Cloud / DevOps Engineer",
+    "type": "role",
+    "description": "Ship and run apps on the cloud — CI/CD, AWS/Azure.",
+    "roleSlug": "cloud-devops-engineer",
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job.cybersecurity-analyst",
+    "parent": "btech.cse.job",
+    "label": "Cybersecurity Analyst",
+    "type": "role",
+    "description": "Protect systems from attacks and breaches.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job.data-analyst",
+    "parent": "btech.cse.job",
+    "label": "Data Analyst",
+    "type": "role",
+    "description": "Turn raw data into charts and decisions — SQL, Excel.",
+    "roleSlug": "data-analyst",
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job.frontend-developer",
+    "parent": "btech.cse.job",
+    "label": "Frontend Developer",
+    "type": "role",
+    "description": "Build the screens users see — React, HTML/CSS/JS.",
+    "roleSlug": "frontend-developer",
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job.full-stack-developer",
+    "parent": "btech.cse.job",
+    "label": "Full-Stack Developer",
+    "type": "role",
+    "description": "Work across both front-end and back-end.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job.machine-learning-engineer",
+    "parent": "btech.cse.job",
+    "label": "Machine Learning Engineer",
+    "type": "role",
+    "description": "Build and ship models that learn from data.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job.mobile-app-developer",
+    "parent": "btech.cse.job",
+    "label": "Mobile App Developer",
+    "type": "role",
+    "description": "Build Android and iOS apps.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.cse.job.qa-sdet",
+    "parent": "btech.cse.job",
+    "label": "QA / SDET",
+    "type": "role",
+    "description": "Test software and automate the checks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece",
+    "parent": "btech",
+    "label": "ECE",
+    "type": "branch",
+    "description": "Electronics & communication — chips, embedded systems, telecom.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.government",
+    "parent": "btech.ece",
+    "label": "Government",
+    "type": "fork",
+    "description": "Electronics roles at BEL, ISRO, DRDO and via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.government.gate-psu-bel-isro-drdo-bsnl",
+    "parent": "btech.ece.government",
+    "label": "GATE → PSU (BEL, ISRO, DRDO, BSNL)",
+    "type": "field",
+    "description": "Crack GATE to join a public-sector company.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.government.ssc",
+    "parent": "btech.ece.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.government.state-psc",
+    "parent": "btech.ece.government",
+    "label": "State PSC",
+    "type": "field",
+    "description": "State-government officer posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.government.upsc",
+    "parent": "btech.ece.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.higher-education",
+    "parent": "btech.ece",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Specialise in VLSI, embedded or communications.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.higher-education.mba",
+    "parent": "btech.ece.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.higher-education.ms-abroad",
+    "parent": "btech.ece.higher-education",
+    "label": "MS abroad",
+    "type": "field",
+    "description": "Master’s overseas — research or industry track.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.higher-education.mtech-vlsi-embedded-communication-signal-processing",
+    "parent": "btech.ece.higher-education",
+    "label": "M.Tech (VLSI / Embedded / Communication / Signal Processing)",
+    "type": "field",
+    "description": "Two-year master’s — specialise deeper or enter research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.job",
+    "parent": "btech.ece",
+    "label": "Job",
+    "type": "fork",
+    "description": "Hardware, chip and software roles for ECE grads.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.job.data-analyst",
+    "parent": "btech.ece.job",
+    "label": "Data Analyst",
+    "type": "role",
+    "description": "Turn raw data into charts and decisions — SQL, Excel.",
+    "roleSlug": "data-analyst",
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.job.embedded-systems-engineer",
+    "parent": "btech.ece.job",
+    "label": "Embedded Systems Engineer",
+    "type": "role",
+    "description": "Program the chips inside devices — C, microcontrollers.",
+    "roleSlug": "embedded-systems-engineer",
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.job.firmware-engineer",
+    "parent": "btech.ece.job",
+    "label": "Firmware Engineer",
+    "type": "role",
+    "description": "Write the low-level code that runs on devices.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.job.frontend-developer",
+    "parent": "btech.ece.job",
+    "label": "Frontend Developer",
+    "type": "role",
+    "description": "Build the screens users see — React, HTML/CSS/JS.",
+    "roleSlug": "frontend-developer",
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.job.hardware-design-engineer",
+    "parent": "btech.ece.job",
+    "label": "Hardware Design Engineer",
+    "type": "role",
+    "description": "Design electronic hardware and circuit boards.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.job.network-engineer",
+    "parent": "btech.ece.job",
+    "label": "Network Engineer",
+    "type": "role",
+    "description": "Build and maintain computer networks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.job.telecom-engineer",
+    "parent": "btech.ece.job",
+    "label": "Telecom Engineer",
+    "type": "role",
+    "description": "Design and run telecom networks and systems.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.ece.job.vlsi-design-engineer",
+    "parent": "btech.ece.job",
+    "label": "VLSI Design Engineer",
+    "type": "role",
+    "description": "Design the silicon chips themselves — RTL, verification.",
+    "roleSlug": "vlsi-design-engineer",
+    "status": "published"
+  },
+  {
+    "code": "btech.eee",
+    "parent": "btech",
+    "label": "EEE",
+    "type": "branch",
+    "description": "Electrical & electronics — power, control and machines.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.government",
+    "parent": "btech.eee",
+    "label": "Government",
+    "type": "fork",
+    "description": "Power-sector PSUs and engineering services.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.government.gate-psu-ntpc-powergrid-bhel",
+    "parent": "btech.eee.government",
+    "label": "GATE → PSU (NTPC, PowerGrid, BHEL)",
+    "type": "field",
+    "description": "Crack GATE to join a public-sector company.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.government.ssc",
+    "parent": "btech.eee.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.government.state-electricity-boards",
+    "parent": "btech.eee.government",
+    "label": "State Electricity Boards",
+    "type": "field",
+    "description": "State power-sector engineering posts.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.government.upsc-ese",
+    "parent": "btech.eee.government",
+    "label": "UPSC (ESE)",
+    "type": "field",
+    "description": "Engineering Services — govt engineering officer.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.higher-education",
+    "parent": "btech.eee",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Master’s in power systems, control or electronics.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.higher-education.mba",
+    "parent": "btech.eee.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.higher-education.ms-abroad",
+    "parent": "btech.eee.higher-education",
+    "label": "MS abroad",
+    "type": "field",
+    "description": "Master’s overseas — research or industry track.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.higher-education.mtech-power-systems-control-power-electronics",
+    "parent": "btech.eee.higher-education",
+    "label": "M.Tech (Power Systems / Control / Power Electronics)",
+    "type": "field",
+    "description": "Two-year master’s — specialise deeper or enter research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.job",
+    "parent": "btech.eee",
+    "label": "Job",
+    "type": "fork",
+    "description": "Electrical, power and embedded roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.job.control-automation-engineer",
+    "parent": "btech.eee.job",
+    "label": "Control & Automation Engineer",
+    "type": "role",
+    "description": "Automate industrial systems and machines.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.job.electrical-design-engineer",
+    "parent": "btech.eee.job",
+    "label": "Electrical Design Engineer",
+    "type": "role",
+    "description": "Design electrical systems and equipment.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.job.embedded-systems-engineer",
+    "parent": "btech.eee.job",
+    "label": "Embedded Systems Engineer",
+    "type": "role",
+    "description": "Program the chips inside devices — C, microcontrollers.",
+    "roleSlug": "embedded-systems-engineer",
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.job.maintenance-engineer",
+    "parent": "btech.eee.job",
+    "label": "Maintenance Engineer",
+    "type": "role",
+    "description": "Keep plant and machinery running.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.job.power-systems-engineer",
+    "parent": "btech.eee.job",
+    "label": "Power Systems Engineer",
+    "type": "role",
+    "description": "Design and run power generation and grids.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.eee.job.vlsi-design-engineer",
+    "parent": "btech.eee.job",
+    "label": "VLSI Design Engineer",
+    "type": "role",
+    "description": "Design the silicon chips themselves — RTL, verification.",
+    "roleSlug": "vlsi-design-engineer",
+    "status": "published"
+  },
+  {
+    "code": "btech.it",
+    "parent": "btech",
+    "label": "IT",
+    "type": "branch",
+    "description": "Information technology — building and running software systems.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.government",
+    "parent": "btech.it",
+    "label": "Government",
+    "type": "fork",
+    "description": "Tech posts in PSUs, banks and central services.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.government.banking-it-ibps-so",
+    "parent": "btech.it.government",
+    "label": "Banking IT (IBPS SO)",
+    "type": "field",
+    "description": "Specialist IT officer in public-sector banks.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.government.gate-psu",
+    "parent": "btech.it.government",
+    "label": "GATE → PSU",
+    "type": "field",
+    "description": "Crack GATE to join a public-sector company.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.government.ssc",
+    "parent": "btech.it.government",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.government.upsc",
+    "parent": "btech.it.government",
+    "label": "UPSC",
+    "type": "field",
+    "description": "Civil services and central posts via UPSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.higher-education",
+    "parent": "btech.it",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "M.Tech, an MBA in systems, or a master’s abroad.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.higher-education.mba-it-systems",
+    "parent": "btech.it.higher-education",
+    "label": "MBA (IT / Systems)",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.higher-education.ms-abroad",
+    "parent": "btech.it.higher-education",
+    "label": "MS abroad",
+    "type": "field",
+    "description": "Master’s overseas — research or industry track.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.higher-education.mtech-it-software",
+    "parent": "btech.it.higher-education",
+    "label": "M.Tech (IT / Software)",
+    "type": "field",
+    "description": "Two-year master’s — specialise deeper or enter research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.job",
+    "parent": "btech.it",
+    "label": "Job",
+    "type": "fork",
+    "description": "Software and systems roles open to IT grads.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.job.backend-developer",
+    "parent": "btech.it.job",
+    "label": "Backend Developer",
+    "type": "role",
+    "description": "Build the server, APIs and databases behind an app.",
+    "roleSlug": "backend-developer",
+    "status": "published"
+  },
+  {
+    "code": "btech.it.job.business-analyst",
+    "parent": "btech.it.job",
+    "label": "Business Analyst",
+    "type": "role",
+    "description": "Bridge business needs and tech — requirements, process.",
+    "roleSlug": "business-analyst",
+    "status": "published"
+  },
+  {
+    "code": "btech.it.job.cloud-devops-engineer",
+    "parent": "btech.it.job",
+    "label": "Cloud / DevOps Engineer",
+    "type": "role",
+    "description": "Ship and run apps on the cloud — CI/CD, AWS/Azure.",
+    "roleSlug": "cloud-devops-engineer",
+    "status": "published"
+  },
+  {
+    "code": "btech.it.job.data-analyst",
+    "parent": "btech.it.job",
+    "label": "Data Analyst",
+    "type": "role",
+    "description": "Turn raw data into charts and decisions — SQL, Excel.",
+    "roleSlug": "data-analyst",
+    "status": "published"
+  },
+  {
+    "code": "btech.it.job.frontend-developer",
+    "parent": "btech.it.job",
+    "label": "Frontend Developer",
+    "type": "role",
+    "description": "Build the screens users see — React, HTML/CSS/JS.",
+    "roleSlug": "frontend-developer",
+    "status": "published"
+  },
+  {
+    "code": "btech.it.job.it-support-engineer",
+    "parent": "btech.it.job",
+    "label": "IT Support Engineer",
+    "type": "role",
+    "description": "Keep IT systems and users running.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.it.job.software-tester",
+    "parent": "btech.it.job",
+    "label": "Software Tester",
+    "type": "role",
+    "description": "Test software and report defects.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical",
+    "parent": "btech",
+    "label": "Mechanical",
+    "type": "branch",
+    "description": "Machines, design and manufacturing across every industry.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.government",
+    "parent": "btech.mechanical",
+    "label": "Government",
+    "type": "fork",
+    "description": "PSUs, railways, engineering services and defence.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.government.defence-tgc",
+    "parent": "btech.mechanical.government",
+    "label": "Defence (TGC)",
+    "type": "field",
+    "description": "Officer entry into the armed forces.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.government.gate-psu-bhel-ongc-iocl",
+    "parent": "btech.mechanical.government",
+    "label": "GATE → PSU (BHEL, ONGC, IOCL)",
+    "type": "field",
+    "description": "Crack GATE to join a public-sector company.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.government.indian-railways-rrb",
+    "parent": "btech.mechanical.government",
+    "label": "Indian Railways (RRB)",
+    "type": "field",
+    "description": "Engineering and officer posts in the Railways.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.government.upsc-ese",
+    "parent": "btech.mechanical.government",
+    "label": "UPSC (ESE)",
+    "type": "field",
+    "description": "Engineering Services — govt engineering officer.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.higher-education",
+    "parent": "btech.mechanical",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Specialise in design, thermal or manufacturing.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.higher-education.mba",
+    "parent": "btech.mechanical.higher-education",
+    "label": "MBA",
+    "type": "field",
+    "description": "Management degree; pivot into business and leadership.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.higher-education.ms-abroad",
+    "parent": "btech.mechanical.higher-education",
+    "label": "MS abroad",
+    "type": "field",
+    "description": "Master’s overseas — research or industry track.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.higher-education.mtech-design-thermal-manufacturing",
+    "parent": "btech.mechanical.higher-education",
+    "label": "M.Tech (Design / Thermal / Manufacturing)",
+    "type": "field",
+    "description": "Two-year master’s — specialise deeper or enter research.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.job",
+    "parent": "btech.mechanical",
+    "label": "Job",
+    "type": "fork",
+    "description": "Design, production and maintenance roles.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.job.automotive-engineer",
+    "parent": "btech.mechanical.job",
+    "label": "Automotive Engineer",
+    "type": "role",
+    "description": "Design and build vehicles and components.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.job.design-engineer-cad",
+    "parent": "btech.mechanical.job",
+    "label": "Design Engineer (CAD)",
+    "type": "role",
+    "description": "Design parts and products in CAD.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.job.hvac-engineer",
+    "parent": "btech.mechanical.job",
+    "label": "HVAC Engineer",
+    "type": "role",
+    "description": "Design heating, ventilation and cooling systems.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.job.maintenance-engineer",
+    "parent": "btech.mechanical.job",
+    "label": "Maintenance Engineer",
+    "type": "role",
+    "description": "Keep plant and machinery running.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.job.manufacturing-production-engineer",
+    "parent": "btech.mechanical.job",
+    "label": "Manufacturing / Production Engineer",
+    "type": "role",
+    "description": "Run and improve how things are made.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "btech.mechanical.job.quality-engineer",
+    "parent": "btech.mechanical.job",
+    "label": "Quality Engineer",
+    "type": "role",
+    "description": "Ensure products meet quality standards.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "government-competitive",
+    "parent": "after-12th",
+    "label": "Government / Competitive",
+    "type": "fork",
+    "description": "Aim for a government job via competitive exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "government-competitive.banking-ibps-sbi",
+    "parent": "government-competitive",
+    "label": "Banking (IBPS / SBI)",
+    "type": "field",
+    "description": "Public-sector banking via national exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "government-competitive.nda-defence",
+    "parent": "government-competitive",
+    "label": "NDA (Defence)",
+    "type": "field",
+    "description": "Officer entry into the armed forces, straight after 12th.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "government-competitive.ssc",
+    "parent": "government-competitive",
+    "label": "SSC",
+    "type": "field",
+    "description": "Central govt clerical and officer posts via SSC.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "government-competitive.upsc-civil-services",
+    "parent": "government-competitive",
+    "label": "UPSC Civil Services",
+    "type": "field",
+    "description": "IAS, IPS and more via India’s toughest exam.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "higher-education",
+    "parent": "after-12th",
+    "label": "Higher Education",
+    "type": "fork",
+    "description": "Go to college — pick a degree and follow where it leads.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "job-work",
+    "parent": "after-12th",
+    "label": "Job / Work",
+    "type": "fork",
+    "description": "Start working right after 12th — entry roles or your own venture.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "job-work.private-sector-entry-roles",
+    "parent": "job-work",
+    "label": "Private-sector entry roles",
+    "type": "field",
+    "description": "Entry-level jobs open right after Class 12.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "job-work.self-employment-entrepreneurship",
+    "parent": "job-work",
+    "label": "Self-employment / Entrepreneurship",
+    "type": "field",
+    "description": "Start something of your own — a trade or small business.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs",
+    "parent": "higher-education",
+    "label": "MBBS",
+    "type": "degree",
+    "description": "Medicine; practice, specialise, or serve in government.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.clinical-practice",
+    "parent": "mbbs",
+    "label": "Clinical Practice",
+    "type": "fork",
+    "description": "Treat patients straight after MBBS.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.clinical-practice.general-physician",
+    "parent": "mbbs.clinical-practice",
+    "label": "General Physician",
+    "type": "role",
+    "description": "Treat everyday illnesses and patients.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.clinical-practice.medical-officer",
+    "parent": "mbbs.clinical-practice",
+    "label": "Medical Officer",
+    "type": "role",
+    "description": "Doctor in a clinic, PHC or company.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.clinical-practice.resident-doctor",
+    "parent": "mbbs.clinical-practice",
+    "label": "Resident Doctor",
+    "type": "role",
+    "description": "Train and treat in a hospital.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.government-administration",
+    "parent": "mbbs",
+    "label": "Government & Administration",
+    "type": "fork",
+    "description": "Public health systems and services.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.government-administration.armed-forces-medical",
+    "parent": "mbbs.government-administration",
+    "label": "Armed Forces Medical",
+    "type": "field",
+    "description": "A path you can explore from here.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.government-administration.public-health-mph",
+    "parent": "mbbs.government-administration",
+    "label": "Public Health (MPH)",
+    "type": "field",
+    "description": "Master of Public Health.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.government-administration.state-health-services",
+    "parent": "mbbs.government-administration",
+    "label": "State Health Services",
+    "type": "field",
+    "description": "A path you can explore from here.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.government-administration.upsc-civil-services",
+    "parent": "mbbs.government-administration",
+    "label": "UPSC Civil Services",
+    "type": "field",
+    "description": "IAS, IPS and more via India’s toughest exam.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.government-administration.upsc-combined-medical-services-cms",
+    "parent": "mbbs.government-administration",
+    "label": "UPSC Combined Medical Services (CMS)",
+    "type": "field",
+    "description": "Government doctor posts via UPSC CMS.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.non-clinical-alternative",
+    "parent": "mbbs",
+    "label": "Non-clinical / Alternative",
+    "type": "fork",
+    "description": "Careers beyond the clinic.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.non-clinical-alternative.hospital-administration-mha-mba",
+    "parent": "mbbs.non-clinical-alternative",
+    "label": "Hospital Administration (MHA / MBA)",
+    "type": "field",
+    "description": "A path you can explore from here.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.non-clinical-alternative.medical-research",
+    "parent": "mbbs.non-clinical-alternative",
+    "label": "Medical Research",
+    "type": "field",
+    "description": "A path you can explore from here.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.non-clinical-alternative.medical-writing",
+    "parent": "mbbs.non-clinical-alternative",
+    "label": "Medical Writing",
+    "type": "field",
+    "description": "A path you can explore from here.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.non-clinical-alternative.pharma-clinical-research",
+    "parent": "mbbs.non-clinical-alternative",
+    "label": "Pharma & Clinical Research",
+    "type": "field",
+    "description": "A path you can explore from here.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg",
+    "parent": "mbbs",
+    "label": "PG Specialisation (NEET-PG)",
+    "type": "fork",
+    "description": "Crack NEET-PG for an MD or MS.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.diploma-courses",
+    "parent": "mbbs.pg-specialisation-neet-pg",
+    "label": "Diploma courses",
+    "type": "field",
+    "description": "Shorter post-graduate medical diploma.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.dnb",
+    "parent": "mbbs.pg-specialisation-neet-pg",
+    "label": "DNB",
+    "type": "field",
+    "description": "Post-graduate medical training (DNB).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.md",
+    "parent": "mbbs.pg-specialisation-neet-pg",
+    "label": "MD",
+    "type": "sector",
+    "description": "Medicine specialisations.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.md.anaesthesia",
+    "parent": "mbbs.pg-specialisation-neet-pg.md",
+    "label": "Anaesthesia",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.md.dermatology",
+    "parent": "mbbs.pg-specialisation-neet-pg.md",
+    "label": "Dermatology",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.md.general-medicine",
+    "parent": "mbbs.pg-specialisation-neet-pg.md",
+    "label": "General Medicine",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.md.paediatrics",
+    "parent": "mbbs.pg-specialisation-neet-pg.md",
+    "label": "Paediatrics",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.md.pathology",
+    "parent": "mbbs.pg-specialisation-neet-pg.md",
+    "label": "Pathology",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.md.psychiatry",
+    "parent": "mbbs.pg-specialisation-neet-pg.md",
+    "label": "Psychiatry",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.md.radiology",
+    "parent": "mbbs.pg-specialisation-neet-pg.md",
+    "label": "Radiology",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.ms",
+    "parent": "mbbs.pg-specialisation-neet-pg",
+    "label": "MS",
+    "type": "sector",
+    "description": "Surgical specialisations.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.ms.ent",
+    "parent": "mbbs.pg-specialisation-neet-pg.ms",
+    "label": "ENT",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.ms.general-surgery",
+    "parent": "mbbs.pg-specialisation-neet-pg.ms",
+    "label": "General Surgery",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.ms.obg",
+    "parent": "mbbs.pg-specialisation-neet-pg.ms",
+    "label": "OBG",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.ms.ophthalmology",
+    "parent": "mbbs.pg-specialisation-neet-pg.ms",
+    "label": "Ophthalmology",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.pg-specialisation-neet-pg.ms.orthopaedics",
+    "parent": "mbbs.pg-specialisation-neet-pg.ms",
+    "label": "Orthopaedics",
+    "type": "field",
+    "description": "A medical specialisation you can train into (via NEET-PG).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.study-abroad",
+    "parent": "mbbs",
+    "label": "Study Abroad",
+    "type": "fork",
+    "description": "Practise overseas via licensing exams.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.study-abroad.amc-australia",
+    "parent": "mbbs.study-abroad",
+    "label": "AMC (Australia)",
+    "type": "field",
+    "description": "Australian medical licensing exam.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.study-abroad.plab-uk",
+    "parent": "mbbs.study-abroad",
+    "label": "PLAB (UK)",
+    "type": "field",
+    "description": "UK medical licensing exam.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "mbbs.study-abroad.usmle-usa",
+    "parent": "mbbs.study-abroad",
+    "label": "USMLE (USA)",
+    "type": "field",
+    "description": "US medical licensing exam.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "vocational-skilling",
+    "parent": "after-12th",
+    "label": "Vocational / Skilling",
+    "type": "fork",
+    "description": "Learn a skilled trade — ITI, apprenticeships, diplomas.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "vocational-skilling.apprenticeship-naps",
+    "parent": "vocational-skilling",
+    "label": "Apprenticeship (NAPS)",
+    "type": "field",
+    "description": "Earn while you train at a real workplace (NAPS).",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "vocational-skilling.iti-industrial-training-institute",
+    "parent": "vocational-skilling",
+    "label": "ITI (Industrial Training Institute)",
+    "type": "field",
+    "description": "Trade certification — India’s largest skilling channel.",
+    "roleSlug": null,
+    "status": "published"
+  },
+  {
+    "code": "vocational-skilling.polytechnic-diploma",
+    "parent": "vocational-skilling",
+    "label": "Polytechnic Diploma",
+    "type": "field",
+    "description": "A 3-year technical diploma; lateral entry into engineering.",
+    "roleSlug": null,
+    "status": "published"
+  }
+]

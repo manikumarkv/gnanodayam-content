@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Measure and map land for projects.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

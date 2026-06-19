@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Advise on tax and keep clients compliant.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

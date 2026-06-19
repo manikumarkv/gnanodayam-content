@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Statistical services and central exams.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.mathematics.government.indian-statistical-service-upsc-iss",
-    "bsc.mathematics.government.ssc",
-    "bsc.mathematics.government.teaching-net"
-  ]
+  "status": "published"
 }

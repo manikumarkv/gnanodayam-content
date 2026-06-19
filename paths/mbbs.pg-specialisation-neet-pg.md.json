@@ -5,14 +5,5 @@
   "type": "sector",
   "description": "Medicine specialisations.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "mbbs.pg-specialisation-neet-pg.md.general-medicine",
-    "mbbs.pg-specialisation-neet-pg.md.paediatrics",
-    "mbbs.pg-specialisation-neet-pg.md.dermatology",
-    "mbbs.pg-specialisation-neet-pg.md.radiology",
-    "mbbs.pg-specialisation-neet-pg.md.psychiatry",
-    "mbbs.pg-specialisation-neet-pg.md.anaesthesia",
-    "mbbs.pg-specialisation-neet-pg.md.pathology"
-  ]
+  "status": "published"
 }

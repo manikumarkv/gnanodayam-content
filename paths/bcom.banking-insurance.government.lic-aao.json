@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Officer role at LIC.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

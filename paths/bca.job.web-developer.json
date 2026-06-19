@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Build and maintain websites.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

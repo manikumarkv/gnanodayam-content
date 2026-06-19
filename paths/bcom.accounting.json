@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "The books — recording, auditing and reporting money.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bcom.accounting.job",
-    "bcom.accounting.higher-education",
-    "bcom.accounting.government"
-  ]
+  "status": "published"
 }

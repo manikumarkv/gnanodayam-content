@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Australian medical licensing exam.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

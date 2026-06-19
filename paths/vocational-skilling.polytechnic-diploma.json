@@ -5,6 +5,5 @@
   "type": "field",
   "description": "A 3-year technical diploma; lateral entry into engineering.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

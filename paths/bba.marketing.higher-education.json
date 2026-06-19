@@ -5,9 +5,5 @@
   "type": "fork",
   "description": "An MBA or PGDM in marketing.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.marketing.higher-education.mba-marketing",
-    "bba.marketing.higher-education.pgdm"
-  ]
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Run marketing campaigns and outreach.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

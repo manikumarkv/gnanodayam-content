@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Ensure pharma products meet standards.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

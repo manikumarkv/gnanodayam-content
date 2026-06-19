@@ -5,9 +5,5 @@
   "type": "fork",
   "description": "HR posts in PSUs and via SSC.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.human-resources.government.psu-hr",
-    "bba.human-resources.government.ssc"
-  ]
+  "status": "published"
 }

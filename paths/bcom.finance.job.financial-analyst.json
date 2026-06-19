@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Analyse finances to guide decisions.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

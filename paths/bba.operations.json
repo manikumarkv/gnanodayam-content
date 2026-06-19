@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Making the business run — supply chain, logistics.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.operations.job",
-    "bba.operations.higher-education",
-    "bba.operations.government"
-  ]
+  "status": "published"
 }

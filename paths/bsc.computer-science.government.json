@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Tech and clerical posts via national exams.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.computer-science.government.nic",
-    "bsc.computer-science.government.ssc",
-    "bsc.computer-science.government.banking-it"
-  ]
+  "status": "published"
 }

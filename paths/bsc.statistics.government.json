@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Statistical services, RBI and central exams.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.statistics.government.indian-statistical-service-upsc-iss",
-    "bsc.statistics.government.rbi",
-    "bsc.statistics.government.ssc"
-  ]
+  "status": "published"
 }

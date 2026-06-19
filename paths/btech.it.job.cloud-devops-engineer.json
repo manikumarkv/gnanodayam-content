@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Ship and run apps on the cloud — CI/CD, AWS/Azure.",
   "roleSlug": "cloud-devops-engineer",
-  "status": "published",
-  "children": []
+  "status": "published"
 }

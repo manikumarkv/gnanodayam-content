@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Language and writing — media, content, teaching.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.english-literature.job",
-    "ba.english-literature.higher-education",
-    "ba.english-literature.government"
-  ]
+  "status": "published"
 }

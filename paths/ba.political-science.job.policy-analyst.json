@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Research and shape policy.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

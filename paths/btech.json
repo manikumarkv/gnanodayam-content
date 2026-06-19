@@ -5,14 +5,5 @@
   "type": "degree",
   "description": "Four-year engineering degree; pick a branch, then a career lane.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.cse",
-    "btech.it",
-    "btech.ece",
-    "btech.eee",
-    "btech.mechanical",
-    "btech.civil",
-    "btech.ai-ml"
-  ]
+  "status": "published"
 }

@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Civil services and state administration.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.political-science.government.upsc-civil-services",
-    "ba.political-science.government.state-psc",
-    "ba.political-science.government.ssc"
-  ]
+  "status": "published"
 }

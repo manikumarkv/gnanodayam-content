@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Research career via a doctorate.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

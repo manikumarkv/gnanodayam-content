@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Run chemical production processes.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

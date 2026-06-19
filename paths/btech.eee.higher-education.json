@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Master’s in power systems, control or electronics.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.eee.higher-education.mtech-power-systems-control-power-electronics",
-    "btech.eee.higher-education.ms-abroad",
-    "btech.eee.higher-education.mba"
-  ]
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Preserve records and heritage.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

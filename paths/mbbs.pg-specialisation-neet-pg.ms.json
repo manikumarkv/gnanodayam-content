@@ -5,12 +5,5 @@
   "type": "sector",
   "description": "Surgical specialisations.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "mbbs.pg-specialisation-neet-pg.ms.general-surgery",
-    "mbbs.pg-specialisation-neet-pg.ms.orthopaedics",
-    "mbbs.pg-specialisation-neet-pg.ms.ent",
-    "mbbs.pg-specialisation-neet-pg.ms.ophthalmology",
-    "mbbs.pg-specialisation-neet-pg.ms.obg"
-  ]
+  "status": "published"
 }

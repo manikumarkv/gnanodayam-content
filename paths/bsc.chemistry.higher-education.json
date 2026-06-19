@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Master’s, an MBA in pharma, or a PhD.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.chemistry.higher-education.msc-chemistry",
-    "bsc.chemistry.higher-education.mba-pharma",
-    "bsc.chemistry.higher-education.phd"
-  ]
+  "status": "published"
 }

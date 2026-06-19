@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Roles in public-sector companies.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

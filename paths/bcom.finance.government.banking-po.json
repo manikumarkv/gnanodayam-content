@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Public-sector banking via national exams.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

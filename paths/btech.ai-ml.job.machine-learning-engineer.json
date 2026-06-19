@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Build and ship models that learn from data.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

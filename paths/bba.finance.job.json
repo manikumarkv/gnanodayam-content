@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Finance and analyst roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.finance.job.financial-analyst",
-    "bba.finance.job.business-analyst",
-    "bba.finance.job.accounts-executive"
-  ]
+  "status": "published"
 }

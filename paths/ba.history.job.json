@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Research, archival, writing and teaching roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.history.job.content-writer",
-    "ba.history.job.researcher",
-    "ba.history.job.archivist",
-    "ba.history.job.teacher"
-  ]
+  "status": "published"
 }

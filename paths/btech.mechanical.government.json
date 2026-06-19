@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "PSUs, railways, engineering services and defence.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.mechanical.government.gate-psu-bhel-ongc-iocl",
-    "btech.mechanical.government.upsc-ese",
-    "btech.mechanical.government.indian-railways-rrb",
-    "btech.mechanical.government.defence-tgc"
-  ]
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Teach and shape students.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

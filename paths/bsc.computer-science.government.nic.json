@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Government IT and informatics roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Public-sector bank and insurance exams.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bcom.banking-insurance.government.ibps-po-clerk",
-    "bcom.banking-insurance.government.sbi-po",
-    "bcom.banking-insurance.government.rbi-assistant",
-    "bcom.banking-insurance.government.lic-aao"
-  ]
+  "status": "published"
 }

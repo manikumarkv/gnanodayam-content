@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Teach in schools or colleges via NET/TET.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

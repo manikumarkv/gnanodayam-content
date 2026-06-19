@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Analyst and research roles in business and finance.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.economics.job.business-analyst",
-    "ba.economics.job.research-analyst",
-    "ba.economics.job.economic-analyst",
-    "ba.economics.job.market-research-analyst"
-  ]
+  "status": "published"
 }

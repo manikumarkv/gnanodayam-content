@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Software and data, the science track.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.computer-science.job",
-    "bsc.computer-science.higher-education",
-    "bsc.computer-science.government"
-  ]
+  "status": "published"
 }

@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Numbers and logic — analytics, actuarial, research.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.mathematics.job",
-    "bsc.mathematics.higher-education",
-    "bsc.mathematics.government"
-  ]
+  "status": "published"
 }

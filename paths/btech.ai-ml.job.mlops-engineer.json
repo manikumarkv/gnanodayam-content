@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Run ML models reliably in production.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }
