@@ -1,0 +1,10 @@
+{
+  "code": "bba.human-resources.job.hr-executive",
+  "parent": "bba.human-resources.job",
+  "label": "HR Executive",
+  "type": "role",
+  "description": "Handle hiring, onboarding and people ops.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

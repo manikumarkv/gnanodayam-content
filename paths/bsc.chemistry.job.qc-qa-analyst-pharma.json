@@ -1,0 +1,10 @@
+{
+  "code": "bsc.chemistry.job.qc-qa-analyst-pharma",
+  "parent": "bsc.chemistry.job",
+  "label": "QC / QA Analyst (Pharma)",
+  "type": "role",
+  "description": "Ensure pharma products meet standards.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

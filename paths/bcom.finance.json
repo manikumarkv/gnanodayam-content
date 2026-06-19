@@ -1,0 +1,14 @@
+{
+  "code": "bcom.finance",
+  "parent": "bcom",
+  "label": "Finance",
+  "type": "branch",
+  "description": "Money in motion — analysis, investment and markets.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bcom.finance.job",
+    "bcom.finance.higher-education",
+    "bcom.finance.government"
+  ]
+}

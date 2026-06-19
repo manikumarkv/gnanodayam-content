@@ -1,0 +1,10 @@
+{
+  "code": "bba.operations.job.operations-executive",
+  "parent": "bba.operations.job",
+  "label": "Operations Executive",
+  "type": "role",
+  "description": "Keep day-to-day operations running.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

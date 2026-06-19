@@ -1,0 +1,10 @@
+{
+  "code": "bsc.mathematics.higher-education.mca",
+  "parent": "bsc.mathematics.higher-education",
+  "label": "MCA",
+  "type": "field",
+  "description": "Master’s that converts you into a software career.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "ba.english-literature.job.technical-writer",
+  "parent": "ba.english-literature.job",
+  "label": "Technical Writer",
+  "type": "role",
+  "description": "Explain complex products clearly.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

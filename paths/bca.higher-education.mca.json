@@ -1,0 +1,10 @@
+{
+  "code": "bca.higher-education.mca",
+  "parent": "bca.higher-education",
+  "label": "MCA",
+  "type": "field",
+  "description": "Master’s that converts you into a software career.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

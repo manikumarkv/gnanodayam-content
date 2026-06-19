@@ -1,0 +1,14 @@
+{
+  "code": "btech.it.higher-education",
+  "parent": "btech.it",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "M.Tech, an MBA in systems, or a master’s abroad.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.it.higher-education.mtech-it-software",
+    "btech.it.higher-education.mba-it-systems",
+    "btech.it.higher-education.ms-abroad"
+  ]
+}

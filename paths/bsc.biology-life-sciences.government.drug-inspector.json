@@ -1,0 +1,10 @@
+{
+  "code": "bsc.biology-life-sciences.government.drug-inspector",
+  "parent": "bsc.biology-life-sciences.government",
+  "label": "Drug Inspector",
+  "type": "field",
+  "description": "Regulate drugs and pharma quality.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

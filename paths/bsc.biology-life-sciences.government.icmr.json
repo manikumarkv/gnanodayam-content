@@ -1,0 +1,10 @@
+{
+  "code": "bsc.biology-life-sciences.government.icmr",
+  "parent": "bsc.biology-life-sciences.government",
+  "label": "ICMR",
+  "type": "field",
+  "description": "Medical research at the ICMR.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bca.government.banking-it",
+  "parent": "bca.government",
+  "label": "Banking IT",
+  "type": "field",
+  "description": "Specialist IT officer in public-sector banks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

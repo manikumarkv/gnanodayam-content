@@ -1,0 +1,10 @@
+{
+  "code": "bca.job.frontend-developer",
+  "parent": "bca.job",
+  "label": "Frontend Developer",
+  "type": "role",
+  "description": "Build the screens users see — React, HTML/CSS/JS.",
+  "roleSlug": "frontend-developer",
+  "status": "published",
+  "children": []
+}

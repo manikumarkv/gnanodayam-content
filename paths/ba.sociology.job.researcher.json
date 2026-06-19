@@ -1,0 +1,10 @@
+{
+  "code": "ba.sociology.job.researcher",
+  "parent": "ba.sociology.job",
+  "label": "Researcher",
+  "type": "role",
+  "description": "Investigate and produce findings.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

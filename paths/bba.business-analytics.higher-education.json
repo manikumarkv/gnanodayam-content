@@ -1,0 +1,13 @@
+{
+  "code": "bba.business-analytics.higher-education",
+  "parent": "bba.business-analytics",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "An MBA or M.Sc in analytics.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.business-analytics.higher-education.mba-business-analytics",
+    "bba.business-analytics.higher-education.msc-analytics"
+  ]
+}

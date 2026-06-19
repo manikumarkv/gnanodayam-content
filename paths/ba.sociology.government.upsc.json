@@ -1,0 +1,10 @@
+{
+  "code": "ba.sociology.government.upsc",
+  "parent": "ba.sociology.government",
+  "label": "UPSC",
+  "type": "field",
+  "description": "Civil services and central posts via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "btech.civil.government.indian-railways",
+  "parent": "btech.civil.government",
+  "label": "Indian Railways",
+  "type": "field",
+  "description": "Engineering and officer posts in the Railways.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

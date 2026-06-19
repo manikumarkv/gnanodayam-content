@@ -1,0 +1,10 @@
+{
+  "code": "bsc.computer-science.job.software-developer",
+  "parent": "bsc.computer-science.job",
+  "label": "Software Developer",
+  "type": "role",
+  "description": "Build software applications.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

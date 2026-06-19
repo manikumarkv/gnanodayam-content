@@ -1,0 +1,10 @@
+{
+  "code": "ba.economics.government.indian-economic-service-upsc-ies",
+  "parent": "ba.economics.government",
+  "label": "Indian Economic Service (UPSC IES)",
+  "type": "field",
+  "description": "Economic Service officer via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

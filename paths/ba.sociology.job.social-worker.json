@@ -1,0 +1,10 @@
+{
+  "code": "ba.sociology.job.social-worker",
+  "parent": "ba.sociology.job",
+  "label": "Social Worker",
+  "type": "role",
+  "description": "Support people and communities.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

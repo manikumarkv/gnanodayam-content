@@ -1,0 +1,13 @@
+{
+  "code": "job-work",
+  "parent": "after-12th",
+  "label": "Job / Work",
+  "type": "fork",
+  "description": "Start working right after 12th — entry roles or your own venture.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "job-work.private-sector-entry-roles",
+    "job-work.self-employment-entrepreneurship"
+  ]
+}

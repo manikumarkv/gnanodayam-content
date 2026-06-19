@@ -1,0 +1,10 @@
+{
+  "code": "ba.economics.job.economic-analyst",
+  "parent": "ba.economics.job",
+  "label": "Economic Analyst",
+  "type": "role",
+  "description": "Analyse economic data and trends.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

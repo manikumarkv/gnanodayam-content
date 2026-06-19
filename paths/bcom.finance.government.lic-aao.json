@@ -1,0 +1,10 @@
+{
+  "code": "bcom.finance.government.lic-aao",
+  "parent": "bcom.finance.government",
+  "label": "LIC AAO",
+  "type": "field",
+  "description": "Officer role at LIC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

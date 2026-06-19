@@ -1,0 +1,10 @@
+{
+  "code": "bsc.chemistry.job.production-chemist",
+  "parent": "bsc.chemistry.job",
+  "label": "Production Chemist",
+  "type": "role",
+  "description": "Run chemical production processes.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

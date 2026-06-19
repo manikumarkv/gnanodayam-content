@@ -1,0 +1,10 @@
+{
+  "code": "btech.ece.job.firmware-engineer",
+  "parent": "btech.ece.job",
+  "label": "Firmware Engineer",
+  "type": "role",
+  "description": "Write the low-level code that runs on devices.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bba.human-resources.higher-education.ma-hr",
+  "parent": "bba.human-resources.higher-education",
+  "label": "MA HR",
+  "type": "field",
+  "description": "Arts master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

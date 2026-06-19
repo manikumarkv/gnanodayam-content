@@ -1,0 +1,14 @@
+{
+  "code": "bba.operations",
+  "parent": "bba",
+  "label": "Operations",
+  "type": "branch",
+  "description": "Making the business run — supply chain, logistics.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.operations.job",
+    "bba.operations.higher-education",
+    "bba.operations.government"
+  ]
+}

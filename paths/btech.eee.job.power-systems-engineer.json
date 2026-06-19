@@ -1,0 +1,10 @@
+{
+  "code": "btech.eee.job.power-systems-engineer",
+  "parent": "btech.eee.job",
+  "label": "Power Systems Engineer",
+  "type": "role",
+  "description": "Design and run power generation and grids.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

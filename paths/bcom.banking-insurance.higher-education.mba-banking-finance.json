@@ -1,0 +1,10 @@
+{
+  "code": "bcom.banking-insurance.higher-education.mba-banking-finance",
+  "parent": "bcom.banking-insurance.higher-education",
+  "label": "MBA (Banking & Finance)",
+  "type": "field",
+  "description": "Management degree; pivot into business and leadership.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

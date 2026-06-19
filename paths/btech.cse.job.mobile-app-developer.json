@@ -1,0 +1,10 @@
+{
+  "code": "btech.cse.job.mobile-app-developer",
+  "parent": "btech.cse.job",
+  "label": "Mobile App Developer",
+  "type": "role",
+  "description": "Build Android and iOS apps.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

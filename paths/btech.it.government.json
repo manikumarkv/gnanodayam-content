@@ -1,0 +1,15 @@
+{
+  "code": "btech.it.government",
+  "parent": "btech.it",
+  "label": "Government",
+  "type": "fork",
+  "description": "Tech posts in PSUs, banks and central services.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.it.government.gate-psu",
+    "btech.it.government.banking-it-ibps-so",
+    "btech.it.government.upsc",
+    "btech.it.government.ssc"
+  ]
+}

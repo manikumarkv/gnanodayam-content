@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.government.barc",
+  "parent": "bsc.physics.government",
+  "label": "BARC",
+  "type": "field",
+  "description": "Atomic-research scientist and technical posts.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

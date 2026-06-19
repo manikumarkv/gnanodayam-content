@@ -1,0 +1,10 @@
+{
+  "code": "ba.economics.job.market-research-analyst",
+  "parent": "ba.economics.job",
+  "label": "Market Research Analyst",
+  "type": "role",
+  "description": "Study markets and customers.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

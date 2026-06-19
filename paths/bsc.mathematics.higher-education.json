@@ -1,0 +1,15 @@
+{
+  "code": "bsc.mathematics.higher-education",
+  "parent": "bsc.mathematics",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Master’s in maths/stats, MCA or actuarial.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.mathematics.higher-education.msc-maths-statistics",
+    "bsc.mathematics.higher-education.mca",
+    "bsc.mathematics.higher-education.mba",
+    "bsc.mathematics.higher-education.actuarial-science"
+  ]
+}

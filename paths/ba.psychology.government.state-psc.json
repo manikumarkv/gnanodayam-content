@@ -1,0 +1,10 @@
+{
+  "code": "ba.psychology.government.state-psc",
+  "parent": "ba.psychology.government",
+  "label": "State PSC",
+  "type": "field",
+  "description": "State-government officer posts.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

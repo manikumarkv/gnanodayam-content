@@ -1,0 +1,10 @@
+{
+  "code": "btech.it.job.it-support-engineer",
+  "parent": "btech.it.job",
+  "label": "IT Support Engineer",
+  "type": "role",
+  "description": "Keep IT systems and users running.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

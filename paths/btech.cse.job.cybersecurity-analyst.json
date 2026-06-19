@@ -1,0 +1,10 @@
+{
+  "code": "btech.cse.job.cybersecurity-analyst",
+  "parent": "btech.cse.job",
+  "label": "Cybersecurity Analyst",
+  "type": "role",
+  "description": "Protect systems from attacks and breaches.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

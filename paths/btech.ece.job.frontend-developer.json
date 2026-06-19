@@ -1,0 +1,10 @@
+{
+  "code": "btech.ece.job.frontend-developer",
+  "parent": "btech.ece.job",
+  "label": "Frontend Developer",
+  "type": "role",
+  "description": "Build the screens users see — React, HTML/CSS/JS.",
+  "roleSlug": "frontend-developer",
+  "status": "published",
+  "children": []
+}

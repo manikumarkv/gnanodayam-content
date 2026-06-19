@@ -1,0 +1,17 @@
+{
+  "code": "bsc",
+  "parent": "higher-education",
+  "label": "B.Sc",
+  "type": "degree",
+  "description": "Science degree; specialise, then go to industry or research.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.computer-science",
+    "bsc.physics",
+    "bsc.chemistry",
+    "bsc.mathematics",
+    "bsc.biology-life-sciences",
+    "bsc.statistics"
+  ]
+}

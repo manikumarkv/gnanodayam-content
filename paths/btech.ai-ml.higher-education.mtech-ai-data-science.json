@@ -1,0 +1,10 @@
+{
+  "code": "btech.ai-ml.higher-education.mtech-ai-data-science",
+  "parent": "btech.ai-ml.higher-education",
+  "label": "M.Tech (AI / Data Science)",
+  "type": "field",
+  "description": "Two-year master’s — specialise deeper or enter research.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

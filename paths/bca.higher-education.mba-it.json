@@ -1,0 +1,10 @@
+{
+  "code": "bca.higher-education.mba-it",
+  "parent": "bca.higher-education",
+  "label": "MBA (IT)",
+  "type": "field",
+  "description": "Management degree; pivot into business and leadership.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

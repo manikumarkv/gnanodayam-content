@@ -1,0 +1,10 @@
+{
+  "code": "btech.cse.government.isro-drdo-scientist",
+  "parent": "btech.cse.government",
+  "label": "ISRO / DRDO Scientist",
+  "type": "field",
+  "description": "Scientist and technical posts at national space agency.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

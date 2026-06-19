@@ -1,0 +1,10 @@
+{
+  "code": "bsc.chemistry.government.upsc",
+  "parent": "bsc.chemistry.government",
+  "label": "UPSC",
+  "type": "field",
+  "description": "Civil services and central posts via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,14 @@
+{
+  "code": "bsc.mathematics.government",
+  "parent": "bsc.mathematics",
+  "label": "Government",
+  "type": "fork",
+  "description": "Statistical services and central exams.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.mathematics.government.indian-statistical-service-upsc-iss",
+    "bsc.mathematics.government.ssc",
+    "bsc.mathematics.government.teaching-net"
+  ]
+}

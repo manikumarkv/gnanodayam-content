@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.clinical-practice.resident-doctor",
+  "parent": "mbbs.clinical-practice",
+  "label": "Resident Doctor",
+  "type": "role",
+  "description": "Train and treat in a hospital.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

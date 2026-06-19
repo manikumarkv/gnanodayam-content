@@ -1,0 +1,10 @@
+{
+  "code": "bsc.computer-science.higher-education.msc-cs-it",
+  "parent": "bsc.computer-science.higher-education",
+  "label": "M.Sc (CS / IT)",
+  "type": "field",
+  "description": "Subject master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

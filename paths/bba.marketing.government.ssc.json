@@ -1,0 +1,10 @@
+{
+  "code": "bba.marketing.government.ssc",
+  "parent": "bba.marketing.government",
+  "label": "SSC",
+  "type": "field",
+  "description": "Central govt clerical and officer posts via SSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

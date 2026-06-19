@@ -1,0 +1,14 @@
+{
+  "code": "bba.human-resources.job",
+  "parent": "bba.human-resources",
+  "label": "Job",
+  "type": "fork",
+  "description": "HR and recruitment roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.human-resources.job.hr-executive",
+    "bba.human-resources.job.recruiter",
+    "bba.human-resources.job.hr-generalist"
+  ]
+}

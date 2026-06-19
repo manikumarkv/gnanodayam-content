@@ -1,0 +1,10 @@
+{
+  "code": "bcom.banking-insurance.government.ibps-po-clerk",
+  "parent": "bcom.banking-insurance.government",
+  "label": "IBPS PO / Clerk",
+  "type": "field",
+  "description": "Public-sector banking via national exams.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

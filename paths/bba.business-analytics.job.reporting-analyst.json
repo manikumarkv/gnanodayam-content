@@ -1,0 +1,10 @@
+{
+  "code": "bba.business-analytics.job.reporting-analyst",
+  "parent": "bba.business-analytics.job",
+  "label": "Reporting Analyst",
+  "type": "role",
+  "description": "Build reports and dashboards.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

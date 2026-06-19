@@ -1,0 +1,10 @@
+{
+  "code": "ba.economics.job.research-analyst",
+  "parent": "ba.economics.job",
+  "label": "Research Analyst",
+  "type": "role",
+  "description": "Research and analyse for decisions.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "ba.sociology.higher-education.mba",
+  "parent": "ba.sociology.higher-education",
+  "label": "MBA",
+  "type": "field",
+  "description": "Management degree; pivot into business and leadership.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

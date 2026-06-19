@@ -1,0 +1,10 @@
+{
+  "code": "bcom.accounting.government.state-psc",
+  "parent": "bcom.accounting.government",
+  "label": "State PSC",
+  "type": "field",
+  "description": "State-government officer posts.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bcom.finance.higher-education.frm",
+  "parent": "bcom.finance.higher-education",
+  "label": "FRM",
+  "type": "field",
+  "description": "Risk-management credential.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bsc.statistics.job.research-analyst",
+  "parent": "bsc.statistics.job",
+  "label": "Research Analyst",
+  "type": "role",
+  "description": "Research and analyse for decisions.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,17 @@
+{
+  "code": "btech.mechanical.job",
+  "parent": "btech.mechanical",
+  "label": "Job",
+  "type": "fork",
+  "description": "Design, production and maintenance roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.mechanical.job.design-engineer-cad",
+    "btech.mechanical.job.manufacturing-production-engineer",
+    "btech.mechanical.job.automotive-engineer",
+    "btech.mechanical.job.hvac-engineer",
+    "btech.mechanical.job.quality-engineer",
+    "btech.mechanical.job.maintenance-engineer"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bca.job.it-support",
+  "parent": "bca.job",
+  "label": "IT Support",
+  "type": "role",
+  "description": "Support users and IT systems.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

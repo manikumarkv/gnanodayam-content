@@ -1,0 +1,10 @@
+{
+  "code": "bcom.taxation.government.income-tax-ssc-cgl",
+  "parent": "bcom.taxation.government",
+  "label": "Income Tax (SSC CGL)",
+  "type": "field",
+  "description": "Income-tax officer via SSC CGL.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

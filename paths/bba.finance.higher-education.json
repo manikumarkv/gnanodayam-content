@@ -1,0 +1,14 @@
+{
+  "code": "bba.finance.higher-education",
+  "parent": "bba.finance",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "An MBA in finance, CFA or M.Com.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.finance.higher-education.mba-finance",
+    "bba.finance.higher-education.cfa",
+    "bba.finance.higher-education.mcom"
+  ]
+}

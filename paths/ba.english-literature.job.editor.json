@@ -1,0 +1,10 @@
+{
+  "code": "ba.english-literature.job.editor",
+  "parent": "ba.english-literature.job",
+  "label": "Editor",
+  "type": "role",
+  "description": "Shape and polish written content.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bca.job.software-developer",
+  "parent": "bca.job",
+  "label": "Software Developer",
+  "type": "role",
+  "description": "Build software applications.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

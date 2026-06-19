@@ -1,0 +1,10 @@
+{
+  "code": "ba.history.higher-education.ma-history",
+  "parent": "ba.history.higher-education",
+  "label": "MA History",
+  "type": "field",
+  "description": "Arts master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

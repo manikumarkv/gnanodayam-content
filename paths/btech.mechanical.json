@@ -1,0 +1,14 @@
+{
+  "code": "btech.mechanical",
+  "parent": "btech",
+  "label": "Mechanical",
+  "type": "branch",
+  "description": "Machines, design and manufacturing across every industry.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.mechanical.job",
+    "btech.mechanical.higher-education",
+    "btech.mechanical.government"
+  ]
+}

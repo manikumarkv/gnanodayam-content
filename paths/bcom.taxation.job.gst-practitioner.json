@@ -1,0 +1,10 @@
+{
+  "code": "bcom.taxation.job.gst-practitioner",
+  "parent": "bcom.taxation.job",
+  "label": "GST Practitioner",
+  "type": "role",
+  "description": "Handle GST filing and compliance.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

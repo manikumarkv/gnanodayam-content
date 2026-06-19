@@ -1,0 +1,10 @@
+{
+  "code": "bba.operations.job.logistics-coordinator",
+  "parent": "bba.operations.job",
+  "label": "Logistics Coordinator",
+  "type": "role",
+  "description": "Move goods on time and on budget.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

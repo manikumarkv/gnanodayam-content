@@ -1,0 +1,10 @@
+{
+  "code": "bcom.accounting.higher-education.cma",
+  "parent": "bcom.accounting.higher-education",
+  "label": "CMA",
+  "type": "field",
+  "description": "Cost & Management Accountancy.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

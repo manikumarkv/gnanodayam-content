@@ -1,0 +1,10 @@
+{
+  "code": "bba.business-analytics.higher-education.msc-analytics",
+  "parent": "bba.business-analytics.higher-education",
+  "label": "M.Sc Analytics",
+  "type": "field",
+  "description": "Subject master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

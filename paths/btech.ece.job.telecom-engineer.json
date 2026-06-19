@@ -1,0 +1,10 @@
+{
+  "code": "btech.ece.job.telecom-engineer",
+  "parent": "btech.ece.job",
+  "label": "Telecom Engineer",
+  "type": "role",
+  "description": "Design and run telecom networks and systems.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

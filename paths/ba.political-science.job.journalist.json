@@ -1,0 +1,10 @@
+{
+  "code": "ba.political-science.job.journalist",
+  "parent": "ba.political-science.job",
+  "label": "Journalist",
+  "type": "role",
+  "description": "Report and tell news stories.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

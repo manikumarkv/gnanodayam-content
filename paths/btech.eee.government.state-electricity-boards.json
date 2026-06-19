@@ -1,0 +1,10 @@
+{
+  "code": "btech.eee.government.state-electricity-boards",
+  "parent": "btech.eee.government",
+  "label": "State Electricity Boards",
+  "type": "field",
+  "description": "State power-sector engineering posts.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

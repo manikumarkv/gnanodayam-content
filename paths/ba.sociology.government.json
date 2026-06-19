@@ -1,0 +1,14 @@
+{
+  "code": "ba.sociology.government",
+  "parent": "ba.sociology",
+  "label": "Government",
+  "type": "fork",
+  "description": "Civil services and social-welfare departments.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.sociology.government.upsc",
+    "ba.sociology.government.state-psc",
+    "ba.sociology.government.social-welfare-dept"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bcom.banking-insurance.job.loan-officer",
+  "parent": "bcom.banking-insurance.job",
+  "label": "Loan Officer",
+  "type": "role",
+  "description": "Assess and process loans.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

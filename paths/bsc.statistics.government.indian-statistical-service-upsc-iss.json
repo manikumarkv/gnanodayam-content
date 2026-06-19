@@ -1,0 +1,10 @@
+{
+  "code": "bsc.statistics.government.indian-statistical-service-upsc-iss",
+  "parent": "bsc.statistics.government",
+  "label": "Indian Statistical Service (UPSC ISS)",
+  "type": "field",
+  "description": "Statistical Service officer via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bsc.mathematics.higher-education.actuarial-science",
+  "parent": "bsc.mathematics.higher-education",
+  "label": "Actuarial Science",
+  "type": "field",
+  "description": "Qualify as an actuary.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

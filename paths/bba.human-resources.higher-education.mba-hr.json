@@ -1,0 +1,10 @@
+{
+  "code": "bba.human-resources.higher-education.mba-hr",
+  "parent": "bba.human-resources.higher-education",
+  "label": "MBA (HR)",
+  "type": "field",
+  "description": "Management degree; pivot into business and leadership.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

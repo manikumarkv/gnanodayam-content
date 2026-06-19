@@ -1,0 +1,14 @@
+{
+  "code": "bcom.taxation",
+  "parent": "bcom",
+  "label": "Taxation",
+  "type": "branch",
+  "description": "Direct & indirect tax — compliance and advisory.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bcom.taxation.job",
+    "bcom.taxation.higher-education",
+    "bcom.taxation.government"
+  ]
+}

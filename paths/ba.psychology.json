@@ -1,0 +1,14 @@
+{
+  "code": "ba.psychology",
+  "parent": "ba",
+  "label": "Psychology",
+  "type": "branch",
+  "description": "The mind — counselling, HR, research, clinical.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "ba.psychology.job",
+    "ba.psychology.higher-education",
+    "ba.psychology.government"
+  ]
+}

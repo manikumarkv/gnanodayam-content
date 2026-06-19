@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.government.isro-drdo-scientific-assistant",
+  "parent": "bsc.physics.government",
+  "label": "ISRO / DRDO (Scientific Assistant)",
+  "type": "field",
+  "description": "Scientist and technical posts at national space agency.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

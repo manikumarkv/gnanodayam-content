@@ -1,0 +1,13 @@
+{
+  "code": "bba.finance.government",
+  "parent": "bba.finance",
+  "label": "Government",
+  "type": "fork",
+  "description": "Public-sector banking and the RBI.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.finance.government.banking-ibps-sbi",
+    "bba.finance.government.rbi"
+  ]
+}

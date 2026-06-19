@@ -1,0 +1,10 @@
+{
+  "code": "btech.cse.higher-education.ms-abroad-cs",
+  "parent": "btech.cse.higher-education",
+  "label": "MS abroad (CS)",
+  "type": "field",
+  "description": "Master’s overseas — research or industry track.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

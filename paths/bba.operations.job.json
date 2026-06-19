@@ -1,0 +1,14 @@
+{
+  "code": "bba.operations.job",
+  "parent": "bba.operations",
+  "label": "Job",
+  "type": "fork",
+  "description": "Operations and supply-chain roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.operations.job.operations-executive",
+    "bba.operations.job.supply-chain-associate",
+    "bba.operations.job.logistics-coordinator"
+  ]
+}

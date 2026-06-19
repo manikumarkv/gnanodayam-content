@@ -1,0 +1,10 @@
+{
+  "code": "bsc.mathematics.job.quantitative-analyst",
+  "parent": "bsc.mathematics.job",
+  "label": "Quantitative Analyst",
+  "type": "role",
+  "description": "Model markets and risk with maths.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

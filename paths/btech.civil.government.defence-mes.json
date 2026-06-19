@@ -1,0 +1,10 @@
+{
+  "code": "btech.civil.government.defence-mes",
+  "parent": "btech.civil.government",
+  "label": "Defence (MES)",
+  "type": "field",
+  "description": "Officer entry into the armed forces.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

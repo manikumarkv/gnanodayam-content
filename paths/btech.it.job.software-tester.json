@@ -1,0 +1,10 @@
+{
+  "code": "btech.it.job.software-tester",
+  "parent": "btech.it.job",
+  "label": "Software Tester",
+  "type": "role",
+  "description": "Test software and report defects.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

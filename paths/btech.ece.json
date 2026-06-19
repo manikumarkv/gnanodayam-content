@@ -1,0 +1,14 @@
+{
+  "code": "btech.ece",
+  "parent": "btech",
+  "label": "ECE",
+  "type": "branch",
+  "description": "Electronics & communication — chips, embedded systems, telecom.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.ece.job",
+    "btech.ece.higher-education",
+    "btech.ece.government"
+  ]
+}

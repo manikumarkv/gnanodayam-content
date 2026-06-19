@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.pg-specialisation-neet-pg.diploma-courses",
+  "parent": "mbbs.pg-specialisation-neet-pg",
+  "label": "Diploma courses",
+  "type": "field",
+  "description": "Shorter post-graduate medical diploma.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

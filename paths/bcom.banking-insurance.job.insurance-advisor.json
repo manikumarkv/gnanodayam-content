@@ -1,0 +1,10 @@
+{
+  "code": "bcom.banking-insurance.job.insurance-advisor",
+  "parent": "bcom.banking-insurance.job",
+  "label": "Insurance Advisor",
+  "type": "role",
+  "description": "Advise customers on insurance.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

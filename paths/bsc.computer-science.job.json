@@ -1,0 +1,17 @@
+{
+  "code": "bsc.computer-science.job",
+  "parent": "bsc.computer-science",
+  "label": "Job",
+  "type": "fork",
+  "description": "Entry software and data roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.computer-science.job.frontend-developer",
+    "bsc.computer-science.job.backend-developer",
+    "bsc.computer-science.job.data-analyst",
+    "bsc.computer-science.job.software-developer",
+    "bsc.computer-science.job.qa-engineer",
+    "bsc.computer-science.job.it-support"
+  ]
+}

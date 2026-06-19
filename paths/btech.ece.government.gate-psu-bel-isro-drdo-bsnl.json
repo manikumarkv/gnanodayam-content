@@ -1,0 +1,10 @@
+{
+  "code": "btech.ece.government.gate-psu-bel-isro-drdo-bsnl",
+  "parent": "btech.ece.government",
+  "label": "GATE → PSU (BEL, ISRO, DRDO, BSNL)",
+  "type": "field",
+  "description": "Crack GATE to join a public-sector company.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

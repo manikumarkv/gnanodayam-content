@@ -1,0 +1,10 @@
+{
+  "code": "ba.psychology.higher-education.mba-hr",
+  "parent": "ba.psychology.higher-education",
+  "label": "MBA HR",
+  "type": "field",
+  "description": "Management degree; pivot into business and leadership.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

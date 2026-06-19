@@ -1,0 +1,10 @@
+{
+  "code": "bcom.accounting.job.accounts-executive",
+  "parent": "bcom.accounting.job",
+  "label": "Accounts Executive",
+  "type": "role",
+  "description": "Handle day-to-day accounting tasks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,14 @@
+{
+  "code": "btech.cse",
+  "parent": "btech",
+  "label": "CSE",
+  "type": "branch",
+  "description": "Computer science — software, data, AI and the systems behind them.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.cse.job",
+    "btech.cse.higher-education",
+    "btech.cse.government"
+  ]
+}

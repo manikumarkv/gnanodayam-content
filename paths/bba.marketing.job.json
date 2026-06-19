@@ -1,0 +1,15 @@
+{
+  "code": "bba.marketing.job",
+  "parent": "bba.marketing",
+  "label": "Job",
+  "type": "fork",
+  "description": "Marketing and sales roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.marketing.job.marketing-executive",
+    "bba.marketing.job.digital-marketing-specialist",
+    "bba.marketing.job.sales-executive",
+    "bba.marketing.job.brand-associate"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "bcom.accounting.government",
+  "parent": "bcom.accounting",
+  "label": "Government",
+  "type": "fork",
+  "description": "Audit and accounts posts via SSC and banking exams.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bcom.accounting.government.ssc-cgl-auditor-accountant",
+    "bcom.accounting.government.banking-ibps-sbi",
+    "bcom.accounting.government.state-psc"
+  ]
+}

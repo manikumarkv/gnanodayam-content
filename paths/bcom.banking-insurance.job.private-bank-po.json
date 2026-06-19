@@ -1,0 +1,10 @@
+{
+  "code": "bcom.banking-insurance.job.private-bank-po",
+  "parent": "bcom.banking-insurance.job",
+  "label": "Private Bank PO",
+  "type": "role",
+  "description": "Officer role in a private bank.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

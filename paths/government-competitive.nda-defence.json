@@ -1,0 +1,10 @@
+{
+  "code": "government-competitive.nda-defence",
+  "parent": "government-competitive",
+  "label": "NDA (Defence)",
+  "type": "field",
+  "description": "Officer entry into the armed forces, straight after 12th.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

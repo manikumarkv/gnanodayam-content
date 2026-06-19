@@ -1,0 +1,10 @@
+{
+  "code": "bsc.biology-life-sciences.job.lab-technician",
+  "parent": "bsc.biology-life-sciences.job",
+  "label": "Lab Technician",
+  "type": "role",
+  "description": "Run lab tests and equipment.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

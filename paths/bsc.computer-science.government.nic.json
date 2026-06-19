@@ -1,0 +1,10 @@
+{
+  "code": "bsc.computer-science.government.nic",
+  "parent": "bsc.computer-science.government",
+  "label": "NIC",
+  "type": "field",
+  "description": "Government IT and informatics roles.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

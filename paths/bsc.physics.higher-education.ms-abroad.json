@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.higher-education.ms-abroad",
+  "parent": "bsc.physics.higher-education",
+  "label": "MS abroad",
+  "type": "field",
+  "description": "Master’s overseas — research or industry track.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

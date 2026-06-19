@@ -1,0 +1,10 @@
+{
+  "code": "ba.sociology.job.ngo-development",
+  "parent": "ba.sociology.job",
+  "label": "NGO / Development",
+  "type": "role",
+  "description": "Work on social impact and development.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,18 @@
+{
+  "code": "btech.it.job",
+  "parent": "btech.it",
+  "label": "Job",
+  "type": "fork",
+  "description": "Software and systems roles open to IT grads.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.it.job.frontend-developer",
+    "btech.it.job.backend-developer",
+    "btech.it.job.data-analyst",
+    "btech.it.job.cloud-devops-engineer",
+    "btech.it.job.business-analyst",
+    "btech.it.job.software-tester",
+    "btech.it.job.it-support-engineer"
+  ]
+}

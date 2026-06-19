@@ -1,0 +1,10 @@
+{
+  "code": "btech.it.government.ssc",
+  "parent": "btech.it.government",
+  "label": "SSC",
+  "type": "field",
+  "description": "Central govt clerical and officer posts via SSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

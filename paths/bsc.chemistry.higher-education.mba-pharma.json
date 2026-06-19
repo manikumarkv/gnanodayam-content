@@ -1,0 +1,10 @@
+{
+  "code": "bsc.chemistry.higher-education.mba-pharma",
+  "parent": "bsc.chemistry.higher-education",
+  "label": "MBA (Pharma)",
+  "type": "field",
+  "description": "Management degree; pivot into business and leadership.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

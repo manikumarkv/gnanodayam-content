@@ -1,0 +1,10 @@
+{
+  "code": "bsc.biology-life-sciences.higher-education.msc-biotech-microbiology-zoology-botany",
+  "parent": "bsc.biology-life-sciences.higher-education",
+  "label": "M.Sc (Biotech / Microbiology / Zoology / Botany)",
+  "type": "field",
+  "description": "Subject master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

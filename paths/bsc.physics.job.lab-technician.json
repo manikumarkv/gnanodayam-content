@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.job.lab-technician",
+  "parent": "bsc.physics.job",
+  "label": "Lab Technician",
+  "type": "role",
+  "description": "Run lab tests and equipment.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

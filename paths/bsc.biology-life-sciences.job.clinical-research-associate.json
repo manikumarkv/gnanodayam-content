@@ -1,0 +1,10 @@
+{
+  "code": "bsc.biology-life-sciences.job.clinical-research-associate",
+  "parent": "bsc.biology-life-sciences.job",
+  "label": "Clinical Research Associate",
+  "type": "role",
+  "description": "Run and monitor clinical trials.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

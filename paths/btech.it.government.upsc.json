@@ -1,0 +1,10 @@
+{
+  "code": "btech.it.government.upsc",
+  "parent": "btech.it.government",
+  "label": "UPSC",
+  "type": "field",
+  "description": "Civil services and central posts via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

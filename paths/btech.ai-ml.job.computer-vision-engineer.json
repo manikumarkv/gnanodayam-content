@@ -1,0 +1,10 @@
+{
+  "code": "btech.ai-ml.job.computer-vision-engineer",
+  "parent": "btech.ai-ml.job",
+  "label": "Computer Vision Engineer",
+  "type": "role",
+  "description": "Build AI that understands images and video.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

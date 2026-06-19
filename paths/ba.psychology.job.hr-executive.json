@@ -1,0 +1,10 @@
+{
+  "code": "ba.psychology.job.hr-executive",
+  "parent": "ba.psychology.job",
+  "label": "HR Executive",
+  "type": "role",
+  "description": "Handle hiring, onboarding and people ops.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

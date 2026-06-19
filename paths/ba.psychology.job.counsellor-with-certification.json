@@ -1,0 +1,10 @@
+{
+  "code": "ba.psychology.job.counsellor-with-certification",
+  "parent": "ba.psychology.job",
+  "label": "Counsellor (with certification)",
+  "type": "role",
+  "description": "Support people's mental wellbeing.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

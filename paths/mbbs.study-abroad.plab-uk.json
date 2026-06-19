@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.study-abroad.plab-uk",
+  "parent": "mbbs.study-abroad",
+  "label": "PLAB (UK)",
+  "type": "field",
+  "description": "UK medical licensing exam.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

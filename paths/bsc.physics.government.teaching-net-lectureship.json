@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.government.teaching-net-lectureship",
+  "parent": "bsc.physics.government",
+  "label": "Teaching (NET / Lectureship)",
+  "type": "field",
+  "description": "Teach in schools or colleges via NET/TET.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bsc.statistics.job.business-analyst",
+  "parent": "bsc.statistics.job",
+  "label": "Business Analyst",
+  "type": "role",
+  "description": "Bridge business needs and tech — requirements, process.",
+  "roleSlug": "business-analyst",
+  "status": "published",
+  "children": []
+}

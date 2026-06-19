@@ -1,0 +1,10 @@
+{
+  "code": "bcom.accounting.job.bookkeeper",
+  "parent": "bcom.accounting.job",
+  "label": "Bookkeeper",
+  "type": "role",
+  "description": "Keep the daily financial records.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

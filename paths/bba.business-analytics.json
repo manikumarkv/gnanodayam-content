@@ -1,0 +1,14 @@
+{
+  "code": "bba.business-analytics",
+  "parent": "bba",
+  "label": "Business Analytics",
+  "type": "branch",
+  "description": "Decisions from data — the analytics route.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bba.business-analytics.job",
+    "bba.business-analytics.higher-education",
+    "bba.business-analytics.government"
+  ]
+}

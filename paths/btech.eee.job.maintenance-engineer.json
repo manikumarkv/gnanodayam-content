@@ -1,0 +1,10 @@
+{
+  "code": "btech.eee.job.maintenance-engineer",
+  "parent": "btech.eee.job",
+  "label": "Maintenance Engineer",
+  "type": "role",
+  "description": "Keep plant and machinery running.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.pg-specialisation-neet-pg.md.radiology",
+  "parent": "mbbs.pg-specialisation-neet-pg.md",
+  "label": "Radiology",
+  "type": "field",
+  "description": "A medical specialisation you can train into (via NEET-PG).",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

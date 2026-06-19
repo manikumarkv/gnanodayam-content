@@ -1,0 +1,10 @@
+{
+  "code": "bcom.accounting.higher-education.ca",
+  "parent": "bcom.accounting.higher-education",
+  "label": "CA",
+  "type": "field",
+  "description": "Chartered Accountancy — audit, tax and finance.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

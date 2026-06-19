@@ -1,0 +1,10 @@
+{
+  "code": "mbbs.clinical-practice.medical-officer",
+  "parent": "mbbs.clinical-practice",
+  "label": "Medical Officer",
+  "type": "role",
+  "description": "Doctor in a clinic, PHC or company.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

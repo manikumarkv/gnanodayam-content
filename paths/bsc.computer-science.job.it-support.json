@@ -1,0 +1,10 @@
+{
+  "code": "bsc.computer-science.job.it-support",
+  "parent": "bsc.computer-science.job",
+  "label": "IT Support",
+  "type": "role",
+  "description": "Support users and IT systems.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

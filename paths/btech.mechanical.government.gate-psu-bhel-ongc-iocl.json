@@ -1,0 +1,10 @@
+{
+  "code": "btech.mechanical.government.gate-psu-bhel-ongc-iocl",
+  "parent": "btech.mechanical.government",
+  "label": "GATE → PSU (BHEL, ONGC, IOCL)",
+  "type": "field",
+  "description": "Crack GATE to join a public-sector company.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

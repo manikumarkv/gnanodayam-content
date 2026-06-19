@@ -1,0 +1,10 @@
+{
+  "code": "bsc.computer-science.government.ssc",
+  "parent": "bsc.computer-science.government",
+  "label": "SSC",
+  "type": "field",
+  "description": "Central govt clerical and officer posts via SSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

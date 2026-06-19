@@ -1,0 +1,17 @@
+{
+  "code": "btech.civil.job",
+  "parent": "btech.civil",
+  "label": "Job",
+  "type": "fork",
+  "description": "Design, site and project roles in construction.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.civil.job.structural-engineer",
+    "btech.civil.job.site-construction-engineer",
+    "btech.civil.job.transportation-engineer",
+    "btech.civil.job.geotechnical-engineer",
+    "btech.civil.job.surveyor",
+    "btech.civil.job.estimation-engineer"
+  ]
+}

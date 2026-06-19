@@ -1,0 +1,14 @@
+{
+  "code": "bsc.statistics.higher-education",
+  "parent": "bsc.statistics",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "Master’s in statistics, an MBA or actuarial.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.statistics.higher-education.msc-statistics",
+    "bsc.statistics.higher-education.mba",
+    "bsc.statistics.higher-education.actuarial-science"
+  ]
+}

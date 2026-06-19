@@ -1,0 +1,10 @@
+{
+  "code": "vocational-skilling.apprenticeship-naps",
+  "parent": "vocational-skilling",
+  "label": "Apprenticeship (NAPS)",
+  "type": "field",
+  "description": "Earn while you train at a real workplace (NAPS).",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

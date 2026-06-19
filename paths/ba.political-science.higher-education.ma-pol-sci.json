@@ -1,0 +1,10 @@
+{
+  "code": "ba.political-science.higher-education.ma-pol-sci",
+  "parent": "ba.political-science.higher-education",
+  "label": "MA Pol Sci",
+  "type": "field",
+  "description": "Arts master’s — depth, research or teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

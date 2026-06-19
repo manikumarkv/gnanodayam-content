@@ -1,0 +1,10 @@
+{
+  "code": "bsc.computer-science.job.qa-engineer",
+  "parent": "bsc.computer-science.job",
+  "label": "QA Engineer",
+  "type": "role",
+  "description": "Test software and automate checks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

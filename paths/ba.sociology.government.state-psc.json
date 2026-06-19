@@ -1,0 +1,10 @@
+{
+  "code": "ba.sociology.government.state-psc",
+  "parent": "ba.sociology.government",
+  "label": "State PSC",
+  "type": "field",
+  "description": "State-government officer posts.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,15 @@
+{
+  "code": "btech.eee.government",
+  "parent": "btech.eee",
+  "label": "Government",
+  "type": "fork",
+  "description": "Power-sector PSUs and engineering services.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "btech.eee.government.gate-psu-ntpc-powergrid-bhel",
+    "btech.eee.government.upsc-ese",
+    "btech.eee.government.state-electricity-boards",
+    "btech.eee.government.ssc"
+  ]
+}

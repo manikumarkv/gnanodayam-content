@@ -1,0 +1,10 @@
+{
+  "code": "ba.sociology.higher-education.msw",
+  "parent": "ba.sociology.higher-education",
+  "label": "MSW",
+  "type": "field",
+  "description": "Master of Social Work.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

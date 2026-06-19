@@ -1,0 +1,10 @@
+{
+  "code": "bsc.chemistry.job.lab-chemist",
+  "parent": "bsc.chemistry.job",
+  "label": "Lab Chemist",
+  "type": "role",
+  "description": "Carry out chemical analysis.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bcom.accounting.job.auditor",
+  "parent": "bcom.accounting.job",
+  "label": "Auditor",
+  "type": "role",
+  "description": "Check that accounts are accurate and honest.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

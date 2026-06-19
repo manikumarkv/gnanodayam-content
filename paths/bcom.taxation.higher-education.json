@@ -1,0 +1,15 @@
+{
+  "code": "bcom.taxation.higher-education",
+  "parent": "bcom.taxation",
+  "label": "Higher Education",
+  "type": "fork",
+  "description": "CA, CS or a law degree to go deeper.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bcom.taxation.higher-education.ca",
+    "bcom.taxation.higher-education.cs",
+    "bcom.taxation.higher-education.llb-taxation",
+    "bcom.taxation.higher-education.mcom"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "bsc.physics.higher-education.integrated-phd",
+  "parent": "bsc.physics.higher-education",
+  "label": "Integrated PhD",
+  "type": "field",
+  "description": "Research track straight into a doctorate.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

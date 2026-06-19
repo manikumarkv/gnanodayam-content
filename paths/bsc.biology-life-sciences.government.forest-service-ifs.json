@@ -1,0 +1,10 @@
+{
+  "code": "bsc.biology-life-sciences.government.forest-service-ifs",
+  "parent": "bsc.biology-life-sciences.government",
+  "label": "Forest Service (IFS)",
+  "type": "field",
+  "description": "Indian Forest Service via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

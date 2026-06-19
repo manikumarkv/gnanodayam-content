@@ -1,0 +1,10 @@
+{
+  "code": "bcom.accounting.higher-education.mcom",
+  "parent": "bcom.accounting.higher-education",
+  "label": "M.Com",
+  "type": "field",
+  "description": "Master’s in commerce.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

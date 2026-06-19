@@ -1,0 +1,10 @@
+{
+  "code": "ba.political-science.job.policy-analyst",
+  "parent": "ba.political-science.job",
+  "label": "Policy Analyst",
+  "type": "role",
+  "description": "Research and shape policy.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "btech.mechanical.government.indian-railways-rrb",
+  "parent": "btech.mechanical.government",
+  "label": "Indian Railways (RRB)",
+  "type": "field",
+  "description": "Engineering and officer posts in the Railways.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

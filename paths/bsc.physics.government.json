@@ -1,0 +1,15 @@
+{
+  "code": "bsc.physics.government",
+  "parent": "bsc.physics",
+  "label": "Government",
+  "type": "fork",
+  "description": "Scientific roles at ISRO, DRDO, BARC; teaching.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.physics.government.isro-drdo-scientific-assistant",
+    "bsc.physics.government.barc",
+    "bsc.physics.government.upsc",
+    "bsc.physics.government.teaching-net-lectureship"
+  ]
+}

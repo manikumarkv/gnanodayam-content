@@ -1,0 +1,10 @@
+{
+  "code": "bba.human-resources.job.hr-generalist",
+  "parent": "bba.human-resources.job",
+  "label": "HR Generalist",
+  "type": "role",
+  "description": "Cover the full range of HR work.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,14 @@
+{
+  "code": "bsc.chemistry.job",
+  "parent": "bsc.chemistry",
+  "label": "Job",
+  "type": "fork",
+  "description": "Lab, QC and production roles, especially in pharma.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "bsc.chemistry.job.lab-chemist",
+    "bsc.chemistry.job.qc-qa-analyst-pharma",
+    "bsc.chemistry.job.production-chemist"
+  ]
+}

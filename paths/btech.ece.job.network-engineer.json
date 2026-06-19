@@ -1,0 +1,10 @@
+{
+  "code": "btech.ece.job.network-engineer",
+  "parent": "btech.ece.job",
+  "label": "Network Engineer",
+  "type": "role",
+  "description": "Build and maintain computer networks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

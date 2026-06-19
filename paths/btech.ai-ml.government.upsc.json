@@ -1,0 +1,10 @@
+{
+  "code": "btech.ai-ml.government.upsc",
+  "parent": "btech.ai-ml.government",
+  "label": "UPSC",
+  "type": "field",
+  "description": "Civil services and central posts via UPSC.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

@@ -1,0 +1,15 @@
+{
+  "code": "after-12th",
+  "parent": null,
+  "label": "After 12th",
+  "type": "stage",
+  "description": "What do you want to do next? Keep studying, start working, learn a trade, or aim for a government job.",
+  "roleSlug": null,
+  "status": "published",
+  "children": [
+    "higher-education",
+    "job-work",
+    "vocational-skilling",
+    "government-competitive"
+  ]
+}

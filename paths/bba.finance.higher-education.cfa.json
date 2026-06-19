@@ -1,0 +1,10 @@
+{
+  "code": "bba.finance.higher-education.cfa",
+  "parent": "bba.finance.higher-education",
+  "label": "CFA",
+  "type": "field",
+  "description": "Global credential for investment and finance.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}

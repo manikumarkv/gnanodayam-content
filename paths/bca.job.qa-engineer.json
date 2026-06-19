@@ -1,0 +1,10 @@
+{
+  "code": "bca.job.qa-engineer",
+  "parent": "bca.job",
+  "label": "QA Engineer",
+  "type": "role",
+  "description": "Test software and automate checks.",
+  "roleSlug": null,
+  "status": "published",
+  "children": []
+}
