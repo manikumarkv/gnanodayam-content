@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Handle hiring, onboarding and people ops.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

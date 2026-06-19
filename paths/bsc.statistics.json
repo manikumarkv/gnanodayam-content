@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Data and inference — analytics and research.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.statistics.job",
-    "bsc.statistics.higher-education",
-    "bsc.statistics.government"
-  ]
+  "status": "published"
 }

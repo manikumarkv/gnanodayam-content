@@ -5,6 +5,5 @@
   "type": "field",
   "description": "State power-sector engineering posts.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

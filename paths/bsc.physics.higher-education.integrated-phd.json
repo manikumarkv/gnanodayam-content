@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Research track straight into a doctorate.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

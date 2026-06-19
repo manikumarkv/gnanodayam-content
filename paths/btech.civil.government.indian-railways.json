@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Engineering and officer posts in the Railways.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

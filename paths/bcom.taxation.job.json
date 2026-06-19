@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Tax and GST roles in firms and consultancies.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bcom.taxation.job.tax-consultant",
-    "bcom.taxation.job.gst-practitioner",
-    "bcom.taxation.job.tax-analyst"
-  ]
+  "status": "published"
 }

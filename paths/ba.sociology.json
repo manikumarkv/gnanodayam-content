@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Society and people — development, HR, research.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.sociology.job",
-    "ba.sociology.higher-education",
-    "ba.sociology.government"
-  ]
+  "status": "published"
 }

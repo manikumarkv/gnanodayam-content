@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Apply statistics to real problems.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

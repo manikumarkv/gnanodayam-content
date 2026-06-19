@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Master of Public Health.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

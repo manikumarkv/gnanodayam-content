@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Run and monitor clinical trials.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

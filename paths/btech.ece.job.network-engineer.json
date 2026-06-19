@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Build and maintain computer networks.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Shorter post-graduate medical diploma.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

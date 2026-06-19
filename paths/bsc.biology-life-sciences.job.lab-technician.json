@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Run lab tests and equipment.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

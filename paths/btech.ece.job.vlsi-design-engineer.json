@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Design the silicon chips themselves — RTL, verification.",
   "roleSlug": "vlsi-design-engineer",
-  "status": "published",
-  "children": []
+  "status": "published"
 }

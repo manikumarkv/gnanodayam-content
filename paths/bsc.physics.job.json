@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Lab, research-support and analysis roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.physics.job.lab-technician",
-    "bsc.physics.job.research-assistant",
-    "bsc.physics.job.quality-analyst"
-  ]
+  "status": "published"
 }

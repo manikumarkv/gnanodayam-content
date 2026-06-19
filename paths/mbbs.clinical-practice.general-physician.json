@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Treat everyday illnesses and patients.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

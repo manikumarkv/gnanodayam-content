@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Master’s, integrated PhD or study abroad.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.physics.higher-education.msc-physics",
-    "bsc.physics.higher-education.integrated-phd",
-    "bsc.physics.higher-education.ms-abroad"
-  ]
+  "status": "published"
 }

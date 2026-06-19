@@ -5,6 +5,5 @@
   "type": "field",
   "description": "A medical specialisation you can train into (via NEET-PG).",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

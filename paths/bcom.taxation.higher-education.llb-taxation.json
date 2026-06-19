@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Law degree — practice, corporate or judiciary.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

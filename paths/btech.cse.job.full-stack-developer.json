@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Work across both front-end and back-end.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

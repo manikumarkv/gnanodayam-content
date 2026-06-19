@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "People — hiring, culture, operations.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.human-resources.job",
-    "bba.human-resources.higher-education",
-    "bba.human-resources.government"
-  ]
+  "status": "published"
 }

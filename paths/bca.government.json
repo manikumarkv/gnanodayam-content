@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Tech and clerical posts via national exams.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bca.government.nic",
-    "bca.government.banking-it",
-    "bca.government.ssc"
-  ]
+  "status": "published"
 }

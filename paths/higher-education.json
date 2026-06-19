@@ -5,14 +5,5 @@
   "type": "fork",
   "description": "Go to college — pick a degree and follow where it leads.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech",
-    "bcom",
-    "bsc",
-    "ba",
-    "bba",
-    "bca",
-    "mbbs"
-  ]
+  "status": "published"
 }

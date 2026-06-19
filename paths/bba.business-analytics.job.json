@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Analyst and product roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.business-analytics.job.business-analyst",
-    "bba.business-analytics.job.data-analyst",
-    "bba.business-analytics.job.product-manager",
-    "bba.business-analytics.job.reporting-analyst"
-  ]
+  "status": "published"
 }

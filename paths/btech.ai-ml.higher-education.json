@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Deepen into AI or data science, here or abroad.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.ai-ml.higher-education.mtech-ai-data-science",
-    "btech.ai-ml.higher-education.ms-abroad",
-    "btech.ai-ml.higher-education.mba"
-  ]
+  "status": "published"
 }

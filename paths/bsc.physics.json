@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "The fundamental science — research, labs, industry.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.physics.job",
-    "bsc.physics.higher-education",
-    "bsc.physics.government"
-  ]
+  "status": "published"
 }

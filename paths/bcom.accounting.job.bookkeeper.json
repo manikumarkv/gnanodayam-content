@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Keep the daily financial records.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

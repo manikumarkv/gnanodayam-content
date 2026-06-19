@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Design and run telecom networks and systems.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

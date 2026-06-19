@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Study deeper or pivot — M.Tech, MS abroad or an MBA.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.cse.higher-education.mtech-cse-ai-data-science",
-    "btech.cse.higher-education.ms-abroad-cs",
-    "btech.cse.higher-education.mba",
-    "btech.cse.higher-education.mca"
-  ]
+  "status": "published"
 }

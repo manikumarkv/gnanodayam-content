@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Electronics roles at BEL, ISRO, DRDO and via UPSC.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.ece.government.gate-psu-bel-isro-drdo-bsnl",
-    "btech.ece.government.upsc",
-    "btech.ece.government.state-psc",
-    "btech.ece.government.ssc"
-  ]
+  "status": "published"
 }

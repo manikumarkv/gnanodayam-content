@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Run construction on the ground.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

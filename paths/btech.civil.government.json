@@ -5,12 +5,5 @@
   "type": "fork",
   "description": "PWD, railways, PSUs and engineering services.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.civil.government.gate-psu",
-    "btech.civil.government.upsc-ese",
-    "btech.civil.government.indian-railways",
-    "btech.civil.government.state-pwd",
-    "btech.civil.government.defence-mes"
-  ]
+  "status": "published"
 }

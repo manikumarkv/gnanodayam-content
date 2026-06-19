@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Reaching customers — brand, digital, sales.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.marketing.job",
-    "bba.marketing.higher-education",
-    "bba.marketing.government"
-  ]
+  "status": "published"
 }

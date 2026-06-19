@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Analytics roles in banking.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Cost and quantify construction work.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

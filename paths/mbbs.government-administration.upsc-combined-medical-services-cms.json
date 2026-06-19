@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Government doctor posts via UPSC CMS.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

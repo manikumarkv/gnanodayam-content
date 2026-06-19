@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Income-tax and commercial-tax officer posts.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bcom.taxation.government.income-tax-ssc-cgl",
-    "bcom.taxation.government.gst-commercial-tax-officer",
-    "bcom.taxation.government.state-psc"
-  ]
+  "status": "published"
 }

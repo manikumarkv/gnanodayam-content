@@ -5,12 +5,5 @@
   "type": "fork",
   "description": "Public health systems and services.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "mbbs.government-administration.upsc-combined-medical-services-cms",
-    "mbbs.government-administration.state-health-services",
-    "mbbs.government-administration.armed-forces-medical",
-    "mbbs.government-administration.upsc-civil-services",
-    "mbbs.government-administration.public-health-mph"
-  ]
+  "status": "published"
 }

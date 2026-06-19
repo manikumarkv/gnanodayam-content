@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Test software and automate the checks.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Move goods on time and on budget.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

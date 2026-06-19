@@ -23,7 +23,9 @@ const fail = (msg) => {
   process.exit(1)
 }
 
-const files = (await readdir(PATHS)).filter((f) => f.endsWith('.json') && f !== 'index.json')
+// Exclude the two compiled outputs — they're generated here, not source files.
+const COMPILED = new Set(['index.json', 'all.json'])
+const files = (await readdir(PATHS)).filter((f) => f.endsWith('.json') && !COMPILED.has(f))
 const nodes = []
 for (const f of files) {
   const node = JSON.parse(await readFile(join(PATHS, f), 'utf8'))
@@ -51,17 +53,28 @@ const served = (n) => {
   return true
 }
 
-const index = nodes
-  .filter(served)
-  .sort((a, b) => a.code.localeCompare(b.code))
-  .map(({ code, parent, label, type, description, roleSlug }) => ({
-    code,
-    parent,
-    label,
-    type,
-    ...(description ? { description } : {}),
-    ...(roleSlug ? { roleSlug } : {}),
-  }))
+const byCodeAsc = (a, b) => a.code.localeCompare(b.code)
+// Public index entry: structure only, no status (the served index is published-only already).
+const entry = ({ code, parent, label, type, description, roleSlug }) => ({
+  code,
+  parent,
+  label,
+  type,
+  ...(description ? { description } : {}),
+  ...(roleSlug ? { roleSlug } : {}),
+})
 
+// index.json — published-only, fetched by the public app.
+const index = nodes.filter(served).sort(byCodeAsc).map(entry)
 await writeFile(join(PATHS, 'index.json'), JSON.stringify(index, null, 2) + '\n')
-console.log(`compile-paths: ${nodes.length} source files → ${index.length} published in index.json`)
+
+// all.json — the FULL per-file records incl. drafts (status, children order, everything), read ONLY
+// by the curator editor (ADR 0007) as its complete working copy. The public app never reads this.
+const all = [...nodes].sort(byCodeAsc)
+await writeFile(join(PATHS, 'all.json'), JSON.stringify(all, null, 2) + '\n')
+
+const drafts = nodes.length - index.length
+console.log(
+  `compile-paths: ${nodes.length} source files → ${index.length} published in index.json` +
+    ` (${drafts} draft) · ${all.length} in all.json`,
+)

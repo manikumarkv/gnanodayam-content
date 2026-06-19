@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Support research projects.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

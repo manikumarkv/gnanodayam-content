@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Check that accounts are accurate and honest.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

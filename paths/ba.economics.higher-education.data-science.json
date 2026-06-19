@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Upskill into data science.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

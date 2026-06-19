@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Civil services and govt-hospital psychology (post-PG).",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.psychology.government.upsc",
-    "ba.psychology.government.state-psc",
-    "ba.psychology.government.govt-hospital-psychologist"
-  ]
+  "status": "published"
 }

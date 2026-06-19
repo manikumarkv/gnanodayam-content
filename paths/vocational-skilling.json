@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Learn a skilled trade — ITI, apprenticeships, diplomas.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "vocational-skilling.iti-industrial-training-institute",
-    "vocational-skilling.apprenticeship-naps",
-    "vocational-skilling.polytechnic-diploma"
-  ]
+  "status": "published"
 }

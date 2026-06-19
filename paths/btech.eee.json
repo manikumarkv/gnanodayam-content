@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Electrical & electronics — power, control and machines.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.eee.job",
-    "btech.eee.higher-education",
-    "btech.eee.government"
-  ]
+  "status": "published"
 }

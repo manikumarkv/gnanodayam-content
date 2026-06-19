@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Practise overseas via licensing exams.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "mbbs.study-abroad.usmle-usa",
-    "mbbs.study-abroad.plab-uk",
-    "mbbs.study-abroad.amc-australia"
-  ]
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Design buildings and structures that stand up.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

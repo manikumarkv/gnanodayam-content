@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Build the server, APIs and databases behind an app.",
   "roleSlug": "backend-developer",
-  "status": "published",
-  "children": []
+  "status": "published"
 }

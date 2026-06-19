@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Work in biotech labs and processes.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

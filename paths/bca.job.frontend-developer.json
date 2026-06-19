@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Build the screens users see — React, HTML/CSS/JS.",
   "roleSlug": "frontend-developer",
-  "status": "published",
-  "children": []
+  "status": "published"
 }

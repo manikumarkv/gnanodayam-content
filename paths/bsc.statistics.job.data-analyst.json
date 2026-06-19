@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Turn raw data into charts and decisions — SQL, Excel.",
   "roleSlug": "data-analyst",
-  "status": "published",
-  "children": []
+  "status": "published"
 }

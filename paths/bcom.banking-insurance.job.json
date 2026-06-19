@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Branch, relationship and advisory roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bcom.banking-insurance.job.relationship-manager",
-    "bcom.banking-insurance.job.insurance-advisor",
-    "bcom.banking-insurance.job.loan-officer",
-    "bcom.banking-insurance.job.private-bank-po"
-  ]
+  "status": "published"
 }

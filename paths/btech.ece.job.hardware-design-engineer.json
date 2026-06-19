@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Design electronic hardware and circuit boards.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Manage and grow client relationships.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

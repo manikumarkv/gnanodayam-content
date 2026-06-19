@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Civil services, SSC and teaching.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.english-literature.government.upsc",
-    "ba.english-literature.government.ssc",
-    "ba.english-literature.government.teaching-net-tet"
-  ]
+  "status": "published"
 }

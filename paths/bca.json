@@ -5,10 +5,5 @@
   "type": "degree",
   "description": "Computer applications; a direct route into software.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bca.job",
-    "bca.higher-education",
-    "bca.government"
-  ]
+  "status": "published"
 }

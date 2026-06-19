@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Teaching qualification for schools.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

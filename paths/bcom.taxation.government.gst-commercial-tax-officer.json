@@ -5,6 +5,5 @@
   "type": "field",
   "description": "State / central tax officer roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Study and dig into the past.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

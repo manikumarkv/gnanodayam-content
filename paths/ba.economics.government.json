@@ -5,10 +5,5 @@
   "type": "fork",
   "description": "Economic service, RBI and civil services.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "ba.economics.government.indian-economic-service-upsc-ies",
-    "ba.economics.government.rbi-grade-b",
-    "ba.economics.government.upsc-cse"
-  ]
+  "status": "published"
 }

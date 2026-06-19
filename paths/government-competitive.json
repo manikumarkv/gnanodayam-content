@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Aim for a government job via competitive exams.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "government-competitive.nda-defence",
-    "government-competitive.ssc",
-    "government-competitive.banking-ibps-sbi",
-    "government-competitive.upsc-civil-services"
-  ]
+  "status": "published"
 }

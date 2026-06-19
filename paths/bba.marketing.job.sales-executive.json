@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Sell products and hit targets.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

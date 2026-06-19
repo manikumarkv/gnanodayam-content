@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Scientist and technical posts at national space agency.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

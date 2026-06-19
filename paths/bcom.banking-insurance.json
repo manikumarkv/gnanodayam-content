@@ -5,10 +5,5 @@
   "type": "branch",
   "description": "Customer-facing money services and risk.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bcom.banking-insurance.job",
-    "bcom.banking-insurance.higher-education",
-    "bcom.banking-insurance.government"
-  ]
+  "status": "published"
 }

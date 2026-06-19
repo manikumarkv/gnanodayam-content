@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Psychologist in government hospitals.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

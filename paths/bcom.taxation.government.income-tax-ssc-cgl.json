@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Income-tax officer via SSC CGL.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

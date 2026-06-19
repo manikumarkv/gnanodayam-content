@@ -5,12 +5,5 @@
   "type": "degree",
   "description": "Business administration; the runway to management & an MBA.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bba.marketing",
-    "bba.finance",
-    "bba.human-resources",
-    "bba.operations",
-    "bba.business-analytics"
-  ]
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Design and run power generation and grids.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

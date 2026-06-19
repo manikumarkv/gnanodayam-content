@@ -5,6 +5,5 @@
   "type": "field",
   "description": "A path you can explore from here.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

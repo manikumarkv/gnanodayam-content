@@ -5,11 +5,5 @@
   "type": "degree",
   "description": "Commerce degree; the base for accounting, finance and business.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bcom.accounting",
-    "bcom.finance",
-    "bcom.taxation",
-    "bcom.banking-insurance"
-  ]
+  "status": "published"
 }

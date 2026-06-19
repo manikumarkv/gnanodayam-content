@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Engineer soil and foundations.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

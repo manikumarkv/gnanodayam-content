@@ -5,11 +5,5 @@
   "type": "fork",
   "description": "Global finance credentials and an MBA.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bcom.finance.higher-education.cfa",
-    "bcom.finance.higher-education.mba-finance",
-    "bcom.finance.higher-education.mcom",
-    "bcom.finance.higher-education.frm"
-  ]
+  "status": "published"
 }

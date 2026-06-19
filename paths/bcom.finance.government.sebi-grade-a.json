@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Officer at the markets regulator.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

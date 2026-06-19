@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Statistical Service officer via UPSC.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

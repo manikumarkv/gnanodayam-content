@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Work on social impact and development.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

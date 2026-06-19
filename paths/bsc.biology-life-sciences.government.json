@@ -5,12 +5,5 @@
   "type": "fork",
   "description": "Research councils, forest service, drug inspection.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "bsc.biology-life-sciences.government.icmr",
-    "bsc.biology-life-sciences.government.drug-inspector",
-    "bsc.biology-life-sciences.government.forest-service-ifs",
-    "bsc.biology-life-sciences.government.upsc",
-    "bsc.biology-life-sciences.government.teaching-net"
-  ]
+  "status": "published"
 }

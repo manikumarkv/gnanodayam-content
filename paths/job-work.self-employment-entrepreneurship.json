@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Start something of your own — a trade or small business.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

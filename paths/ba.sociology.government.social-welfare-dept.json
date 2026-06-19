@@ -5,6 +5,5 @@
   "type": "field",
   "description": "State social-welfare department roles.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Officer role at India’s central bank.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

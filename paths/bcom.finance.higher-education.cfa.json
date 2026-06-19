@@ -5,6 +5,5 @@
   "type": "field",
   "description": "Global credential for investment and finance.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

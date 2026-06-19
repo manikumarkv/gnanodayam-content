@@ -5,6 +5,5 @@
   "type": "role",
   "description": "Handle GST filing and compliance.",
   "roleSlug": null,
-  "status": "published",
-  "children": []
+  "status": "published"
 }

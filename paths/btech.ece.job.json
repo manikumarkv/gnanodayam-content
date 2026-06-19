@@ -5,15 +5,5 @@
   "type": "fork",
   "description": "Hardware, chip and software roles for ECE grads.",
   "roleSlug": null,
-  "status": "published",
-  "children": [
-    "btech.ece.job.vlsi-design-engineer",
-    "btech.ece.job.embedded-systems-engineer",
-    "btech.ece.job.frontend-developer",
-    "btech.ece.job.data-analyst",
-    "btech.ece.job.telecom-engineer",
-    "btech.ece.job.hardware-design-engineer",
-    "btech.ece.job.firmware-engineer",
-    "btech.ece.job.network-engineer"
-  ]
+  "status": "published"
 }
