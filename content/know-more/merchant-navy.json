@@ -1,0 +1,119 @@
+{
+  "title": "Merchant Navy",
+  "kicker": "Seafaring career (DG Shipping)",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Work on merchant ships — cargo ships, tankers and container ships — as a deck officer, an engine officer or a rating. Officers usually start with a B.Sc in Nautical Science (deck) or a B.Tech in Marine Engineering (engine), which are university degrees. Your career at sea, though, runs on Certificates of Competency from the Directorate General of Shipping (DG Shipping), earned through sea time and exams. The GP Rating course is a short training course, not a degree."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3–4 years",
+            "note": "B.Sc Nautical Science 3 years; B.Tech Marine Engineering 4 years; GP Rating about 6 months"
+          },
+          {
+            "label": "Indian seafarers",
+            "value": "~3.2 lakh",
+            "note": "Up from ~1.17 lakh in 2013-14",
+            "source": "New India Samachar (Government of India)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Marine Engineering UG students",
+            "value": "~7,200",
+            "note": "UG discipline table, based on actual responses",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For officer courses: Class 12 with Physics, Chemistry and Mathematics, then IMU-CET, the entrance test of the Indian Maritime University for its campuses and DG Shipping-approved institutes. Minimum marks, English marks and age limits apply, and you must meet medical and eyesight standards. The GP Rating course is open after Class 10 or 12 at DG Shipping-approved institutes."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Join only DG Shipping-approved institutes; DG Shipping lists them and warns about fraud by unapproved agents.",
+          "After training, a cadet needs a ship placement to log sea time, and this step can take time.",
+          "Officers rise through DG Shipping exams: Second Mate, Chief Mate and Master on deck; MEO Class IV to Class I in the engine room.",
+          "Contracts mean months away from home at a time."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Marine Engineering UG enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  5489,
+                  7153,
+                  7198
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Based on actual responses; Nautical Science is not listed separately.",
+        "source": "AISHE 2021-22 to 2023-24, UG discipline table (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job at Sea / Ashore",
+            "href": "/explore/merchant-navy.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/merchant-navy.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/merchant-navy.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
