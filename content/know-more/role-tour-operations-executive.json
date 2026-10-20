@@ -1,0 +1,82 @@
+{
+  "title": "Tour Operations Executive",
+  "kicker": "Role · Travel & tourism",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Once a tour is sold, the operations team makes it happen. A tour operations executive books hotels, coaches, cars and guides, prepares the day-wise schedule, and sorts out problems while travellers are on the road. Employers are tour operators, destination-management companies and travel agencies, including firms that handle inbound foreign tourists."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (Tourism), BTTM or any graduate"
+          },
+          {
+            "label": "Common tools",
+            "value": "Booking portals, Excel, supplier contracts, messaging apps"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Office-based with on-call duty while tours are running"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join tour operators or destination-management companies as operations trainees, often after an internship. Knowledge of a region's routes and hotels, or a foreign language for inbound tourism, helps."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Supplier coordination and negotiation",
+          "Itinerary and logistics planning",
+          "Problem-solving during trips",
+          "Costing and record keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: operations manager, product manager, destination specialist.",
+          "On-call work during tours and peak seasons is common.",
+          "Business depends on tourist seasons and on events that disrupt travel."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Tourism & Travel",
+            "href": "/explore/bba.tourism-travel.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

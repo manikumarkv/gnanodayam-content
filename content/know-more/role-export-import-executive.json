@@ -1,0 +1,84 @@
+{
+  "title": "Export-Import Executive",
+  "kicker": "Role · Trade & logistics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An export-import executive keeps a company's cross-border shipments moving and its paperwork in order. Employers include exporters and importers, manufacturers that sell abroad, freight forwarders and customs brokers. A typical day involves preparing documents, booking and tracking shipments, and following up with buyers, banks and agents."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com or BBA, often in International Business",
+            "note": "Short export-import courses are a common add-on"
+          },
+          {
+            "label": "Key documents",
+            "value": "Invoice, packing list, shipping bill or bill of entry, bill of lading or airway bill, certificate of origin, letter of credit"
+          },
+          {
+            "label": "Common tools",
+            "value": "Customs and foreign-trade portals, Excel, ERP"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as documentation or EXIM executives at exporters, freight forwarders or customs brokerage firms. Knowing Incoterms and the main shipping documents helps at interviews; an internship with a forwarder or exporter is a common way in."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Export-import documentation",
+          "Incoterms and payment terms",
+          "Customs and foreign-trade procedures",
+          "Coordination with shippers, banks and agents",
+          "Spreadsheets and record-keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Accuracy matters: document errors can hold up shipments or payments.",
+          "Work can follow other time zones and shipping cut-off times.",
+          "Next roles: EXIM manager, international sales, or a move into logistics or trade finance."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · International Business",
+            "href": "/explore/bcom.international-business.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

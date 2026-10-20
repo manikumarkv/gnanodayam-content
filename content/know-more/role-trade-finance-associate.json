@@ -1,0 +1,83 @@
+{
+  "title": "Trade Finance Associate",
+  "kicker": "Role · Banking operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A trade finance associate works in the part of a bank that handles payments for exports and imports. Employers are banks and the operations centres that process trade transactions for them. A typical day involves checking documents against letter-of-credit terms, processing bills and remittances, and resolving queries from branches and clients."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com or BBA; MBA (Finance) for some roles"
+          },
+          {
+            "label": "Core instruments",
+            "value": "Letters of credit, bank guarantees, export and import bills, foreign remittances"
+          },
+          {
+            "label": "Rules you work with",
+            "value": "International documentary-credit rules (UCP 600), FEMA and RBI directions"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a bank's or banking-operations firm's trade finance team through campus or graduate hiring, often as an operations analyst. Commerce and international-business coursework helps; trade-finance certifications are optional add-ons that some employers value."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading trade and shipping documents",
+          "Letters of credit and guarantees",
+          "Foreign-exchange basics",
+          "Attention to detail and checklists",
+          "Banking software and Excel"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the entry work is process-driven and can run in shifts aligned to other time zones.",
+          "Compliance and accuracy are closely monitored.",
+          "Next roles: trade finance specialist, team lead, or a move into relationship management or compliance."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · International Business",
+            "href": "/explore/bcom.international-business.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

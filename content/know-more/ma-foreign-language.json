@@ -1,0 +1,83 @@
+{
+  "title": "M.A. in a Foreign Language",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year Master's in a foreign language such as French, German, Spanish, Japanese, Chinese or Russian. It builds advanced proficiency and covers literature, linguistics, translation and, in some universities, interpretation and language teaching methods."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "Postgraduate students in non-English foreign languages",
+            "value": "~8,700",
+            "note": "French, German, Spanish and other foreign languages, excluding English",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in the language, or proof of advanced proficiency for some programmes. Central universities admit through CUET-PG; others hold their own entrance tests."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats are limited and offered by a relatively small number of universities.",
+          "It is the usual base for UGC-NET in the language, a Ph.D., and college teaching.",
+          "Translation, interpretation and localisation work value proven proficiency as much as the degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related roles and paths",
+        "items": [
+          {
+            "label": "Translator",
+            "href": "/roles/translator"
+          },
+          {
+            "label": "Interpreter",
+            "href": "/roles/interpreter"
+          },
+          {
+            "label": "Language Trainer",
+            "href": "/roles/language-trainer"
+          },
+          {
+            "label": "Higher education options",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

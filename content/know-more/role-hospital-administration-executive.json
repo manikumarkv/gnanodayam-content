@@ -1,0 +1,83 @@
+{
+  "title": "Hospital Administration Executive",
+  "kicker": "Role · Healthcare administration",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A hospital administration executive handles the non-clinical side of a hospital so that doctors and nurses can focus on patients. Employers are private hospitals, hospital chains, diagnostic centres and some trust and government hospitals. A typical day moves between the admission desk, wards, billing and support services, sorting out bed allocation, patient queries, staff rosters and supply or maintenance issues."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (Hospital Management), BHA or any degree with hospital experience",
+            "note": "An MHA or MBA (Healthcare) is common for manager-level posts"
+          },
+          {
+            "label": "Common tools",
+            "value": "Hospital information system (HIS), Excel, email"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Shifts, including nights and weekends, in many hospitals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a private hospital as an administration, operations or front-office trainee, often after an internship in the same hospital during the degree. Larger hospital chains run management-trainee programmes for graduates of hospital-management courses."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Coordinating between clinical and support departments",
+          "Handling patients and families calmly under pressure",
+          "Working with hospital software and spreadsheets",
+          "Basic knowledge of accreditation (NABH) documentation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: unit or department manager, operations manager, quality executive.",
+          "An MHA, MBA (Healthcare) or MPH is often expected for manager posts.",
+          "The work is people-heavy and can be stressful during emergencies or bed shortages."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Hospital & Healthcare Management",
+            "href": "/explore/bba.hospital-healthcare-management.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

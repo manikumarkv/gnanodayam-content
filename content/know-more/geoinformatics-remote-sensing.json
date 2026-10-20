@@ -1,0 +1,76 @@
+{
+  "title": "Geoinformatics / Remote Sensing & GIS",
+  "kicker": "Postgraduate study",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Master's and postgraduate diploma programmes in geoinformatics, remote sensing and GIS teach how to collect, process and analyse location data — satellite and drone imagery, GPS surveys, digital maps and spatial databases. They are offered as an M.Sc., M.Tech, M.A. or PG diploma by universities and by government institutes such as ISRO's Indian Institute of Remote Sensing (IIRS), Dehradun."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "1–2 years",
+            "note": "PG diplomas are often about 1 year; M.Sc./M.Tech programmes 2 years"
+          },
+          {
+            "label": "Degree names",
+            "value": "M.Sc./M.Tech Geoinformatics, M.Sc. Remote Sensing & GIS, PG diplomas",
+            "note": "Content and eligibility differ by institution"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Eligibility varies: many programmes accept graduates in geography, geology, environmental science or other sciences, while M.Tech programmes usually ask for a B.E./B.Tech or an M.Sc. Admission is through university entrance tests, CUET-PG or institute tests and interviews. Read each programme's notice for the degree it accepts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Employers look for hands-on software skill — QGIS or ArcGIS, image processing, and often Python.",
+          "Work is found in mapping and survey firms, infrastructure and utility companies, environmental consultancies and government projects.",
+          "Short certificate courses are another way to build basic GIS skills before or alongside a degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "GIS Analyst",
+            "href": "/roles/gis-analyst"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

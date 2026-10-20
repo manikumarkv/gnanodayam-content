@@ -1,0 +1,87 @@
+{
+  "title": "Anthropology",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Anthropology as a major studies human beings in two broad strands: social and cultural anthropology (kinship, religion, tribes and communities) and biological or physical anthropology (human evolution, genetics and variation). Fieldwork among communities is a core part of training, and some universities also teach archaeological and forensic anthropology."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in Anthropology",
+            "value": "~4,500",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in Anthropology",
+            "value": "~430",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG; others admit on Class 12 marks or their own test. Relatively few universities teach anthropology, and some offer it in a B.Sc (with more biology) as well as a B.A."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A small subject — check which colleges near you offer it before planning around it.",
+          "Anthropology is an optional subject in the UPSC Civil Services exam.",
+          "Fieldwork and qualitative-research skills carry into development-sector, social-research and market-research work.",
+          "Research and teaching posts usually need a master's, and often UGC-NET or a Ph.D."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Market Research Analyst",
+            "href": "/roles/market-research-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

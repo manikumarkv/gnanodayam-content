@@ -1,0 +1,75 @@
+{
+  "title": "NHM Hospital & Programme Management Posts",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Under the National Health Mission (NHM), state and district health societies hire non-clinical staff to run hospitals and health programmes — hospital managers, district and block programme managers, accounts managers, and data and monitoring staff. Most of these posts are contractual and are advertised by each state's health society."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Employer type",
+            "value": "State and district health societies under NHM"
+          },
+          {
+            "label": "Usual qualification for manager posts",
+            "value": "MBA/PGDM in hospital or health management, MHA or MPH",
+            "note": "Some support posts (accounts, data, office) accept graduates"
+          },
+          {
+            "label": "Typical employment",
+            "value": "Contractual / project-based"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For hospital-manager and programme-manager posts, the usual route is a BBA or other degree, then an MHA, MBA (Healthcare) or MPH, sometimes with hospital experience. Each state's health society publishes its own notice with eligibility, age limit and selection — usually a written test, interview or merit list."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Eligibility, pay and experience requirements differ from state to state and notice to notice.",
+          "Most posts are contracts that are renewed periodically, not permanent government jobs.",
+          "Postings can be in district hospitals or block-level offices, often outside big cities."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Hospital Administration Executive",
+            "href": "/roles/hospital-administration-executive"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Administrative Executive",
+  "kicker": "Role · Office administration",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An administrative executive keeps an office running: facilities and housekeeping, vendor contracts, supplies, records, travel bookings and support for meetings and events. Companies of every size hire them, as do schools, hospitals, NGOs and colleges. A typical day mixes coordination, paperwork and fixing small problems as they come up."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate — BA, B.Com or BBA"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, Word, email, basic purchase or expense software"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as admin executives, admin assistants or office coordinators through job portals, walk-ins or referrals. Clear communication, comfort with Excel and an organised approach count heavily in selection."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Vendor and facility coordination",
+          "Record-keeping and filing",
+          "Excel for trackers and expense sheets",
+          "Clear written and spoken communication",
+          "Planning travel, meetings and events"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The role differs a lot by employer — from a small office to a large campus.",
+          "Common next roles: admin manager, facilities manager, or a move into operations or HR.",
+          "Much of the work is reactive, so juggling many small tasks is part of the job."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.A. · Public Administration",
+            "href": "/explore/ba.public-administration.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Philosophy",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Philosophy as a major studies how to reason and argue well — logic, ethics, theories of knowledge and of the mind — through Indian schools such as Nyaya, Vedanta, Buddhist and Jain thought, and through Western philosophers. The work is close reading of difficult texts and writing careful arguments."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in Philosophy",
+            "value": "~14,000",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in Philosophy",
+            "value": "~3,100",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG; others admit on Class 12 marks or their own test. Fewer colleges offer philosophy than most other arts majors, so check which universities near you teach it."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "There is no single 'philosopher' job; graduates carry reasoning and writing skills into writing, editing, research, law and teaching.",
+          "Philosophy is an optional subject in the UPSC Civil Services exam, and the ethics paper in general studies covers related ground.",
+          "College teaching needs a master's plus UGC-NET or a Ph.D., and posts are limited.",
+          "Common next steps: an M.A. Philosophy, a 3-year LL.B., public policy study, or civil-services preparation."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

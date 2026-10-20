@@ -1,0 +1,79 @@
+{
+  "title": "MTTM / MBA (Tourism & Travel)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in the business of tourism — tour operations, travel agency management, destination planning, hospitality, tourism marketing and policy. Universities offer it as an MTTM (Master of Tourism and Travel Management) or an MBA in tourism; the Indian Institute of Tourism and Travel Management (IITTM), under the Ministry of Tourism, also runs an MBA in this area."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Usually includes an internship with a travel or hospitality firm"
+          },
+          {
+            "label": "PG students in tourism management",
+            "value": "~3,700",
+            "note": "All PG programmes reported under this subject",
+            "source": "AISHE 2023-24, PG enrolment by subject, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any subject, usually with a minimum percentage. Admission is through a university entrance test, CUET-PG at participating universities, or a management test (such as CAT, MAT or CMAT) accepted by the institute, followed by a group discussion or interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It suits those aiming for travel-company, tour-operations or tourism-board roles at a higher entry level.",
+          "Placements depend heavily on the tourism cycle and the institute's industry links.",
+          "A UGC-NET in tourism administration and management can lead to college teaching."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Travel Consultant",
+            "href": "/roles/travel-consultant"
+          },
+          {
+            "label": "Tour Operations Executive",
+            "href": "/roles/tour-operations-executive"
+          },
+          {
+            "label": "Higher education options",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

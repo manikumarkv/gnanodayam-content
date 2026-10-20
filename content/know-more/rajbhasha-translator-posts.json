@@ -1,0 +1,84 @@
+{
+  "title": "Hindi Translator & Rajbhasha Posts",
+  "kicker": "Government official-language posts",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Central ministries, banks and public-sector companies employ staff to translate documents between Hindi and English and to implement the Official Language (Rajbhasha) policy. Central posts such as Junior Hindi Translator and Junior Translation Officer are filled through an SSC exam; banks recruit Rajbhasha Adhikari (official-language officers) through specialist-officer recruitment."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Central government exam",
+            "value": "SSC Combined Hindi Translators Examination"
+          },
+          {
+            "label": "Bank route",
+            "value": "Rajbhasha Adhikari",
+            "note": "Specialist officer posts, for example through IBPS SO"
+          },
+          {
+            "label": "Usual qualification",
+            "value": "Master's in Hindi or English",
+            "note": "With the other language studied at degree level; some posts also ask for a translation diploma or experience"
+          },
+          {
+            "label": "Age limit for SSC translator posts",
+            "value": "Up to 30 years",
+            "note": "Relaxations apply for reserved categories",
+            "source": "SSC Combined Hindi Translators Exam notice (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Finish a B.A. with Hindi and/or English, then a Master's in one of them. Apply when SSC or the bank recruitment bodies notify posts; the exams test translation, both languages and general knowledge of the subject."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A B.A. alone usually does not meet the qualification; the Master's is the gate.",
+          "Vacancies are notified once a year or less and vary widely between cycles.",
+          "State governments and PSUs also hire for official-language work through their own notices."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related roles and paths",
+        "items": [
+          {
+            "label": "Translator",
+            "href": "/roles/translator"
+          },
+          {
+            "label": "Government exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Bilingual Process Associate",
+  "kicker": "Role · Operations & support",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A bilingual process associate handles customer support or back-office tasks in a foreign language, usually for overseas customers of a global company. BPO/KPO firms and shared-service centres in large cities hire for these language processes, often in shifts that match the customers' time zone."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any degree plus certified language proficiency",
+            "note": "Often CEFR B2 or JLPT N3 and above"
+          },
+          {
+            "label": "Common tools",
+            "value": "CRM and ticketing systems, email, chat tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Apply to language processes at BPO/KPO and shared-service companies; selection is usually a language test, a typing or comprehension test, and an interview conducted partly in the language."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading and writing in the language",
+          "Customer communication",
+          "Accuracy with process rules",
+          "Typing speed and comfort with ticketing tools"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "This is the most common entry job for foreign-language graduates.",
+          "Night or rotating shifts are common for European and American processes.",
+          "Growth paths lead to team lead, quality analyst, trainer or translation roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.A. · Foreign Languages",
+            "href": "/explore/ba.foreign-languages.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

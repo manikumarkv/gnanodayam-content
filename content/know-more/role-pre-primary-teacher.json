@@ -66,6 +66,10 @@
           {
             "label": "Vocational · D.El.Ed",
             "href": "/explore/vocational-skilling.d-el-ed.job"
+          },
+          {
+            "label": "BA · Education",
+            "href": "/explore/ba.education.job"
           }
         ]
       }

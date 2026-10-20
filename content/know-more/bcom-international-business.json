@@ -1,0 +1,123 @@
+{
+  "title": "International Business",
+  "kicker": "B.Com specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.Com with a focus on cross-border trade — run as B.Com (International Business) or B.Com (Foreign Trade) at some universities, and as a set of electives at others. On top of the commerce core, you study the international business environment, export-import procedures and documentation, foreign exchange, international marketing, trade finance, and trade policy and agreements."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "B.Com students (all specialisations)",
+            "value": "~39–41 lakh",
+            "note": "All modes; the higher figure includes B.Com (Hons)",
+            "source": "AISHE 2023-24, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "India's total exports",
+            "value": "~USD 825 billion",
+            "note": "Goods and services combined; a measure of trade activity, not of jobs",
+            "source": "Ministry of Commerce & Industry (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Needed to trade across borders",
+            "value": "Importer-Exporter Code (IEC)",
+            "note": "Issued by the Directorate General of Foreign Trade (DGFT) to businesses, not to individuals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 (commerce preferred, not always required). Central and many other universities admit through CUET-UG; others admit on Class 12 marks or their own process. Where International Business is a named programme, you choose it at admission; elsewhere you pick trade and international-business electives in later semesters."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry work is mostly documentation and coordination — at exporters and importers, freight forwarders, customs brokers and bank trade-finance desks.",
+          "Familiarity with Incoterms and shipping documents (invoice, packing list, shipping bill, bill of lading, letter of credit) is commonly expected.",
+          "A foreign language helps for some buyer-facing roles but is rarely required.",
+          "Common next steps: an MBA (International Business), an M.Com, or a master's abroad."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "India's exports by type",
+        "unit": "USD bn",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Merchandise (goods)",
+                "value": 437.4
+              },
+              {
+                "label": "Services",
+                "value": 387.5
+              }
+            ]
+          }
+        },
+        "note": "Provisional annual figures; later revisions may change them.",
+        "source": "Ministry of Commerce & Industry (as reported)",
+        "date": "2024-25",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Export-Import Executive",
+            "href": "/roles/export-import-executive"
+          },
+          {
+            "label": "Trade Finance Associate",
+            "href": "/roles/trade-finance-associate"
+          },
+          {
+            "label": "Logistics Coordinator",
+            "href": "/roles/logistics-coordinator"
+          },
+          {
+            "label": "Market Research Analyst",
+            "href": "/roles/market-research-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Tourism & Travel",
+  "kicker": "BBA specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A BBA track on the travel business — tour operations and itinerary planning, travel agency management, airline ticketing, destination knowledge, hospitality basics and tourism marketing. A related named degree is the Bachelor of Tourism and Travel Management (BTTM)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Regulator",
+            "value": "AICTE approval since 2024-25",
+            "note": "Alongside the affiliating university; BBA, BCA and BMS were brought under AICTE from 2024-25",
+            "source": "AICTE Approval Process Handbook 2024-27 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "BBA students (all specialisations)",
+            "value": "~8.8 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Foreign tourist arrivals",
+            "value": "~99.5 lakh",
+            "note": "Calendar year 2024",
+            "source": "Ministry of Tourism (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Domestic tourist visits",
+            "value": "~295 crore",
+            "note": "Visits, not unique travellers; calendar year 2024",
+            "source": "Ministry of Tourism (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Admission is by Class 12 marks, CUET-UG, or a university's own test. Some universities offer the specialisation from the start as a named programme; others let you choose it in the second or third year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is in travel agencies, tour operators, online travel companies and hotels; peak seasons bring long hours.",
+          "Travel demand rises and falls with seasons, the economy and disruptions such as the 2020–21 pandemic.",
+          "Ticketing (GDS) training, a foreign language and destination knowledge are useful additions.",
+          "Common next steps: an MTTM or an MBA."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Travel Consultant",
+            "href": "/roles/travel-consultant"
+          },
+          {
+            "label": "Tour Operations Executive",
+            "href": "/roles/tour-operations-executive"
+          },
+          {
+            "label": "Reservation & Ticketing Executive",
+            "href": "/roles/reservation-ticketing-executive"
+          },
+          {
+            "label": "Tour Manager",
+            "href": "/roles/tour-manager"
+          },
+          {
+            "label": "Front Office Executive",
+            "href": "/roles/front-office-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

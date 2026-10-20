@@ -1,0 +1,83 @@
+{
+  "title": "Translator",
+  "kicker": "Role · Languages & media",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A translator turns written material from one language into another — legal and business documents, websites, apps, books, subtitles and government papers. Translation agencies, localisation companies, publishers, media houses and government offices hire translators, and many work freelance."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.A. or M.A. in the language(s)",
+            "note": "A translation diploma or certificate helps"
+          },
+          {
+            "label": "Common tools",
+            "value": "CAT tools, translation memory, word processors"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start with agency or freelance work, taking a test translation. A strong command of both languages and a few sample translations matter more than the degree title."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Writing accurately in both languages",
+          "Terminology research",
+          "Proofreading and editing",
+          "Using CAT and translation-memory tools"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is often project-based, and freelance income can be uneven.",
+          "Machine translation now handles first drafts in many fields; human post-editing is a growing share of work.",
+          "Specialising (legal, medical, technical, subtitles) widens the work available."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.A. · Hindi / Regional Languages",
+            "href": "/explore/ba.hindi-regional-languages.job"
+          },
+          {
+            "label": "B.A. · Foreign Languages",
+            "href": "/explore/ba.foreign-languages.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

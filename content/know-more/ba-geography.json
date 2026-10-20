@@ -1,0 +1,91 @@
+{
+  "title": "Geography",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Geography as a major studies the earth's physical features — landforms, climate, soils and water — together with people: population, settlements, agriculture, economy and regions. Map work, surveying practicals, fieldwork and an introduction to GIS and remote sensing are usually part of the course."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in Geography",
+            "value": "~78,000",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in Geography",
+            "value": "~2,700",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG, where geography can be one of the subject tests counted; others admit on Class 12 marks or their own test. Some universities offer geography in a B.Sc as well as a B.A."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Geography is a school subject, so school teaching (with a B.Ed) is a common route.",
+          "GIS and remote-sensing skills link the subject to mapping and geospatial jobs; these usually need extra software training.",
+          "Geography is an optional subject in the UPSC Civil Services exam, and Indian and world geography are part of general studies.",
+          "Common next steps: an M.A./M.Sc. Geography, a geoinformatics course, a B.Ed, or civil-services preparation."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "GIS Analyst",
+            "href": "/roles/gis-analyst"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

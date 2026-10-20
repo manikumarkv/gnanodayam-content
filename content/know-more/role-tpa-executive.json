@@ -1,0 +1,83 @@
+{
+  "title": "TPA / Insurance Desk Executive",
+  "kicker": "Role · Health insurance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "When a patient uses health insurance, the hospital's insurance (TPA) desk asks the insurer or its third-party administrator (TPA) for cashless approval, sends the bills at discharge and follows up on the claim. The same role exists on the other side, at TPAs and insurers, checking those claims. The day is mostly document checks, portal entries and calls with patients and insurers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (Hospital Management), B.Com or B.Sc",
+            "note": "Claim-processing teams at TPAs also hire nursing and life-science graduates"
+          },
+          {
+            "label": "Common tools",
+            "value": "Insurer and TPA portals, hospital billing software, Excel"
+          },
+          {
+            "label": "Key terms",
+            "value": "Pre-authorisation, cashless, reimbursement, room-rent limits, deductions"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join a hospital's insurance or billing desk, or a TPA or insurer's claims team, usually as a trainee. Hospitals often train new staff on each insurer's process on the job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading policy terms and exclusions",
+          "Preparing complete claim documents",
+          "Medical terminology basics",
+          "Explaining approvals and deductions to patients"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: insurance desk lead, billing manager, claims team lead.",
+          "Health-insurance coverage has grown, which keeps this desk busy in most private hospitals.",
+          "Disputes over deductions are frequent, so patience and accuracy matter."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Hospital & Healthcare Management",
+            "href": "/explore/bba.hospital-healthcare-management.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

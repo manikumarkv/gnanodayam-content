@@ -1,0 +1,83 @@
+{
+  "title": "Travel Consultant",
+  "kicker": "Role · Travel & tourism",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A travel consultant helps customers decide where to go and puts the trip together — flights, hotels, transfers, sightseeing, visas and insurance — then sells it as a package. Employers are travel agencies, tour operators and online travel companies. The job is part planning, part sales, and many roles carry monthly sales targets."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (Tourism), BTTM or any graduate",
+            "note": "Ticketing and destination training are common add-ons"
+          },
+          {
+            "label": "Common tools",
+            "value": "Booking portals, GDS, CRM software, messaging apps"
+          },
+          {
+            "label": "Pay structure",
+            "value": "Fixed pay plus sales incentives in many firms"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join travel agencies, tour operators or online travel companies as sales or reservation trainees. Internships with travel firms during the degree and a short ticketing course help with a first offer."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Destination and product knowledge",
+          "Itinerary building and costing",
+          "Sales and follow-up",
+          "Visa and travel-document basics"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior consultant, product or destination specialist, branch manager.",
+          "Peak holiday seasons mean long hours and weekend work.",
+          "Income can depend on sales incentives, so it varies month to month."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Tourism & Travel",
+            "href": "/explore/bba.tourism-travel.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
