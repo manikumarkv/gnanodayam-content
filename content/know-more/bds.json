@@ -1,0 +1,117 @@
+{
+  "title": "BDS",
+  "kicker": "Undergraduate dental degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The dental degree that qualifies you as a dentist: four years of study followed by a one-year compulsory rotating internship. After it you register with a State Dental Council to practise, or go on to specialise through an MDS."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5 years",
+            "note": "4 years of study + 1-year compulsory internship"
+          },
+          {
+            "label": "BDS seats",
+            "value": "~27,500",
+            "note": "Roughly flat since 2014 (~26,200)",
+            "source": "MoHFW reply in Lok Sabha (as reported)",
+            "date": "2021",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~1 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "NEET-UG. Seats are filled through MCC counselling (all-India quota and deemed universities) and state counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Registration with a State Dental Council is required to practise.",
+          "Most seats are in private colleges, so fees vary widely.",
+          "Specialisation is through an MDS, via NEET-MDS."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BDS enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  100640,
+                  99422,
+                  100246
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bds.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bds.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bds.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "LLB (Law)",
+  "kicker": "Undergraduate law degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A law degree, in two forms: a five-year integrated programme straight after Class 12 (BA LLB, BBA LLB, B.Com LLB and others), or a three-year LLB after any bachelor's degree. Both are regulated by the Bar Council of India and lead to practice, corporate legal work, the judiciary or further study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5 years (integrated) or 3 years (after a degree)"
+          },
+          {
+            "label": "Students enrolled, 3-year LLB",
+            "value": "~5.1 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled, BA LLB",
+            "value": "~2 lakh",
+            "note": "All modes; BBA LLB and B.Com LLB add ~50,000 more",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "National Law Universities in CLAT",
+            "value": "26",
+            "source": "Consortium of NLUs",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Five-year programmes: CLAT (most National Law Universities), AILET (NLU Delhi), state law CETs, and university tests. Three-year LLB: state law CETs or university merit after graduation."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "To practise you enrol with a State Bar Council and pass the All India Bar Examination (AIBE).",
+          "Litigation, corporate law and the judiciary are quite different paths with different routines.",
+          "An LLM (one year, via CLAT PG and other tests) is the usual next degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "3-year LLB enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2018-19",
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  362493,
+                  395985,
+                  409725,
+                  455718,
+                  484002,
+                  511824
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2022-23 & 2023-24, regular mode (Ministry of Education)",
+        "date": "2018-19 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/llb.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/llb.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/llb.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

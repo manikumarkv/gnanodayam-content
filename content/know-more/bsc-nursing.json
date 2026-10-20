@@ -1,0 +1,122 @@
+{
+  "title": "B.Sc Nursing",
+  "kicker": "Undergraduate nursing degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A four-year nursing degree that prepares you to work as a registered nurse and midwife, with clinical training in hospitals throughout. It is regulated by the Indian Nursing Council and the State Nursing Councils."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters with hospital-based clinical training"
+          },
+          {
+            "label": "B.Sc Nursing seats",
+            "value": "~1–1.1 lakh",
+            "source": "MoHFW replies in Parliament (as reported)",
+            "date": "2020–21",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~5.5 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology (and English). Entry varies by state: some use NEET-UG scores, others a state or university entrance test. AIIMS runs its own entrance for B.Sc (Hons) Nursing."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Graduates register with a State Nursing Council as a Registered Nurse and Registered Midwife.",
+          "Regular-mode enrolment rose about 88% between 2019-20 and 2023-24.",
+          "Government nursing-officer posts are filled through exams such as the AIIMS NORCET."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Sc Nursing enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2018-19",
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  255071,
+                  289280,
+                  340404,
+                  399910,
+                  486436,
+                  544953
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2022-23 & 2023-24, regular mode (Ministry of Education)",
+        "date": "2018-19 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bsc-nursing.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc-nursing.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc-nursing.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
