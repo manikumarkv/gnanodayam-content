@@ -1,0 +1,118 @@
+{
+  "title": "BAMS",
+  "kicker": "Undergraduate Ayurveda degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Bachelor of Ayurvedic Medicine and Surgery. You study anatomy, physiology and other medical basics alongside Ayurveda theory, herbal pharmacology and panchakarma, then complete a one-year internship. It is regulated by the National Commission for Indian System of Medicine (NCISM)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5½ years",
+            "note": "4½ years of study + 1-year compulsory rotatory internship"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~89,000",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG seats",
+            "value": "~38,000",
+            "note": "Across ~515 colleges permitted for 2025-26 (list as on 29 Aug 2025); approx. sum",
+            "source": "NCISM list of permitted Ayurveda colleges, approx.",
+            "date": "2025-26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, and a qualifying NEET-UG score. AACCC (Ministry of Ayush) counsels the 15% All India Quota and central, national-institute and deemed-university seats; states fill the rest through their own counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Practice needs registration with a State Board or Council of Indian Medicine.",
+          "Roughly four in five permitted Ayurveda colleges are private.",
+          "An MD or MS (Ayurveda) through AIAPGET is the usual way to specialise."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BAMS enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  66423,
+                  99508,
+                  89108
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bams.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bams.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bams.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

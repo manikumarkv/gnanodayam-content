@@ -1,0 +1,110 @@
+{
+  "title": "BFA (Fine Arts)",
+  "kicker": "Undergraduate fine arts degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A degree in visual art. You pick a stream such as painting, applied art, sculpture or printmaking, and spend much of your time in studio practice alongside art history and theory. It leads to work as an artist, illustrator or designer, to art teaching, or to an MFA."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "3 years at some universities"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~30,200",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Most colleges add a practical drawing or aptitude test. Examples: Maharashtra's MAH-AAC-CET, and BHU, which combines CUET-UG scores with a practical test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A portfolio of your work often matters as much as marks, for admission and for jobs.",
+          "Applied art graduates often move into advertising, illustration and design.",
+          "Income for practising artists can be irregular; many combine studio work with teaching or commissions."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BFA enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  30298,
+                  30303,
+                  30237
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Enrolment has held steady at about 30,000. AISHE counts are based on institutions' own responses.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bfa.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bfa.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bfa.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

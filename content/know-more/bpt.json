@@ -1,0 +1,119 @@
+{
+  "title": "BPT",
+  "kicker": "Undergraduate physiotherapy degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Bachelor of Physiotherapy trains you to assess and treat movement problems caused by injury, illness, surgery or ageing, using exercise, manual therapy and electrotherapy. It ends with a compulsory clinical internship. Physiotherapy is regulated under the National Commission for Allied and Healthcare Professions (NCAHP) Act, 2021."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4.5–5 years",
+            "note": "Including internship. The NCAHP framework sets 4 years + a 1-year internship; many colleges still run 4 years + 6 months",
+            "source": "NCAHP curriculum and university ordinances (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~1.16 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Growth in enrolment",
+            "value": "~26% in two years",
+            "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+            "date": "2021-22 to 2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology. For 2026-27, admission is mostly through Class 12 marks, state counselling or university tests (for example GGSIPU CET). NCAHP has deferred a NEET-UG requirement for BPT to 2027-28 (as reported), so check the rule for your year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Physiotherapists work in hospitals, rehabilitation centres, sports settings and their own clinics.",
+          "An MPT (2 years) is the usual master's degree and the route to a specialisation.",
+          "Course length, entrance and registration rules are changing under NCAHP; check the current notice for your batch."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BPT enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  92586,
+                  104297,
+                  116439
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bpt.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bpt.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bpt.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

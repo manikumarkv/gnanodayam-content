@@ -1,0 +1,117 @@
+{
+  "title": "BUMS",
+  "kicker": "Undergraduate Unani medicine degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Bachelor of Unani Medicine and Surgery. Unani is a Greco-Arabic system of medicine practised in India. You study modern medical basics alongside Unani principles, pharmacology and regimenal therapy, then complete a one-year internship. It is regulated by the National Commission for Indian System of Medicine (NCISM)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5½ years",
+            "note": "4½ years of study + 1-year compulsory rotatory internship"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~8,700",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG seats",
+            "value": "~1,800",
+            "note": "Across ~33 colleges permitted for 2025-26 (list as on 29 Aug 2025); approx. sum",
+            "source": "NCISM list of permitted Unani colleges, approx.",
+            "date": "2025-26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, and a qualifying NEET-UG score. AACCC (Ministry of Ayush) counsels the 15% All India Quota and central, national-institute and deemed-university seats; states fill the rest through their own counselling. Students who have not passed Urdu, Arabic or Persian in Class 10 or 12 study Urdu in the first year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Uttar Pradesh has the largest number of Unani colleges.",
+          "Practice needs registration with a State Board or Council of Indian Medicine.",
+          "An MD or MS (Unani) through AIAPGET is the usual way to specialise."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BUMS enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  8422,
+                  8252,
+                  8696
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bums.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bums.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bums.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "title": "Pharm.D",
+  "kicker": "Doctor of Pharmacy degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A six-year Doctor of Pharmacy degree focused on clinical pharmacy: five years of study, with hospital postings in the later years, then a one-year internship or residency. Graduates may use the prefix \"Dr.\" under PCI's Pharm.D regulations. It is regulated by the Pharmacy Council of India (PCI)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "6 years",
+            "note": "5 years of study + 1-year internship or residency; B.Pharm holders can join a 3-year Post-Baccalaureate route"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~43,500",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Intake per college",
+            "value": "30 seats",
+            "note": "10 seats for Pharm.D (Post-Baccalaureate); PCI can revise this",
+            "source": "PCI Pharm.D Regulations 2008, as reproduced by universities",
+            "date": "2008",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics and Chemistry plus Mathematics or Biology, or a D.Pharm. Admission is through state entrance tests such as TS EAPCET and AP EAPCET, university tests, or Class 12 merit, depending on the state."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Registration with a State Pharmacy Council is needed to work as a pharmacist.",
+          "Enrolment rose from ~37,800 in 2021-22 to ~43,500 in 2023-24.",
+          "Work spans hospital clinical pharmacy, clinical research, pharmacovigilance and drug information."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Pharm.D enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  37767,
+                  40183,
+                  43533
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/pharm-d.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/pharm-d.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/pharm-d.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "title": "BSMS",
+  "kicker": "Undergraduate Siddha medicine degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Bachelor of Siddha Medicine and Surgery. Siddha is a traditional system of medicine from Tamil Nadu. You study modern medical basics alongside Siddha principles, pharmacology and external therapies such as varmam, then complete a one-year internship. It is regulated by the National Commission for Indian System of Medicine (NCISM)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5½ years",
+            "note": "4½ years of study + 1-year compulsory rotatory internship"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~3,300",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG seats",
+            "value": "~1,060",
+            "note": "Across 17 colleges permitted for 2025-26 (list as on 29 Aug 2025); approx. sum",
+            "source": "NCISM list of permitted Siddha colleges, approx.",
+            "date": "2025-26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, and a qualifying NEET-UG score. AACCC (Ministry of Ayush) counsels the 15% All India Quota and central, national-institute and deemed-university seats; states fill the rest through their own counselling. In Tamil Nadu, students who have not studied Tamil up to Class 10 or 12 study it in the first year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "16 of the 17 permitted Siddha colleges are in Tamil Nadu; one is in Kerala.",
+          "Practice needs registration with a State Board or Council of Indian Medicine.",
+          "An MD (Siddha) through AIAPGET is the usual way to specialise."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BSMS enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  2901,
+                  2842,
+                  3293
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bsms.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsms.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsms.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
