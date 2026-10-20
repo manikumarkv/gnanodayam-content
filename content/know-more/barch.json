@@ -1,0 +1,116 @@
+{
+  "title": "B.Arch",
+  "kicker": "Undergraduate architecture degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A five-year architecture degree that includes design studios, building technology, history and a period of practical training. Only people registered with the Council of Architecture may call themselves architects, and the B.Arch is the route to that registration."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5 years",
+            "note": "10 semesters, including practical training"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~65,000",
+            "note": "All modes; down from ~73,000 in 2021-22",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "First-year admissions",
+            "value": "~11,000 a year",
+            "source": "Council of Architecture data (as compiled by ArchitectureLive)",
+            "date": "2023-24 to 2025-26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "NATA (run by the Council of Architecture) or JEE Main Paper 2A (for NIT, IIIT and other centrally funded seats through JoSAA). You need Class 12 with Physics and Mathematics."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Council of Architecture registration is required to practise as an architect.",
+          "Enrolment has fallen over the last three survey years, and many private-college seats go unfilled.",
+          "An M.Arch or M.Plan (via GATE or university tests) is the usual next degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Arch enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  73125,
+                  70764,
+                  64596
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/barch.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/barch.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/barch.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

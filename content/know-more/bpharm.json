@@ -1,0 +1,122 @@
+{
+  "title": "B.Pharm",
+  "kicker": "Undergraduate pharmacy degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A four-year pharmacy degree covering pharmaceutics, pharmacology, pharmaceutical chemistry and pharmacognosy. It leads to work in pharmaceutical companies, hospitals and pharmacies, and to an M.Pharm. It is regulated by the Pharmacy Council of India."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; D.Pharm (2 years) and Pharm.D (6 years) are separate routes"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~5.9 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Growth in enrolment",
+            "value": "~2× in five years",
+            "source": "AISHE, regular mode (Ministry of Education)",
+            "date": "2019-20 to 2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology or Mathematics. Admission is through state CETs (for example MHT-CET), university tests or CUET-UG, and Class 12 merit in some states."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Registration with a State Pharmacy Council is needed to work as a registered pharmacist.",
+          "Fast growth has come with unfilled seats in some states.",
+          "An M.Pharm (via GPAT) is the usual next degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Pharm enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2018-19",
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  246358,
+                  293822,
+                  374695,
+                  451975,
+                  529029,
+                  590760
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2022-23 & 2023-24, regular mode (Ministry of Education)",
+        "date": "2018-19 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bpharm.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bpharm.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bpharm.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

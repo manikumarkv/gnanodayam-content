@@ -6,7 +6,7 @@
     {
       "discriminant": "text",
       "value": {
-        "body": "A three-year science degree in a specialisation — Computer Science, Physics, Chemistry, Mathematics, Statistics or Life Sciences. It leads to industry, research or a master's (M.Sc, MCA, MBA), and is a strong base for data and analytics careers."
+        "body": "A science degree in a subject such as Physics, Chemistry, Mathematics, Biology, Computer Science or Statistics. It is usually three years, with a four-year Honours or Honours-with-Research option at many universities under the NEP. It leads to jobs, an M.Sc, teaching (via B.Ed) or research."
       }
     },
     {
@@ -17,13 +17,22 @@
           {
             "label": "Course length",
             "value": "3 years",
-            "note": "4 years under some NEP-aligned universities"
+            "note": "4-year Honours / Honours with Research under NEP"
           },
           {
-            "label": "Annual graduates",
-            "value": "~10 lakh+",
-            "source": "AISHE, approx.",
-            "date": "2021–22",
+            "label": "Students enrolled",
+            "value": "~47–53 lakh",
+            "note": "All modes; the higher figure includes B.Sc (Hons)",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Graduates a year",
+            "value": "~11.5–13 lakh",
+            "note": "Slightly more than half are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
             "verified": false
           }
         ]
@@ -34,7 +43,7 @@
       "value": {
         "tone": "info",
         "title": "How you get in",
-        "body": "10+2 with science on merit, or a university entrance test (e.g. CUET)."
+        "body": "Class 12 with science. Central and many other universities admit through CUET-UG; others admit on Class 12 marks or a state process."
       }
     },
     {
@@ -42,33 +51,71 @@
       "value": {
         "title": "At a glance",
         "items": [
-          "B.Sc Computer Science / Statistics is a common route into software and data roles.",
-          "Research-minded? A master's then a PhD is the usual path.",
-          "Many pair it with an MCA or MBA to broaden options."
+          "Your subject (major) shapes most options more than the degree name does.",
+          "Common next steps are an M.Sc, a B.Ed for teaching, or research.",
+          "Regular-mode enrolment has stayed around 44–47 lakh for five years."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Who studies B.Sc",
+        "unit": "lakh students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Women",
+                "value": 25.1
+              },
+              {
+                "label": "Men",
+                "value": 21.9
+              }
+            ]
+          }
+        },
+        "note": "All modes, excluding B.Sc (Hons).",
+        "source": "AISHE 2023-24 (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
       }
     },
     {
       "discriminant": "links",
       "value": {
-        "title": "Roles this often leads to",
+        "title": "Paths to explore",
         "items": [
+          {
+            "label": "Computer Science",
+            "href": "/explore/bsc.computer-science"
+          },
+          {
+            "label": "Mathematics",
+            "href": "/explore/bsc.mathematics"
+          },
+          {
+            "label": "Statistics",
+            "href": "/explore/bsc.statistics"
+          },
+          {
+            "label": "Biology / Life Sciences",
+            "href": "/explore/bsc.biology-life-sciences"
+          },
           {
             "label": "Data Analyst",
             "href": "/roles/data-analyst"
-          },
-          {
-            "label": "Frontend Developer",
-            "href": "/roles/frontend-developer"
           }
         ]
       }
     }
   ],
-  "lastReviewed": "2026-06",
+  "lastReviewed": "2026-10",
   "createdBy": {
     "kind": "ai",
     "name": "Claude",
-    "at": "2026-06"
+    "at": "2026-10"
   }
 }

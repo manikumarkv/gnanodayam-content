@@ -1,0 +1,116 @@
+{
+  "title": "B.Des",
+  "kicker": "Undergraduate design degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A four-year design degree in an area such as product, communication, interaction (UX), fashion or textile design. It is studio-based: you learn by making, with a portfolio and projects at the centre. It is offered by IITs, the NIDs, NIFT and many universities."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters, mostly studio and project work"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~57,000",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.Des seats at IITs via UCEED",
+            "value": "~245",
+            "source": "UCEED seat matrix (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Design-aptitude entrance tests, usually followed by a studio test or interview: UCEED (IITs), NID DAT (NIDs), the NIFT entrance exam, and university or state tests. Class 12 in any stream is generally accepted."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "There is no licence or registration needed to work as a designer; your portfolio carries most weight.",
+          "Enrolment grew about 27% between 2021-22 and 2023-24.",
+          "An M.Des (through CEED or NID/NIFT admissions) is the usual next degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Des enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  44526,
+                  51460,
+                  56720
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bdes.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bdes.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bdes.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

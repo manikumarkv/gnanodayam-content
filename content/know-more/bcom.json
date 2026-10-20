@@ -6,7 +6,7 @@
     {
       "discriminant": "text",
       "value": {
-        "body": "A three-year commerce degree covering accounting, finance, taxation, economics and business law. It's the base for professional courses like CA, CMA and CS, and for analyst and management careers — often followed by an M.Com or an MBA."
+        "body": "A commerce degree covering accounting, finance, taxation, economics and business law. It is usually three years; under the NEP framework some universities offer a four-year Honours version. Many students prepare for CA, CS or CMA alongside it, and an M.Com or MBA is a common next step."
       }
     },
     {
@@ -17,13 +17,22 @@
           {
             "label": "Course length",
             "value": "3 years",
-            "note": "General or Honours; 6 semesters"
+            "note": "4-year Honours option under NEP; exit with a certificate or diploma is allowed"
           },
           {
-            "label": "Annual graduates",
-            "value": "~10–12 lakh",
-            "source": "AISHE, approx.",
-            "date": "2021–22",
+            "label": "Students enrolled",
+            "value": "~39–41 lakh",
+            "note": "All modes; the higher figure includes B.Com (Hons)",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Graduates a year",
+            "value": "~9.6–10 lakh",
+            "note": "About half are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
             "verified": false
           }
         ]
@@ -34,7 +43,7 @@
       "value": {
         "tone": "info",
         "title": "How you get in",
-        "body": "Mostly 10+2 (commerce preferred) on merit; some universities use an entrance test (e.g. DU CUET)."
+        "body": "Class 12 (commerce preferred, not always required). Central and many other universities admit through CUET-UG; others admit on Class 12 marks or their own process."
       }
     },
     {
@@ -42,17 +51,63 @@
       "value": {
         "title": "At a glance",
         "items": [
-          "The default launchpad for CA, CMA, CS and CFA aspirants.",
-          "Strong fit for accounting, finance, banking and analyst roles.",
-          "An MBA or M.Com is a common next step into management."
+          "CA, CS and CMA are separate professional qualifications, often studied alongside the degree.",
+          "Common next steps are an M.Com, an MBA, or a job in accounts, banking or finance.",
+          "Regular-mode enrolment dipped in 2022-23 and 2023-24 after growing earlier."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Com enrolment by year",
+        "unit": "lakh students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  36.7,
+                  37.9,
+                  38.7,
+                  37.4,
+                  34.1
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, regular mode (Ministry of Education)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {
       "discriminant": "links",
       "value": {
-        "title": "Roles this often leads to",
+        "title": "Paths to explore",
         "items": [
+          {
+            "label": "Accounting",
+            "href": "/explore/bcom.accounting"
+          },
+          {
+            "label": "Finance",
+            "href": "/explore/bcom.finance"
+          },
+          {
+            "label": "Banking & Insurance",
+            "href": "/explore/bcom.banking-insurance"
+          },
           {
             "label": "Business Analyst",
             "href": "/roles/business-analyst"
@@ -61,10 +116,10 @@
       }
     }
   ],
-  "lastReviewed": "2026-06",
+  "lastReviewed": "2026-10",
   "createdBy": {
     "kind": "ai",
     "name": "Claude",
-    "at": "2026-06"
+    "at": "2026-10"
   }
 }

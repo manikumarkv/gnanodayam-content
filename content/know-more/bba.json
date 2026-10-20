@@ -1,12 +1,12 @@
 {
   "title": "BBA",
-  "kicker": "Undergraduate business-administration degree",
+  "kicker": "Undergraduate business degree",
   "status": "published",
   "blocks": [
     {
       "discriminant": "text",
       "value": {
-        "body": "A three-year management degree covering marketing, finance, HR, operations and business analytics. It's the runway to an MBA and to early business, analyst and operations roles."
+        "body": "A business administration degree covering management, marketing, finance, HR and operations. It is usually three years, with four-year Honours options under the NEP. Some institutes, including several IIMs, run five-year integrated programmes that combine a BBA with an MBA."
       }
     },
     {
@@ -17,12 +17,22 @@
           {
             "label": "Course length",
             "value": "3 years",
-            "note": "6 semesters; some are BBM/BMS"
+            "note": "4-year Honours options; 5-year integrated BBA + MBA at some institutes"
           },
           {
-            "label": "Typical next degree",
-            "value": "MBA / PGDM",
-            "note": "2 years; the usual step into management"
+            "label": "Students enrolled",
+            "value": "~8.8 lakh",
+            "note": "All modes; about 61% are men",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Graduates a year",
+            "value": "~1.75 lakh",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -32,7 +42,7 @@
       "value": {
         "tone": "info",
         "title": "How you get in",
-        "body": "10+2 on merit, or a management entrance test (e.g. CUET, IPMAT, SET, NPAT)."
+        "body": "Class 12 in any stream. Admission is by Class 12 marks, CUET-UG, or a university's own test. Integrated BBA + MBA programmes at IIMs use their own entrance tests (for example IPMAT)."
       }
     },
     {
@@ -40,17 +50,63 @@
       "value": {
         "title": "At a glance",
         "items": [
-          "Most value comes when paired with an MBA — plan for both.",
-          "The Business Analytics specialisation feeds analyst and product roles.",
-          "Internships matter a lot for early business and sales jobs."
+          "An MBA is the most common next step, often after a few years of work.",
+          "Regular-mode enrolment grew about 49% between 2019-20 and 2023-24.",
+          "You usually pick a specialisation, such as marketing, finance or HR, in the later years."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BBA enrolment by year",
+        "unit": "lakh students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  5.3,
+                  5.8,
+                  6.6,
+                  7.4,
+                  7.9
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, regular mode (Ministry of Education)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {
       "discriminant": "links",
       "value": {
-        "title": "Roles this often leads to",
+        "title": "Paths to explore",
         "items": [
+          {
+            "label": "Business Analytics",
+            "href": "/explore/bba.business-analytics"
+          },
+          {
+            "label": "Marketing",
+            "href": "/explore/bba.marketing"
+          },
+          {
+            "label": "Finance",
+            "href": "/explore/bba.finance"
+          },
           {
             "label": "Business Analyst",
             "href": "/roles/business-analyst"
@@ -63,10 +119,10 @@
       }
     }
   ],
-  "lastReviewed": "2026-06",
+  "lastReviewed": "2026-10",
   "createdBy": {
     "kind": "ai",
     "name": "Claude",
-    "at": "2026-06"
+    "at": "2026-10"
   }
 }

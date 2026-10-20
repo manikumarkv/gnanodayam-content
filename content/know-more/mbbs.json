@@ -6,7 +6,7 @@
     {
       "discriminant": "text",
       "value": {
-        "body": "A five-and-a-half-year medical degree (including a one-year rotating internship) that qualifies you as a doctor. Most graduates then specialise via NEET-PG (MD/MS), or work in clinical practice, government health services or research."
+        "body": "The medical degree that qualifies you as a doctor: four and a half years of study followed by a one-year compulsory rotating internship. After it you register with the NMC or a state medical council, then practise, specialise through a PG entrance (MD/MS), or join government health services."
       }
     },
     {
@@ -17,20 +17,29 @@
           {
             "label": "Course length",
             "value": "5.5 years",
-            "note": "4.5 years academic + 1 year internship"
+            "note": "4.5 years of study + 1-year compulsory internship"
           },
           {
             "label": "MBBS seats",
-            "value": "~1.1 lakh",
-            "source": "NMC, approx.",
-            "date": "2024",
+            "value": "~1.2–1.4 lakh",
+            "note": "Sources count seats differently",
+            "source": "MoHFW / NMC (PIB, Lok Sabha replies), approx.",
+            "date": "2024–2026",
             "verified": false
           },
           {
-            "label": "NEET applicants",
-            "value": "~24 lakh",
-            "source": "NTA NEET-UG, approx.",
-            "date": "2024",
+            "label": "NEET-UG candidates",
+            "value": "~22.8 lakh registered; ~11.2 lakh qualified",
+            "source": "NTA NEET-UG (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~4 lakh",
+            "note": "Split almost evenly between women and men",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
             "verified": false
           }
         ]
@@ -41,7 +50,7 @@
       "value": {
         "tone": "info",
         "title": "How you get in",
-        "body": "NEET-UG — the single national entrance exam for all MBBS seats."
+        "body": "NEET-UG, the single national entrance exam for all MBBS seats. Seats are then filled through MCC (all-India quota) and state counselling."
       }
     },
     {
@@ -49,17 +58,75 @@
       "value": {
         "title": "At a glance",
         "items": [
-          "Highly competitive: lakhs of applicants for ~1.1 lakh seats.",
-          "Most doctors specialise later via NEET-PG (MD/MS).",
-          "Paths include clinical practice, government service, study abroad and research."
+          "Qualifying NEET is not the same as getting a seat: about 11 lakh qualified for roughly 1.2–1.4 lakh seats.",
+          "The internship is compulsory before you can register and practise.",
+          "Most doctors specialise later through a PG entrance (MD/MS)."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "MBBS enrolment by year",
+        "unit": "lakh students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  2.9,
+                  3.0,
+                  3.2,
+                  3.7,
+                  4.1
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, regular mode (Ministry of Education)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Clinical Practice",
+            "href": "/explore/mbbs.clinical-practice"
+          },
+          {
+            "label": "PG Specialisation (NEET-PG)",
+            "href": "/explore/mbbs.pg-specialisation-neet-pg"
+          },
+          {
+            "label": "Government & Administration",
+            "href": "/explore/mbbs.government-administration"
+          },
+          {
+            "label": "Non-clinical / Alternative",
+            "href": "/explore/mbbs.non-clinical-alternative"
+          }
         ]
       }
     }
   ],
-  "lastReviewed": "2026-06",
+  "lastReviewed": "2026-10",
   "createdBy": {
     "kind": "ai",
     "name": "Claude",
-    "at": "2026-06"
+    "at": "2026-10"
   }
 }
