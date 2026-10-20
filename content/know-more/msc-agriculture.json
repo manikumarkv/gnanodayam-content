@@ -1,0 +1,91 @@
+{
+  "title": "M.Sc (Agriculture)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year M.Sc (Ag) in a specialisation such as agronomy, plant breeding and genetics, soil science, entomology, plant pathology, horticulture, agricultural economics or extension. It is taught at state and central agricultural universities and ICAR institutes, and includes a research thesis."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Includes a research thesis"
+          },
+          {
+            "label": "PG enrolment in agriculture",
+            "value": "~36,000",
+            "note": "All PG years, as reported to AISHE",
+            "source": "AISHE 2023-24, PG enrolment by subject, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Out-of-state scholarship",
+            "value": "₹3,000 per month",
+            "note": "ICAR National Talent Scholarship (PG), for studying outside your home state",
+            "source": "ICAR NTS-PG scheme (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "B.Sc (Ag) or a related four-year degree with the minimum marks ICAR or the university sets. ICAR's AIEEA-PG, conducted by NTA, fills seats in ICAR institutes and a share of seats in agricultural universities; the remaining seats go through state university entrance tests."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It leads to research (Ph.D., ICAR scientist recruitment), state agriculture officer posts, bank agricultural officer posts, and agri-input and agribusiness companies.",
+          "Fellowships depend on the admission route and the state.",
+          "University teaching posts usually need NET and a Ph.D."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

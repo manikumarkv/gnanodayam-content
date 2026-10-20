@@ -1,0 +1,87 @@
+{
+  "title": "IBPS Agriculture Field Officer",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Agriculture Field Officer (AFO) is a Scale I specialist officer post in public-sector banks, filled through the IBPS Specialist Officer exam. AFOs appraise and monitor farm loans, visit borrowers and villages, and handle agriculture-related lending schemes. It is a rural-facing banking role."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Grade",
+            "value": "JMGS-I (Scale I officer)",
+            "note": "Same grade as a probationary officer"
+          },
+          {
+            "label": "Scale I basic pay",
+            "value": "₹48,480–85,920",
+            "note": "Plus allowances",
+            "source": "Bank officer pay scale under the 12th Bipartite Settlement, per IBPS SO notice (as reported)",
+            "date": "2024–26",
+            "verified": false
+          },
+          {
+            "label": "Age limit",
+            "value": "20–30 years",
+            "note": "Relaxations for reserved categories",
+            "source": "IBPS SO notice (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A four-year degree in agriculture or an allied field (horticulture, animal husbandry, veterinary science, dairy science, fishery science, agricultural engineering and others listed in the notice). Apply to the IBPS Specialist Officer (CRP SPL) exam: preliminary exam, main exam with a professional-knowledge section on agriculture, then an interview, after which candidates are allotted to participating banks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies vary sharply from year to year — check the current IBPS notice.",
+          "Postings are often in rural and semi-urban branches.",
+          "The role mixes agriculture knowledge with credit appraisal and loan recovery work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Loan Officer",
+            "href": "/roles/loan-officer"
+          },
+          {
+            "label": "Credit Analyst",
+            "href": "/roles/credit-analyst"
+          },
+          {
+            "label": "Banking exams (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

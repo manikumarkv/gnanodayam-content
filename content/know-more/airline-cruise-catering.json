@@ -1,0 +1,76 @@
+{
+  "title": "Airline, Cruise & Flight Catering",
+  "kicker": "Industry career",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Hospitality graduates work in flight kitchens that prepare airline meals, in airline guest-service roles, and in food, beverage and housekeeping departments on cruise ships. Flight catering is production work on tight schedules and strict food-safety rules; cruise work means living on board for months at a stretch."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Cruise contracts",
+            "value": "Fixed-term, several months on board",
+            "note": "Followed by unpaid leave; length varies by line and role"
+          },
+          {
+            "label": "Cruise prerequisites",
+            "value": "STCW basic safety training + seafarer document",
+            "note": "Indian crew usually need a CDC from DG Shipping"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BHM or hospitality diploma, with some hotel or kitchen experience. Flight kitchens and airlines hire directly; cruise lines hire through their own recruitment or licensed manning agencies, followed by interviews, a medical, safety training and visa formalities. Check that any recruiting agency is licensed with DG Shipping."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Cruise work can mean long days, seven-day weeks and months away from home.",
+          "Food-safety, hygiene and timing standards in flight kitchens are strict.",
+          "Experience at sea or in a flight kitchen carries over to hotel and institutional catering roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Chef",
+            "href": "/roles/chef"
+          },
+          {
+            "label": "Front Office Executive",
+            "href": "/roles/front-office-executive"
+          },
+          {
+            "label": "Hotel Management Trainee",
+            "href": "/roles/hotel-management-trainee"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

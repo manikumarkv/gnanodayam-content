@@ -1,0 +1,86 @@
+{
+  "title": "Archaeological Survey of India (ASI)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Archaeological Survey of India, under the Ministry of Culture, protects and conserves nationally important monuments and sites, runs excavations and site museums, and manages epigraphy and research. Careers range from archaeologists and conservation staff to ministerial and field posts."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Founded",
+            "value": "1861"
+          },
+          {
+            "label": "Centrally protected monuments and sites",
+            "value": "~3,690",
+            "source": "Ministry of Culture, Lok Sabha replies",
+            "date": "2019–2026",
+            "verified": false
+          },
+          {
+            "label": "Training",
+            "value": "2-year PG Diploma in Archaeology",
+            "note": "Run by ASI's Pandit Deendayal Upadhyaya Institute of Archaeology, Greater Noida"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Archaeologist posts usually need a master's degree in archaeology, ancient Indian history or a related subject, and often a PG diploma in archaeology; they are typically filled through UPSC recruitment advertisements. Clerical and multi-tasking posts come through SSC exams, and some field posts through ASI's own notifications."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Archaeologist vacancies are small in number and not notified every year.",
+          "Field postings can be in remote sites, with travel and outdoor work.",
+          "Related paths include state archaeology departments, museums, archives and university research."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Archivist",
+            "href": "/roles/archivist"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "SSC exams",
+            "href": "/explore/government-competitive.ssc"
+          },
+          {
+            "label": "UPSC Civil Services",
+            "href": "/explore/government-competitive.upsc-civil-services"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

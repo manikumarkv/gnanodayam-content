@@ -1,0 +1,79 @@
+{
+  "title": "Practising Artist",
+  "kicker": "Self-employment path",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A practising artist makes and sells their own work — painting, sculpture, printmaking, photography, installation or ceramics — through exhibitions, galleries, commissions and online sales. Most combine studio practice with other income such as teaching, workshops or design work, especially early on."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Ministry of Culture scholarship",
+            "value": "₹5,000/month for 2 years",
+            "note": "Ages 18–25; up to 400 a year across art forms",
+            "source": "CCRT Scholarships to Young Artistes scheme",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "National platform",
+            "value": "Lalit Kala Akademi National Exhibition of Art",
+            "note": "Juried; selected works are shown and some receive awards"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "There is no licence or exam. A BFA/MFA gives training and a network, but artists build careers through a body of work: applying to group shows, juried exhibitions, residencies and grants, and approaching galleries and buyers."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Income is irregular and uncertain, especially in the first years.",
+          "Residencies, grants and group shows are the usual first steps to visibility.",
+          "Many artists teach, take commissions or do design work to support their practice."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Art Teacher",
+            "href": "/roles/art-teacher"
+          },
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Jobs & work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

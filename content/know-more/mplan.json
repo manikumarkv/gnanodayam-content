@@ -1,0 +1,88 @@
+{
+  "title": "M.Plan (Master of Planning)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in planning, with specialisations such as urban, regional, transport, housing, environmental or infrastructure planning. Students work on studios, surveys and real planning projects for towns and regions."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters with studio projects"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~2,000",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Professional body",
+            "value": "Institute of Town Planners, India (ITPI)",
+            "note": "Recognises planning qualifications for membership"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Usually a B.Arch, B.Plan or B.E./B.Tech (civil); some programmes also accept geography or economics postgraduates. Admission is through institute entrance tests and interviews, with some institutes using GATE (Architecture & Planning) scores."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A small field — far fewer seats than most master's programmes.",
+          "Employers include state town-planning departments, development authorities, municipal bodies, smart-city companies and consultancies.",
+          "Government town-planner posts are recruited through state PSCs and often ask for a planning degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Architect",
+            "href": "/roles/architect"
+          },
+          {
+            "label": "Transportation Engineer",
+            "href": "/roles/transportation-engineer"
+          },
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

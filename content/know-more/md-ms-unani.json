@@ -1,0 +1,89 @@
+{
+  "title": "MD / MS (Unani)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate degree in Unani medicine after BUMS. MD (Unani) covers subjects such as Moalajat (medicine), Ilmul Advia (pharmacology), Ilaj bit Tadbeer (regimenal therapy) and Amraze Atfal (paediatrics); MS (Unani) covers surgical subjects such as Jarahat (surgery). Programmes are regulated by the National Commission for Indian System of Medicine (NCISM)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Includes a dissertation"
+          },
+          {
+            "label": "Regulator",
+            "value": "NCISM",
+            "note": "National Commission for Indian System of Medicine"
+          },
+          {
+            "label": "Entrance exam",
+            "value": "AIAPGET",
+            "note": "Conducted by NTA; 120 MCQs, Unani paper in Urdu and English",
+            "source": "NTA AIAPGET information bulletin (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A recognised BUMS degree, completed one-year internship (or completion by the NCISM cut-off date) and registration. Admission is through AIAPGET. All-India quota seats (about 15%) and seats in central and national institutions are filled through AACCC counselling; state quota seats through state counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Unani PG seats are few compared with Ayurveda, and are concentrated in a handful of states.",
+          "Private-college fees can be high; check stipends and fee rules for each seat type.",
+          "The degree is the usual requirement for teaching posts in Unani colleges and for research roles.",
+          "It also supports specialist practice and roles in Ayush hospitals and drug industry."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Unani Physician",
+            "href": "/roles/unani-physician"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

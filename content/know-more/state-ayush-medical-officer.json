@@ -1,0 +1,90 @@
+{
+  "title": "State Ayush Medical Officer",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Regular medical officer posts in state-run Ayush hospitals and dispensaries for Ayurveda, Homoeopathy, Siddha or Unani. States recruit through their Public Service Commissions or health recruitment boards, such as Tamil Nadu's Medical Services Recruitment Board. The work covers outpatient care, ward duty, public-health programmes and reporting."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Qualification",
+            "value": "BAMS / BHMS / BSMS / BUMS",
+            "note": "Posts are specific to one system of medicine"
+          },
+          {
+            "label": "Registration",
+            "value": "State Ayush board/council or the national register",
+            "note": "Kept under NCISM (Ayurveda, Siddha, Unani) or NCH (Homoeopathy)"
+          },
+          {
+            "label": "Recruiting body",
+            "value": "State PSC or state health recruitment board",
+            "note": "Varies by state"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A recognised degree in the matching system, a completed internship and current registration. Apply when your state's PSC or health recruitment board notifies posts; selection is by written exam, sometimes with an interview, and a few states select on merit. Domicile, local-language and age rules usually apply."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies come irregularly and their number differs widely from state to state.",
+          "A BHMS graduate applies for Homoeopathy posts, a BAMS graduate for Ayurveda posts, and so on.",
+          "Contract medical officer posts under the National Ayush Mission or NHM exist alongside regular posts and have different terms.",
+          "Central government Ayush posts are recruited separately from state posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Ayurvedic Physician",
+            "href": "/roles/ayurvedic-physician"
+          },
+          {
+            "label": "Homoeopathic Physician",
+            "href": "/roles/homoeopathic-physician"
+          },
+          {
+            "label": "Siddha Physician",
+            "href": "/roles/siddha-physician"
+          },
+          {
+            "label": "Unani Physician",
+            "href": "/roles/unani-physician"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

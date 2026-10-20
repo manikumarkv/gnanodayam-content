@@ -1,0 +1,81 @@
+{
+  "title": "PSU Roles after a BBA",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Public-sector undertakings (PSUs) hire for management, HR, finance and marketing roles, but most officer-level openings ask for an MBA/PGDM, CA or CMA rather than a BBA alone. With a BBA, the main public-sector routes are graduate-level exams, such as bank and insurance officer exams, or an MBA followed by PSU management-trainee recruitment."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical officer entry",
+            "value": "Management / Executive Trainee",
+            "note": "Usually needs an MBA/PGDM, CA or CMA"
+          },
+          {
+            "label": "Recruitment",
+            "value": "Each PSU's own notice",
+            "note": "Written test, group discussion and/or interview"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Any graduate, including a BBA, can sit graduate-level public-sector exams such as bank PO and insurance officer exams. For PSU management-trainee posts, the usual route is an MBA/PGDM in HR, finance or marketing, then applying to each PSU's notice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Each PSU recruits separately and irregularly, so openings vary from year to year.",
+          "Some PSUs have shortlisted HR trainees using UGC-NET scores.",
+          "Public-sector bank and insurance officer exams are open to any graduate.",
+          "PSU jobs come with job security and transfers across the company's locations."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Banking exams (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "SSC exams",
+            "href": "/explore/government-competitive.ssc"
+          },
+          {
+            "label": "HR Executive",
+            "href": "/roles/hr-executive"
+          },
+          {
+            "label": "Financial Analyst",
+            "href": "/roles/financial-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

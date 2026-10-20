@@ -1,0 +1,85 @@
+{
+  "title": "MDS (Master of Dental Surgery)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate dental degree after BDS. Students specialise in one of the recognised dental specialities and complete clinical training and a dissertation. It is regulated by the Dental Council of India (DCI)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Includes a dissertation"
+          },
+          {
+            "label": "Specialities",
+            "value": "9",
+            "note": "E.g. Orthodontics, Oral & Maxillofacial Surgery, Endodontics, Prosthodontics, Periodontology, Paediatric Dentistry"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~18,400",
+            "note": "All three years, all modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "BDS from a DCI-recognised college, with internship completed and registration with a State Dental Council. Admission is through NEET-MDS (conducted by NBEMS), followed by MCC counselling for the all-India quota and state counselling for the rest."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most MDS seats are in private colleges, where fees can be high; government seats are far fewer.",
+          "An MDS is generally needed for teaching posts in dental colleges.",
+          "Speciality choice depends on rank — clinical branches fill first.",
+          "Many MDS graduates go into private practice, alone or in group clinics."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Dentist",
+            "href": "/roles/dentist"
+          },
+          {
+            "label": "Dental Lecturer",
+            "href": "/roles/dental-lecturer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Education & Ed-tech Roles",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Beyond classroom teaching, education organisations and ed-tech firms hire people to design curricula, write and review learning content, train teachers, and support learners. Employers include ed-tech companies, school chains, publishers, assessment firms and education NGOs or government programmes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Common roles",
+            "value": "Curriculum designer, content developer / subject expert, instructional designer, teacher trainer, academic counsellor"
+          },
+          {
+            "label": "Employers",
+            "value": "Ed-tech firms, school groups, publishers, education NGOs"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A degree in the subject plus a teaching qualification (B.Ed or ITEP) is common for pedagogy and content roles. Hiring is direct — through applications, sample tasks and interviews; classroom experience is often valued."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Ed-tech hiring has been volatile, with widely reported layoffs after 2022; NGOs and school groups can be steadier.",
+          "Some ed-tech 'counsellor' roles are mainly sales with targets — read the job description carefully.",
+          "Content and curriculum skills transfer to publishing and instructional design in corporate training."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Technical Writer",
+            "href": "/roles/technical-writer"
+          },
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Sales Executive",
+            "href": "/roles/sales-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

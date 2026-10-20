@@ -1,0 +1,79 @@
+{
+  "title": "M.Ed (Master of Education)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The M.Ed is a two-year postgraduate degree in education, regulated by the National Council for Teacher Education (NCTE). It covers education theory, research methods, curriculum and teacher education, with a dissertation, and prepares graduates to train teachers and to work in educational research and administration."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Per NCTE Regulations, 2014"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~59,800",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Ed, an integrated B.A./B.Sc.B.Ed (such as ITEP), a B.El.Ed, or a D.El.Ed with a bachelor's degree, usually with at least 50% marks, per NCTE norms. Admission is through a university entrance test, CUET-PG at participating universities, or merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Teaching in B.Ed and D.El.Ed colleges usually also needs UGC-NET or a PhD.",
+          "Other outcomes include roles in SCERTs and DIETs, curriculum and research work, and school leadership.",
+          "It is research-oriented, and a dissertation is part of the degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

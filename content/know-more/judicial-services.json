@@ -1,0 +1,84 @@
+{
+  "title": "Judicial Services",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Judicial services exams recruit civil judges (junior division) for the lower judiciary in each state. They are run by the state public service commission or the High Court. Selected candidates train at the state judicial academy and then preside over civil and criminal cases, with promotion to senior civil judge and district judge over time."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Conducted by",
+            "value": "State PSC or High Court",
+            "note": "Separate exam for each state"
+          },
+          {
+            "label": "Exam stages",
+            "value": "Prelims → Mains → Interview",
+            "note": "Some states vary the pattern"
+          },
+          {
+            "label": "Practice rule",
+            "value": "Changed in 2025 and 2026",
+            "note": "Supreme Court restored 3 years' Bar practice (May 2025), then modified it (Aug 2026)",
+            "source": "Supreme Court judgments (as reported)",
+            "date": "2025–2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An LLB and enrolment as an advocate, within the state's age limit. As reported, after the August 2026 ruling fresh law graduates can apply until 31 March 2027, and about one year of practice is required after that; states are amending their rules, so check the specific notification. Exams test civil and criminal law, procedure, local laws and language."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies vary widely by state and year, and competition is high.",
+          "Many exams test the state's official language and local laws.",
+          "Direct recruitment as a district judge is a separate route that needs seven years of practice."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Advocate (Litigation)",
+            "href": "/roles/advocate"
+          },
+          {
+            "label": "Legal Counsel",
+            "href": "/roles/legal-counsel"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

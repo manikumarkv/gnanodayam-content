@@ -1,0 +1,88 @@
+{
+  "title": "PR & Advertising",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Public relations and advertising careers cover creating campaigns, managing media and brand reputation, and planning where ads run. Work happens in agencies (creative, media, PR firms) and in-house in companies' marketing and corporate-communications teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry roles",
+            "value": "Account executive, copy trainee, PR executive, media planner",
+            "note": "Titles vary"
+          },
+          {
+            "label": "Employers",
+            "value": "Ad agencies, media agencies, PR firms, in-house brand teams"
+          },
+          {
+            "label": "Ad self-regulator",
+            "value": "Advertising Standards Council of India (ASCI)",
+            "note": "Sets the advertising code"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "No fixed exam. A degree in mass communication, journalism, marketing or a related field helps, but entry is mostly through internships and a portfolio of writing, design or campaign work."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry pay is often modest and hours can be long around campaign launches.",
+          "Digital and social media now make up a large part of the work.",
+          "Growth comes through a portfolio and client results more than formal qualifications."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Copywriter",
+            "href": "/roles/copywriter"
+          },
+          {
+            "label": "Brand Associate",
+            "href": "/roles/brand-associate"
+          },
+          {
+            "label": "Digital Marketing Specialist",
+            "href": "/roles/digital-marketing-specialist"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Marketing Executive",
+            "href": "/roles/marketing-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "MD / MS (Ayurveda)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate degree in Ayurveda taken after BAMS — MD (Ayurveda) in medical subjects or MS (Ayurveda) in surgical ones. Subjects include Kayachikitsa (medicine), Panchakarma, Shalya Tantra (surgery), Shalakya Tantra (eye and ENT), Prasuti Tantra & Stri Roga (obstetrics and gynaecology), Kaumarabhritya (paediatrics), Dravyaguna and Rasa Shastra. It is regulated by the National Commission for Indian System of Medicine (NCISM)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Includes a dissertation"
+          },
+          {
+            "label": "Entrance exam",
+            "value": "AIAPGET",
+            "note": "Conducted by the National Testing Agency (NTA)"
+          },
+          {
+            "label": "All-India counselling",
+            "value": "AACCC",
+            "note": "Ayush Admissions Central Counselling Committee; state-quota seats go through state counselling"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BAMS degree with completed internship, then a qualifying AIAPGET score. AACCC counsels the all-India quota (15% of seats in government and aided colleges) and seats in central universities, national institutes and deemed universities; the remaining seats go through state counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Your AIAPGET rank largely decides both the subject and the college you get.",
+          "Fees at government colleges are much lower than at private and deemed colleges.",
+          "It leads to specialist practice, teaching in Ayurveda colleges (where a PG is required for faculty posts) and research.",
+          "A PhD in Ayurveda (Ayurveda Vachaspati) is the next academic step."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Ayurvedic Physician",
+            "href": "/roles/ayurvedic-physician"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

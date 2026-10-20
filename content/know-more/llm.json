@@ -1,0 +1,94 @@
+{
+  "title": "LLM (Master of Laws)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Master of Laws (LLM) is a postgraduate law degree. In India it is commonly a one-year programme (some universities still run two-year LLMs), with specialisations such as constitutional, corporate, criminal, intellectual property, international or tax law. It is mainly an academic and specialist qualification — it is not needed to practise as an advocate."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "1 year (some 2 years)",
+            "note": "One-year format introduced under UGC norms"
+          },
+          {
+            "label": "Students enrolled in LL.M.",
+            "value": "~48,000",
+            "source": "AISHE 2023-24, Table 11, all modes, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in law (all programmes)",
+            "value": "~50,600",
+            "source": "AISHE 2023-24, Table 13, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An LLB (3-year or 5-year integrated). National Law Universities admit through CLAT-PG (some through their own tests); other universities through their own entrance tests, CUET-PG or merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "An LLM plus UGC-NET (or a PhD) is the usual route to assistant professor posts in law.",
+          "Some public-sector undertakings have used CLAT-PG scores to recruit legal officers.",
+          "For litigation and most law firms, practice experience counts more than the LLM.",
+          "LLMs abroad are often one year and expensive; their value depends on whether you plan to work or teach there."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Advocate (Litigation)",
+            "href": "/roles/advocate"
+          },
+          {
+            "label": "Corporate Lawyer",
+            "href": "/roles/corporate-lawyer"
+          },
+          {
+            "label": "Legal Counsel",
+            "href": "/roles/legal-counsel"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

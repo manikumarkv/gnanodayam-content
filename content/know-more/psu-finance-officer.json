@@ -1,0 +1,89 @@
+{
+  "title": "PSU Finance Officer",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Central and state public-sector undertakings (PSUs) recruit qualified CAs and CMAs as finance executives — often titled Executive Trainee, Officer or Assistant Manager (Finance). The work covers accounts, costing, budgeting, taxation, audit coordination and financial reporting under PSU rules."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical qualification",
+            "value": "CA or CMA",
+            "note": "Some notices also accept an MBA (Finance)"
+          },
+          {
+            "label": "Selection",
+            "value": "Shortlisting, written / computer-based test, interview",
+            "note": "Varies by company"
+          },
+          {
+            "label": "Recruitment",
+            "value": "Company-by-company; no single common exam"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Qualify as a Chartered Accountant (ICAI) or Cost and Management Accountant (Institute of Cost Accountants of India); many notices accept either. PSUs advertise on their own websites with their own age limits and steps — shortlisting, a written or computer-based test, group discussion and/or interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are irregular and spread across many companies, so tracking individual PSU notices matters.",
+          "Pay follows each company's own pay scale, stated in its notification.",
+          "Postings can be at plants, project sites or regional offices, with transfers.",
+          "Experience in a PSU finance team can lead to senior finance and audit roles in the public sector."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Chartered Accountant",
+            "href": "/roles/chartered-accountant"
+          },
+          {
+            "label": "Cost & Management Accountant",
+            "href": "/roles/cost-management-accountant"
+          },
+          {
+            "label": "Financial Analyst",
+            "href": "/roles/financial-analyst"
+          },
+          {
+            "label": "Auditor",
+            "href": "/roles/auditor"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

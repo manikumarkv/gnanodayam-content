@@ -1,0 +1,89 @@
+{
+  "title": "Allied Health Posts in State Health Departments",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State health departments and their hospitals recruit allied health professionals — laboratory technicians, radiographers, OT and anaesthesia technicians, physiotherapists, optometrists and others. Recruitment is done by state public service commissions, staff selection boards or dedicated medical services recruitment boards, and also on contract under the National Health Mission."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Recruiting bodies",
+            "value": "State PSCs, staff selection boards, medical services recruitment boards",
+            "note": "Differs by state"
+          },
+          {
+            "label": "Regulation",
+            "value": "NCAHP Act, 2021",
+            "note": "Sets up a national commission and state councils with registers for allied and healthcare professionals"
+          },
+          {
+            "label": "Typical posts",
+            "value": "Lab technician, radiographer, OT technician, physiotherapist, optometrist",
+            "note": "Post names and qualifications vary by state"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A diploma or degree in the specific allied health field (B.Sc in MLT, radiology, optometry and so on), plus any state registration required. You apply to the state's recruitment notice; selection is by a written test, merit in qualifying marks, or both, depending on the state."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Notifications are irregular and state-specific, and many follow state domicile and language rules.",
+          "Contract posts under the National Health Mission are common and may not be permanent.",
+          "Regular posts offer job security and fixed pay scales set by each state."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Medical Lab Technologist",
+            "href": "/roles/medical-lab-technologist"
+          },
+          {
+            "label": "Radiology Technologist",
+            "href": "/roles/radiology-technologist"
+          },
+          {
+            "label": "OT & Anaesthesia Technologist",
+            "href": "/roles/ot-anaesthesia-technologist"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

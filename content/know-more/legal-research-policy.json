@@ -1,0 +1,94 @@
+{
+  "title": "Legal Research & Policy",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Law graduates can work in research, policy and legal writing instead of litigation or corporate practice — as law clerks assisting judges, researchers at think tanks and law-reform bodies, editors at legal publishers and databases, or policy staff in government projects and NGOs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Supreme Court law clerks",
+            "value": "Law Clerk-cum-Research Associate",
+            "note": "~90 posts in the 2026-27 cycle; contract term",
+            "source": "Supreme Court of India notification (as reported)",
+            "date": "Jan 2026",
+            "verified": false
+          },
+          {
+            "label": "Clerkship remuneration",
+            "value": "₹1,00,000 a month (consolidated)",
+            "note": "Supreme Court LCRA, 2026-27",
+            "source": "Supreme Court of India notification (as reported)",
+            "date": "Jan 2026",
+            "verified": false
+          },
+          {
+            "label": "Other employers",
+            "value": "High Courts, think tanks, legal publishers, law-reform and policy bodies"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An LLB from a Bar Council of India–recognised institution (final-year students can apply for some clerkships). Supreme Court and High Court clerkships use written tests and interviews; think tanks and publishers hire through applications, writing samples and interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Clerkships are short contracts but give close exposure to judicial work.",
+          "Strong research and writing samples matter more than grades for think-tank roles.",
+          "Many people later move into litigation, academia, an LLM or public-policy roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Research Analyst",
+            "href": "/roles/research-analyst"
+          },
+          {
+            "label": "Legal Counsel",
+            "href": "/roles/legal-counsel"
+          },
+          {
+            "label": "Advocate (Litigation)",
+            "href": "/roles/advocate"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

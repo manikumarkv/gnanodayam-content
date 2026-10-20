@@ -1,0 +1,92 @@
+{
+  "title": "Military Engineer Services (MES)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Military Engineer Services, under the Ministry of Defence, builds and maintains infrastructure for the Army, Navy, Air Force and other defence bodies — buildings, roads, airfields, water and power. It has a mix of Army engineer officers and civilian engineers and staff."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Civilian officer entry",
+            "value": "UPSC Engineering Services Exam",
+            "note": "Indian Defence Service of Engineers (Civil, Electrical, Mechanical) and MES Surveyor Cadre"
+          },
+          {
+            "label": "Junior Engineer entry",
+            "value": "SSC Junior Engineer exam",
+            "note": "MES JE (Civil) and JE (Electrical & Mechanical); Pay Level 6",
+            "source": "SSC JE notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Army officers",
+            "value": "Corps of Engineers",
+            "note": "Join through Army technical entries and serve tenures in MES"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.E./B.Tech (or a diploma for JE posts, with experience for some) in civil, electrical or mechanical engineering. Civilian officers come through UPSC ESE; JEs through SSC JE; Army engineer officers through Army technical entries; MES also issues occasional direct recruitment drives for supervisory and draughtsman posts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Postings are all-India, including remote and border stations.",
+          "Work includes contract management and estimation as much as design.",
+          "ESE is highly competitive and has a technical prelims, mains and interview."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Site Engineer",
+            "href": "/roles/site-engineer"
+          },
+          {
+            "label": "Estimation Engineer",
+            "href": "/roles/estimation-engineer"
+          },
+          {
+            "label": "Structural Engineer",
+            "href": "/roles/structural-engineer"
+          },
+          {
+            "label": "SSC exams",
+            "href": "/explore/government-competitive.ssc"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

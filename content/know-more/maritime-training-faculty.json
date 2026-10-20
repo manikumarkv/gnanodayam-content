@@ -1,0 +1,81 @@
+{
+  "title": "Maritime Training Faculty",
+  "kicker": "Academic job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Experienced merchant navy officers teach at DG Shipping-approved maritime training institutes, running pre-sea courses for cadets, competency (CoC) preparation courses and short safety and refresher courses. It is a shore-based move that uses sea experience and certificates."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Approval body",
+            "value": "Directorate General of Shipping (DGS)",
+            "note": "Institutes and courses are DGS-approved"
+          },
+          {
+            "label": "Trainer course",
+            "value": "TOTA (Training of Trainers and Assessors)",
+            "note": "Required for faculty at approved institutes under DGS orders"
+          },
+          {
+            "label": "Typical requirement",
+            "value": "Master / Chief Engineer CoC + years of sea service",
+            "note": "Exact certificate and sea-time depend on the course taught"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hold the certificate of competency and sea service the institute's DGS-approved course requires (senior courses usually need a management-level CoC such as Master or Chief Engineer). Complete a DGS-approved TOTA course, then apply to institutes; many also hire for specific short courses."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Shore-based life and regular hours, in exchange for lower pay than senior sea positions.",
+          "Faculty rules (certificates, sea-time, age) are set in DGS circulars and can change.",
+          "Related shore roles include assessor, superintendent and marine surveyor posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Deck Officer",
+            "href": "/roles/deck-officer"
+          },
+          {
+            "label": "Marine Engineer",
+            "href": "/roles/marine-engineer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

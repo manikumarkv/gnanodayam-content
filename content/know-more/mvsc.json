@@ -1,0 +1,87 @@
+{
+  "title": "M.V.Sc (Master of Veterinary Science)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's after B.V.Sc & A.H. in a specialisation such as veterinary medicine, surgery, pathology, microbiology, animal genetics and breeding, animal nutrition or livestock production. It includes coursework and a research thesis, and is offered by state veterinary and agricultural universities and ICAR institutes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Includes a research thesis"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~4,800",
+            "note": "All modes",
+            "source": "AISHE 2023-24, programme-wise enrolment, all modes (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Graduates in a year",
+            "value": "~1,400",
+            "note": "Pass-outs, as reported to AISHE",
+            "source": "AISHE 2023-24, programme-wise out-turn (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "B.V.Sc & A.H. with the minimum marks the university sets. ICAR's AIEEA-PG, conducted by NTA, fills seats in ICAR institutes and a share of seats in state universities; the remaining seats go through each university's own entrance test or merit list."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It leads to research, teaching (usually with a Ph.D. and NET), state animal husbandry services, and industry roles in animal health, feed and diagnostics.",
+          "Fellowships and stipends depend on the admission route and the state.",
+          "A Ph.D. is usually expected for university teaching posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Veterinarian",
+            "href": "/roles/veterinarian"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "State Tourism Corporations",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Most states have a tourism development corporation that runs hotels, resorts, guest houses, restaurants and tour services at tourist spots. They hire hotel-management graduates for front office, food and beverage, housekeeping, kitchen and unit-management roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Employer type",
+            "value": "State government undertaking"
+          },
+          {
+            "label": "Recruitment",
+            "value": "Corporation's own notices",
+            "note": "Many posts are contract or fixed-term"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BHM or hotel-management diploma; some posts need experience. Corporations advertise on their own or state government websites; selection is by written test, interview or walk-in, and some posts go through state recruitment boards."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are few and irregular, and many are on contract.",
+          "Units are often in remote or seasonal tourist locations.",
+          "Pay and promotion follow the corporation's own rules.",
+          "The central India Tourism Development Corporation (ITDC) also runs hotels and recruits separately."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Hotel Management Trainee",
+            "href": "/roles/hotel-management-trainee"
+          },
+          {
+            "label": "Front Office Executive",
+            "href": "/roles/front-office-executive"
+          },
+          {
+            "label": "Chef",
+            "href": "/roles/chef"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "MA Political Science",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree covering political theory, Indian government and politics, comparative politics, international relations and public administration. It is a common base for teaching, research, journalism, policy work and civil-services preparation. Many universities offer it in regular and distance modes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "PG students in political science",
+            "value": "~2.6 lakh",
+            "note": "All PG courses in the subject",
+            "source": "AISHE 2023-24, Table 13, PG level, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, usually in any stream (some universities prefer a BA with political science). Central universities and many others admit through CUET-PG; other universities use their own entrance tests or graduation marks. Distance and open universities admit with fewer conditions."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A large number of students take it, so the degree alone does not set you apart.",
+          "Teaching in colleges usually needs UGC-NET (and for many posts a PhD); UGC-NET JRF also funds a PhD.",
+          "Policy, think-tank and research roles tend to value writing samples, internships and research skills."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

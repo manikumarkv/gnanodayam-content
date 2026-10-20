@@ -1,0 +1,89 @@
+{
+  "title": "Public Policy (Postgraduate Study)",
+  "kicker": "Postgraduate study",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Master's programmes in public policy (MPP, MA Public Policy and similar) teach how government decisions are designed, analysed and evaluated. Courses usually combine economics, political science, law, statistics and programme evaluation, often with a field project or internship. They are offered by public and private universities and a few national law schools in India."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "1–2 years",
+            "note": "Varies by programme"
+          },
+          {
+            "label": "Degree names",
+            "value": "MPP, MA Public Policy, MA Public Policy & Governance",
+            "note": "Content differs by institution"
+          },
+          {
+            "label": "Fees",
+            "value": "Wide range",
+            "note": "Public universities charge far less than private ones; check each official fee notice"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any discipline. Some universities admit through CUET-PG; others use their own written test, statement of purpose and interview. Some programmes prefer or require work experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Outcomes depend heavily on internships and networks; there is no single entry exam for policy jobs.",
+          "Common destinations: think tanks, NGOs and development agencies, CSR teams, government fellowship programmes and consulting.",
+          "Many people work for a few years first, since experience helps both admission and placement."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Research Analyst",
+            "href": "/roles/research-analyst"
+          },
+          {
+            "label": "Economic Analyst",
+            "href": "/roles/economic-analyst"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

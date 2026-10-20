@@ -1,0 +1,93 @@
+{
+  "title": "DNB (Diplomate of National Board)",
+  "kicker": "Postgraduate qualification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Diplomate of National Board (DNB) is a postgraduate medical qualification awarded by the National Board of Examinations in Medical Sciences (NBEMS), an autonomous body under the Ministry of Health and Family Welfare. Training happens in NBEMS-accredited hospitals — private, corporate, government and district hospitals — rather than only in medical colleges."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Post-MBBS broad specialty; 2-year post-diploma DNB also exists"
+          },
+          {
+            "label": "Awarding body",
+            "value": "NBEMS",
+            "note": "Ministry of Health and Family Welfare"
+          },
+          {
+            "label": "Entry",
+            "value": "NEET-PG",
+            "note": "Post-MBBS seats allotted through MCC counselling, as reported",
+            "source": "NBEMS / MCC notices (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Assessment",
+            "value": "Thesis + formative assessment + final theory and practical exam"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An MBBS recognised under the NMC Act, 2019, completed internship and a 'qualified' NEET-PG result. Post-MBBS DNB seats are filled through MCC counselling with no domicile requirement (as reported). Doctors working regularly in government organisations can apply for sponsored seats."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "DNB is recognised as a postgraduate qualification; for teaching posts, NMC rules can add conditions such as hospital bed strength or senior residency — check the current regulations.",
+          "Seat quality varies a lot: look at patient load, number of faculty, past exam results and the stipend actually paid.",
+          "The final exit exam is set centrally by NBEMS, and pass rates have historically been lower than many university MD/MS exams.",
+          "Hospital-based training can mean heavy clinical exposure in busy centres."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "General Physician",
+            "href": "/roles/general-physician"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

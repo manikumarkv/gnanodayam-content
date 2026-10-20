@@ -1,0 +1,81 @@
+{
+  "title": "Type Rating (e.g. A320 / B737)",
+  "kicker": "Licence",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A type rating is an endorsement on a pilot's licence that allows them to fly a specific aircraft type, such as the Airbus A320 or Boeing 737. It is needed on top of a Commercial Pilot Licence (CPL) to fly airliners as a first officer, and involves ground school, simulator training and a skill test, with endorsement by DGCA."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Prerequisite",
+            "value": "CPL",
+            "note": "With instrument rating and a current medical"
+          },
+          {
+            "label": "Training",
+            "value": "Ground school + full-flight simulator",
+            "note": "Then a skill test and DGCA endorsement"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A DGCA-issued or validated CPL. The type rating is taken either self-sponsored at an approved training organisation, or through an airline's cadet or new-hire programme, where the airline arranges the training — often with a service bond or cost-recovery terms."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A self-sponsored type rating does not guarantee a job; airlines still run their own selection.",
+          "Ratings need recent flying to stay current, so a long gap before a job can mean extra training costs.",
+          "Airline-arranged training lowers the upfront cost but usually ties you to that airline for a period.",
+          "The type you choose limits you to airlines that fly it."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "First Officer",
+            "href": "/roles/first-officer"
+          },
+          {
+            "label": "Charter Pilot",
+            "href": "/roles/charter-pilot"
+          },
+          {
+            "label": "Flight Instructor",
+            "href": "/roles/flight-instructor"
+          },
+          {
+            "label": "Vocational & skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

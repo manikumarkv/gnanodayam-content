@@ -1,0 +1,85 @@
+{
+  "title": "Prasar Bharati (AIR / Doordarshan)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Prasar Bharati is India's public service broadcaster, running All India Radio (Akashvani) and Doordarshan, including DD News and regional channels. It is a statutory autonomous body set up under the Prasar Bharati Act, 1990 (in force from 1997). It hires journalists, editors, anchors, producers and technical staff."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Legal basis",
+            "value": "Prasar Bharati Act, 1990",
+            "note": "Operational from 1997"
+          },
+          {
+            "label": "Networks",
+            "value": "All India Radio and Doordarshan"
+          },
+          {
+            "label": "Common hiring mode",
+            "value": "Fixed-term contract posts",
+            "note": "Advertised through Prasar Bharati notices"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Openings are announced through Prasar Bharati notices, often for specific stations or channels, with eligibility such as a degree or diploma in journalism or mass communication plus experience and language skills. Selection is usually a written test and/or interview. Some regular news posts are filled through central services (such as the Indian Information Service) via UPSC or SSC."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many recent openings are contractual, for a fixed term, without the security of a regular government job.",
+          "Regional-language skills are an advantage for regional stations and channels.",
+          "Experience in public broadcasting is valued by other newsrooms and communication roles.",
+          "Notices are irregular, so applicants track them over time."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

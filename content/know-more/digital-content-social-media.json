@@ -1,0 +1,89 @@
+{
+  "title": "Digital Content & Social Media",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Brands, agencies, news outlets and creators hire people to write, shoot, edit and publish content for websites, newsletters, YouTube and social platforms. Roles include content writer, social media executive, video editor, digital producer and community manager."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Entry requirement",
+            "value": "Portfolio-led hiring",
+            "note": "No licence; a journalism or mass communication degree helps but is not required"
+          },
+          {
+            "label": "Common roles",
+            "value": "Content writer, social media executive, video editor, digital producer",
+            "note": "Titles vary by employer"
+          },
+          {
+            "label": "Core skills",
+            "value": "Writing, short video, platform analytics, basic design",
+            "note": "Tools change often"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Build a portfolio — published articles, a running social account, videos or campaign samples — and apply to agencies, media houses and brand teams. Internships during the degree are a common entry route."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry-level pay is often modest, and agency work can be deadline-heavy.",
+          "Platform rules and algorithms change, so skills need regular updating.",
+          "Paths lead to editor, content strategist, brand or digital marketing roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Copywriter",
+            "href": "/roles/copywriter"
+          },
+          {
+            "label": "Digital Marketing Specialist",
+            "href": "/roles/digital-marketing-specialist"
+          },
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

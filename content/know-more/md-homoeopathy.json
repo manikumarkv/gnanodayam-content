@@ -1,0 +1,77 @@
+{
+  "title": "MD (Homoeopathy)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate degree after BHMS in one branch of homoeopathy, such as Materia Medica, Organon of Medicine, Repertory or Practice of Medicine. It combines clinical work in a teaching hospital with a dissertation. The course is regulated by the National Commission for Homoeopathy (NCH)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Includes a dissertation"
+          },
+          {
+            "label": "Entrance exam",
+            "value": "AIAPGET",
+            "note": "Conducted by NTA; common to MD/MS in Ayurveda, Homoeopathy, Siddha and Unani"
+          },
+          {
+            "label": "Counselling",
+            "value": "AACCC (All-India quota) + state authorities",
+            "note": "AYUSH Admissions Central Counselling Committee"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "BHMS with a completed internship and registration. Admission is through AIAPGET, conducted by NTA. All-India quota seats are allotted by the AYUSH Admissions Central Counselling Committee (AACCC); state quota seats are allotted by state counselling authorities."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "PG seats are far fewer than the number of BHMS graduates each year, so competition is real.",
+          "Fees and stipends differ a lot between government and private colleges.",
+          "It leads to teaching posts in homoeopathy colleges, specialist practice and some government roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Homoeopathic Physician",
+            "href": "/roles/homoeopathic-physician"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "M.Arch (Master of Architecture)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's after B.Arch with specialisations such as urban design, landscape architecture, architectural conservation, sustainable architecture, housing or digital design. It deepens one area through studios, research and a thesis."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Includes a thesis"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~2,700",
+            "note": "All modes",
+            "source": "AISHE 2023-24, programme-wise enrolment, all modes (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Main entrance",
+            "value": "GATE (Architecture & Planning paper)",
+            "note": "Plus university and institute tests"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "B.Arch (five years), usually with Council of Architecture registration. Admission is through GATE scores at IITs, NITs, Schools of Planning and Architecture and many others, or through university entrance tests, portfolios and interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many architects work for a few years before an M.Arch; practice experience counts for a lot in this field.",
+          "It adds most for teaching (faculty posts expect a master's), specialised consulting such as conservation or urban design, and planning roles.",
+          "GATE-qualified students at AICTE-approved institutes may get a PG scholarship."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Architect",
+            "href": "/roles/architect"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

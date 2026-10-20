@@ -1,0 +1,95 @@
+{
+  "title": "MA in a Related Field (after BSW)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Beyond the MSW, BSW graduates often take an MA in development studies, sociology, psychology, rural development, gender studies or public policy. These degrees lean more towards research, analysis or theory than the fieldwork-heavy MSW, and they suit different careers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters for most MA programmes"
+          },
+          {
+            "label": "PG students in sociology",
+            "value": "~1.9 lakh",
+            "note": "All PG courses in the subject",
+            "source": "AISHE 2023-24, Table 13, PG level, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in psychology",
+            "value": "~54,000",
+            "note": "All PG courses in the subject",
+            "source": "AISHE 2023-24, Table 13, PG level, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree; a BSW is accepted for most social-science MAs, though some psychology programmes want psychology at graduation. Admission is through CUET-PG at participating universities, university entrance tests, or graduation marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Development studies and public policy suit NGO, CSR and research roles.",
+          "Practising as a clinical psychologist needs a further RCI-recognised qualification, not just an MA.",
+          "An MSW keeps supervised field practice at the centre; other MAs may need you to add fieldwork through internships."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Social Worker",
+            "href": "/roles/social-worker"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

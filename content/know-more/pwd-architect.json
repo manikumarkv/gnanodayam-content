@@ -1,0 +1,77 @@
+{
+  "title": "Architect in CPWD / State PWD",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Central Public Works Department and state public works departments employ architects to design and oversee government buildings — offices, hospitals, housing, campuses and heritage works. Central Group A architect posts in CPWD are filled through UPSC recruitment advertisements; state PWD posts through state PSCs or state recruitment boards."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Essential qualification",
+            "value": "B.Arch + Council of Architecture registration",
+            "note": "Registration under the Architects Act, 1972"
+          },
+          {
+            "label": "Central recruitment",
+            "value": "UPSC recruitment advertisements",
+            "note": "Usually shortlisting and interview; some posts have a recruitment test"
+          },
+          {
+            "label": "State recruitment",
+            "value": "State PSCs / recruitment boards",
+            "note": "Post names and rules vary by state"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Arch and registration with the Council of Architecture. Watch UPSC's recruitment advertisements for CPWD architect posts and your state PSC's notices for PWD posts; some posts ask for prior experience under a registered architect."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are irregular and few compared with the number of B.Arch graduates.",
+          "Work leans towards public buildings, standards and project coordination rather than independent design.",
+          "Other public employers of architects include development authorities and municipal bodies."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Architect",
+            "href": "/roles/architect"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

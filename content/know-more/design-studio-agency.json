@@ -1,0 +1,72 @@
+{
+  "title": "Design Studio / Agency",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Design studios and agencies do design work for outside clients: brand identity, packaging, product, interior, digital and UX projects. Designers work in small teams on several projects at once, from briefs and concepts to final files, often presenting to clients. Studio size ranges from a few people to large multi-office firms."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Common entry role",
+            "value": "Junior / associate designer or design intern",
+            "note": "Titles vary by studio"
+          },
+          {
+            "label": "What hiring looks at",
+            "value": "Portfolio, plus a design task or interview",
+            "note": "Degree matters less than the work shown"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Des or related degree helps, but studios hire mainly on the portfolio. Internships during the degree are a common route to a first job. Expect a portfolio review and often a short design exercise."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Deadlines and client revisions can mean uneven, long hours.",
+          "Studio work builds range quickly; in-house teams offer more depth on one product or brand.",
+          "Growth runs from designer to senior designer, art or design director, or starting your own studio."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Jobs & work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

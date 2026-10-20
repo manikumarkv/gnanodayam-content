@@ -1,0 +1,97 @@
+{
+  "title": "Ministry of Culture Young Artist Scholarship",
+  "kicker": "Government scholarship",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Ministry of Culture runs a 'Scholarship to Young Artistes in Different Cultural Fields' to support advanced training in Indian classical music, classical and light classical dance and music, theatre, mime, visual arts, and folk, traditional and indigenous arts. It funds a young artist's training under a guru or institution; it is not a job."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Stipend",
+            "value": "₹5,000 per month",
+            "note": "Paid in instalments; covers training, travel and materials",
+            "source": "Ministry of Culture scheme guidelines (via CCRT)",
+            "date": "2022-23",
+            "verified": false
+          },
+          {
+            "label": "Duration",
+            "value": "2 years",
+            "source": "Ministry of Culture scheme guidelines",
+            "date": "2022-23",
+            "verified": false
+          },
+          {
+            "label": "Scholarships per batch",
+            "value": "Up to 400",
+            "source": "Ministry of Culture notice",
+            "date": "2022-23",
+            "verified": false
+          },
+          {
+            "label": "Age",
+            "value": "18–25 years",
+            "note": "As on 1 April of the batch year; no relaxation",
+            "source": "Ministry of Culture notice",
+            "date": "2022-23",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Indian nationals aged 18–25 with prior training in the art form under a guru or institution (earlier guidelines asked for about five years). Apply online when the Ministry of Culture opens the batch; shortlisted candidates appear for an interview or presentation before an expert committee."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The number of scholarships is small compared with the number of applicants.",
+          "The amount supports training, not living costs in full.",
+          "Application windows are not fixed every year — watch the Ministry of Culture and CCRT notices.",
+          "It can sit alongside a BFA or other studies, subject to the scheme's terms."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Art Teacher",
+            "href": "/roles/art-teacher"
+          },
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

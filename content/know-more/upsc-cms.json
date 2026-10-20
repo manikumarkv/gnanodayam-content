@@ -1,0 +1,90 @@
+{
+  "title": "UPSC Combined Medical Services (CMS)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Combined Medical Services (CMS) Examination, held by UPSC, recruits MBBS doctors to central government medical posts. Posts include General Duty Medical Officer in the Central Health Service, Assistant Divisional Medical Officer in the Railways, and General Duty Medical Officer in the New Delhi Municipal Council and Municipal Corporation of Delhi."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Exam stages",
+            "value": "2 computer-based papers + personality test",
+            "note": "250 marks per paper; 100 for the personality test",
+            "source": "UPSC CMS notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Upper age limit",
+            "value": "32 years (35 for Central Health Service GDMO)",
+            "note": "Relaxations for reserved categories",
+            "source": "UPSC CMS notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Vacancies",
+            "value": "705",
+            "note": "Railways ADMO posts were the largest group (450)",
+            "source": "UPSC CMS notification (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS — final-year students who have taken the final written and practical exams may apply and show proof later. Apply when UPSC notifies the exam, usually early in the year. Paper 1 covers General Medicine and Paediatrics; Paper 2 covers Surgery, Gynaecology & Obstetrics, and Preventive & Social Medicine. Shortlisted candidates face a personality test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancy numbers change every year, so the level of competition changes too.",
+          "These are general-duty entry posts; specialist posts in central services usually need a PG degree and are recruited separately.",
+          "Posting depends on the service allotted — Railways, central health services or Delhi municipal bodies."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "General Physician",
+            "href": "/roles/general-physician"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

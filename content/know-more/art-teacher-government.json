@@ -1,0 +1,83 @@
+{
+  "title": "Art Teacher (KVS, NVS, State Schools)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Art teachers in Kendriya Vidyalayas, Navodaya Vidyalayas and state government schools teach drawing, painting and craft, and run school art activities. Posts are usually at the trained-graduate (TGT) or equivalent level."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "KVS TGT (Art Education)",
+            "value": "Five-year diploma in drawing & painting / sculpture / graphic art, or equivalent degree",
+            "note": "Plus working knowledge of Hindi and English",
+            "source": "KVS eligibility notice (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Teacher eligibility test",
+            "value": "CTET Paper II may be required",
+            "note": "Depends on the recruiter and notification"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A fine-arts degree (BFA) or equivalent recognised diploma. Some recruiters also ask for a B.Ed or an art-teaching qualification and a TET pass. KVS and NVS recruit through centralised notifications; state schools recruit through state teacher-recruitment boards or PSCs."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Art-teacher vacancies are far fewer than for core subjects.",
+          "Eligibility differs a lot between KVS, NVS and each state — read the specific notification.",
+          "Private schools, art studios and coaching also hire art teachers, often on lower pay."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Art Teacher",
+            "href": "/roles/art-teacher"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

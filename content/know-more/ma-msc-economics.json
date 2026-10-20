@@ -1,0 +1,92 @@
+{
+  "title": "MA / M.Sc Economics",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree in economic theory, econometrics and applied fields such as development, public finance, trade and finance. An M.Sc / quantitative economics variant puts more weight on mathematics and statistics. It is the standard route into economic research, policy work, teaching and the Indian Economic Service."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "PG students in Economics",
+            "value": "~1.19 lakh",
+            "note": "Based on institutions that reported data",
+            "source": "AISHE 2023-24, Table 13 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Main entrance",
+            "value": "CUET-PG (Economics)",
+            "note": "Conducted by NTA"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, usually in economics; many programmes also want mathematics at Class 12 or UG level. Central universities — including the Delhi School of Economics and JNU — admit through CUET-PG; some institutes such as ISI (M.S. in Quantitative Economics) run their own tests. Check each programme's brochure for subject requirements."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Programmes differ a lot in how mathematical they are; quantitative ones expect calculus, linear algebra and statistics.",
+          "Common next steps: research assistant or analyst roles, policy and think-tank work, UPSC IES, UGC-NET for teaching, or a Ph.D.",
+          "Data and coding skills (R, Python, Stata) widen options in industry."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Economic Analyst",
+            "href": "/roles/economic-analyst"
+          },
+          {
+            "label": "Research Analyst",
+            "href": "/roles/research-analyst"
+          },
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

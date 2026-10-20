@@ -1,0 +1,91 @@
+{
+  "title": "IRCTC Hospitality Monitor",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "IRCTC, the Indian Railways catering and tourism company, engages Hospitality Monitors on contract to supervise food production, quality and service in train pantry cars and static catering units, handle passenger complaints and check compliance. Recruitment is through zone-wise walk-in interviews."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Engagement",
+            "value": "Contract, 2 years",
+            "note": "Extendable by 1 year; not a permanent post"
+          },
+          {
+            "label": "Pay",
+            "value": "₹30,000 per month CTC",
+            "note": "Plus on-board daily allowance as per policy",
+            "source": "IRCTC West Zone Hospitality Monitor notification, 11-06-2025",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Upper age limit",
+            "value": "28 years (UR)",
+            "note": "Relaxation for SC/ST, OBC, PwBD and ex-servicemen",
+            "source": "IRCTC West Zone Hospitality Monitor notification, 11-06-2025",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A full-time B.Sc in Hospitality & Hotel Administration from an NCHMCT-affiliated institute, or another listed hotel management / culinary degree. Walk-in interview at the zonal venue; some notices also ask for prior experience. A security deposit was required on selection in recent notices."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The job is contractual and does not lead to a regular IRCTC post.",
+          "It involves on-board travel and postings across several states in the zone.",
+          "Terms differ by zone and year, so read the specific notice."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Hotel Management Trainee",
+            "href": "/roles/hotel-management-trainee"
+          },
+          {
+            "label": "Front Office Executive",
+            "href": "/roles/front-office-executive"
+          },
+          {
+            "label": "Chef",
+            "href": "/roles/chef"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

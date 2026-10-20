@@ -1,0 +1,86 @@
+{
+  "title": "Urban Design, Interiors & BIM",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "After a B.Arch, some architects specialise rather than staying in general building design. Urban design deals with streets, public spaces and neighbourhoods; interior design deals with spaces inside buildings; BIM (Building Information Modelling) roles build and coordinate detailed digital models used by design and construction teams. Each can be entered through work experience, short courses or a master's."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Use of the title 'architect'",
+            "value": "Protected",
+            "note": "Registration with the Council of Architecture under the Architects Act, 1972"
+          },
+          {
+            "label": "Urban design master's",
+            "value": "M.Arch / M.Plan (Urban Design)",
+            "note": "Usually 2 years"
+          },
+          {
+            "label": "Interior design",
+            "value": "Not restricted to architects",
+            "note": "Designers from other backgrounds also practise"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For urban design, a master's is the common route — admission through GATE (Architecture & Planning), CEED in some institutes, or university tests. For interiors, many architects move in through firm experience or a portfolio. BIM roles are usually entered by learning BIM software and coordination workflows, through courses or on the job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "BIM skills are in demand in large firms, consultancies and international project teams, often in production-heavy roles.",
+          "Urban design work is mostly in consultancies and government or development-authority projects, with fewer openings.",
+          "Interior design work is plentiful but competitive, and income depends heavily on clients and portfolio.",
+          "A strong portfolio matters more than the specialisation's title."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Architect",
+            "href": "/roles/architect"
+          },
+          {
+            "label": "Estimation Engineer",
+            "href": "/roles/estimation-engineer"
+          },
+          {
+            "label": "Site Engineer",
+            "href": "/roles/site-engineer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

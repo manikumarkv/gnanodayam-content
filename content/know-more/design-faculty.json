@@ -1,0 +1,80 @@
+{
+  "title": "Design Faculty (NIFT / NID / IIT)",
+  "kicker": "Academic job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Faculty at design schools — NIFT campuses, the NIDs, and design departments at IITs and other institutes — teach studio and theory courses, guide student projects, run industry collaborations and do research or practice. Posts run from Assistant Professor upwards, alongside visiting and contract faculty."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical qualification",
+            "value": "Master’s in design or a related field",
+            "note": "IITs generally require a PhD"
+          },
+          {
+            "label": "Recruitment",
+            "value": "Each institute advertises its own posts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Usually a master's degree in design or a related field, with professional or teaching experience for higher grades. Under UGC rules, university assistant professors need a master's with at least 55% plus NET, or a PhD. Selection is through portfolio review, a presentation or teaching demonstration, and interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Permanent openings are few and periodic; many people start as visiting or contract faculty.",
+          "Industry and portfolio experience count heavily in design schools.",
+          "A PhD increasingly matters for permanent and senior posts.",
+          "Teaching can run alongside your own practice, within institute rules."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Art Teacher",
+            "href": "/roles/art-teacher"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

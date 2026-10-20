@@ -1,0 +1,76 @@
+{
+  "title": "MA HR (Human Resource Management)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An MA in Human Resource Management (also called MA HRM, MA in Personnel Management or MA HRM & Labour Relations) is a two-year degree on recruitment, compensation, labour law, industrial relations, training and organisational behaviour. Compared with an MBA-HR, it is narrower and more focused on HR and labour law, with fewer general-management subjects."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; often with an internship"
+          },
+          {
+            "label": "Usual comparison",
+            "value": "MBA / PGDM with HR specialisation",
+            "note": "Broader management curriculum; admissions via CAT, MAT, XAT and similar"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any stream. Admission is through university entrance tests, CUET-PG at participating universities, or graduation marks, sometimes followed by an interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Recruiters often treat MBA-HR and MA HRM graduates differently, so check the placement record of the specific programme.",
+          "Labour law and industrial relations knowledge suits manufacturing and public-sector HR roles.",
+          "Common entry roles: HR executive, recruiter, payroll and compliance."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "HR Executive",
+            "href": "/roles/hr-executive"
+          },
+          {
+            "label": "Recruiter",
+            "href": "/roles/recruiter"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

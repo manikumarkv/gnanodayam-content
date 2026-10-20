@@ -1,0 +1,84 @@
+{
+  "title": "Government Physiotherapist Posts",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Government physiotherapists work in central and state hospitals, AIIMS and other central institutes, ESIC hospitals, the railways and sports bodies. The work is mostly rehabilitation — post-surgery, neurological, cardiac and sports injuries — in out-patient and ward settings."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Usual qualification",
+            "value": "BPT (Bachelor of Physiotherapy)",
+            "note": "Some posts also ask for experience or an MPT"
+          },
+          {
+            "label": "Railways example",
+            "value": "Physiotherapist Grade II, Pay Level 6",
+            "note": "20 posts in that cycle; age 18–36",
+            "source": "RRB CEN 04/2024 (Paramedical Categories)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Regulation",
+            "value": "National Commission for Allied and Healthcare Professions Act, 2021",
+            "note": "Physiotherapy is a listed allied health profession"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BPT degree (and any experience the notice asks for). Each employer recruits separately: Railway Recruitment Boards (paramedical categories), AIIMS and other central institutes, ESIC, and state health departments or recruitment boards through their own notifications and tests."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Posts are few and notified irregularly, so candidates usually watch several employers at once.",
+          "Exams test core physiotherapy subjects plus general aptitude, depending on the recruiter.",
+          "Government posts offer stable pay-matrix salaries; private hospitals and clinics hire far more physiotherapists."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Physiotherapist",
+            "href": "/roles/physiotherapist"
+          },
+          {
+            "label": "Sports Physiotherapist",
+            "href": "/roles/sports-physiotherapist"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

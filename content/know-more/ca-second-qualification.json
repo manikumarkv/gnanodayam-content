@@ -1,0 +1,85 @@
+{
+  "title": "CS or CMA after CA",
+  "kicker": "Professional qualification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Some chartered accountants add a second professional qualification: Company Secretary (ICSI), which focuses on corporate law, governance and compliance, or Cost and Management Accountant (ICMAI), which focuses on costing, cost audit and management accounting. Both institutes give qualified CAs some credit for their prior study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "CS route",
+            "value": "Direct entry to CS Executive",
+            "note": "Passed CA Final candidates are exempt from CSEET (an exemption fee applies)"
+          },
+          {
+            "label": "CMA route",
+            "value": "Direct entry to CMA Intermediate",
+            "note": "Foundation not required for graduates and CA candidates"
+          },
+          {
+            "label": "Bodies",
+            "value": "ICSI (CS) · ICMAI (CMA)",
+            "note": "Both are statutory bodies under Acts of Parliament"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register with ICSI or ICMAI using your CA qualification for direct entry, complete the remaining papers and the required training, and apply for membership. Paper-wise exemptions change with syllabus revisions, so check the institute's current rules."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A CS adds value for work in secretarial, listing and corporate-law compliance; it is needed to act as a company secretary.",
+          "A CMA adds value for cost audit and costing-heavy industry roles.",
+          "It takes extra years alongside work, so many add it only when their role needs it."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Company Secretary",
+            "href": "/roles/company-secretary"
+          },
+          {
+            "label": "Cost & Management Accountant",
+            "href": "/roles/cost-management-accountant"
+          },
+          {
+            "label": "Chartered Accountant",
+            "href": "/roles/chartered-accountant"
+          },
+          {
+            "label": "Corporate Lawyer",
+            "href": "/roles/corporate-lawyer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

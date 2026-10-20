@@ -1,0 +1,84 @@
+{
+  "title": "RBI Assistant",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Assistant is the clerical-level post at the Reserve Bank of India's regional offices. Assistants handle office and banking-operations work — currency management, accounts, public grievances and administrative support. Recruitment is state-wise, tied to each regional office."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Education",
+            "value": "Bachelor's degree with 50%",
+            "note": "Pass class for SC/ST/PwBD; working knowledge of computers"
+          },
+          {
+            "label": "Age",
+            "value": "20–28 years",
+            "note": "Relaxation for reserved categories",
+            "source": "RBI Assistant notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Selection stages",
+            "value": "Prelims → Mains → Language Proficiency Test",
+            "note": "The LPT in the state's official / local language is qualifying"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree with the required marks and proficiency in the language of the state you apply in. RBI issues its own notification (conducted online); you apply for one regional office only."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies are limited and spread across regional offices, with the largest share usually in Mumbai.",
+          "The language test is mandatory — candidates who fail it are not selected even after clearing mains.",
+          "Promotion to officer grades comes through internal selection over time; eligible Assistants can also take the open RBI Grade B exam."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Accountant",
+            "href": "/roles/accountant"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

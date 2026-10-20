@@ -1,0 +1,83 @@
+{
+  "title": "USMLE (USA)",
+  "kicker": "Licence",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The United States Medical Licensing Examination (USMLE) is the exam series needed for a US medical licence. Indian MBBS graduates take it as international medical graduates (IMGs), obtain ECFMG certification, and then apply for residency through the National Resident Matching Program (NRMP) Match. A US residency of three or more years is needed before independent practice there, even for experienced doctors."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Exams",
+            "value": "Step 1, Step 2 CK, Step 3",
+            "note": "Step 1 is pass/fail since 2022; Step 3 is usually taken during residency"
+          },
+          {
+            "label": "Non-US IMGs matched to first-year posts",
+            "value": "~58%",
+            "source": "NRMP 2025 Main Residency Match (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Certifying body",
+            "value": "ECFMG (part of Intealth)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Pass Step 1 and Step 2 CK (available at test centres in India), meet ECFMG's communication-skills requirement (currently an ECFMG Pathway that includes the OET Medicine test), and obtain ECFMG certification. Then apply to programmes through ERAS and rank them in the NRMP Match. Training also needs a US visa, usually J-1 or H-1B."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Exam, application and travel costs are paid largely in US dollars and add up to a large outlay.",
+          "Programmes often look at year of graduation, exam attempts and US clinical experience; many IMGs need more than one cycle.",
+          "IMGs match most often into internal medicine, family medicine and paediatrics.",
+          "J-1 visa holders generally must spend two years in their home country after training unless they obtain a waiver."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "General Physician",
+            "href": "/roles/general-physician"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

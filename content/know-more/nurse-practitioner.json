@@ -1,0 +1,84 @@
+{
+  "title": "Nurse Practitioner (NPCC)",
+  "kicker": "Postgraduate qualification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Nurse Practitioner in Critical Care (NPCC) is a two-year postgraduate residency programme introduced by the Indian Nursing Council to prepare registered nurses for advanced practice in intensive care units. Training is largely clinical, in the ICUs of the hospital running the programme. Some universities award it as an M.Sc (NPCC)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Residency format, mostly clinical"
+          },
+          {
+            "label": "Work experience",
+            "value": "At least 1 year",
+            "note": "Critical-care experience preferred",
+            "source": "University NPCC admission notices (as reported)",
+            "date": "2023–2026",
+            "verified": false
+          },
+          {
+            "label": "Regulator",
+            "value": "Indian Nursing Council",
+            "note": "Being replaced by the National Nursing and Midwifery Commission under the 2023 Act"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc Nursing or Post Basic B.Sc Nursing, registration as a nurse and midwife (RN & RM), and at least one year of clinical experience. Admission is through the institution's own entrance test and interview; minimum marks are set in each notice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Only a limited number of hospitals and colleges run the programme.",
+          "A legally defined nurse-practitioner cadre is still developing in India, so job titles and scope of practice vary by hospital.",
+          "Graduates work in ICU and critical-care settings; for nursing faculty posts, an M.Sc Nursing is the standard qualification."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Staff Nurse",
+            "href": "/roles/staff-nurse"
+          },
+          {
+            "label": "Community Health Nurse",
+            "href": "/roles/community-health-nurse"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Agri-input Companies",
+  "kicker": "Industry career",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Seed, fertiliser and crop-protection (agrochemical) companies hire agriculture graduates for field and sales work, product demonstrations, farmer meetings, dealer management and, at some firms, research, production and quality roles. It is one of the largest private employers of B.Sc Agriculture graduates."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Main sectors",
+            "value": "Seeds · Fertilisers · Crop protection"
+          },
+          {
+            "label": "Key laws",
+            "value": "Seeds Act 1966; Insecticides Act 1968; Fertiliser (Control) Order 1985",
+            "note": "Govern product sale and dealer licensing"
+          },
+          {
+            "label": "Typical entry roles",
+            "value": "Field / market development officer, territory sales officer, trainee",
+            "note": "Titles vary by company"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc Agriculture (or horticulture / related degree). Companies hire through campus placements at agricultural universities and direct recruitment; an MBA in agri-business or an M.Sc can lead to marketing or R&D roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most entry roles are field-based with heavy rural travel and sales targets.",
+          "Work peaks with the kharif and rabi seasons.",
+          "Growth usually runs from territory to area and regional management, or into product and marketing roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Sales Executive",
+            "href": "/roles/sales-executive"
+          },
+          {
+            "label": "Marketing Executive",
+            "href": "/roles/marketing-executive"
+          },
+          {
+            "label": "Supply Chain Associate",
+            "href": "/roles/supply-chain-associate"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

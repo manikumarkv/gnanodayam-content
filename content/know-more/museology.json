@@ -1,0 +1,80 @@
+{
+  "title": "Museology",
+  "kicker": "Postgraduate study",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Museology is the study of how museums collect, document, conserve, display and interpret objects. Programmes cover collection management, conservation basics, exhibition design, museum education and heritage law. Graduates work in museums, galleries, archives and heritage organisations."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "MA / M.Sc: 2 years",
+            "note": "Some PG diplomas run about one year"
+          },
+          {
+            "label": "Where it is taught",
+            "value": "University departments and the National Museum Institute, Delhi",
+            "note": "The Institute is being integrated into the Indian Institute of Heritage",
+            "source": "Ministry of Culture, Lok Sabha reply (as reported)",
+            "date": "2021",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree — often in history, archaeology, fine arts, anthropology, or a science for conservation tracks — with a minimum percentage set by the university. Admission is through CUET-PG, a university entrance test, or an institute's own test and interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Permanent government museum posts are few and are filled through UPSC, state PSCs or direct advertisement.",
+          "Much of the work is contractual or project-based: exhibitions, digitisation, private museums and galleries.",
+          "Pairing museology with a subject specialisation (art history, archaeology, conservation) widens options.",
+          "Further study can lead to a PhD and teaching."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Archivist",
+            "href": "/roles/archivist"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

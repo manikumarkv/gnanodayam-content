@@ -1,0 +1,80 @@
+{
+  "title": "M.Optom (Master of Optometry)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's after B.Optom focused on advanced clinical work — contact lenses, low vision, binocular vision, paediatric optometry and ocular disease management — plus a research project. It is offered by a limited number of universities and eye-care institutes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Includes a research project"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~1,200",
+            "note": "All modes",
+            "source": "AISHE 2023-24, programme-wise enrolment, all modes (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Regulator",
+            "value": "National Commission for Allied and Healthcare Professions",
+            "note": "Set up under the NCAHP Act, 2021"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "B.Optom (usually four years including an internship). Admission is through the institute's or university's own entrance test and interview, or on merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats are few, so options may mean moving cities.",
+          "It leads to senior clinical roles in eye hospitals and specialty clinics, teaching (often with a Ph.D.), and roles with contact-lens and ophthalmic companies.",
+          "Clinical practice and optical retail are open after B.Optom too; the M.Optom mainly adds specialisation and teaching eligibility."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Optometrist",
+            "href": "/roles/optometrist"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

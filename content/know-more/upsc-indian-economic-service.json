@@ -1,0 +1,84 @@
+{
+  "title": "Indian Economic Service (UPSC IES)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Economic Service (IES) is a Group A central service of economists who work on policy analysis, economic data and programme evaluation across ministries. UPSC recruits for it through the combined IES/ISS examination held once a year. It is a small cadre, so very few posts are filled each year."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Vacancies (IES)",
+            "value": "12",
+            "note": "UPSC IES/ISS 2025 notice",
+            "source": "UPSC IES/ISS 2025 notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Age limit",
+            "value": "21–30 years",
+            "note": "As on 1 August of the exam year; relaxations for reserved categories"
+          },
+          {
+            "label": "Exam pattern",
+            "value": "1,000-mark written exam + 200-mark viva voce",
+            "note": "General English, General Studies, three General Economics papers, Indian Economics"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A postgraduate degree in Economics, Applied Economics, Business Economics or Econometrics. Apply to UPSC's IES/ISS examination, sit the descriptive written papers, and if you clear the qualifying marks, appear for the viva voce (personality test)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "With only a handful of posts a year, the exam is highly competitive.",
+          "The papers are descriptive and go deep into economic theory, so a strong master's-level grounding matters.",
+          "Officers work in ministries and departments in Delhi and elsewhere, rising to senior economic advisory roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Economic Analyst",
+            "href": "/roles/economic-analyst"
+          },
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "PvPI Pharmacovigilance Posts",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Pharmacovigilance Programme of India (PvPI) monitors adverse drug reactions (ADRs) across the country. It is coordinated by the Indian Pharmacopoeia Commission (IPC), Ghaziabad, as the National Coordination Centre, with ADR Monitoring Centres (AMCs) mostly in medical colleges and hospitals. Staff collect, assess and report ADR cases and train health workers to report them."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Coordinating body",
+            "value": "Indian Pharmacopoeia Commission (NCC-PvPI)"
+          },
+          {
+            "label": "ADR Monitoring Centres",
+            "value": "~1,200",
+            "source": "PvPI Newsletter, IPC (as reported)",
+            "date": "Jan–Mar 2026",
+            "verified": false
+          },
+          {
+            "label": "Post types",
+            "value": "Pharmacovigilance / technical associate and similar",
+            "note": "Mostly contractual"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Posts are advertised by IPC or by the institution hosting an AMC. Typical eligibility is a Pharm.D, an M.Pharm (often pharmacology or pharmacy practice) or a related degree, as stated in each advertisement. Selection is usually by written test and/or interview, often walk-in."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most posts are contractual and project-based, renewed periodically — not permanent government jobs.",
+          "Openings appear irregularly and are tied to individual centres.",
+          "Experience in case processing and causality assessment carries over to drug-safety roles in pharma companies and CROs."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Drug Safety Associate",
+            "href": "/roles/drug-safety-associate"
+          },
+          {
+            "label": "Clinical Pharmacist",
+            "href": "/roles/clinical-pharmacist"
+          },
+          {
+            "label": "Regulatory Affairs Associate",
+            "href": "/roles/regulatory-affairs-associate"
+          },
+          {
+            "label": "Clinical Research Associate",
+            "href": "/roles/clinical-research-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

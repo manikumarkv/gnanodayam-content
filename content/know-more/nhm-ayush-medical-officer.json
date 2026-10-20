@@ -1,0 +1,93 @@
+{
+  "title": "NHM Ayush Medical Officer",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Under the National Health Mission (NHM), state and district health societies hire Ayush medical officers — BAMS, BHMS, BUMS or BSMS graduates — on contract, mainly for Ayush wings in primary health centres, community health centres and district hospitals. These posts are separate from the regular posts that state Ayush departments fill through public service commissions."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Type of post",
+            "value": "Contractual",
+            "note": "Often about 11 months to a year, renewable on performance and funding",
+            "source": "State NHM recruitment notices (as reported)",
+            "date": "2019–2026",
+            "verified": false
+          },
+          {
+            "label": "Hiring body",
+            "value": "State / district health society",
+            "note": "Each state recruits separately"
+          },
+          {
+            "label": "Pay",
+            "value": "Fixed monthly remuneration",
+            "note": "Set by each state; no common national pay scale"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BAMS, BHMS, BUMS or BSMS degree with completed internship and permanent registration with the state board or council for Indian medicine / homoeopathy (provisional registration is often not accepted). States advertise on their NHM or district websites; selection is by walk-in interview, merit list or a written test, depending on the state."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Contract posts do not carry the tenure and pension of regular government service.",
+          "Remuneration and renewal terms differ between states and can change with the yearly NHM budget.",
+          "Rural postings and knowledge of the local language are commonly expected.",
+          "Regular Ayush medical officer posts are filled separately by state public service commissions."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Ayurvedic Physician",
+            "href": "/roles/ayurvedic-physician"
+          },
+          {
+            "label": "Homoeopathic Physician",
+            "href": "/roles/homoeopathic-physician"
+          },
+          {
+            "label": "Unani Physician",
+            "href": "/roles/unani-physician"
+          },
+          {
+            "label": "Siddha Physician",
+            "href": "/roles/siddha-physician"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

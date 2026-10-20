@@ -1,0 +1,96 @@
+{
+  "title": "LIC AAO (Assistant Administrative Officer)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Assistant Administrative Officer (AAO) is the entry-level officer post at the Life Insurance Corporation of India, a government-owned insurer. AAOs work in branch and divisional offices on policy servicing, underwriting, claims, accounts and administration, and can move up the officer cadre through internal promotion."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Age limit",
+            "value": "21–30 years",
+            "note": "Relaxation for reserved categories",
+            "source": "LIC AAO notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Selection stages",
+            "value": "Prelims → Mains → Interview → Medical",
+            "note": "Prelims is qualifying; mains and interview decide merit"
+          },
+          {
+            "label": "Posts notified",
+            "value": "841",
+            "note": "350 AAO Generalist, 410 AAO Specialist, 81 Assistant Engineer",
+            "source": "LIC recruitment notification (as reported)",
+            "date": "Aug 2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any discipline for the generalist stream. Specialist streams (for example CA, actuarial, legal, IT or Rajbhasha) need the matching professional qualification or degree. Recruitment is through LIC's own notification; it is not held every year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies are irregular — there can be gaps of a few years between notifications.",
+          "The mains includes a descriptive English paper alongside objective sections.",
+          "Generalist AAOs are posted across the country; transfers are part of the job.",
+          "The syllabus overlaps heavily with bank PO exams, so many candidates prepare for both."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Insurance Advisor",
+            "href": "/roles/insurance-advisor"
+          },
+          {
+            "label": "Actuarial Analyst",
+            "href": "/roles/actuarial-analyst"
+          },
+          {
+            "label": "Accountant",
+            "href": "/roles/accountant"
+          },
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

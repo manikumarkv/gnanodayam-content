@@ -1,0 +1,81 @@
+{
+  "title": "Pharma & Clinical Research (for doctors)",
+  "kicker": "Non-clinical path",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Doctors in pharmaceutical companies and contract research organisations (CROs) work as medical advisors, medical monitors in clinical trials, and physicians in pharmacovigilance (drug safety). The work involves reviewing trial data and adverse-event reports, supporting regulatory submissions and giving medical input to product teams, rather than treating patients."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical roles",
+            "value": "Medical advisor, medical monitor, drug-safety physician",
+            "note": "Titles vary by company"
+          },
+          {
+            "label": "Indian trial rules",
+            "value": "New Drugs and Clinical Trials Rules, 2019",
+            "note": "Administered by CDSCO"
+          },
+          {
+            "label": "National drug-safety system",
+            "value": "Pharmacovigilance Programme of India",
+            "note": "Run by the Indian Pharmacopoeia Commission"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An MBBS with registration is the base. Some roles take freshers, especially in pharmacovigilance and medical writing; medical-advisor roles often prefer an MD (pharmacology or a clinical subject) or clinical experience. Short certificates in clinical research or Good Clinical Practice (GCP) are common but not legally required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It trades patient care and night duties for office hours and corporate career ladders.",
+          "Work is concentrated in a few cities with pharma and CRO hubs.",
+          "Moving back to clinical practice later can be harder if skills lapse."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Clinical Research Associate",
+            "href": "/roles/clinical-research-associate"
+          },
+          {
+            "label": "Drug Safety Associate",
+            "href": "/roles/drug-safety-associate"
+          },
+          {
+            "label": "Regulatory Affairs Associate",
+            "href": "/roles/regulatory-affairs-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

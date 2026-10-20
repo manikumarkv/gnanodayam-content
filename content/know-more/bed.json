@@ -1,0 +1,117 @@
+{
+  "title": "B.Ed (Bachelor of Education)",
+  "kicker": "Teaching qualification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A professional teacher-education degree taken after a bachelor's or master's degree. It covers child development, teaching methods for two school subjects, assessment and a school internship. Programmes must be recognised by the National Council for Teacher Education (NCTE)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "NCTE Regulations, 2014; includes a school internship"
+          },
+          {
+            "label": "Minimum marks to apply",
+            "value": "50% in a bachelor's or master's degree",
+            "note": "Relaxation for reserved categories as per state / central rules"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~15.8 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's or master's degree with the minimum marks set by NCTE. Admission is through state B.Ed entrance tests, university entrance tests (some central universities use CUET-PG) or merit, depending on the state and institution."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "To teach in most schools you also need to clear a Teacher Eligibility Test (CTET or a state TET) and then a recruitment exam.",
+          "A 2023 Supreme Court judgment held that B.Ed holders are not eligible for primary (Classes 1–5) teacher posts under NCTE norms; B.Ed mainly leads to upper-primary and secondary posts.",
+          "NEP 2020 envisages the four-year integrated B.Ed (ITEP) as the minimum teacher qualification by 2030, so the two-year route may change.",
+          "Quality varies widely across a very large number of private colleges; checking NCTE recognition before admission matters."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Ed enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [1316648, 1402955, 1487090, 1596064, 1552211]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, regular mode (Ministry of Education)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

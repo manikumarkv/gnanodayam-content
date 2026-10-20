@@ -1,0 +1,91 @@
+{
+  "title": "NABARD Grade A",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "NABARD, India's apex bank for agriculture and rural development, recruits Assistant Managers in Grade A. Most posts are in the Rural Development Banking Service, with streams for general candidates and for specialists such as agriculture, animal husbandry, fisheries, forestry, food processing and finance. Officers appraise projects, monitor rural credit and work with banks and state governments."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Selection stages",
+            "value": "Prelims → Mains → interview",
+            "note": "A psychometric test was also part of the 2025 cycle"
+          },
+          {
+            "label": "Age limit",
+            "value": "21–30 years",
+            "note": "Relaxation for SC/ST, OBC and PwBD as per rules",
+            "source": "NABARD Grade A notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Minimum marks",
+            "value": "60% in bachelor's (55% SC/ST/PwBD)",
+            "note": "General RDBS stream; specialist streams set their own degree rules",
+            "source": "NABARD Grade A notification (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For the agriculture stream, a degree in agriculture (or a related PG) with the minimum marks in that year's notification. Apply when NABARD releases the Grade A notice, clear the Phase I prelims, Phase II mains (which includes a stream-specific paper) and the interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Posts are few and the exam is competitive; vacancies differ a lot by stream and year.",
+          "Agriculture graduates can apply in their specialist stream, which tests their subject knowledge.",
+          "Postings are across India, including regional offices and district-level roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Credit Analyst",
+            "href": "/roles/credit-analyst"
+          },
+          {
+            "label": "Loan Officer",
+            "href": "/roles/loan-officer"
+          },
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

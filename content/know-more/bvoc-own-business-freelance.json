@@ -1,0 +1,83 @@
+{
+  "title": "Own Business / Freelance (after B.Voc)",
+  "kicker": "Self-employment path",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.Voc trains you in a specific trade, so some graduates start a small enterprise or freelance in it — a service unit, workshop, salon, food business, repair or IT services. Government schemes offer collateral-free loans and capital subsidies for new micro units."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "PMMY (Mudra) loans",
+            "value": "Up to ₹20 lakh",
+            "note": "Shishu up to ₹50,000; Kishore to ₹5 lakh; Tarun to ₹10 lakh; Tarun Plus to ₹20 lakh for past Tarun borrowers",
+            "source": "Ministry of Finance (PIB, as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "PMEGP project cost",
+            "value": "Up to ₹50 lakh (manufacturing) / ₹20 lakh (service)",
+            "note": "Subsidy 15–35% depending on category and area",
+            "source": "PMEGP guidelines (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Udyam registration",
+            "value": "Free, online",
+            "note": "MSME registration used for many schemes"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "No exam. You need a business plan, any trade licences your work needs, and usually some own funds (PMEGP asks for a 5–10% own contribution). Loans are applied for through banks, and PMEGP through its online portal; a bank still appraises the project."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A loan must be repaid even if the business struggles, so early cash flow matters.",
+          "Many people work for an employer first to learn the trade and build a client base.",
+          "Income is irregular at first; GST and local licences apply once you cross thresholds or by type of trade."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Vocational & skilling",
+            "href": "/explore/vocational-skilling"
+          },
+          {
+            "label": "Jobs & work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

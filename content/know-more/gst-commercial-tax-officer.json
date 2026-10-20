@@ -1,0 +1,89 @@
+{
+  "title": "GST / Commercial Tax Officer",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Tax officers administer GST and other indirect taxes — registering businesses, checking returns, auditing and enforcing. At the centre, Inspectors in the Central Board of Indirect Taxes and Customs (CBIC) are recruited through SSC CGL. In the states, commercial tax / state tax officer posts are filled through each state's Public Service Commission or staff selection board; titles differ by state."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Central route",
+            "value": "SSC CGL",
+            "note": "Inspector (Central GST/Excise), Inspector (Preventive Officer), Inspector (Examiner)"
+          },
+          {
+            "label": "Central Inspector pay",
+            "value": "Pay Level 7",
+            "note": "7th CPC pay matrix",
+            "source": "SSC CGL notification",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "State route",
+            "value": "State PSC / staff selection board exams",
+            "note": "Post names vary: Commercial Tax Officer, State Tax Officer, State Tax Inspector"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any subject plus the age limit in the notification. Central posts: SSC CGL (Tier 1 and Tier 2 computer-based exams, with document verification and, for some posts, physical standards). State posts: the state PSC's combined or departmental exam — check your state's latest notification for eligibility and pattern."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "SSC CGL is a high-competition exam with a large applicant pool for a limited number of posts.",
+          "A commerce background helps with GST law and accounts but is not required.",
+          "Work involves field visits, audits and enforcement as well as desk work.",
+          "Departmental exams lead to promotion as Superintendent and above over time."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Tax Analyst",
+            "href": "/roles/tax-analyst"
+          },
+          {
+            "label": "GST Practitioner",
+            "href": "/roles/gst-practitioner"
+          },
+          {
+            "label": "Tax Consultant",
+            "href": "/roles/tax-consultant"
+          },
+          {
+            "label": "SSC",
+            "href": "/explore/government-competitive.ssc"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

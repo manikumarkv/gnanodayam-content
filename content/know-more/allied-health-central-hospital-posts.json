@@ -1,0 +1,88 @@
+{
+  "title": "Allied Health Posts in Central Hospitals",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "AIIMS institutions and other central government hospitals recruit technologists and technicians for laboratories, radiology, operation theatres, dialysis, cardiology, optometry and other departments. These Group B and Group C posts support doctors in diagnosis and treatment. Eligibility is set post by post and usually matches a specific allied health qualification."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Main exam",
+            "value": "AIIMS Common Recruitment Examination (CRE)",
+            "note": "Covers non-faculty Group B and C posts across several AIIMS and central institutes"
+          },
+          {
+            "label": "CRE-5 vacancies",
+            "value": "~1,480 across 57 post groups",
+            "note": "All posts, not only allied health",
+            "source": "AIIMS CRE-5 notification (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Typical eligibility",
+            "value": "B.Sc or diploma in the matching specialty",
+            "note": "Some posts also ask for experience or registration"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hold the qualification named for the post — for example B.Sc Medical Lab Technology for laboratory posts or B.Sc Radiography for radiology posts. Apply through the AIIMS CRE (computer-based test, then skill test and document verification where required). Other central hospitals and bodies such as ESIC and the railways (RRB Paramedical categories) run their own notices."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Eligibility is specialisation-specific — a general B.Sc rarely qualifies.",
+          "Vacancy numbers per post group are often small even when the total looks large.",
+          "Posts are usually in shifts, and postings can be at any participating institute."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Medical Lab Technologist",
+            "href": "/roles/medical-lab-technologist"
+          },
+          {
+            "label": "Radiology Technologist",
+            "href": "/roles/radiology-technologist"
+          },
+          {
+            "label": "OT & Anaesthesia Technologist",
+            "href": "/roles/ot-anaesthesia-technologist"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

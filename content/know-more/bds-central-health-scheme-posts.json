@@ -1,0 +1,81 @@
+{
+  "title": "Dental Posts in ESIC / CGHS / Railways",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Central health schemes and organisations — the Employees' State Insurance Corporation (ESIC), the Central Government Health Scheme (CGHS) and Indian Railways hospitals — employ dental surgeons. These posts are few and filled irregularly, sometimes as regular posts and often on contract."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical title",
+            "value": "Dental Surgeon / Dental Officer"
+          },
+          {
+            "label": "Recruiting body",
+            "value": "UPSC or the organisation",
+            "note": "Regular central posts are often advertised by UPSC; contract posts by the hospital or zone"
+          },
+          {
+            "label": "Basic qualification",
+            "value": "BDS + State Dental Council registration",
+            "note": "Some posts ask for an MDS or experience"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BDS from a DCI-recognised college with registration in a State Dental Council. Regular posts appear in UPSC recruitment advertisements or the organisation's own notices; contract posts in ESIC hospitals, CGHS cities and Railway zones are usually filled by walk-in interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are few and irregular compared with the number of BDS graduates each year.",
+          "Contract posts can be short-term, and renewal is not guaranteed.",
+          "Regular posts carry central government pay and benefits; contract posts carry a fixed monthly amount.",
+          "State health departments and the Army Dental Corps are other government routes."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Dentist",
+            "href": "/roles/dentist"
+          },
+          {
+            "label": "Dental Lecturer",
+            "href": "/roles/dental-lecturer"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

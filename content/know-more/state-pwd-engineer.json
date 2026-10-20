@@ -1,0 +1,80 @@
+{
+  "title": "State PWD Engineer",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Assistant engineers in a state public works department (PWD) plan, estimate and supervise government roads, bridges and buildings, and manage contractors and works budgets. Most posts are in the civil wing; electrical and mechanical wings recruit separately. It is a field-oriented engineering job in government."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical eligibility",
+            "value": "B.E./B.Tech in the relevant branch",
+            "note": "Mostly civil; junior engineer posts usually take diploma holders"
+          },
+          {
+            "label": "Who recruits",
+            "value": "State PSC",
+            "note": "Often through a state engineering services exam"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A degree in civil (or electrical/mechanical for those wings) engineering. Apply to the state PSC's assistant engineer recruitment — usually a written exam (sometimes prelims and mains) and in some states an interview. Domicile and state-language requirements are common."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Recruitment calendars are irregular and vary by state.",
+          "Work is site-based: inspections, measurements, billing and contractor supervision.",
+          "Promotions run through executive, superintending and chief engineer levels over a long career."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Site Engineer",
+            "href": "/roles/site-engineer"
+          },
+          {
+            "label": "Estimation Engineer",
+            "href": "/roles/estimation-engineer"
+          },
+          {
+            "label": "Structural Engineer",
+            "href": "/roles/structural-engineer"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

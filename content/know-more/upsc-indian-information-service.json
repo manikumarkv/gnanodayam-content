@@ -1,0 +1,83 @@
+{
+  "title": "Indian Information Service (IIS)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Information Service (IIS) Group A is the central government's media and communication service under the Ministry of Information and Broadcasting. Officers work in the Press Information Bureau, DD News and All India Radio news, the Central Bureau of Communication, the Central Board of Film Certification and similar units."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Recruitment",
+            "value": "UPSC Civil Services Examination",
+            "note": "Some posts are filled by promotion from IIS Group B"
+          },
+          {
+            "label": "Cadre controlling authority",
+            "value": "Ministry of Information and Broadcasting"
+          },
+          {
+            "label": "Induction training",
+            "value": "~20½ months at IIMC",
+            "note": "Classroom phases with on-the-job training in between",
+            "source": "IIMC (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A graduate degree in any discipline, including a BJMC, within UPSC's age limits. Clear the Civil Services Prelims, Mains and Interview; IIS is then allotted by rank and your service preference, alongside the IAS, IPS and other services."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "You cannot apply for the IIS alone; it depends on your CSE rank and preference order.",
+          "The work is government communication — press releases, media briefings, news production and outreach — rather than independent journalism.",
+          "Postings move across media units and cities over a career."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "UPSC Civil Services",
+            "href": "/explore/government-competitive.upsc-civil-services"
+          },
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

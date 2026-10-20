@@ -1,0 +1,85 @@
+{
+  "title": "Coast Guard Assistant Commandant (CPL entry)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Coast Guard recruits pilots who already hold a Commercial Pilot Licence (CPL) as Assistant Commandants under a short service appointment (CPL-SSA). They fly the Coast Guard's aircraft for maritime surveillance, search and rescue, and pollution response. It is an officer-level entry open to men and women."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Rank on entry",
+            "value": "Assistant Commandant",
+            "note": "Group 'A' gazetted officer"
+          },
+          {
+            "label": "Age",
+            "value": "19–25 years",
+            "note": "Relaxation for reserved categories",
+            "source": "Indian Coast Guard careers page (CPL-SSA)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Licence",
+            "value": "Current DGCA-issued CPL",
+            "note": "Valid on the date of application"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics and Mathematics (55% aggregate in these for General/OBC/EWS, 50% for SC/ST) and a current CPL. Selection follows the Coast Guard officer process: the Coast Guard Common Admission Test (CGCAT), a Preliminary Selection Board, a Final Selection Board (including pilot aptitude tests) and a medical exam."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Few posts are offered in each batch.",
+          "It suits CPL holders who want a flying role in a uniformed service rather than an airline.",
+          "Short service appointment means a fixed tenure; check the current notification for extension rules.",
+          "Medical and physical standards for aircrew are strict."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Charter Pilot",
+            "href": "/roles/charter-pilot"
+          },
+          {
+            "label": "First Officer",
+            "href": "/roles/first-officer"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

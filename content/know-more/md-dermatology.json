@@ -1,0 +1,87 @@
+{
+  "title": "MD Dermatology",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "MD Dermatology, Venereology & Leprosy (DVL) is a three-year postgraduate specialisation after MBBS. Residents treat skin, hair and nail disease, sexually transmitted infections and leprosy, and learn procedures such as biopsies, cautery, lasers and other cosmetic dermatology work. It combines outpatient-heavy clinical work with a thesis."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Residency with a thesis; regulated by the National Medical Commission"
+          },
+          {
+            "label": "PG students in dermatology",
+            "value": "~3,100",
+            "note": "All PG courses in the subject",
+            "source": "AISHE 2023-24, Table 13, PG level, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "All MD/MS/PG diploma seats",
+            "value": "~52,000",
+            "note": "Across ~68 specialities",
+            "source": "NMC seat matrix for NEET-PG counselling (as reported)",
+            "date": "2025-26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS with a completed internship, then NEET-PG (conducted by NBEMS). Seats are allotted by rank through MCC counselling (All-India quota, central and deemed institutions) and state counselling. Some candidates also take a DNB seat in the same subject."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats are limited relative to demand, so it usually needs a high NEET-PG rank.",
+          "Mostly outpatient work with fewer night emergencies than many specialties.",
+          "After the MD: senior residency, government or hospital posts, private clinic practice or teaching."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

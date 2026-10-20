@@ -1,0 +1,89 @@
+{
+  "title": "DG Shipping Surveyor",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Directorate General of Shipping, under the Ministry of Ports, Shipping and Waterways, employs surveyors who inspect ships for safety and pollution compliance, examine seafarers for certificates of competency, and investigate marine casualties. The main posts — Nautical Surveyor, Engineer and Ship Surveyor, and Ship Surveyor, each cum Deputy Director General (Technical) — are recruited through UPSC."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Engineer & Ship Surveyor",
+            "value": "MEO Class I certificate + 5 years at sea",
+            "note": "Including 1 year as Chief or Second Engineer",
+            "source": "UPSC advertisement (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Ship Surveyor",
+            "value": "Naval architecture degree + 8 years’ experience",
+            "note": "In ship design, construction, survey or repair",
+            "source": "UPSC advertisement (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Nautical Surveyor",
+            "value": "Master (Foreign-Going) certificate of competency",
+            "source": "UPSC advertisements (as reported)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "These are lateral posts for experienced mariners and naval architects, not entry jobs. You need the required certificate of competency (or a naval-architecture degree) plus years of experience at sea or in shipbuilding. UPSC advertises the posts; selection is by shortlisting and interview, sometimes with a recruitment test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Posts appear in occasional UPSC advertisements, a few at a time.",
+          "Coming ashore changes pay and lifestyle: government pay scales replace sea-going wages.",
+          "Postings are at mercantile marine offices in port cities."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Deck Officer",
+            "href": "/roles/deck-officer"
+          },
+          {
+            "label": "Marine Engineer",
+            "href": "/roles/marine-engineer"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

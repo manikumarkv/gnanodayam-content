@@ -1,0 +1,78 @@
+{
+  "title": "M.A. / M.Sc in Your Subject (after ITEP)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Integrated Teacher Education Programme (ITEP) combines a bachelor's degree with a B.Ed in four years. To teach senior classes (as a PGT) or to move towards college teaching, many ITEP graduates take a master's — M.A., M.Sc or M.Com — in their subject. Planning the subject early helps, because master's admission usually depends on what you studied as your main subject."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "ITEP length",
+            "value": "4 years",
+            "note": "B.A. B.Ed / B.Sc. B.Ed / B.Com. B.Ed, under NCTE"
+          },
+          {
+            "label": "Master's length",
+            "value": "1–2 years",
+            "note": "Some universities allow a one-year master's after a four-year degree; check eligibility"
+          },
+          {
+            "label": "PGT requirement",
+            "value": "Master's in subject + B.Ed",
+            "note": "As per common recruitment rules, e.g. KVS and NVS"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Admission to a subject master's is through CUET-PG (central and many state universities), university entrance tests or merit. Your ITEP major subject usually needs to match the master's subject. For college teaching, you then need UGC-NET (or a state eligibility test) or a PhD."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The B.Ed component of ITEP already counts, so a master's is what PGT eligibility adds.",
+          "Whether a university accepts ITEP for a one-year master's varies — confirm before applying.",
+          "Teacher recruitment exams (state TETs, CTET for lower classes, PGT exams) run alongside.",
+          "A master's plus NET also opens research and JRF routes."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

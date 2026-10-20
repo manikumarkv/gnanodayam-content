@@ -1,0 +1,88 @@
+{
+  "title": "MA History",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in history. You study periods (ancient, medieval, modern), regions and themes such as economic, social or art history, and learn to work with primary sources and historiography. Many universities offer specialisations such as archaeology, museology or archival studies as electives."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; also offered through distance and open universities"
+          },
+          {
+            "label": "PG students in history",
+            "value": "~2.3 lakh",
+            "note": "One of the larger PG disciplines in the humanities",
+            "source": "AISHE 2023-24, Table 13, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree (usually in history or any arts subject, depending on the university). Central and many state universities admit through CUET-PG; others hold their own entrance test or admit on graduation marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "School teaching (PGT) needs a B.Ed along with the master's; college teaching needs UGC-NET or a PhD.",
+          "Heritage work — archives, museums, archaeology — usually needs a further specialised diploma or degree, and posts are limited.",
+          "History is a common optional subject in civil services exams.",
+          "Writing, research and editorial roles are also open to history postgraduates."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Archivist",
+            "href": "/roles/archivist"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "UPSC Civil Services",
+            "href": "/explore/government-competitive.upsc-civil-services"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

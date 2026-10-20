@@ -1,0 +1,91 @@
+{
+  "title": "Indian Forest Service (IFS)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Forest Service (IFoS) is an All India Service that manages forests, wildlife and protected areas. UPSC recruits through the Indian Forest Service Examination, whose preliminary stage is the same as the Civil Services prelims. Officers are trained at the Indira Gandhi National Forest Academy, Dehradun, and allotted to state cadres."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Vacancies",
+            "value": "~150",
+            "source": "UPSC IFoS notification",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Age",
+            "value": "21–32 years",
+            "note": "Relaxation for reserved categories",
+            "source": "UPSC IFoS notification",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Mains",
+            "value": "6 papers",
+            "note": "General English, General Knowledge, and two optional subjects of two papers each, then an interview"
+          },
+          {
+            "label": "Attempts",
+            "value": "6 (General)",
+            "note": "More for OBC; unlimited within age for SC/ST",
+            "source": "UPSC rules (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree with at least one of Animal Husbandry & Veterinary Science, Botany, Chemistry, Geology, Mathematics, Physics, Statistics or Zoology, or a degree in Agriculture, Forestry or Engineering. Apply in the common UPSC form; you take the Civil Services prelims, and a separate (higher) cut-off decides who goes to the IFoS mains. A physical standards and walking test is also required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Competition is very high: lakhs sit the common prelims for a few hundred posts across both exams.",
+          "The optional subjects are science-based, so a science or engineering background is directly useful.",
+          "Postings are often in remote and forested areas, with field work and law-enforcement duties.",
+          "Preparation commonly takes one to several years."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "UPSC Civil Services",
+            "href": "/explore/government-competitive.upsc-civil-services"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

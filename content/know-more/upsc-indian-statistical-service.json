@@ -1,0 +1,96 @@
+{
+  "title": "Indian Statistical Service (UPSC ISS)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Statistical Service is a Group A central service for statisticians, recruited through UPSC's combined Indian Economic Service / Indian Statistical Service examination. ISS officers work on official statistics — surveys, national accounts, price indices and data systems — mainly under the Ministry of Statistics and Programme Implementation and in statistics units of other ministries."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Exam",
+            "value": "UPSC IES/ISS Examination",
+            "note": "Held once a year; written papers followed by a personality test"
+          },
+          {
+            "label": "Marks",
+            "value": "1,000 written + 200 interview",
+            "note": "General English and General Studies (100 each) plus four Statistics papers (200 each)"
+          },
+          {
+            "label": "Age limit",
+            "value": "21–30 years",
+            "note": "Relaxation for SC/ST, OBC and PwBD as per rules",
+            "source": "UPSC IES/ISS notification (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "ISS posts notified",
+            "value": "35 (2025) · 28 (2026)",
+            "note": "UPSC notes the number can change",
+            "source": "UPSC IES/ISS notifications (as reported)",
+            "date": "2025–2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree with Statistics, Mathematical Statistics or Applied Statistics as one of the subjects, or a master's degree in one of these. You apply to the UPSC IES/ISS notification (usually released in February), clear the written exam and then the interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Very few posts each year, so competition is intense.",
+          "Two Statistics papers are objective and two are descriptive, covering probability, inference, sampling, econometrics, demography and more.",
+          "Selected officers go through induction training and then postings in official statistics work across the country."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Statistician",
+            "href": "/roles/statistician"
+          },
+          {
+            "label": "Economic Analyst",
+            "href": "/roles/economic-analyst"
+          },
+          {
+            "label": "UPSC Civil Services",
+            "href": "/explore/government-competitive.upsc-civil-services"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "M.Sc Computer Science / IT",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year postgraduate degree in computer science or information technology, taken after a BCA or a B.Sc with computer science or mathematics. It covers algorithms, systems, networks, databases and electives such as machine learning, usually with a project or dissertation."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "Typical entry degrees",
+            "value": "BCA, B.Sc (CS / IT / mathematics)",
+            "note": "Exact requirements vary by university"
+          },
+          {
+            "label": "Related degree",
+            "value": "MCA — 2 years",
+            "note": "AICTE-regulated; more application-oriented"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's in computer science, IT, BCA or a B.Sc with mathematics or computer science, usually with a minimum percentage set by the university. Admission is through CUET-PG at participating universities, a university's own entrance test, or merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The M.Sc leans more to theory and research; the MCA leans more to applications. Both lead to similar software roles.",
+          "The M.Sc is a common route to UGC-NET, college teaching and a PhD.",
+          "For industry jobs, projects, internships and coding skill weigh heavily alongside the degree.",
+          "Fees differ widely between government universities and private colleges."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Software Developer",
+            "href": "/roles/software-developer"
+          },
+          {
+            "label": "Backend Developer",
+            "href": "/roles/backend-developer"
+          },
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          },
+          {
+            "label": "Machine Learning Engineer",
+            "href": "/roles/machine-learning-engineer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

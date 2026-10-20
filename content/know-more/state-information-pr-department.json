@@ -1,0 +1,85 @@
+{
+  "title": "State Information & PR Departments",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State Information and Public Relations departments handle government communication: press releases, media relations, government advertising, publications, social media and publicity for schemes. Posts include Assistant or Deputy Director and District Information and Public Relations Officer, plus assistant-level information posts."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Recruiting bodies",
+            "value": "State PSCs or state staff selection boards",
+            "note": "Contract posts by direct notice"
+          },
+          {
+            "label": "Typical qualification",
+            "value": "Degree with journalism, mass communication or PR",
+            "note": "Varies by state and post"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Typically a bachelor's degree with a degree or diploma in journalism, mass communication or public relations; some posts also ask for media experience and knowledge of the state language. Recruitment is through the state Public Service Commission or staff selection board, with a written exam and/or interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Notifications are irregular and state-specific.",
+          "Knowledge of the state's official language is usually essential.",
+          "Work follows government events and deadlines, including evenings and holidays.",
+          "The central counterpart, the Indian Information Service, recruits through UPSC and SSC."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "UPSC Civil Services",
+            "href": "/explore/government-competitive.upsc-civil-services"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

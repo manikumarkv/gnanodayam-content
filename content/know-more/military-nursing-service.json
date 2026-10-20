@@ -1,0 +1,87 @@
+{
+  "title": "Military Nursing Service (MNS)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Military Nursing Service (MNS) is the nursing cadre of the Armed Forces Medical Services. Nurses join as commissioned officers and work in military hospitals of the Army, Navy and Air Force. Entry for qualified nurses is through a Short Service Commission; currently the MNS recruits women only."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Entry for graduates",
+            "value": "Short Service Commission (MNS)"
+          },
+          {
+            "label": "Age",
+            "value": "21–35 years",
+            "note": "No age relaxation",
+            "source": "MNS SSC notification (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Selection",
+            "value": "Computer-based test + interview",
+            "note": "CBT conducted by NTA under DGAFMS, as reported",
+            "source": "NTA / DGAFMS notice (as reported)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc Nursing, Post-Basic B.Sc Nursing or M.Sc Nursing from an INC-recognised institution, and registration as a nurse and midwife with a State Nursing Council. Selection is by computer-based test, interview and medical examination. Separately, Class 12 students can enter the MNS through the B.Sc Nursing course in armed forces colleges via NEET-UG."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Short Service Commission is for a fixed term; check the current notification for tenure and extension rules.",
+          "Postings rotate across military hospitals nationwide, including field areas.",
+          "Seats are limited and the process runs once a year or less often.",
+          "Officer rank brings military service conditions and benefits."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Staff Nurse",
+            "href": "/roles/staff-nurse"
+          },
+          {
+            "label": "Community Health Nurse",
+            "href": "/roles/community-health-nurse"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

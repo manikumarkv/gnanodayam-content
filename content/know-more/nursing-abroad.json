@@ -1,0 +1,87 @@
+{
+  "title": "Nursing Abroad",
+  "kicker": "Career path",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Indian nurses work in the Gulf countries, the UK, Ireland, Australia, New Zealand, Canada and the US, among others. Each country has its own licensing exam, English-language requirement and registration body. The process usually takes months and much of the cost is paid upfront."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "US and Canada licensing",
+            "value": "NCLEX-RN",
+            "note": "Plus state/provincial registration"
+          },
+          {
+            "label": "UK licensing",
+            "value": "NMC Test of Competence",
+            "note": "Computer-based test (CBT) then a practical OSCE"
+          },
+          {
+            "label": "Gulf licensing",
+            "value": "Country or emirate health authority exam",
+            "note": "For example DHA, DOH, MOH or the Saudi Commission"
+          },
+          {
+            "label": "English test",
+            "value": "IELTS or OET",
+            "note": "Required score set by each regulator"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "B.Sc Nursing (GNM is accepted in some countries) with State Nursing Council registration; many employers also ask for post-registration clinical experience. Pass the destination's English test and licensing exam, then apply for registration and a work visa — through an employer, a state-run overseas recruitment agency, or a recruiting agent registered on the MEA's eMigrate portal."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Costs add up — exams, credential checks, language tests, visas and travel — and are often paid before a job is confirmed.",
+          "Recruitment fraud is a known risk; check that an agent is registered on eMigrate, and treat large upfront placement fees as a warning sign.",
+          "Gulf jobs rarely lead to permanent residence; the UK, Australia, Canada and the US can, under their own immigration rules.",
+          "Experience in ICU, theatre or emergency care is often asked for."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Staff Nurse",
+            "href": "/roles/staff-nurse"
+          },
+          {
+            "label": "Community Health Nurse",
+            "href": "/roles/community-health-nurse"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

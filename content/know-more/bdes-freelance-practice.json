@@ -1,0 +1,85 @@
+{
+  "title": "Freelance Design Practice",
+  "kicker": "Self-employment path",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Many design graduates work independently — for agencies, startups, brands or individuals — on graphics, UI/UX, product, fashion or interiors. A freelance practice means finding your own clients, pricing projects, managing contracts and paperwork, and handling uneven income."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Entry requirement",
+            "value": "No licence needed",
+            "note": "Clients judge you mainly on your portfolio"
+          },
+          {
+            "label": "GST registration",
+            "value": "Above ₹20 lakh turnover",
+            "note": "For service providers; ₹10 lakh in special category states; registration needed earlier for some cases"
+          },
+          {
+            "label": "Business registration",
+            "value": "Udyam (MSME) registration",
+            "note": "Free and online; optional but useful for some schemes and clients"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A strong portfolio and a few first clients — often from internships, former employers, referrals or freelance platforms. Many designers work in a studio or agency for a year or two first to learn client handling and process."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Income is irregular; saving a buffer for slow months is common practice.",
+          "Written agreements typically cover scope, number of revisions, payment schedule and who owns the final files and rights.",
+          "Pricing per project rather than per hour is common, and late payments are a frequent problem."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Brand Associate",
+            "href": "/roles/brand-associate"
+          },
+          {
+            "label": "Frontend Developer",
+            "href": "/roles/frontend-developer"
+          },
+          {
+            "label": "Jobs & work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "M.Sc Biotechnology / Microbiology / Zoology / Botany",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Two-year master's degrees in biotechnology, microbiology, zoology, botany and related life sciences, taken after a B.Sc in biology. Coursework covers molecular biology, genetics, biochemistry and lab techniques, with a research project in the final semester."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "PG students (Botany, Zoology, Microbiology, Biotechnology)",
+            "value": "~2.2 lakh",
+            "note": "Combined; based on actual responses",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 13",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc with biology subjects. Routes include GAT-B (by NTA, for DBT-supported biotechnology programmes), IIT JAM (Biotechnology) for IITs and some other institutes, CUET-PG for central universities, and university / state tests."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Research careers usually need CSIR-NET/UGC-NET JRF, GATE or a fellowship exam, followed by a PhD.",
+          "Industry entry roles are in QC labs, biotech and pharma companies and clinical research; pay at entry is often modest.",
+          "Zoology and botany have the largest enrolment; biotechnology and microbiology seats are fewer."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG enrolment by subject",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Zoology",
+              "Botany",
+              "Microbiology",
+              "Biotechnology"
+            ],
+            "series": [
+              {
+                "label": "Post-graduate enrolment",
+                "values": [96873, 78248, 23526, 18339]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 13 (based on actual responses)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Biotech Associate",
+            "href": "/roles/biotech-associate"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Quality Control Analyst",
+            "href": "/roles/quality-control-analyst"
+          },
+          {
+            "label": "Clinical Research Associate",
+            "href": "/roles/clinical-research-associate"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

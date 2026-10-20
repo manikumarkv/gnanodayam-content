@@ -1,0 +1,81 @@
+{
+  "title": "CA or CS after CMA",
+  "kicker": "Professional qualification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Some CMAs add a Chartered Accountancy (CA) or Company Secretary (CS) qualification. CA adds statutory audit, attestation and deeper financial reporting; CS adds company law, corporate governance and secretarial compliance. Both institutes give CMA students an entry point that skips their first level."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Into CA",
+            "value": "Direct entry to CA Intermediate",
+            "note": "For those who have passed the CMA Intermediate; CA Foundation is skipped"
+          },
+          {
+            "label": "Into CS",
+            "value": "Direct entry to CS Executive; CSEET exempt",
+            "note": "For those who have passed the CMA Final; exemption fees apply"
+          },
+          {
+            "label": "CA practical training",
+            "value": "2 years articleship",
+            "note": "Required under the ICAI scheme even with direct entry"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register with ICAI for CA Intermediate under the direct-entry route, or with ICSI for CS Executive after passing CMA Final. Check each institute's current rules on paper exemptions and fees before registering."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "CA needs several more years, including articleship; CS is usually shorter.",
+          "CMA + CS fits compliance, secretarial and governance roles; CMA + CA fits audit and financial reporting.",
+          "A second qualification adds value mainly when the target role needs it — e.g. statutory audit signing (CA) or company secretary posts (CS)."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Chartered Accountant",
+            "href": "/roles/chartered-accountant"
+          },
+          {
+            "label": "Company Secretary",
+            "href": "/roles/company-secretary"
+          },
+          {
+            "label": "Cost & Management Accountant",
+            "href": "/roles/cost-management-accountant"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

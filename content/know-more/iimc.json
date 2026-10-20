@@ -1,0 +1,103 @@
+{
+  "title": "IIMC Programmes",
+  "kicker": "Postgraduate study",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Institute of Mass Communication (IIMC), under the Ministry of Information and Broadcasting, is a deemed-to-be university for journalism and communication. It runs one-year PG Diplomas in journalism (English and Hindi), radio & TV journalism, and advertising & PR, and since 2024 also MA programmes. Campuses are in New Delhi, Dhenkanal, Aizawl, Amravati, Kottayam and Jammu."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Campuses",
+            "value": "6",
+            "note": "New Delhi, Dhenkanal, Aizawl, Amravati, Kottayam, Jammu"
+          },
+          {
+            "label": "Admission basis",
+            "value": "CUET-PG score",
+            "note": "Mass Communication & Journalism paper; IIMC e-counselling",
+            "source": "IIMC Admission Notice",
+            "date": "2026-27",
+            "verified": false
+          },
+          {
+            "label": "MA seats",
+            "value": "30–40 per programme",
+            "note": "Six MA programmes listed",
+            "source": "IIMC Admission Notice",
+            "date": "2026-27",
+            "verified": false
+          },
+          {
+            "label": "PG Diploma age limit",
+            "value": "25 years (General)",
+            "note": "28 OBC; 30 SC/ST/PwD; no age limit for MA",
+            "source": "IIMC Admission Notice",
+            "date": "2026-27",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any discipline (at least 55% for MA programmes), a valid CUET-PG score in Mass Communication and Journalism, and registration on IIMC's e-counselling portal. Final-year students can apply provisionally."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats per programme are small, so the CUET-PG score decides admission.",
+          "Programmes and their campuses change between years; the current admission notice lists what is offered.",
+          "Outcomes include reporting, editing, broadcast, advertising, PR and corporate communication roles; placements depend on the media job market each year."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Copywriter",
+            "href": "/roles/copywriter"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

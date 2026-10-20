@@ -1,0 +1,88 @@
+{
+  "title": "Pilot at Alliance Air",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Alliance Air is a government-owned regional airline — a wholly owned subsidiary of AI Assets Holding Ltd (AIAHL), which stayed with the Government after Air India's privatisation. It flies turboprops such as the ATR 72 and Dornier 228 on regional and UDAN routes, and hires first officers and commanders through its own notices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Licence needed",
+            "value": "DGCA CPL, FRTOL, RTR(A), Class 1 medical, English Language Proficiency Level 4+",
+            "note": "As listed in recent notices"
+          },
+          {
+            "label": "Recent entry-level hiring",
+            "value": "10 ab-initio trainee first officer posts",
+            "note": "For CPL holders not type-rated on the ATR",
+            "source": "Alliance Air advertisement (as reported)",
+            "date": "Jul 2026",
+            "verified": false
+          },
+          {
+            "label": "Aircraft types",
+            "value": "ATR 72, Dornier 228",
+            "note": "Per recent recruitment notices"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A Commercial Pilot Licence and Class 1 medical from DGCA. Alliance Air advertises separately for type-rated first officers, non-type-rated (ab-initio) trainee first officers and commanders; selection includes a written test, interview and simulator / medical checks as specified in each notice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are occasional and few at a time; positions are often contractual.",
+          "Type-rating terms (who pays, service bonds) differ by notice — read them carefully.",
+          "Regional turboprop flying builds hours toward command and later jet-airline roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "First Officer",
+            "href": "/roles/first-officer"
+          },
+          {
+            "label": "Charter Pilot",
+            "href": "/roles/charter-pilot"
+          },
+          {
+            "label": "Flight Instructor",
+            "href": "/roles/flight-instructor"
+          },
+          {
+            "label": "Vocational / Skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

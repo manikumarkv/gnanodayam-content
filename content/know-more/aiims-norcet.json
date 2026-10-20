@@ -1,0 +1,89 @@
+{
+  "title": "AIIMS NORCET (Nursing Officer)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Nursing Officer Recruitment Common Eligibility Test (NORCET) is conducted by AIIMS New Delhi to fill Nursing Officer posts at AIIMS institutions and some other central government hospitals. Nursing Officers provide ward, ICU, operation-theatre and emergency nursing care."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Post level",
+            "value": "Pay Level 7 (7th CPC), Group B",
+            "source": "AIIMS NORCET-8 notice (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Age limit",
+            "value": "18–30 years",
+            "note": "Relaxation for reserved categories as per rules",
+            "source": "AIIMS NORCET notices (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Stages",
+            "value": "Preliminary and main computer-based tests",
+            "source": "AIIMS NORCET notices (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "B.Sc (Hons) Nursing, B.Sc Nursing or Post-Basic B.Sc Nursing — or a GNM diploma with two years' experience in a hospital of at least 50 beds — plus registration as a nurse and midwife with a State or Indian Nursing Council. Selection is by computer-based tests run by AIIMS New Delhi; posts are allotted by merit and preference."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The exam has been held about twice a year recently, with one merit list used across many institutes.",
+          "Allotment can be to a newer AIIMS far from home, with limited choice.",
+          "Work is in rotating shifts, including nights.",
+          "Other central and state hospitals recruit nursing officers through their own exams."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Staff Nurse",
+            "href": "/roles/staff-nurse"
+          },
+          {
+            "label": "Community Health Nurse",
+            "href": "/roles/community-health-nurse"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

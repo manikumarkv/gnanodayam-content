@@ -1,0 +1,81 @@
+{
+  "title": "Government Hospital Psychologist",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Government hospitals, medical colleges, mental health institutes and the District Mental Health Programme employ psychologists to assess and treat patients. For posts titled clinical psychologist, the usual requirement is an RCI-recognised clinical psychology qualification — a two-year M.Phil in Clinical Psychology or a professional doctorate (PsyD) — plus registration with the Rehabilitation Council of India. A BA in Psychology is the first step, not the qualification for the post."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Legal definition",
+            "value": "Mental Healthcare Act, 2017",
+            "note": "Defines a clinical psychologist by an RCI-recognised qualification"
+          },
+          {
+            "label": "Typical path",
+            "value": "BA → MA/M.Sc Psychology → M.Phil Clinical Psychology",
+            "note": "About 7 years in all"
+          },
+          {
+            "label": "Registration",
+            "value": "Rehabilitation Council of India (RCI)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After a BA in Psychology, complete an MA or M.Sc in Psychology, then an RCI-recognised M.Phil in Clinical Psychology (or PsyD), and register with RCI. Posts are advertised by state health departments, central institutes and medical colleges, and under NHM for district mental health programmes — usually filled by interview or a written test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "M.Phil Clinical Psychology seats are few, and entrance is competitive.",
+          "NEP 2020 phased out the general M.Phil, which has caused uncertainty about the clinical route; RCI's current rules decide what is accepted.",
+          "Counsellor and counselling-psychologist posts may accept an MA in Psychology without the M.Phil.",
+          "Many district-level posts are contractual."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Social Worker",
+            "href": "/roles/social-worker"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

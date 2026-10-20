@@ -1,0 +1,89 @@
+{
+  "title": "CA or CMA after CS",
+  "kicker": "Professional qualification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Some Company Secretaries add a second professional qualification — Chartered Accountancy (ICAI) or Cost & Management Accountancy (ICMAI). The combination joins company-law and governance skills with accounting, audit, tax or costing, which suits compliance-heavy finance roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Bodies",
+            "value": "ICAI (CA), ICMAI (CMA)",
+            "note": "CS is run by ICSI"
+          },
+          {
+            "label": "Entry point",
+            "value": "Intermediate level, via direct entry",
+            "note": "Graduates and some ICSI-qualified candidates can usually skip Foundation; conditions apply"
+          },
+          {
+            "label": "CA practical training",
+            "value": "2 years articleship",
+            "note": "Under ICAI's current scheme"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register with ICAI or ICMAI under their direct-entry rules (graduation marks or a qualifying ICSI level). Paper-wise exemptions exist only in limited cases and change over time, so check the institute's current exemption rules."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Adding CA takes several more years, including articleship; CMA is generally shorter and has no articleship.",
+          "The combination helps most in listed-company compliance, secretarial audit, corporate finance and advisory roles.",
+          "Many CS professionals add an LLB or an MBA instead, depending on the career they want."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Chartered Accountant",
+            "href": "/roles/chartered-accountant"
+          },
+          {
+            "label": "Cost & Management Accountant",
+            "href": "/roles/cost-management-accountant"
+          },
+          {
+            "label": "Company Secretary",
+            "href": "/roles/company-secretary"
+          },
+          {
+            "label": "Tax Consultant",
+            "href": "/roles/tax-consultant"
+          },
+          {
+            "label": "Auditor",
+            "href": "/roles/auditor"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

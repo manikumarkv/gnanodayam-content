@@ -1,0 +1,95 @@
+{
+  "title": "M.Pharm (Master of Pharmacy)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year postgraduate pharmacy degree after B.Pharm, regulated by the Pharmacy Council of India. Students specialise in an area such as pharmaceutics, pharmacology, pharmaceutical chemistry, pharmaceutical analysis, quality assurance, regulatory affairs or pharmacy practice, and complete a research project."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; the second year is mostly a research project"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~50,800",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Scholarship for GPAT-qualified",
+            "value": "₹12,400 a month for up to 24 months",
+            "note": "For eligible students in approved programmes",
+            "source": "AICTE PG scholarship guidelines (as reported)",
+            "date": "2021-22",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "B.Pharm from a PCI-approved college. Admission is through GPAT (conducted by NBEMS) or university / state entrance tests; NIPERs run their own joint entrance for their master's programmes."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A valid GPAT score at the time of admission is generally needed for the scholarship.",
+          "Specialisation shapes the career: analysis and QA lead to quality roles; pharmacology to research and drug safety; pharmaceutics to formulation.",
+          "M.Pharm is the usual minimum for teaching in pharmacy colleges, and a PhD helps for promotion."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Pharma QC Analyst",
+            "href": "/roles/pharma-qc-analyst"
+          },
+          {
+            "label": "Regulatory Affairs Associate",
+            "href": "/roles/regulatory-affairs-associate"
+          },
+          {
+            "label": "Clinical Research Associate",
+            "href": "/roles/clinical-research-associate"
+          },
+          {
+            "label": "Drug Safety Associate",
+            "href": "/roles/drug-safety-associate"
+          },
+          {
+            "label": "Clinical Pharmacist",
+            "href": "/roles/clinical-pharmacist"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

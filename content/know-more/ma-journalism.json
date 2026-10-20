@@ -1,0 +1,96 @@
+{
+  "title": "MA Journalism & Mass Communication (MJMC)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in journalism and mass communication (often called MJMC or MA-JMC). It covers reporting, editing, media law and ethics, broadcast and digital production, advertising and public relations, and communication research. It suits graduates from any stream, including those who already hold a BJMC and want to specialise or teach."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; some institutes run one-year PG diplomas instead"
+          },
+          {
+            "label": "PG students in journalism & mass communication",
+            "value": "~25,900",
+            "note": "All PG programmes in the discipline",
+            "source": "AISHE 2023-24, Table 13, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Enrolled in MJMC-labelled programmes",
+            "value": "~5,200",
+            "note": "Similar courses are also recorded as MA-JMC (~2,200) and M.J. (~1,700)",
+            "source": "AISHE 2023-24, Table 11, all modes, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any subject, usually with a minimum percentage set by the university. Central and many state universities admit through CUET-PG; others hold their own entrance test, written test plus interview, or admit on merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Portfolio and internships count for a lot in media hiring — often as much as the degree itself.",
+          "Newsroom jobs are limited and entry pay is often low; many graduates move to digital content, PR, corporate communications or advertising.",
+          "UGC-NET in Mass Communication plus the master's is the route to assistant professor posts.",
+          "Fees vary widely between public universities and private media schools."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Copywriter",
+            "href": "/roles/copywriter"
+          },
+          {
+            "label": "Digital Marketing Specialist",
+            "href": "/roles/digital-marketing-specialist"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

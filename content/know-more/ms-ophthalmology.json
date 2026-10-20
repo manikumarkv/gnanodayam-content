@@ -1,0 +1,81 @@
+{
+  "title": "MS Ophthalmology",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year surgical postgraduate degree in eye care after MBBS. Training covers diagnosis and treatment of eye disease, refraction and surgery — cataract surgery first, with exposure to glaucoma, retina, cornea, squint and oculoplastics. DNB Ophthalmology (NBEMS) is a parallel route of the same length."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Residency with a thesis"
+          },
+          {
+            "label": "Entrance exam",
+            "value": "NEET-PG",
+            "note": "Conducted by NBEMS"
+          },
+          {
+            "label": "Regulator",
+            "value": "National Medical Commission (NMC)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An MBBS with completed internship and registration, then NEET-PG. 50% of seats in government medical colleges, plus deemed and central university seats, are allotted through all-India counselling by the Medical Counselling Committee (MCC); the rest go through state counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work is outpatient clinics and planned surgery, with generally fewer night emergencies than many surgical specialties.",
+          "Surgical skill builds with case volume, so the number of surgeries a residency offers matters.",
+          "Further sub-specialisation (retina, cornea, glaucoma and others) is usually through fellowships.",
+          "Setting up an independent eye practice needs costly equipment; many begin in eye hospitals."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Optometrist",
+            "href": "/roles/optometrist"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

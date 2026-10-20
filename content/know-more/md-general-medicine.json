@@ -1,0 +1,85 @@
+{
+  "title": "MD General Medicine",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate degree in internal medicine — diagnosing and managing illness in adults across organ systems, from fevers and diabetes to heart, lung and kidney disease. Residents work in wards, outpatient clinics, emergency and intensive care, and complete a thesis."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Full-time paid residency"
+          },
+          {
+            "label": "Entrance",
+            "value": "NEET-PG",
+            "note": "Conducted by NBEMS; counselling by MCC and state authorities"
+          },
+          {
+            "label": "Regulator",
+            "value": "National Medical Commission",
+            "note": "DNB General Medicine (NBEMS) is a parallel route"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An MBBS with internship completed and medical registration, then a NEET-PG rank. Seats are allotted through all-India and state counselling; DNB seats in accredited hospitals are filled through the same exam."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats in this branch are in high demand and usually go at higher NEET-PG ranks.",
+          "Residency involves long hours, night duties and a heavy inpatient load.",
+          "It leads to work as a consultant physician, or to super-specialty DM courses (cardiology, nephrology, gastroenterology and others) via NEET-SS."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "General Physician",
+            "href": "/roles/general-physician"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

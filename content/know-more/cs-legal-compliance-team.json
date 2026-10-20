@@ -1,0 +1,86 @@
+{
+  "title": "Legal & Compliance Teams (for CSs)",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Company secretaries handle corporate governance and compliance: board and shareholder meetings, statutory filings, securities-law compliance and corporate restructuring. Inside companies they work in secretarial, legal or compliance teams; in practice they run secretarial audits and advisory work. The role is created by law for many companies, which keeps demand steady."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Who must appoint a whole-time CS",
+            "value": "Listed companies and companies with paid-up capital of ₹10 crore or more",
+            "note": "Companies Act 2013, s.203 with Rules 8 and 8A"
+          },
+          {
+            "label": "Compliance officer (listed companies)",
+            "value": "Must be a qualified CS",
+            "note": "SEBI LODR Regulations, Reg. 6"
+          },
+          {
+            "label": "Secretarial audit",
+            "value": "By a practising CS",
+            "note": "Required for listed and certain large companies — Companies Act 2013, s.204"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Membership of the Institute of Company Secretaries of India (ICSI) after clearing the CS Executive and Professional exams and practical training. Companies hire members directly; practising CSs need a certificate of practice from ICSI."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Typical in-house roles: company secretary, compliance officer, legal and secretarial executive.",
+          "Listed and regulated companies (banks, NBFCs, insurers) offer the most structured compliance roles.",
+          "An LLB alongside CS widens legal-team options.",
+          "Practice income depends on building a client base."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Company Secretary",
+            "href": "/roles/company-secretary"
+          },
+          {
+            "label": "Legal Counsel",
+            "href": "/roles/legal-counsel"
+          },
+          {
+            "label": "Corporate Lawyer",
+            "href": "/roles/corporate-lawyer"
+          },
+          {
+            "label": "Auditor",
+            "href": "/roles/auditor"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

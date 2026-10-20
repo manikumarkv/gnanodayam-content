@@ -1,0 +1,99 @@
+{
+  "title": "Actuarial Science",
+  "kicker": "Professional qualification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Actuaries use statistics, probability and finance to price and manage long-term financial risk — mainly in insurance, pensions and consulting. In India the profession is regulated by the Institute of Actuaries of India (IAI), a statutory body under the Actuaries Act, 2006. It is a professional qualification built from a series of exams, not a single degree, and a B.Sc in mathematics or statistics is a common starting point."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Regulator",
+            "value": "Institute of Actuaries of India",
+            "note": "Statutory body under the Actuaries Act, 2006"
+          },
+          {
+            "label": "Entry test",
+            "value": "ACET",
+            "note": "Actuarial Common Entrance Test; passing it allows student membership of IAI"
+          },
+          {
+            "label": "Exam stages",
+            "value": "Core Principles → Core Practices → Specialist Principles → Specialist Advanced",
+            "source": "IAI curriculum, approx.",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "ACET result validity",
+            "value": "3 years",
+            "source": "As reported (Careers360), based on IAI rules",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register with IAI and pass ACET (eligibility has been Class 12 pass or equivalent; check the current rule on the IAI site). After ACET you enrol as a student member and take the professional papers one by one. There is no college admission involved; many people study for the papers while doing a degree or working."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Qualification usually takes several years of exams, often written alongside a full-time job.",
+          "Pass rates in the professional papers are modest, so repeat attempts are common.",
+          "Work is mostly in life and general insurers, reinsurers, pension and benefits consulting, and analytics teams.",
+          "Exam fees are paid per paper, so the total cost depends on how many attempts you need."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Actuarial Analyst",
+            "href": "/roles/actuarial-analyst"
+          },
+          {
+            "label": "Statistician",
+            "href": "/roles/statistician"
+          },
+          {
+            "label": "Quantitative Analyst",
+            "href": "/roles/quantitative-analyst"
+          },
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

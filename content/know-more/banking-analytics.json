@@ -1,0 +1,84 @@
+{
+  "title": "Analytics Roles in Banking",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Banks use analytics teams for credit risk, fraud detection, customer segmentation, collections and regulatory reporting. In public-sector banks these jobs are usually filled through specialist recruitment or by moving officers into analytics and risk departments; private banks and fintechs hire analysts more directly. A BBA can be a starting point, but most analytics roles also expect data skills."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical work",
+            "value": "Credit risk, fraud, customer and portfolio analytics, MIS reporting"
+          },
+          {
+            "label": "Public-sector routes",
+            "value": "Bank PO/clerk entry, then internal moves; specialist officer drives",
+            "note": "IBPS and SBI recruitment"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For public-sector banks, the main route for a BBA graduate is the officer or clerk exam (IBPS PO/Clerk, SBI PO/Clerk), followed by postings in risk or analytics departments. Specialist-officer posts in data science or risk typically ask for a postgraduate degree, certifications or experience. RBI's statistics-side posts ask for a master's in a quantitative subject."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Skills in Excel, SQL, a statistics or programming tool and basic credit concepts matter more than the degree title.",
+          "Specialist-officer notifications in analytics are irregular and have few posts.",
+          "Private banks, NBFCs and analytics firms hire more analysts than public-sector banks do.",
+          "An MBA or a quantitative master's widens later options."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Credit Analyst",
+            "href": "/roles/credit-analyst"
+          },
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          },
+          {
+            "label": "Reporting Analyst",
+            "href": "/roles/reporting-analyst"
+          },
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

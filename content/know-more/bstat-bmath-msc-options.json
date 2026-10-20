@@ -1,0 +1,90 @@
+{
+  "title": "M.Sc at CMI or Elsewhere",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "After a B.Stat or B.Math from ISI, or a B.Sc from CMI, most students consider a master's. CMI offers M.Sc programmes in Mathematics, Computer Science and Data Science; ISI offers M.Stat, M.Math and other master's programmes; IITs and IISc admit through JAM; and some students apply for integrated PhD programmes or study abroad."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "CMI M.Sc streams",
+            "value": "Mathematics, Computer Science, Data Science"
+          },
+          {
+            "label": "CMI fees",
+            "value": "₹1.25 lakh / semester (Maths, CS); ₹2.5 lakh (Data Science)",
+            "source": "CMI website (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "CMI M.Sc: CMI's national entrance test, usually in May, with interviews for some streams. ISI M.Stat / M.Math: ISI's admission test; ISI's own B.Stat / B.Math graduates may be eligible for direct admission under its rules. IITs and IISc: IIT JAM. Elsewhere: CUET-PG or university tests."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "You are not tied to your undergraduate institute; ISI, CMI, IITs, IISc and TIFR each run their own admissions.",
+          "At CMI, the Data Science M.Sc costs more than the Mathematics and CS programmes, and hostel space is not guaranteed for it.",
+          "Outcomes include PhDs in India or abroad, quantitative finance, data science and research roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          },
+          {
+            "label": "Quantitative Analyst",
+            "href": "/roles/quantitative-analyst"
+          },
+          {
+            "label": "Statistician",
+            "href": "/roles/statistician"
+          },
+          {
+            "label": "Research Analyst",
+            "href": "/roles/research-analyst"
+          },
+          {
+            "label": "Machine Learning Engineer",
+            "href": "/roles/machine-learning-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

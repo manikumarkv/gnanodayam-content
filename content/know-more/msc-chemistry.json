@@ -1,0 +1,92 @@
+{
+  "title": "M.Sc Chemistry",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree covering organic, inorganic, physical and analytical chemistry, with lab work and often a project. Many universities let students specialise in one branch in the second year. It leads to industry lab roles, research and teaching."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "PG students in Chemistry",
+            "value": "~1.81 lakh",
+            "note": "Based on institutions that reported data",
+            "source": "AISHE 2023-24, Table 13 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Main entrances",
+            "value": "IIT JAM, CUET-PG",
+            "note": "JAM for IITs, IISc and some NITs; CUET-PG for many central and state universities"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc with chemistry (usually with minimum marks set by each university). Admission is through IIT JAM (Chemistry), CUET-PG, or a state or university entrance test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Pharma, chemicals and testing labs hire M.Sc chemists for QC, analytical and production roles.",
+          "CSIR-NET or GATE opens funded Ph.D. positions and research careers.",
+          "School and college teaching need further qualifications (B.Ed, or NET/SET/Ph.D.)."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Lab Chemist",
+            "href": "/roles/lab-chemist"
+          },
+          {
+            "label": "Production Chemist",
+            "href": "/roles/production-chemist"
+          },
+          {
+            "label": "Pharma QC Analyst",
+            "href": "/roles/pharma-qc-analyst"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

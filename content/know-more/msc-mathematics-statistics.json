@@ -1,0 +1,84 @@
+{
+  "title": "M.Sc Mathematics / Statistics",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in mathematics or statistics after a B.Sc with mathematics. Mathematics programmes cover analysis, algebra, topology and differential equations; statistics programmes cover probability, inference, regression, sampling and statistical computing."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "IIT JAM papers",
+            "value": "Mathematics (MA), Mathematical Statistics (MS)",
+            "note": "JAM is organised by a different IIT or IISc each year"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc with mathematics (statistics too, for some statistics programmes). Routes: IIT JAM for IITs, IISc and NITs; CUET-PG (NTA) for central and other universities; ISI's own test for M.Stat and M.Math; and state or university tests elsewhere."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next steps: a PhD (via CSIR-UGC NET, GATE or institute tests), college teaching (UGC-NET), or school teaching with a B.Ed.",
+          "Statistics and applied-maths graduates also move into data, analytics and actuarial roles, usually after learning programming.",
+          "UPSC's Indian Statistical Service exam is open to those with statistics at bachelor's level or a master's in statistics."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Statistician",
+            "href": "/roles/statistician"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Actuarial Analyst",
+            "href": "/roles/actuarial-analyst"
+          },
+          {
+            "label": "Quantitative Analyst",
+            "href": "/roles/quantitative-analyst"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

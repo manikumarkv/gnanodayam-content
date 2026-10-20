@@ -1,0 +1,89 @@
+{
+  "title": "MD Anaesthesia",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate degree (MD) in anaesthesiology after MBBS. Anaesthetists give anaesthesia and pain relief for surgery and procedures, manage airways and resuscitation, and work in intensive care and pain medicine. Training is mostly in the operation theatres and ICUs of teaching hospitals."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years"
+          },
+          {
+            "label": "Entrance",
+            "value": "NEET-PG",
+            "note": "Conducted by NBEMS"
+          },
+          {
+            "label": "Regulator",
+            "value": "National Medical Commission (NMC)"
+          },
+          {
+            "label": "Equivalent route",
+            "value": "DNB Anaesthesiology",
+            "note": "Through NBEMS-accredited hospitals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS with a completed internship and registration with NMC or a State Medical Council. Seats are allotted on NEET-PG rank: MCC counsels the All India Quota and central / deemed seats, and states counsel their own quota seats."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is hospital-based, with night duty, on-call shifts and emergencies.",
+          "Almost every hospital that does surgery needs anaesthetists, in government and private sectors.",
+          "Super-specialty (DM) options include cardiac anaesthesia, neuroanaesthesia, critical care and pain-related fields.",
+          "The role carries real-time responsibility for patient safety, often with little patient contact outside the theatre."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "OT & Anaesthesia Technologist",
+            "href": "/roles/ot-anaesthesia-technologist"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
