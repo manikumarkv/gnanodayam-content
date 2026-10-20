@@ -1,0 +1,119 @@
+{
+  "title": "Master's abroad (MS / MSc)",
+  "kicker": "Postgraduate study outside India",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A master's degree from a university outside India — called an MS in the US and an MSc or MEng in the UK, Europe, Canada and Australia. Programmes usually last one to two years and are taught in English. Common choices include computer science, data science, engineering, business analytics, finance and public health."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "1–2 years",
+            "note": "Often 2 years in the US and Canada; often 1 year in the UK and Ireland"
+          },
+          {
+            "label": "Indian students abroad (higher education)",
+            "value": "~12.5 lakh",
+            "note": "Down from ~13.3 lakh a year earlier; across all degree levels",
+            "source": "Ministry of External Affairs, Parliament reply (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Indian students in the US",
+            "value": "~3.63 lakh",
+            "note": "All levels; India is the largest sending country",
+            "source": "Open Doors 2025 (IIE / US State Department)",
+            "date": "2024-25",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree (usually 4 years for the US; many 3-year degrees are accepted in the UK and elsewhere). You apply to each university directly with transcripts, a statement of purpose and recommendation letters. Many programmes ask for an English test — IELTS, TOEFL or PTE — and some, mostly in the US, ask for the GRE (or GMAT for business programmes). After an offer, you apply for a student visa, which needs proof of funds."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Total cost (tuition plus living) varies a great deal by country, city and university; many students rely on education loans.",
+          "Visa and post-study work rules change often — Canada, for example, has capped new study permits since 2024.",
+          "Funding is less common at master's level than at PhD level; assistantships and scholarships exist but are competitive.",
+          "A master's abroad can lead to work in that country, a PhD, or a return to India."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Indian students in the US by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24",
+              "2024-25"
+            ],
+            "series": [
+              {
+                "label": "Indian students (all levels)",
+                "values": [
+                  167582,
+                  199182,
+                  268923,
+                  331602,
+                  363019
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Includes undergraduate, graduate, non-degree and OPT students.",
+        "source": "Open Doors (Institute of International Education)",
+        "date": "2020-21 to 2024-25",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "MCA",
+  "kicker": "Master of Computer Applications",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree in computer applications covering programming, data structures, databases, networks, software engineering and electives such as data science, cloud or cybersecurity. It is a common route into software jobs for graduates from BCA, B.Sc and other non-engineering backgrounds."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; AICTE cut it from 3 years from 2020-21"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~2.5 lakh",
+            "note": "All modes, including ~35,000 in distance mode",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "NIMCET seats",
+            "value": "~1,285",
+            "note": "Across 11 NITs and 2 IIITs",
+            "source": "NIMCET 2025 counselling (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree such as BCA, B.Sc, B.Com or B.A., usually with Mathematics at Class 12 or graduation level (exact rules vary by institute). NITs and some IIITs admit through NIMCET; central universities such as DU and BHU use CUET-PG; states run their own tests (MAH-MCA-CET, TS/AP ICET, TANCET, KMAT and others); many universities hold their own test or admit on marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The Mathematics requirement rules out some B.Com and B.A. graduates — check each institute's eligibility.",
+          "Most graduates go into software development, testing, data and IT services roles.",
+          "MCA graduates can take UGC-NET (Computer Science) or GATE for teaching or further study."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

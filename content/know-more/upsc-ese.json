@@ -1,0 +1,87 @@
+{
+  "title": "UPSC Engineering Services (ESE / IES)",
+  "kicker": "Group A engineering services exam",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Engineering Services Examination (ESE), often still called IES, is run by UPSC to recruit Group A engineers into central government departments such as railways, central engineering services, defence engineering, telecom and others. It covers four branches: Civil, Mechanical, Electrical, and Electronics & Telecommunication engineering."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Stages",
+            "value": "Prelims → Mains → Personality test",
+            "note": "Prelims is objective; Mains is descriptive (conventional) papers"
+          },
+          {
+            "label": "Vacancies, ESE 2027",
+            "value": "~480",
+            "source": "UPSC Examination Notice 02/2027-ENGG (as reported by Careers360)",
+            "date": "2026-09",
+            "verified": false
+          },
+          {
+            "label": "Vacancies, ESE 2026",
+            "value": "~474",
+            "source": "UPSC ESE 2026 notification (as reported)",
+            "date": "2025-09",
+            "verified": false
+          },
+          {
+            "label": "Age limit",
+            "value": "21–30 years",
+            "note": "Relaxation for reserved categories and certain government servants"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A degree in engineering (B.E. / B.Tech or equivalent, including AMIE sections A & B), or an M.Sc in certain subjects (wireless communication, electronics, radio physics) for the E&T stream. Final-year students can apply provisionally. The notification usually comes out around September; prelims follows early the next year and mains around mid-year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The pool is smaller than Civil Services, but seats are also few — a few hundred a year across four branches — so selection rates are low.",
+          "Prelims includes a common General Studies & Engineering Aptitude paper plus a branch paper; preparation overlaps strongly with GATE.",
+          "Vacancy numbers vary a lot from year to year, partly depending on whether railway (IRMS) posts are recruited through ESE.",
+          "Service allocation depends on rank, preference and the vacancies each department reports."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "UPSC Civil Services",
+            "href": "/explore/government-competitive.upsc-civil-services"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
