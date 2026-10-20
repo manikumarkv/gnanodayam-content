@@ -26,6 +26,22 @@
           {
             "label": "Employers",
             "value": "Non-scheduled operators (NSOPs), corporate fleets, private owners"
+          },
+          {
+            "label": "Non-scheduled operators listed by DGCA",
+            "value": "~133",
+            "note": "Fixed-wing and helicopter operators",
+            "source": "DGCA operator list (as reported)",
+            "date": "2025-09",
+            "verified": false
+          },
+          {
+            "label": "Commercial pilot licences issued",
+            "value": "~1,650 in 2025",
+            "note": "All CPLs, not only charter pilots",
+            "source": "DGCA data in a Rajya Sabha reply, July 2026 (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -60,6 +76,29 @@
           "Some pilots later move to airlines; others stay in business aviation.",
           "Helicopter charter needs a separate helicopter licence."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Commercial pilot licences issued by year",
+        "unit": "licences",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "CPLs issued",
+                "values": [1622, 1347, 1652]
+              }
+            ]
+          }
+        },
+        "note": "All commercial pilot licences issued in India; most holders aim for airlines, not charter work.",
+        "source": "DGCA (as reported); 2024 and 2025 from a Rajya Sabha reply, July 2026",
+        "date": "2023 to 2025",
+        "verified": false
       }
     },
     {

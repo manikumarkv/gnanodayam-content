@@ -26,6 +26,14 @@
           {
             "label": "Systems followed",
             "value": "Good laboratory practice, ISO/IEC 17025 (NABL), GMP in pharma"
+          },
+          {
+            "label": "NABL-accredited testing labs",
+            "value": "~5,200",
+            "note": "Testing labs only; calibration and medical labs are counted separately",
+            "source": "NABL directory of accredited testing laboratories, as reported",
+            "date": "2024-02",
+            "verified": false
           }
         ]
       }

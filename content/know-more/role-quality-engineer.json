@@ -25,6 +25,14 @@
           {
             "label": "Common standards",
             "value": "ISO 9001, IATF 16949 (automotive)"
+          },
+          {
+            "label": "UG students in Mechanical Engineering",
+            "value": "~4.2 lakh",
+            "note": "All years; a main feeder branch for quality roles. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 12, UG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +67,29 @@
           "Common next roles: supplier quality engineer, quality manager, Six Sigma or process roles.",
           "Automotive quality roles follow strict industry standards."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG students in Mechanical Engineering",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "UG Mechanical enrolment",
+                "values": [543641, 471588, 417166]
+              }
+            ]
+          }
+        },
+        "note": "All years of the course. Shows the graduate pool, not the number of quality jobs. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 12, UG enrolment by subject)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

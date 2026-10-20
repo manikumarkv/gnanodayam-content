@@ -23,6 +23,30 @@
             "label": "IIT JAM papers",
             "value": "Mathematics (MA), Mathematical Statistics (MS)",
             "note": "JAM is organised by a different IIT or IISc each year"
+          },
+          {
+            "label": "Postgraduate enrolment in Mathematics",
+            "value": "~1.6 lakh",
+            "note": "Science-stream PG level; about 58% women. Includes M.A. as well as M.Sc mathematics",
+            "source": "AISHE 2023-24 (Ministry of Education), based on actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Postgraduate enrolment in Statistics",
+            "value": "~11,800",
+            "note": "Science-stream PG level",
+            "source": "AISHE 2023-24 (Ministry of Education), based on actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "IIT JAM Mathematics (MA) candidates",
+            "value": "~12,100 appeared; ~4,100 qualified",
+            "note": "Mathematical Statistics (MS): ~2,900 appeared, ~790 qualified",
+            "source": "JAM 2025 report (IIT Delhi)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -44,6 +68,29 @@
           "Statistics and applied-maths graduates also move into data, analytics and actuarial roles, usually after learning programming.",
           "UPSC's Indian Statistical Service exam is open to those with statistics at bachelor's level or a master's in statistics."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "IIT JAM 2025 — Mathematics (MA) paper",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["Registered", "Appeared", "Qualified"],
+            "series": [
+              {
+                "label": "Candidates",
+                "values": [14674, 12079, 4142]
+              }
+            ]
+          }
+        },
+        "note": "Qualifying makes a candidate eligible to apply; actual seats are far fewer. One exam year only.",
+        "source": "JAM 2025 report (IIT Delhi)",
+        "date": "2025",
+        "verified": false
       }
     },
     {

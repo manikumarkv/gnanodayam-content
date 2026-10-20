@@ -21,6 +21,21 @@
           {
             "label": "Work pattern",
             "value": "Contracts at sea followed by leave ashore"
+          },
+          {
+            "label": "Indian seafarers working on ships",
+            "value": "~3.1 lakh",
+            "note": "All ranks and departments, not ETOs alone; ~1.4 lakh in 2016 (Ministry of Shipping, as reported)",
+            "source": "DG Shipping data, as reported (PIB New India Samachar)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Share on foreign-flagged ships",
+            "value": "~90%",
+            "source": "DG Shipping data, as reported",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

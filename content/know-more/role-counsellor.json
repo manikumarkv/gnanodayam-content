@@ -26,6 +26,21 @@
           {
             "label": "Work settings",
             "value": "Schools, colleges, NGOs, hospitals, online platforms"
+          },
+          {
+            "label": "Calls to Tele-MANAS (national mental health helpline)",
+            "value": "~24–30 lakh since 2022",
+            "note": "Different 2025 replies give ~23.8 lakh and ~29.7 lakh; first-line calls are handled by trained counsellors",
+            "source": "Ministry of Health replies in Rajya Sabha (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Tele-MANAS cells",
+            "value": "53 cells in 36 States/UTs",
+            "source": "Ministry of Health reply in Rajya Sabha (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

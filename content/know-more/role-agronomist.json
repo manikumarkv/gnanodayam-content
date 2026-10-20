@@ -21,6 +21,22 @@
           {
             "label": "Work setting",
             "value": "Mostly field-based in rural areas, with regular travel"
+          },
+          {
+            "label": "B.Agri (Bachelor of Agriculture) students",
+            "value": "~1.77 lakh enrolled",
+            "note": "~36,000 passed out the same year; B.Sc (Hons) Agriculture may be counted under other heads",
+            "source": "AISHE (Ministry of Education), programme-wise enrolment, all modes",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Krishi Vigyan Kendras (farm science centres)",
+            "value": "731",
+            "note": "Farm science centres run mainly by agricultural universities, ICAR institutes and NGOs",
+            "source": "Ministry of Agriculture replies in Parliament (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }
@@ -55,6 +71,29 @@
           "An M.Sc Agriculture is common for research-oriented agronomy roles.",
           "Work follows crop seasons, with busy periods around sowing and harvest."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in B.Agri",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Agri enrolment",
+                "values": [154954, 169273, 176858]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE; table definitions differ slightly between years.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

@@ -25,6 +25,21 @@
           {
             "label": "Common setting",
             "value": "Day schools, boarding schools, colleges"
+          },
+          {
+            "label": "Registered nursing personnel",
+            "value": "~33.4 lakh",
+            "note": "Includes ~23.4 lakh registered nurses and midwives",
+            "source": "Indian Nursing Council records, Rajya Sabha reply (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Nurses per 1,000 people",
+            "value": "~1.96",
+            "source": "Ministry of Health, Rajya Sabha reply (as reported)",
+            "date": "2022",
+            "verified": false
           }
         ]
       }

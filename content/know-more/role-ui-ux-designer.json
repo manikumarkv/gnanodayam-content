@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Figma or similar design tools, prototyping and whiteboarding tools"
+          },
+          {
+            "label": "B.Des students enrolled",
+            "value": "~57,000",
+            "note": "All design specialisations and years; about 72% are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +63,29 @@
           "Entry-level competition is high, and portfolio quality matters more than the degree name.",
           "Basic understanding of front-end code helps in working with developers."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Des enrolment in India",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [44526, 51460, 56720]
+              }
+            ]
+          }
+        },
+        "note": "Covers all B.Des specialisations (fashion, product, communication, interaction and others), not only UX. Counts students across all years, not admissions.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

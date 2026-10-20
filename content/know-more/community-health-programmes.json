@@ -23,6 +23,30 @@
             "label": "Typical employment",
             "value": "Contractual / project-based",
             "note": "NHM state societies and NGO projects"
+          },
+          {
+            "label": "Ayushman Arogya Mandirs operational",
+            "value": "~1.82 lakh",
+            "note": "Upgraded sub-centres and PHCs offering 12 service packages",
+            "source": "Ministry of Health & Family Welfare, Year End Review 2025 (PIB)",
+            "date": "Nov 2025",
+            "verified": false
+          },
+          {
+            "label": "Urban ASHAs in position (NUHM)",
+            "value": "~93,500",
+            "note": "Urban health mission only; rural ASHAs are counted separately",
+            "source": "MoHFW Year End Review 2025, from NHM-MIS (PIB)",
+            "date": "Jun 2025",
+            "verified": false
+          },
+          {
+            "label": "ASHAs, anganwadi workers and helpers covered under AB PM-JAY",
+            "value": "~37 lakh",
+            "note": "Included in the health cover scheme from Feb 2024; gives a sense of frontline workforce size",
+            "source": "MoHFW Year End Review 2025 (PIB)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

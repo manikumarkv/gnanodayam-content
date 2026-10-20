@@ -27,6 +27,22 @@
             "label": "Government surveyor posts",
             "value": "Recruited through UPSC",
             "note": "For DGS / Mercantile Marine Departments; senior CoC expected"
+          },
+          {
+            "label": "Indian seafarers employed on ships",
+            "value": "~2.5 lakh",
+            "note": "Engaged during the year; about 2.2 lakh in 2020",
+            "source": "Rajya Sabha reply, Ministry of Ports, Shipping and Waterways (14 March 2023)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Indian seafarer workforce",
+            "value": "~3.1–3.2 lakh",
+            "note": "About 90% serve on foreign-flagged ships; figures vary by source",
+            "source": "DG Shipping data (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }
@@ -48,6 +64,29 @@
           "Jobs cluster in port cities such as Mumbai, Chennai, Kolkata, Kochi and Visakhapatnam, and in hubs abroad.",
           "A higher CoC widens shore options; ratings and junior officers have fewer direct openings."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Indian seafarers engaged on ships",
+        "unit": "seafarers",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2020", "2021", "2022"],
+            "series": [
+              {
+                "label": "Seafarers engaged",
+                "values": [224478, 205787, 250071]
+              }
+            ]
+          }
+        },
+        "note": "The 2021 dip was attributed to the COVID-19 pandemic. These are seafarers at sea; shore jobs draw from this pool.",
+        "source": "Rajya Sabha reply, Ministry of Ports, Shipping and Waterways (14 March 2023)",
+        "date": "2020–2022",
+        "verified": false
       }
     },
     {

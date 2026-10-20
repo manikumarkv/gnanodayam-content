@@ -28,6 +28,22 @@
             "label": "Outreach employers",
             "value": "Science museums and centres, planetaria, research-institute outreach cells, ed-tech and media",
             "note": "Mostly small teams"
+          },
+          {
+            "label": "Science centres and museums run by NCSM",
+            "value": "26",
+            "note": "Central network only; states and private bodies run others",
+            "source": "National Council of Science Museums (as stated on its website)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "CTET candidates who appeared (Dec 2024)",
+            "value": "~5.7 lakh (Paper I), ~11.4 lakh (Paper II)",
+            "note": "About 24% qualified Paper I and about 12% qualified Paper II",
+            "source": "CBSE CTET December 2024 result data (as reported)",
+            "date": "2025-01",
+            "verified": false
           }
         ]
       }

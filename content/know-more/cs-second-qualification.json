@@ -28,6 +28,22 @@
             "label": "CA practical training",
             "value": "2 years articleship",
             "note": "Under ICAI's current scheme"
+          },
+          {
+            "label": "ICAI members",
+            "value": "~4.08 lakh",
+            "note": "Associates and fellows",
+            "source": "ICAI data (as reported)",
+            "date": "Feb 2025",
+            "verified": false
+          },
+          {
+            "label": "CA students at Intermediate level",
+            "value": "~4.18 lakh",
+            "note": "Out of ~10 lakh CA students in all",
+            "source": "ICAI data (as reported)",
+            "date": "Feb 2025",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,29 @@
           "The combination helps most in listed-company compliance, secretarial audit, corporate finance and advisory roles.",
           "Many CS professionals add an LLB or an MBA instead, depending on the career they want."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "CA students by level",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["Foundation", "Intermediate", "Final"],
+            "series": [
+              {
+                "label": "Students",
+                "values": [347256, 417609, 241391]
+              }
+            ]
+          }
+        },
+        "note": "Covers all CA students, not only CS-qualified ones; direct-entry candidates start at Intermediate.",
+        "source": "ICAI data (as reported)",
+        "date": "Feb 2025",
+        "verified": false
       }
     },
     {

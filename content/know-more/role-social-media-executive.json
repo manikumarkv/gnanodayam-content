@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Platform dashboards, scheduling tools, Canva-type design apps"
+          },
+          {
+            "label": "Internet subscribers in India",
+            "value": "~95–97 crore",
+            "note": "Counts connections, not unique people",
+            "source": "TRAI telecom subscription data (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

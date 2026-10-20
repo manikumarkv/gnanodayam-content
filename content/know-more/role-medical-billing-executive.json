@@ -25,6 +25,22 @@
           {
             "label": "Work settings",
             "value": "Hospital billing desks; RCM process centres"
+          },
+          {
+            "label": "Hospital admissions authorised under AB PM-JAY",
+            "value": "~8.9 crore (cumulative)",
+            "note": "Since launch in 2018; each needs a claim to be processed",
+            "source": "Ministry of Health reply in Lok Sabha",
+            "date": "Mar 2025",
+            "verified": false
+          },
+          {
+            "label": "Hospitals empanelled under AB PM-JAY",
+            "value": "~31,000",
+            "note": "~17,100 public and ~13,900 private hospitals",
+            "source": "Ministry of Health reply in Lok Sabha",
+            "date": "Mar 2025",
+            "verified": false
           }
         ]
       }

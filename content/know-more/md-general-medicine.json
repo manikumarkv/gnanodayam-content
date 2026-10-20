@@ -28,6 +28,30 @@
             "label": "Regulator",
             "value": "National Medical Commission",
             "note": "DNB General Medicine (NBEMS) is a parallel route"
+          },
+          {
+            "label": "MD General Medicine seats",
+            "value": "~5,500",
+            "note": "Reported as the largest MD speciality by seats; later revisions to the matrix may change the figure",
+            "source": "NMC seat matrix for NEET PG 2025 counselling (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "All PG medical seats",
+            "value": "~50,000–52,000",
+            "note": "MD, MS and PG diploma seats across 68 specialities; totals differ between matrix versions",
+            "source": "NMC seat matrix for NEET PG 2025 (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "NEET PG candidates registered",
+            "value": "~2.29 lakh",
+            "note": "One exam covers every PG speciality, not only General Medicine",
+            "source": "NBEMS, NEET PG 2024 (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

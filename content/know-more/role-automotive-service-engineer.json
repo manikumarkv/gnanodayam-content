@@ -21,6 +21,28 @@
           {
             "label": "Common tools",
             "value": "On-board diagnostics (OBD) scan tools, dealer management software"
+          },
+          {
+            "label": "Domestic vehicle sales",
+            "value": "~2.83 crore units",
+            "note": "Wholesales, all categories; up ~10% on FY 2024-25",
+            "source": "SIAM (as reported)",
+            "date": "FY 2025-26",
+            "verified": false
+          },
+          {
+            "label": "Passenger vehicles sold",
+            "value": "~46 lakh",
+            "source": "SIAM (as reported)",
+            "date": "FY 2025-26",
+            "verified": false
+          },
+          {
+            "label": "Two-wheelers sold",
+            "value": "~2.17 crore",
+            "source": "SIAM (as reported)",
+            "date": "FY 2025-26",
+            "verified": false
           }
         ]
       }
@@ -54,6 +76,29 @@
           "Workshop experience can count toward state Motor Vehicle Inspector eligibility in some states.",
           "Next roles: service manager, regional service lead, warranty or quality analyst."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Domestic vehicle sales",
+        "unit": "lakh units",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["FY23", "FY24", "FY25", "FY26"],
+            "series": [
+              {
+                "label": "All categories",
+                "values": [212.0, 238.5, 256.1, 282.7]
+              }
+            ]
+          }
+        },
+        "note": "Wholesale dispatches from makers to dealers, all categories. More vehicles on the road broadly means more after-sales work, but it is not a count of service jobs.",
+        "source": "SIAM annual data (as reported)",
+        "date": "FY 2022-23 to 2025-26",
+        "verified": false
       }
     },
     {

@@ -22,6 +22,22 @@
             "label": "Public-sector routes",
             "value": "Bank PO/clerk entry, then internal moves; specialist officer drives",
             "note": "IBPS and SBI recruitment"
+          },
+          {
+            "label": "Public sector banks",
+            "value": "12",
+            "note": "Alongside 21 private sector banks, per the same report",
+            "source": "RBI Report on Trend and Progress of Banking in India",
+            "date": "End-March 2025",
+            "verified": false
+          },
+          {
+            "label": "IBPS specialist officer posts (CRP SPL-XIV)",
+            "value": "896",
+            "note": "Across IT, law, marketing, HR, agriculture and Rajbhasha officer posts; no separate analytics post",
+            "source": "IBPS CRP SPL-XIV notification (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }
@@ -44,6 +60,36 @@
           "Private banks, NBFCs and analytics firms hire more analysts than public-sector banks do.",
           "An MBA or a quantitative master's widens later options."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "IBPS specialist officer posts by type (CRP SPL-XIV)",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Agricultural Field Officer",
+              "Marketing Officer",
+              "IT Officer",
+              "Law Officer",
+              "HR / Personnel Officer",
+              "Rajbhasha Adhikari"
+            ],
+            "series": [
+              {
+                "label": "Advertised posts",
+                "values": [346, 205, 170, 125, 25, 25]
+              }
+            ]
+          }
+        },
+        "note": "Advertised posts for one recruitment cycle; final allotments and later cycles differ.",
+        "source": "IBPS CRP SPL-XIV notification (as reported)",
+        "date": "2024",
+        "verified": false
       }
     },
     {

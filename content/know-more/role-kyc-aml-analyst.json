@@ -26,6 +26,14 @@
           {
             "label": "Common tools",
             "value": "Case management systems, screening tools, Excel"
+          },
+          {
+            "label": "Suspicious transaction reports received",
+            "value": "~4.3 lakh",
+            "note": "Filed with FIU-India by banks and other reporting entities; ~3.7 lakh in 2023-24",
+            "source": "FIU-IND Annual Report 2024-25",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }
@@ -59,6 +67,29 @@
           "Common next steps: senior analyst, quality reviewer, or financial crime investigations.",
           "Shift work is common in roles serving overseas banks."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Suspicious transaction reports received by FIU-India",
+        "unit": "reports",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24", "2024-25"],
+            "series": [
+              {
+                "label": "STRs received",
+                "values": [433761, 645905, 368592, 434668]
+              }
+            ]
+          }
+        },
+        "note": "Counts reports filed, not confirmed cases of money laundering. Yearly changes can reflect new rules and reporting entities as much as actual activity.",
+        "source": "FIU-IND Annual Reports 2023-24 and 2024-25",
+        "date": "2021-25",
+        "verified": false
       }
     },
     {

@@ -26,6 +26,21 @@
           {
             "label": "Common tools",
             "value": "Glucometers, CGM reports, patient education material"
+          },
+          {
+            "label": "People with diabetes in India",
+            "value": "~10.1 crore (~11.4%)",
+            "note": "Survey-based estimate across 31 states and UTs",
+            "source": "ICMR-INDIAB study, Lancet Diabetes & Endocrinology",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "People with prediabetes",
+            "value": "~13.6 crore (~15.3%)",
+            "source": "ICMR-INDIAB study, Lancet Diabetes & Endocrinology",
+            "date": "2023",
+            "verified": false
           }
         ]
       }

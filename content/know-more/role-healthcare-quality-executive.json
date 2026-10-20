@@ -25,6 +25,14 @@
           {
             "label": "Common tools",
             "value": "Audit checklists, Excel, incident reporting systems"
+          },
+          {
+            "label": "NABH-accredited hospitals",
+            "value": "~4,650",
+            "note": "Hospitals with full NABH accreditation across all States/UTs",
+            "source": "Rajya Sabha reply citing NABH data",
+            "date": "As on 31 Dec 2024",
+            "verified": false
           }
         ]
       }

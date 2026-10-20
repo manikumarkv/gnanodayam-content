@@ -25,6 +25,21 @@
           {
             "label": "Work pattern",
             "value": "Field trials and travel to dealers are common"
+          },
+          {
+            "label": "UG enrolment, Agriculture Engineering",
+            "value": "~21,900",
+            "note": "About 41% women",
+            "source": "AISHE 2023-24, Ministry of Education (UG enrolment by discipline)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG pass-outs, Agriculture Engineering",
+            "value": "~5,000",
+            "source": "AISHE 2023-24, Ministry of Education (UG out-turn by discipline)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -58,6 +73,29 @@
           "Mechanical engineers compete for the same roles.",
           "Field work is seasonal and tied to crop cycles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in Agriculture Engineering",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [23208, 23028, 21928]
+              }
+            ]
+          }
+        },
+        "note": "Counts only institutions that responded to AISHE; mechanical engineering graduates, who also enter this field, are not included.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (UG enrolment by discipline, based on actual responses)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

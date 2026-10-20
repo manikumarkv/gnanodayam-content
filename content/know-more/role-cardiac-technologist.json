@@ -25,6 +25,14 @@
           {
             "label": "Regulation",
             "value": "Allied health professions fall under the NCAHP Act, 2021"
+          },
+          {
+            "label": "Angioplasties (PCI) in a year",
+            "value": "~4.4 lakh",
+            "note": "Reported by ~709 cath-lab centres, about 70% of the country's cath labs",
+            "source": "CSI National Interventional Council data, Indian Heart Journal 2020",
+            "date": "2018",
+            "verified": false
           }
         ]
       }
@@ -58,6 +66,29 @@
           "Cath lab work involves radiation safety precautions and on-call hours.",
           "Next roles: senior or chief technologist, echo specialist, cath lab in-charge."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Angioplasties (PCI) reported per year",
+        "unit": "lakh procedures",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2013", "2017", "2018"],
+            "series": [
+              {
+                "label": "PCI procedures",
+                "values": [2.2, 3.9, 4.4]
+              }
+            ]
+          }
+        },
+        "note": "Voluntary reporting; centres reporting rose from ~404 (2013) to ~709 (2018), so part of the rise reflects wider coverage. Rounded.",
+        "source": "CSI National Interventional Council data, Indian Heart Journal 2020",
+        "date": "2013–2018",
+        "verified": false
       }
     },
     {

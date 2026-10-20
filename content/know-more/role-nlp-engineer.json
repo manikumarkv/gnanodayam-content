@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Python, PyTorch, Hugging Face Transformers, vector databases"
+          },
+          {
+            "label": "AI professionals in India",
+            "value": "~6–6.5 lakh",
+            "note": "All AI roles, not only NLP; Nasscom projects 12.5 lakh+ by 2027",
+            "source": "Nasscom AI skills report (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

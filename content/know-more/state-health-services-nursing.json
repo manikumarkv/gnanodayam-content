@@ -23,6 +23,22 @@
             "label": "Who recruits",
             "value": "State health recruitment boards, PSCs or the health department",
             "note": "Varies by state; contract posts under the National Health Mission are also common"
+          },
+          {
+            "label": "Nurses at primary health centres",
+            "value": "~48,000",
+            "note": "Across ~31,900 PHCs",
+            "source": "MoHFW, Health Dynamics of India (Infrastructure & Human Resources) 2022-23 (as reported)",
+            "date": "As on 31 Mar 2023",
+            "verified": false
+          },
+          {
+            "label": "Nursing staff at community health centres",
+            "value": "~51,000",
+            "note": "Across ~6,400 CHCs; district and medical college hospitals are counted separately",
+            "source": "MoHFW, Health Dynamics of India (Infrastructure & Human Resources) 2022-23 (as reported)",
+            "date": "As on 31 Mar 2023",
+            "verified": false
           }
         ]
       }

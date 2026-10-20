@@ -25,6 +25,14 @@
           {
             "label": "Work pattern",
             "value": "Plant-based; shift duty is common at entry"
+          },
+          {
+            "label": "Crude steel production",
+            "value": "~152 million tonnes",
+            "note": "Up from ~144 million tonnes in FY2023-24",
+            "source": "Ministry of Steel Annual Report 2025-26 (JPC data)",
+            "date": "FY2024-25",
+            "verified": false
           }
         ]
       }

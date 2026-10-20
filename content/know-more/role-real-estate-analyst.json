@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Excel, GIS software, master plans and development control regulations"
+          },
+          {
+            "label": "RERA-registered projects",
+            "value": "~1.16 lakh",
+            "note": "Cumulative registrations across State RERAs",
+            "source": "ANAROCK analysis of RERA data (as reported)",
+            "date": "Nov 2023",
+            "verified": false
+          },
+          {
+            "label": "RERA-registered agents",
+            "value": "~1.06 lakh",
+            "note": "Up from ~27,000 in 2018",
+            "source": "eXp Realty India analysis of MoHUA data (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

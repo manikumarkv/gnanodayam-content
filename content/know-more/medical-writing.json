@@ -26,6 +26,22 @@
           {
             "label": "Typical employers",
             "value": "Pharma, CROs, medical communication agencies, publishers"
+          },
+          {
+            "label": "Trials registered with CTRI (cumulative)",
+            "value": "~70,000",
+            "note": "All trials registered since 2007; each needs protocols and reports",
+            "source": "Clinical Trials Registry – India, as reported in Frontiers in Medicine",
+            "date": "Jul 2024",
+            "verified": false
+          },
+          {
+            "label": "Indian pharma exports",
+            "value": "~₹2.46 lakh crore",
+            "note": "Export markets drive much of the regulatory writing work",
+            "source": "Department of Pharmaceuticals Annual Report 2025-26",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

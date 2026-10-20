@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Sketching, 3D CAD and rendering software, workshop prototyping"
+          },
+          {
+            "label": "Design applications filed in India",
+            "value": "~43,000",
+            "note": "Industrial design registrations cover a product's shape and look",
+            "source": "IP India (CGPDTM) Annual Report 2024-25 (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Students in B.Des. programmes",
+            "value": "~57,000",
+            "note": "All design specialisations, not only industrial/product design",
+            "source": "AISHE 2023-24 (programme-wise enrolment, actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +71,35 @@
           "Jobs cluster in manufacturing and design hubs.",
           "Some designers move into UI/UX, as research and prototyping skills carry over."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Design applications filed in India",
+        "unit": "applications",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24",
+              "2024-25"
+            ],
+            "series": [
+              {
+                "label": "Applications filed",
+                "values": [14242, 22699, 22698, 30389, 43005]
+              }
+            ]
+          }
+        },
+        "note": "Filings by all applicants, including foreign firms; not a count of designers or jobs.",
+        "source": "IP India (CGPDTM) Annual Reports (as reported)",
+        "date": "2020–2025",
+        "verified": false
       }
     },
     {

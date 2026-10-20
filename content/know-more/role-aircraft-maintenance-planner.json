@@ -21,6 +21,21 @@
           {
             "label": "Common tools",
             "value": "Maintenance tracking software, spreadsheets, aircraft maintenance programmes"
+          },
+          {
+            "label": "Aircraft in passenger operation with Indian scheduled airlines",
+            "value": "~680",
+            "note": "Each aircraft needs its own maintenance plan and records",
+            "source": "Ministry of Civil Aviation, Rajya Sabha reply (as reported)",
+            "date": "Mar 2025",
+            "verified": false
+          },
+          {
+            "label": "DGCA-approved AME training institutes (CAR-147 Basic)",
+            "value": "57",
+            "source": "Ministry of Civil Aviation, Parliament reply (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

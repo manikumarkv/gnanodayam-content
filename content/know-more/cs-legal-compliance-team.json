@@ -28,6 +28,22 @@
             "label": "Secretarial audit",
             "value": "By a practising CS",
             "note": "Required for listed and certain large companies — Companies Act 2013, s.204"
+          },
+          {
+            "label": "ICSI members",
+            "value": "~76,000",
+            "note": "About 11,500 of them hold a certificate of practice",
+            "source": "ICSI souvenir, 26th National Conference of Practising Company Secretaries",
+            "date": "June 2025",
+            "verified": false
+          },
+          {
+            "label": "CS students",
+            "value": "~2 lakh",
+            "note": "Registered across the CS course stages",
+            "source": "ICSI souvenir, 26th National Conference of Practising Company Secretaries",
+            "date": "June 2025",
+            "verified": false
           }
         ]
       }

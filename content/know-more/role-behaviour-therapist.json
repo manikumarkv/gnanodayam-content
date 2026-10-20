@@ -25,6 +25,14 @@
           {
             "label": "Common setting",
             "value": "Therapy centres, special schools, home visits"
+          },
+          {
+            "label": "PG students in Psychology",
+            "value": "~54,500",
+            "note": "All years; most do not go into behaviour therapy. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +67,29 @@
           "Work is often emotionally demanding but direct and hands-on.",
           "Next roles: senior therapist, programme supervisor, or further study in clinical or rehabilitation psychology."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in Psychology",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG Psychology enrolment",
+                "values": [51861, 51496, 54484]
+              }
+            ]
+          }
+        },
+        "note": "Listed under Social Science, all years of the course; forensic psychology is counted separately. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 13, PG enrolment by subject)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

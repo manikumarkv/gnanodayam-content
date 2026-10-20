@@ -25,6 +25,21 @@
           {
             "label": "Works with",
             "value": "Surveyors, hospitals, agents and customers"
+          },
+          {
+            "label": "Health insurance claims handled",
+            "value": "~326 lakh",
+            "note": "Of these, ~269 lakh were paid",
+            "source": "IRDAI data via Finance Ministry parliamentary reply (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Health claims rejected",
+            "value": "~36 lakh (~11%)",
+            "source": "IRDAI data via Finance Ministry parliamentary reply (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -58,6 +73,36 @@
           "Volume targets and deadlines are common in processing centres.",
           "Next roles: senior claims executive, claims manager, investigation or underwriting roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "What happened to health insurance claims",
+        "unit": "lakh claims",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Paid",
+                "value": 268.59
+              },
+              {
+                "label": "Rejected",
+                "value": 36.3
+              },
+              {
+                "label": "Pending at year-end",
+                "value": 20.73
+              }
+            ]
+          }
+        },
+        "note": "Health insurance only; motor, property and life claims are not included. Slices may not add exactly to the total due to rounding.",
+        "source": "IRDAI data via Finance Ministry parliamentary reply (as reported)",
+        "date": "2023-24",
+        "verified": false
       }
     },
     {

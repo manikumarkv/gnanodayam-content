@@ -21,6 +21,22 @@
           {
             "label": "Starting position",
             "value": "Commis chef"
+          },
+          {
+            "label": "Hotel management degree students",
+            "value": "~43,000 BHM; ~21,000 BHMCT",
+            "note": "Enrolment across all years of the course",
+            "source": "AISHE (Ministry of Education), programme-wise enrolment, all modes",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Star-classified hotels",
+            "value": "~1,300 hotels; ~1 lakh rooms",
+            "note": "Classified hotels only; most restaurants and caterers are outside this count",
+            "source": "Ministry of Tourism data via Indiastat (as reported)",
+            "date": "April 2023",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,33 @@
           "Long hours and physical work are normal, especially early on.",
           "Some later move into catering, food production or their own outlet."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in hotel management degrees",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "BHM",
+                "values": [54588, 51692, 42975]
+              },
+              {
+                "label": "BHMCT",
+                "values": [20813, 21204, 20774]
+              }
+            ]
+          }
+        },
+        "note": "Excludes B.Sc Hospitality and culinary diplomas; based on institutions that responded to AISHE.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

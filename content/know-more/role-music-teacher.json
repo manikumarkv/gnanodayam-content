@@ -21,6 +21,22 @@
           {
             "label": "Where you work",
             "value": "Schools, music academies, private and online classes"
+          },
+          {
+            "label": "Students in B.Mus. and M.Mus.",
+            "value": "~1,700 and ~2,000",
+            "note": "Many music students study in B.A./M.A. Music or B.P.A. programmes instead, which are counted separately",
+            "source": "AISHE 2023-24, Ministry of Education (Table 11, all modes)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students in B.P.A. (Performing Arts)",
+            "value": "~9,600",
+            "note": "Covers music, dance and theatre together",
+            "source": "AISHE 2023-24, Ministry of Education (Table 11, all modes)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

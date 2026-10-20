@@ -26,6 +26,22 @@
           {
             "label": "Work pattern",
             "value": "Shift duty at mine sites, often remote"
+          },
+          {
+            "label": "Coal production",
+            "value": "~1,048 million tonnes",
+            "note": "Provisional; ~998 million tonnes in 2023-24",
+            "source": "Ministry of Coal (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Mining engineering UG students",
+            "value": "~11,300",
+            "note": "About 2,500 pass out each year",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

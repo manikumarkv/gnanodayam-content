@@ -28,6 +28,22 @@
             "label": "Recruiting body",
             "value": "State PSC or state health recruitment board",
             "note": "Varies by state"
+          },
+          {
+            "label": "Registered AYUSH practitioners",
+            "value": "~7.5 lakh",
+            "note": "All six systems (Ayurveda, Unani, Siddha, Homoeopathy, Sowa-Rigpa and others); not all are in government service",
+            "source": "Ministry of Health / Ministry of Ayush, reply in Parliament (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "BAMS students enrolled",
+            "value": "~89,000",
+            "note": "All years of the BAMS programme; institutions that reported to AISHE",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

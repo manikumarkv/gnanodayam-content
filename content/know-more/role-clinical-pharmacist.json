@@ -25,6 +25,22 @@
           {
             "label": "Where the work is",
             "value": "Hospital wards, ICUs, drug information centres"
+          },
+          {
+            "label": "Pharm.D enrolment",
+            "value": "~43,500",
+            "note": "About 61% women",
+            "source": "AISHE 2023-24, Ministry of Education (programme-wise enrolment, all modes)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Registered pharmacists in India",
+            "value": "~9.07 lakh",
+            "note": "All registered pharmacists, not only clinical pharmacists",
+            "source": "National Health Profile 2018, CBHI (as reported)",
+            "date": "Nov 2017",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,29 @@
           "Many Pharm.D graduates also move into pharmacovigilance, clinical research or roles abroad.",
           "Growth can lead to senior clinical pharmacist, drug information or teaching roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Pharm.D enrolment in India",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Pharm.D enrolment",
+                "values": [37767, 40183, 43533]
+              }
+            ]
+          }
+        },
+        "note": "Includes all years of the course; based on institutions that responded to AISHE.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (programme-wise enrolment, all modes)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

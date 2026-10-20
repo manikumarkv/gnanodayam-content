@@ -25,6 +25,22 @@
           {
             "label": "Typical tasks",
             "value": "Object detection, segmentation, OCR, video analytics"
+          },
+          {
+            "label": "IndiaAI Mission outlay",
+            "value": "~₹10,372 crore",
+            "note": "Over five years; covers compute, datasets, startups and skilling",
+            "source": "Union Cabinet approval, IndiaAI Mission",
+            "date": "Mar 2024",
+            "verified": false
+          },
+          {
+            "label": "GPUs onboarded for common AI compute",
+            "value": "~38,000",
+            "note": "Onboarded on the AI compute portal; not the same as in use",
+            "source": "IndiaAI / MeitY (as reported)",
+            "date": "Dec 2025",
+            "verified": false
           }
         ]
       }

@@ -23,6 +23,14 @@
             "label": "Degrees asked for",
             "value": "Textile technology, textile chemistry or processing",
             "note": "Varies by post; some posts also need experience"
+          },
+          {
+            "label": "Direct jobs in the textile sector",
+            "value": "Over 4.5 crore",
+            "note": "Whole textile and apparel sector, mostly private and informal work, not government posts",
+            "source": "Ministry of Textiles Annual Report 2023-24; Rajya Sabha reply, March 2025 (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

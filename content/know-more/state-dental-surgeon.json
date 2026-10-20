@@ -28,6 +28,22 @@
             "label": "Recruiting body",
             "value": "State PSC or state health recruitment board",
             "note": "Varies by state"
+          },
+          {
+            "label": "BDS pass-outs a year",
+            "value": "~20,000",
+            "note": "Graduates who compete for state posts, NHM contract posts, MDS seats and private practice",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "MDS students enrolled",
+            "value": "~18,400",
+            "note": "All years of the course; an MDS is needed for specialist and teaching posts",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,29 @@
           "Some states hire contract dental surgeons under NHM, with different terms from regular posts.",
           "Central posts, such as the Army Dental Corps and central health services, are recruited separately."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BDS pass-outs in India",
+        "unit": "graduates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "BDS out-turn",
+                "values": [19982, 20108, 20098]
+              }
+            ]
+          }
+        },
+        "note": "Out-turn reported by institutions that responded to AISHE; the true total may be slightly higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

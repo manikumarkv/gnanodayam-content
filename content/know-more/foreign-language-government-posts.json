@@ -23,6 +23,22 @@
             "label": "Usual qualification",
             "value": "Varies by post",
             "note": "Often a degree or Master's in the language; some posts ask for experience"
+          },
+          {
+            "label": "Example notice",
+            "value": "1 Translator (Chinese) post",
+            "note": "Signal Intelligence Directorate, Ministry of Defence",
+            "source": "UPSC Advertisement No. 06/2025 (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Example pay level",
+            "value": "Level 10 (7th CPC)",
+            "note": "Translator (Tibetan), Signal Intelligence Directorate; levels differ by post",
+            "source": "UPSC Advertisement No. 04/2018 (as reported)",
+            "date": "2018",
+            "verified": false
           }
         ]
       }

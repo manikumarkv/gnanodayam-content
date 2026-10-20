@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Mostly field-based, with travel across villages"
+          },
+          {
+            "label": "UG enrolment, Agriculture Engineering",
+            "value": "~21,900",
+            "note": "One of the two common entry degrees",
+            "source": "AISHE 2023-24, Ministry of Education (UG enrolment by discipline)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG enrolment, Civil Engineering",
+            "value": "~3.23 lakh",
+            "note": "Most civil graduates work outside irrigation",
+            "source": "AISHE 2023-24, Ministry of Education (UG enrolment by discipline)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

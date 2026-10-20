@@ -25,6 +25,22 @@
           {
             "label": "Common tools",
             "value": "Word processors, reference managers, literature databases"
+          },
+          {
+            "label": "Pharma industry turnover",
+            "value": "~₹4.7 lakh crore",
+            "note": "Pharma companies and CROs are the main employers of medical writers",
+            "source": "Department of Pharmaceuticals Annual Report 2025-26 (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Trials on the Clinical Trials Registry-India",
+            "value": "~71,000 records",
+            "note": "Cumulative since the registry began; each record needs written study documents",
+            "source": "CTRI figures cited in a published analysis (as reported)",
+            "date": "July 2024",
+            "verified": false
           }
         ]
       }

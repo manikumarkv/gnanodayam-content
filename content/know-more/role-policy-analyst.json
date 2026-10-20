@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Excel or Stata/R, government data portals, report writing"
+          },
+          {
+            "label": "PG students in Public Administration",
+            "value": "~27,200",
+            "note": "All years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Public Policy",
+            "value": "~160",
+            "note": "Few programmes use this title; many policy courses sit under economics or development studies. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

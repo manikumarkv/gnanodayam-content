@@ -26,6 +26,14 @@
           {
             "label": "Typical employment",
             "value": "Contractual / project-based"
+          },
+          {
+            "label": "Additional health workers engaged under NHM",
+            "value": "~5.2 lakh",
+            "note": "All categories — doctors, nurses, CHOs and programme-management staff together; management posts are a small part",
+            "source": "Union Cabinet briefing on NHM (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -47,6 +55,29 @@
           "Most posts are contracts that are renewed periodically, not permanent government jobs.",
           "Postings can be in district hospitals or block-level offices, often outside big cities."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Additional health workers engaged under NHM",
+        "unit": "lakh workers",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Workers engaged",
+                "values": [2.69, 4.21, 5.23]
+              }
+            ]
+          }
+        },
+        "note": "Includes all cadres engaged under NHM, mostly clinical and community health staff; a separate count for programme-management posts was not reported.",
+        "source": "Union Cabinet briefing on NHM, Jan 2025 (as reported)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

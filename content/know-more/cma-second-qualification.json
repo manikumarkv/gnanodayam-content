@@ -28,6 +28,22 @@
             "label": "CA practical training",
             "value": "2 years articleship",
             "note": "Required under the ICAI scheme even with direct entry"
+          },
+          {
+            "label": "CA Intermediate, both groups (May 2025)",
+            "value": "~38,000 appeared; ~5,000 passed (~13%)",
+            "note": "All CA Intermediate candidates, not only CMA direct-entry students",
+            "source": "ICAI result press release (as reported)",
+            "date": "July 2025",
+            "verified": false
+          },
+          {
+            "label": "CA Intermediate, single group (May 2025)",
+            "value": "Group I ~15% pass; Group II ~22% pass",
+            "note": "~97,000 sat Group I and ~72,000 sat Group II",
+            "source": "ICAI result press release (as reported)",
+            "date": "July 2025",
+            "verified": false
           }
         ]
       }

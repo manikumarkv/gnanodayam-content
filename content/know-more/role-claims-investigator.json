@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Field visits within an assigned area"
+          },
+          {
+            "label": "Health insurance claims in a year",
+            "value": "~3.26 crore",
+            "note": "~2.69 crore (about 82%) were settled",
+            "source": "IRDAI Annual Report 2023-24 (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Health insurance claims rejected",
+            "value": "~36 lakh (~11%)",
+            "note": "Disputed or doubtful claims are where investigation work comes in",
+            "source": "Parliament reply citing IRDAI data (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

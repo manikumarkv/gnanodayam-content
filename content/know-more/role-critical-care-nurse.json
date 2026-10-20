@@ -25,6 +25,14 @@
           {
             "label": "Further training",
             "value": "Post-basic critical care courses often follow"
+          },
+          {
+            "label": "Registered nursing personnel",
+            "value": "~42.9 lakh",
+            "note": "All registered nursing cadres; about 34 lakh estimated active",
+            "source": "Indian Nursing Council, via Rajya Sabha reply (as reported)",
+            "date": "As of 31 March 2025",
+            "verified": false
           }
         ]
       }
@@ -59,6 +67,36 @@
           "Rotating shifts, including nights, are standard.",
           "ICU experience is also valued for nursing jobs abroad."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Registered nursing workforce by cadre",
+        "unit": "personnel",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Registered nurses & midwives",
+                "value": 2340501
+              },
+              {
+                "label": "Nurse associates (incl. ANMs)",
+                "value": 1000805
+              },
+              {
+                "label": "Lady health visitors",
+                "value": 56854
+              }
+            ]
+          }
+        },
+        "note": "Registrations, not people currently working; critical care nurses come from the registered nurse cadre.",
+        "source": "Indian Nursing Council, via Rajya Sabha reply (as reported)",
+        "date": "2022",
+        "verified": false
       }
     },
     {

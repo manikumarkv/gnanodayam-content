@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Excel, a statistics package (R, Stata or Python), databases"
+          },
+          {
+            "label": "SEBI-registered research analysts",
+            "value": "~1,580",
+            "note": "June 2025; ~620 in 2018-19",
+            "source": "SEBI data (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

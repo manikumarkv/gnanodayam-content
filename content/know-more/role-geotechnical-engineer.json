@@ -26,6 +26,14 @@
           {
             "label": "Key tests",
             "value": "SPT, plate load test, triaxial and consolidation tests"
+          },
+          {
+            "label": "National highways built in a year",
+            "value": "~12,300 km",
+            "note": "Foundations, embankments and slopes on such projects need soil investigation",
+            "source": "Ministry of Road Transport & Highways (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

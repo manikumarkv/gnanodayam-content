@@ -22,6 +22,22 @@
           {
             "label": "Modes",
             "value": "Consecutive, simultaneous, escort interpreting"
+          },
+          {
+            "label": "Foreign tourist arrivals",
+            "value": "~95 lakh",
+            "note": "Rose to roughly 97–100 lakh in 2024; sources differ",
+            "source": "Ministry of Tourism (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "International tourist arrivals",
+            "value": "~1.9 crore",
+            "note": "Includes non-resident Indians",
+            "source": "Ministry of Tourism (as reported)",
+            "date": "2023",
+            "verified": false
           }
         ]
       }

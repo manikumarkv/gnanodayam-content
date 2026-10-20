@@ -25,6 +25,22 @@
           {
             "label": "Common tools",
             "value": "Cataloguing standards, digitisation equipment, records databases"
+          },
+          {
+            "label": "National Archives of India holdings",
+            "value": "~34 crore pages",
+            "note": "Other public statements give higher totals",
+            "source": "Ministry of Culture, Lok Sabha reply (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Pages digitised by NAI",
+            "value": "10 crore+",
+            "note": "Available through the Abhilekh Patal portal",
+            "source": "National Archives of India (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

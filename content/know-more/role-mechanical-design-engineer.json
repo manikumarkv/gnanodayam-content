@@ -25,6 +25,22 @@
           {
             "label": "Related skill",
             "value": "GD&T (geometric dimensioning and tolerancing)"
+          },
+          {
+            "label": "Students in Mechanical Engineering",
+            "value": "~4.4 lakh",
+            "note": "All levels (UG, PG, PhD); down from ~5.7 lakh in 2021-22",
+            "source": "AISHE 2023-24 (Engineering & Technology sub-stream enrolment)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "GATE ME paper (2024)",
+            "value": "~65,500 appeared; ~11,900 qualified",
+            "note": "83,114 registered",
+            "source": "GATE 2024 Statistical and Performance Report (IISc Bengaluru)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,29 @@
           "Common next roles: senior design engineer, CAE/FEA analyst, product design lead.",
           "Domain knowledge (automotive, aerospace, industrial machinery) shapes long-term options."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students in Mechanical Engineering",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment, all levels",
+                "values": [574940, 496864, 444200]
+              }
+            ]
+          }
+        },
+        "note": "UG, PG and PhD combined; the 2023-24 value is published in thousands (444.2), so it is rounded. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Engineering & Technology sub-stream enrolment, Figure 20)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

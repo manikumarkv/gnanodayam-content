@@ -21,6 +21,14 @@
           {
             "label": "Common settings",
             "value": "NGOs, hospitals, schools, CSR foundations, government programmes"
+          },
+          {
+            "label": "MSW students enrolled",
+            "value": "~1.02 lakh",
+            "note": "Across all years of the degree; about 54% women",
+            "source": "AISHE 2023-24",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +63,29 @@
           "Common next steps: programme coordinator, project manager, or specialised counselling roles.",
           "Many NGO roles are tied to project funding."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in MSW",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "MSW enrolment",
+                "values": [70144, 81233, 102085]
+              }
+            ]
+          }
+        },
+        "note": "Total across all years of the course, not annual intake or the number of working social workers.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (programme-wise enrolment)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

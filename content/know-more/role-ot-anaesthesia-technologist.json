@@ -26,6 +26,14 @@
           {
             "label": "Common tools",
             "value": "Anaesthesia workstations, patient monitors, suction and sterilisation equipment"
+          },
+          {
+            "label": "UG pass-outs, Paramedical Science",
+            "value": "~17,800",
+            "note": "All paramedical disciplines together",
+            "source": "AISHE 2023-24, Ministry of Education (UG out-turn by discipline)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -60,6 +68,29 @@
           "Common next roles are senior OT technologist or OT in-charge.",
           "Some move into application or service roles with medical equipment suppliers."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in Paramedical Science",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [65282, 93781, 115270]
+              }
+            ]
+          }
+        },
+        "note": "Covers all paramedical disciplines together, not only this one; counts only institutions that responded to AISHE, and how programmes are classified can shift between years.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (UG enrolment by discipline, based on actual responses)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

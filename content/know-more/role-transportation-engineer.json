@@ -21,6 +21,30 @@
           {
             "label": "Common tools",
             "value": "AutoCAD, Civil 3D or MX Road, traffic simulation software, IRC codes"
+          },
+          {
+            "label": "National Highway network",
+            "value": "~1.47 lakh km",
+            "note": "Up from ~91,300 km in 2014",
+            "source": "Ministry of Road Transport & Highways (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "National Highways built in a year",
+            "value": "~10,660 km",
+            "note": "~4,410 km in 2014-15",
+            "source": "MoRTH year-end review (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "4-lane and wider National Highways",
+            "value": "~43,500 km",
+            "note": "~18,400 km in 2014",
+            "source": "Ministry of Road Transport & Highways (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

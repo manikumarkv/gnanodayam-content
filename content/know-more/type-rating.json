@@ -23,6 +23,21 @@
             "label": "Training",
             "value": "Ground school + full-flight simulator",
             "note": "Then a skill test and DGCA endorsement"
+          },
+          {
+            "label": "Commercial pilot licences issued",
+            "value": "~1,620",
+            "note": "Highest in a decade; a type rating is endorsed on a CPL or ATPL",
+            "source": "DGCA (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Share of CPLs issued to women",
+            "value": "~18%",
+            "source": "DGCA (as reported)",
+            "date": "2023",
+            "verified": false
           }
         ]
       }
@@ -45,6 +60,29 @@
           "Airline-arranged training lowers the upfront cost but usually ties you to that airline for a period.",
           "The type you choose limits you to airlines that fly it."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Commercial pilot licences issued by DGCA",
+        "unit": "licences",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2019", "2020", "2021", "2022", "2023"],
+            "series": [
+              {
+                "label": "CPLs issued",
+                "values": [744, 578, 862, 1165, 1622]
+              }
+            ]
+          }
+        },
+        "note": "Counts new CPLs (including foreign-licence conversions), not type ratings or airline jobs. The 2022 figure differs slightly across reports.",
+        "source": "DGCA figures, as reported in news coverage and a Lok Sabha reply",
+        "date": "2019-2023",
+        "verified": false
       }
     },
     {

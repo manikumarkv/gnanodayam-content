@@ -26,6 +26,14 @@
           {
             "label": "Laws you meet",
             "value": "Labour codes, PF and ESI rules, state Shops & Establishments Acts"
+          },
+          {
+            "label": "Workers in regular wage / salaried jobs",
+            "value": "21.7%",
+            "note": "All workers, all ages; salaried staff are the main group HR teams look after",
+            "source": "PLFS Annual Report July 2023–June 2024 (MoSPI, as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

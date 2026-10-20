@@ -28,6 +28,22 @@
             "label": "Approved technical staff",
             "value": "Required by licence",
             "note": "Manufacturing and testing licences name qualified, approved staff; a pharmacy degree is one accepted qualification"
+          },
+          {
+            "label": "Pharma exports",
+            "value": "~US$30.5 billion",
+            "note": "Drugs and pharmaceuticals; about 9% higher than the year before",
+            "source": "Pharmexcil (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "B.Pharm pass-outs a year",
+            "value": "~1 lakh",
+            "note": "Not all go into manufacturing; retail, hospital, sales and higher study also absorb graduates",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -50,6 +66,35 @@
           "Experience with audits, analytical instruments (HPLC, GC) and data-integrity practices helps movement into QA, regulatory affairs or validation.",
           "Entry pay is modest; growth depends on the plant's scale and regulatory exposure."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Pharm enrolment (regular mode)",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [293822, 374695, 451975, 529029, 590760]
+              }
+            ]
+          }
+        },
+        "note": "Students across all years of the course in regular mode. Enrolment roughly doubled in five years; this reflects more colleges and seats, not more plant jobs.",
+        "source": "AISHE 2023-24, Box 14 (Ministry of Education)",
+        "date": "2019-24",
+        "verified": false
       }
     },
     {

@@ -21,6 +21,30 @@
           {
             "label": "Where you work",
             "value": "Fish and shrimp farms, mostly in coastal and rural districts"
+          },
+          {
+            "label": "Seafood exports",
+            "value": "~17 lakh tonnes",
+            "note": "Worth about ₹62,400 crore (US$ 7.45 billion) in FY 2024-25",
+            "source": "MPEDA press release, 2024-25",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Frozen shrimp's share of seafood exports",
+            "value": "~44% by volume, ~69% by value",
+            "note": "About 7.4 lakh tonnes of frozen shrimp in FY 2024-25",
+            "source": "MPEDA press release, 2024-25",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Inland share of fish output",
+            "value": "~131 of ~175 lakh tonnes",
+            "note": "Inland fisheries and aquaculture against ~44 lakh tonnes from the sea",
+            "source": "Department of Fisheries data, as reported",
+            "date": "2022-23",
+            "verified": false
           }
         ]
       }
@@ -54,6 +78,29 @@
           "With experience it can lead to farm manager or technical service roles.",
           "Some move into feed or health product sales, or start their own farm."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Fish production in India",
+        "unit": "lakh tonnes",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Total fish production",
+                "values": [162.48, 175.45, 184]
+              }
+            ]
+          }
+        },
+        "note": "Inland and marine combined. The 2023-24 figure is a rounded 'over 184 lakh tonnes'; some official statements give different totals for recent years.",
+        "source": "Handbook on Fisheries Statistics 2022 (2021-22); Ministry of Fisheries, as reported (2022-23, 2023-24)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

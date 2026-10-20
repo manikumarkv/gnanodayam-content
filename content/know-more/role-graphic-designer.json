@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Illustrator, Photoshop, InDesign, Figma"
+          },
+          {
+            "label": "Students in B.Des (all years)",
+            "value": "~56,700",
+            "note": "Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students in BFA (all years)",
+            "value": "~30,200",
+            "note": "Roughly flat at ~30,000 from 2021-22 to 2023-24; includes painting, sculpture and applied art",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,29 @@
           "Typical path: junior designer, designer, senior designer, art director.",
           "Some move into UI/UX or motion design with extra skills."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in B.Des",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Des enrolment",
+                "values": [44526, 51460, 56720]
+              }
+            ]
+          }
+        },
+        "note": "All design specialisations, not only graphic or communication design. All years, all modes. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 11, programme-wise enrolment)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

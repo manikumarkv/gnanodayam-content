@@ -28,6 +28,22 @@
             "label": "Employers",
             "value": "Major port authorities and state maritime boards",
             "note": "Under the Ministry of Ports, Shipping and Waterways for major ports"
+          },
+          {
+            "label": "Cargo handled by major ports",
+            "value": "~855 million tonnes",
+            "note": "Up about 4% on FY 2023-24 (~819 MT); monthly provisional data give ~854 MT",
+            "source": "Ministry of Ports, Shipping and Waterways, as reported",
+            "date": "FY 2024-25",
+            "verified": false
+          },
+          {
+            "label": "Major ports",
+            "value": "12",
+            "note": "Run by port authorities under the central government; other ports come under state maritime boards",
+            "source": "Ministry of Ports, Shipping and Waterways",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,29 @@
           "Openings are few and appear port by port, often on contract.",
           "Shore-based work brings regular home life, with round-the-clock duty rosters for pilots."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Cargo handled by India's major ports",
+        "unit": "million tonnes",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24", "2024-25"],
+            "series": [
+              {
+                "label": "Cargo traffic",
+                "values": [720, 784, 819, 855]
+              }
+            ]
+          }
+        },
+        "note": "Major ports only; non-major ports are not included. The 2022-23 figure differs across releases (~784–795 MT) and 2024-25 is the rounded headline figure.",
+        "source": "Ministry of Ports, Shipping and Waterways (year-end releases and monthly reports), as reported",
+        "date": "2021-22 to 2024-25",
+        "verified": false
       }
     },
     {

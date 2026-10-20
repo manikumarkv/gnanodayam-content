@@ -23,6 +23,22 @@
             "label": "Common recruiters",
             "value": "SSC, DAE units, state PSCs / forensic labs",
             "note": "Each recruits separately"
+          },
+          {
+            "label": "Pay level (IMD Scientific Assistant)",
+            "value": "Pay Level 6 (7th CPC)",
+            "note": "Group B post in the India Meteorological Department; recruited through this SSC exam in 2026",
+            "source": "SSC Junior Engineer Examination 2026 notice (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "IMD Scientific Assistant posts (2022 notice)",
+            "value": "~990",
+            "note": "Vacancies vary a lot from one notice to the next",
+            "source": "SSC Scientific Assistant (IMD) Examination 2022 notice (as reported)",
+            "date": "2022",
+            "verified": false
           }
         ]
       }

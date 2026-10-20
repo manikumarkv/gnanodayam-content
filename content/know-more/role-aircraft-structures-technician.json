@@ -25,6 +25,30 @@
           {
             "label": "Common tools",
             "value": "Riveting tools, inspection aids, repair manuals"
+          },
+          {
+            "label": "Projected need for technicians and AMEs by 2035",
+            "value": "~72,900",
+            "note": "A projection, not a count of current jobs",
+            "source": "IMaCS skill-gap report to the Ministry of Civil Aviation (as reported)",
+            "date": "Aug 2017",
+            "verified": false
+          },
+          {
+            "label": "AME licences issued (DGCA)",
+            "value": "3,644 basic in 5 years",
+            "note": "Plus 159 type-rated licences in the same period",
+            "source": "DGCA data cited by the Ministry of Civil Aviation (as reported)",
+            "date": "Aug 2017",
+            "verified": false
+          },
+          {
+            "label": "DGCA-approved basic AME training institutes",
+            "value": "~57",
+            "note": "Annual supply of trained engineers put at ~3,700",
+            "source": "Ministry of Civil Aviation, Rajya Sabha reply (as reported)",
+            "date": "Jul 2024",
+            "verified": false
           }
         ]
       }

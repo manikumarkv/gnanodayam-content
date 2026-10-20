@@ -28,6 +28,22 @@
             "label": "Related GATE paper",
             "value": "Biotechnology (BT)",
             "note": "Used mainly for M.Tech admissions"
+          },
+          {
+            "label": "GATE Biotechnology (BT) candidates",
+            "value": "~24,900 registered",
+            "note": "~20,000 appeared and ~4,400 qualified in GATE 2025; M.Sc and other science graduates also take this paper",
+            "source": "GATE 2025 Statistical and Performance Report",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Women among GATE BT registrants",
+            "value": "~70%",
+            "note": "About 17,600 of ~24,900 registrants in 2025; ~69% in 2024",
+            "source": "GATE 2024 and 2025 Statistical and Performance Reports",
+            "date": "2024–2025",
+            "verified": false
           }
         ]
       }
@@ -50,6 +66,33 @@
           "Government research posts usually need a master's degree or PhD, or a research fellowship such as CSIR-NET JRF.",
           "Some graduates move into bioinformatics, data or software roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "GATE Biotechnology (BT) paper: candidates",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["Registered", "Appeared", "Qualified"],
+            "series": [
+              {
+                "label": "GATE 2024",
+                "values": [21210, 17078, 3894]
+              },
+              {
+                "label": "GATE 2025",
+                "values": [24927, 20048, 4417]
+              }
+            ]
+          }
+        },
+        "note": "Covers everyone who took the BT paper, not only B.Tech Biotechnology students. Qualifying cut-offs change each year, so qualified counts are not comparable year to year.",
+        "source": "GATE 2024 (IISc) and GATE 2025 (IIT Roorkee) Statistical and Performance Reports",
+        "date": "2024–2025",
+        "verified": false
       }
     },
     {

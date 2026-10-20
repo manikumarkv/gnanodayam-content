@@ -26,6 +26,20 @@
           {
             "label": "Pay structure",
             "value": "Fixed pay plus sales incentives in many firms"
+          },
+          {
+            "label": "UG pass-outs, Hospitality and Tourism",
+            "value": "~5,900",
+            "source": "AISHE 2023-24, Ministry of Education (UG out-turn by discipline)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG enrolment, Tourism Management",
+            "value": "~3,700",
+            "source": "AISHE 2023-24, Ministry of Education (enrolment by discipline, PG level)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +73,29 @@
           "Peak holiday seasons mean long hours and weekend work.",
           "Income can depend on sales incentives, so it varies month to month."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in Hospitality and Tourism",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [21751, 20589, 24761]
+              }
+            ]
+          }
+        },
+        "note": "Hotel and tourism courses are counted together here; many travel consultants come from other degrees.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (UG enrolment by discipline, based on actual responses)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

@@ -23,6 +23,22 @@
             "label": "Recruiting body",
             "value": "State PSC or subordinate services board",
             "note": "Varies by state and post"
+          },
+          {
+            "label": "Bihar agriculture department posts",
+            "value": "1,051",
+            "note": "Includes ~866 Block Agriculture Officer posts; one state, one recruitment cycle",
+            "source": "BPSC Advt. No. 18/2024 to 21/2024 (as reported)",
+            "date": "Jan 2024",
+            "verified": false
+          },
+          {
+            "label": "B.Agri enrolment",
+            "value": "~1.77 lakh",
+            "note": "About 27% women",
+            "source": "AISHE 2023-24, Ministry of Education (programme-wise enrolment, all modes)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -45,6 +61,29 @@
           "Senior posts are filled by promotion or through the state civil services exam.",
           "Central options include ICAR's ASRB exams and the IBPS SO Agricultural Field Officer post in public-sector banks."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Agri enrolment in India",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Agri enrolment",
+                "values": [154954, 169273, 176858]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE; agriculture degrees recorded under other programme names are not included.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (programme-wise enrolment, all modes)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

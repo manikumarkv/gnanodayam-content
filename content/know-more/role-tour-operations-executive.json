@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Office-based with on-call duty while tours are running"
+          },
+          {
+            "label": "Domestic tourist visits",
+            "value": "~295 crore",
+            "note": "Counts visits, not unique people; up ~17.5% over 2023",
+            "source": "Ministry of Tourism (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Foreign tourist arrivals",
+            "value": "~99.5 lakh",
+            "note": "Excludes ~1.06 crore NRI arrivals",
+            "source": "Ministry of Tourism (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }
@@ -58,6 +74,29 @@
           "On-call work during tours and peak seasons is common.",
           "Business depends on tourist seasons and on events that disrupt travel."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Domestic tourist visits",
+        "unit": "crore visits",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2022", "2023", "2024"],
+            "series": [
+              {
+                "label": "Visits",
+                "values": [173, 251, 295]
+              }
+            ]
+          }
+        },
+        "note": "State-reported visit counts, rounded; one person can be counted many times. 2022 was still affected by Covid-19.",
+        "source": "Ministry of Tourism, India Tourism Statistics / Data Compendium (as reported)",
+        "date": "2022–2024",
+        "verified": false
       }
     },
     {

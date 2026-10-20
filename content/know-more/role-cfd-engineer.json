@@ -21,6 +21,21 @@
           {
             "label": "Common tools",
             "value": "ANSYS Fluent, OpenFOAM, STAR-CCM+, Python"
+          },
+          {
+            "label": "GATE Aerospace Engineering (AE) paper",
+            "value": "~7,600 registered · ~1,070 qualified",
+            "source": "GATE 2025 Statistical and Performance Report, IIT Roorkee",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Postgraduate students in aeronautical engineering",
+            "value": "~900",
+            "note": "M.Tech/M.E.-level enrolment; ~500 more at Ph.D. level",
+            "source": "AISHE (Ministry of Education) 2023-24, Table 13 (based on actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +70,29 @@
           "Higher study is common for this role.",
           "Next roles: senior analyst, aerodynamics lead, simulation methods engineer."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "GATE 2025 Aerospace Engineering paper",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["Registered", "Appeared", "Qualified"],
+            "series": [
+              {
+                "label": "AE paper",
+                "values": [7576, 6009, 1074]
+              }
+            ]
+          }
+        },
+        "note": "One of the papers used for M.Tech admission in aerospace; many CFD engineers come through Mechanical instead.",
+        "source": "GATE 2025 Statistical and Performance Report, IIT Roorkee",
+        "date": "2025",
+        "verified": false
       }
     },
     {

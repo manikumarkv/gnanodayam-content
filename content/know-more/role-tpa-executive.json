@@ -26,6 +26,29 @@
           {
             "label": "Key terms",
             "value": "Pre-authorisation, cashless, reimbursement, room-rent limits, deductions"
+          },
+          {
+            "label": "Health insurance claims (FY24)",
+            "value": "~3.26 crore claims · ~82% settled",
+            "note": "~2.69 crore claims settled",
+            "source": "IRDAI Annual Report 2023-24 (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Claims settled through TPAs",
+            "value": "~72% (FY24) · ~69% (FY25)",
+            "note": "The rest are settled in-house by insurers",
+            "source": "IRDAI Annual Reports (as reported)",
+            "date": "2023-24, 2024-25",
+            "verified": false
+          },
+          {
+            "label": "Cashless share of settled claims",
+            "value": "~58% by count",
+            "source": "IRDAI data (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +82,32 @@
           "Health-insurance coverage has grown, which keeps this desk busy in most private hospitals.",
           "Disputes over deductions are frequent, so patience and accuracy matter."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "How health claims were settled, FY24",
+        "unit": "% of claims",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Through TPAs",
+                "value": 72
+              },
+              {
+                "label": "In-house by insurers",
+                "value": 28
+              }
+            ]
+          }
+        },
+        "note": "Share of settled claims by number. In FY25 the TPA share was reported at ~69%.",
+        "source": "IRDAI Annual Report 2023-24 (as reported)",
+        "date": "2023-24",
+        "verified": false
       }
     },
     {

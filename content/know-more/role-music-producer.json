@@ -21,6 +21,21 @@
           {
             "label": "Common tools",
             "value": "A digital audio workstation (DAW), MIDI keyboard, microphones, plugins"
+          },
+          {
+            "label": "Indian music industry size",
+            "value": "~₹3,000 crore",
+            "note": "Industry body's own estimate",
+            "source": "Indian Music Industry (IMI) Annual Report 2024 (as stated)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Label investment in new content",
+            "value": "~₹1,000–1,200 crore a year",
+            "source": "Indian Music Industry (IMI) Annual Report 2024 (as stated)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

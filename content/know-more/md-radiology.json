@@ -33,6 +33,14 @@
             "label": "Radiation safety",
             "value": "AERB",
             "note": "Atomic Energy Regulatory Board licenses X-ray and CT equipment"
+          },
+          {
+            "label": "MD Radiodiagnosis seats (India)",
+            "value": "~3,200",
+            "note": "Karnataka (~470) and Maharashtra (~400) list the most seats; the matrix leaves out seats with pending intake-increase applications",
+            "source": "NMC PG seat matrix 2026-27, as reported",
+            "date": "2026-27",
+            "verified": false
           }
         ]
       }

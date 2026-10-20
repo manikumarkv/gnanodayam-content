@@ -27,6 +27,22 @@
             "label": "Typical first role",
             "value": "Executive or assistant manager in finance",
             "note": "Titles vary by company"
+          },
+          {
+            "label": "ICAI members",
+            "value": "~4.1 lakh",
+            "note": "Associate and fellow members together",
+            "source": "ICAI member data (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Members without a Certificate of Practice",
+            "value": "~2.5 lakh (~60%)",
+            "note": "Includes members in employment, abroad or retired",
+            "source": "ICAI member data (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,32 @@
           "Ind AS, GST, ERP systems and spreadsheet modelling are widely asked for.",
           "Some CAs move between practice and industry over their careers."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "ICAI members by practice status",
+        "unit": "members",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Hold a Certificate of Practice",
+                "value": 159557
+              },
+              {
+                "label": "Do not hold a Certificate of Practice",
+                "value": 248072
+              }
+            ]
+          }
+        },
+        "note": "Members without a Certificate of Practice include those in industry, abroad, retired or otherwise not practising; it is not a count of CAs in industry alone.",
+        "source": "ICAI member data (as reported)",
+        "date": "2025",
+        "verified": false
       }
     },
     {

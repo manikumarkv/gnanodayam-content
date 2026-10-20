@@ -22,6 +22,22 @@
           {
             "label": "Where the work is",
             "value": "Sub-health centres, primary health centres, private hospitals and NGOs"
+          },
+          {
+            "label": "Sub-health centres",
+            "value": "~1.70 lakh",
+            "note": "The norm is at least one ANM per sub-centre",
+            "source": "MoHFW, Health Dynamics of India (Infrastructure & Human Resources) 2022-23 (as reported)",
+            "date": "As on 31 Mar 2023",
+            "verified": false
+          },
+          {
+            "label": "ANMs on nursing council registers",
+            "value": "~7.5 lakh",
+            "note": "Older figure; registers include people no longer working",
+            "source": "MoHFW Lok Sabha reply citing Indian Nursing Council (as reported)",
+            "date": "2014",
+            "verified": false
           }
         ]
       }

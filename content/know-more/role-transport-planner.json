@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "GIS, Excel, travel-demand modelling software"
+          },
+          {
+            "label": "Operational metro rail network",
+            "value": "~1,095 km",
+            "note": "Across 26 cities, incl. 55 km Delhi–Meerut RRTS; up from ~248 km in 2014",
+            "source": "PIB (Ministry of Housing and Urban Affairs)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

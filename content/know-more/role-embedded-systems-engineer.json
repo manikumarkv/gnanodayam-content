@@ -26,6 +26,21 @@
           {
             "label": "Typical platforms",
             "value": "ARM Cortex-M, 8051, AVR/PIC, embedded Linux"
+          },
+          {
+            "label": "Electronics production in India",
+            "value": "~₹11.3 lakh crore",
+            "note": "Up from ~₹1.9 lakh crore in 2014-15",
+            "source": "Government of India (PIB) document",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Electronics production a year earlier",
+            "value": "~₹9.5 lakh crore",
+            "source": "MeitY (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

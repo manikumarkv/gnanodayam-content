@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Sketching, design software, pattern and tech-pack templates"
+          },
+          {
+            "label": "Apparel exports",
+            "value": "~US$16 billion",
+            "note": "About 10% higher than ~US$14.5 billion in 2023-24",
+            "source": "Ministry of Commerce data (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Fashion technology UG students",
+            "value": "~17,800",
+            "note": "Undergraduate enrolment in this subject; fashion design is also taught under B.Des",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

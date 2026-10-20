@@ -23,6 +23,22 @@
             "label": "Who recruits",
             "value": "State PSC",
             "note": "Often through a state engineering services exam"
+          },
+          {
+            "label": "Example: Haryana PWD (B&R) AE (Civil) posts",
+            "value": "80",
+            "note": "Part of 153 civil engineering posts in that advertisement; each state and year differs",
+            "source": "HPSC Advt. No. 19 of 2025 (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Example: Arunachal Pradesh AE pay",
+            "value": "Pay Level 10 (₹56,100–₹1,77,500)",
+            "note": "166 AE posts across PWD and other departments; pay scales differ by state",
+            "source": "APPSC Assistant Engineer recruitment notice (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

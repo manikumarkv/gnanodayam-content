@@ -21,6 +21,22 @@
           {
             "label": "Why the qualification matters",
             "value": "A drug wholesale licence needs a qualified 'competent person', often a registered pharmacist"
+          },
+          {
+            "label": "Chemists and distributors in AIOCD",
+            "value": "~12.4 lakh",
+            "note": "Retail and wholesale members",
+            "source": "AIOCD (association's own figure, as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Domestic pharma market turnover",
+            "value": "~₹2.27 lakh crore",
+            "note": "Moving annual total, April 2024 to March 2025",
+            "source": "Pharmarack data (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

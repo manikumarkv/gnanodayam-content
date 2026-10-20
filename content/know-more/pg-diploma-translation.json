@@ -28,6 +28,30 @@
             "label": "Mode",
             "value": "Regular, part-time or distance",
             "note": "Depends on the university"
+          },
+          {
+            "label": "Scheduled languages",
+            "value": "22",
+            "note": "Languages listed in Part A of the Census language tables",
+            "source": "Constitution of India, Eighth Schedule; Census of India 2011",
+            "date": "2011",
+            "verified": false
+          },
+          {
+            "label": "Languages recorded in Census",
+            "value": "121",
+            "note": "22 scheduled plus 99 non-scheduled languages",
+            "source": "Census of India 2011, language data (as reported)",
+            "date": "2011",
+            "verified": false
+          },
+          {
+            "label": "Mother tongues after rationalisation",
+            "value": "~1,369",
+            "note": "From 19,569 raw mother-tongue returns",
+            "source": "Census of India 2011, language data (as reported)",
+            "date": "2011",
+            "verified": false
           }
         ]
       }

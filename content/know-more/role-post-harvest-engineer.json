@@ -21,6 +21,21 @@
           {
             "label": "Work areas",
             "value": "Drying and milling, cold storage, grading and packing, warehousing"
+          },
+          {
+            "label": "Cold storages in India",
+            "value": "~8,700 (capacity ~396 lakh tonnes)",
+            "source": "Rajya Sabha reply (as reported)",
+            "date": "31 Mar 2024",
+            "verified": false
+          },
+          {
+            "label": "Harvest and post-harvest losses",
+            "value": "Fruits ~6–15%, vegetables ~5–12%, cereals ~4–6%",
+            "note": "Range across crops in each group; reference period 2020-22",
+            "source": "NABCONS study for the Ministry of Food Processing Industries (as reported)",
+            "date": "2022",
+            "verified": false
           }
         ]
       }

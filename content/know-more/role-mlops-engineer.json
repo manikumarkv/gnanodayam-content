@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Python, Docker, Kubernetes, CI/CD, cloud platforms, MLflow"
+          },
+          {
+            "label": "Indian tech-sector workforce",
+            "value": "~5.8 million",
+            "note": "Whole tech industry, not this role alone",
+            "source": "NASSCOM Strategic Review 2025 (as reported)",
+            "date": "FY2025",
+            "verified": false
+          },
+          {
+            "label": "IndiaAI Mission outlay",
+            "value": "~₹10,372 crore",
+            "note": "Approved for five years; includes shared GPU computing for AI work",
+            "source": "Union Cabinet decision (PIB)",
+            "date": "2024-03",
+            "verified": false
           }
         ]
       }

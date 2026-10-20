@@ -25,6 +25,30 @@
           {
             "label": "Work pattern",
             "value": "Rotational shift work is common"
+          },
+          {
+            "label": "People engaged in the chemicals sector",
+            "value": "~11.4 lakh",
+            "note": "Organised medium and large units",
+            "source": "Dept. of Chemicals & Petrochemicals, Annual Report 2025-26 (MoSPI data)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Value of chemical industry output",
+            "value": "~₹15.1 lakh crore",
+            "note": "At current prices",
+            "source": "Dept. of Chemicals & Petrochemicals, Annual Report 2025-26 (MoSPI data)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Production of major chemicals and petrochemicals",
+            "value": "~586 lakh tonnes",
+            "note": "From ~245 large and medium units",
+            "source": "Dept. of Chemicals & Petrochemicals, Annual Report 2025-26",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }
@@ -59,6 +83,35 @@
           "Common next roles: shift in-charge, production officer, production manager.",
           "Exposure to hazardous chemicals makes safety training central to the role."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Production of major chemicals",
+        "unit": "lakh tonnes",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24",
+              "2024-25"
+            ],
+            "series": [
+              {
+                "label": "Production",
+                "values": [112.4, 127.4, 130.4, 129.8, 139.8]
+              }
+            ]
+          }
+        },
+        "note": "Alkali, inorganic, organic, pesticide and dye groups from large and medium units only; petrochemicals are counted separately.",
+        "source": "Dept. of Chemicals & Petrochemicals, Annual Report 2025-26 (Annexure I)",
+        "date": "2020-25",
+        "verified": false
       }
     },
     {

@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Patent databases, literature search tools, Excel"
+          },
+          {
+            "label": "Patent applications filed in India",
+            "value": "~1.1 lakh",
+            "note": "About 62% from Indian applicants",
+            "source": "CGPDTM Annual Report 2024-25 (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }
@@ -54,6 +62,35 @@
           "Next steps: senior analyst, patent agent, or IP manager.",
           "The role keeps a science link but moves away from the lab bench."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Patent applications filed in India",
+        "unit": "applications",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24",
+              "2024-25"
+            ],
+            "series": [
+              {
+                "label": "Applications",
+                "values": [58503, 66440, 82811, 92168, 110375]
+              }
+            ]
+          }
+        },
+        "note": "Applications filed with the Indian Patent Office, not patents granted. More filings mean more search and analysis work, but not a fixed number of jobs.",
+        "source": "CGPDTM Annual Report 2024-25 (as reported)",
+        "date": "2020-25",
+        "verified": false
       }
     },
     {

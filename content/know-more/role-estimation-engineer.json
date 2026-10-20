@@ -26,6 +26,14 @@
           {
             "label": "Key references",
             "value": "IS 1200 (method of measurement), CPWD Schedule of Rates"
+          },
+          {
+            "label": "Workers in construction",
+            "value": "~12% of all workers",
+            "note": "Includes all construction work, most of it not engineering roles",
+            "source": "PLFS Annual Report July 2023-June 2024, MoSPI (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

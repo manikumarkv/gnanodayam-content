@@ -25,6 +25,22 @@
           {
             "label": "Where the work is",
             "value": "District courts, High Courts, tribunals and the Supreme Court"
+          },
+          {
+            "label": "Advocates enrolled with State Bar Councils",
+            "value": "~16.4 lakh",
+            "note": "Rolls include some inactive advocates",
+            "source": "Ministry of Law & Justice, Rajya Sabha reply",
+            "date": "Nov 2019",
+            "verified": false
+          },
+          {
+            "label": "Advocates on rolls (later estimate)",
+            "value": "~20 lakh",
+            "note": "Rolls are not fully cleaned of inactive or deceased members",
+            "source": "Ministry of Law & Justice / BCI figures (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,35 @@
           "Advocates can specialise in areas such as civil, criminal, tax or family law.",
           "Building a practice usually takes years of steady work."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "LL.B students enrolled",
+        "unit": "lakh students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [3.96, 4.1, 4.56, 4.84, 5.12]
+              }
+            ]
+          }
+        },
+        "note": "Regular-mode LL.B enrolment across all years of the course; excludes integrated five-year programmes (B.A. LL.B etc.), which are listed separately.",
+        "source": "AISHE 2022-23 and 2023-24, Ministry of Education (regular-mode trend box)",
+        "date": "2019-24",
+        "verified": false
       }
     },
     {

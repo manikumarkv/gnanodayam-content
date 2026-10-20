@@ -25,6 +25,22 @@
           {
             "label": "Work modes",
             "value": "Full-time, agency or freelance"
+          },
+          {
+            "label": "Digital media segment revenue",
+            "value": "~₹80,200 crore",
+            "note": "Industry estimate (₹802 billion), the largest M&E segment",
+            "source": "FICCI-EY M&E report 2025, as cited in a PIB backgrounder (Feb 2026)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "India's media & entertainment sector",
+            "value": "~₹2.5 lakh crore",
+            "note": "Digital media is about one-third of this",
+            "source": "FICCI-EY M&E report 2025, as cited in a PIB backgrounder (Feb 2026)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

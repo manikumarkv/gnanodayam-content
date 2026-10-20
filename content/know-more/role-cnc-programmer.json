@@ -25,6 +25,14 @@
           {
             "label": "Key concepts",
             "value": "GD&T, cutting tools, fixtures"
+          },
+          {
+            "label": "Auto-component industry turnover",
+            "value": "~₹6.7 lakh crore",
+            "note": "Whole industry; one of the main users of CNC machining",
+            "source": "ACMA industry review (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

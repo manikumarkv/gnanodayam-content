@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Compliance trackers, regulator portals, Excel"
+          },
+          {
+            "label": "Active companies",
+            "value": "~18.2 lakh",
+            "note": "Of ~28.1 lakh registered companies, as on 31 January 2025",
+            "source": "Ministry of Corporate Affairs data (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "ICSI members",
+            "value": "~75,000+",
+            "note": "Qualified company secretaries",
+            "source": "ICSI (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

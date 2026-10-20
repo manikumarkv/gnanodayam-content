@@ -26,6 +26,22 @@
             "label": "Common certification",
             "value": "NDT Level II (e.g. ASNT or ISO 9712)",
             "note": "Asked for in NDT roles"
+          },
+          {
+            "label": "Crude steel production",
+            "value": "~152 million tonnes",
+            "note": "Up about 5% on 2023-24",
+            "source": "Ministry of Steel, Annual Report 2025-26",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "NABL-accredited testing labs",
+            "value": "~5,200",
+            "note": "Testing labs only; calibration and medical labs are counted separately",
+            "source": "NABL directory of accredited testing laboratories, as reported",
+            "date": "2024-02",
+            "verified": false
           }
         ]
       }
@@ -60,6 +76,35 @@
           "Common next roles: senior testing engineer, lab in-charge, failure-analysis or quality roles.",
           "Accredited labs follow strict documentation, so attention to detail matters."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Crude steel production in India",
+        "unit": "million tonnes",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24",
+              "2024-25"
+            ],
+            "series": [
+              {
+                "label": "Crude steel",
+                "values": [103.5, 120.3, 127.2, 144.3, 152.2]
+              }
+            ]
+          }
+        },
+        "note": "Earlier provisional estimates for 2024-25 were about 151–152 MT. Steel output is one driver of testing work; labs also serve other metals, components and construction.",
+        "source": "Ministry of Steel (Annual Report 2025-26 and monthly sector overviews)",
+        "date": "2020-21 to 2024-25",
+        "verified": false
       }
     },
     {

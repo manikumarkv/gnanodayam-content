@@ -25,6 +25,14 @@
           {
             "label": "Work pattern",
             "value": "Shift supervision is common at entry"
+          },
+          {
+            "label": "People engaged in surveyed factories",
+            "value": "~1.95 crore",
+            "note": "Up ~6% from ~1.84 crore in 2022-23; all factory jobs, not only engineers",
+            "source": "MoSPI, Annual Survey of Industries 2023-24 (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

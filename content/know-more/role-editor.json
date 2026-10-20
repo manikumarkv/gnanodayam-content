@@ -25,6 +25,22 @@
           {
             "label": "Types",
             "value": "Copy editor, sub-editor, content editor, commissioning editor"
+          },
+          {
+            "label": "Periodicals on the PRGI register",
+            "value": "~1.54 lakh",
+            "note": "As of 31 December 2024; over 1 lakh defunct titles were struck off during 2024-25",
+            "source": "Ministry of I&B Annual Report, PRGI data (as reported)",
+            "date": "2024-12",
+            "verified": false
+          },
+          {
+            "label": "Periodicals filing annual statements",
+            "value": "~36,000",
+            "note": "A rough indicator of titles still publishing",
+            "source": "Ministry of I&B Annual Report, PRGI data (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

@@ -25,6 +25,22 @@
           {
             "label": "Work location",
             "value": "Plants at or near mine sites"
+          },
+          {
+            "label": "Reporting mines",
+            "value": "~2,050",
+            "note": "Excludes petroleum, natural gas, atomic and minor minerals; ~800 metallic and ~1,250 non-metallic",
+            "source": "MoSPI data via Dataful (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Reporting mines (provisional)",
+            "value": "~1,970",
+            "note": "Same basis as above; provisional",
+            "source": "MoSPI data via Dataful (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

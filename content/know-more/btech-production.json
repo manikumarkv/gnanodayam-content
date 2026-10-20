@@ -23,6 +23,22 @@
             "label": "GATE paper",
             "value": "Production & Industrial Engineering (PI)",
             "note": "Graduates can also take the Mechanical (ME) paper, subject to eligibility"
+          },
+          {
+            "label": "GATE PI candidates appeared",
+            "value": "~3,550 (2025); ~3,730 (2024)",
+            "note": "Registered: ~4,790 (2025), ~4,920 (2024)",
+            "source": "GATE 2025 report (IIT Roorkee); GATE 2024 report (IISc)",
+            "date": "2024–2025",
+            "verified": false
+          },
+          {
+            "label": "GATE PI candidates qualified",
+            "value": "~730 (2025); ~750 (2024)",
+            "note": "About 1 in 5 of those who appeared",
+            "source": "GATE 2025 report (IIT Roorkee); GATE 2024 report (IISc)",
+            "date": "2024–2025",
+            "verified": false
           }
         ]
       }

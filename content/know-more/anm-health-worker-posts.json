@@ -23,6 +23,22 @@
             "label": "Who recruits",
             "value": "State recruitment boards, health departments or NHM district health societies",
             "note": "Varies by state"
+          },
+          {
+            "label": "Sub-health centres",
+            "value": "~1.70 lakh",
+            "note": "~1.66 lakh rural and ~4,000 urban; the norm is at least one ANM per sub-centre",
+            "source": "MoHFW, Health Dynamics of India (Infrastructure & Human Resources) 2022-23 (as reported)",
+            "date": "As on 31 Mar 2023",
+            "verified": false
+          },
+          {
+            "label": "Health workers at sub-centres",
+            "value": "~2.4 lakh in position",
+            "note": "Male and female health workers combined; not an ANM-only count",
+            "source": "MoHFW, Health Dynamics of India (Infrastructure & Human Resources) 2022-23 (as reported)",
+            "date": "As on 31 Mar 2023",
+            "verified": false
           }
         ]
       }

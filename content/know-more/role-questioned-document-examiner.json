@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Stereo microscopes, video spectral comparators, UV/IR light sources"
+          },
+          {
+            "label": "UG enrolment in Criminology & Forensic Science",
+            "value": "~4,000 students",
+            "note": "Based on actual institutional responses",
+            "source": "AISHE 2023-24, Table 12 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG enrolment in Forensic Science",
+            "value": "~1,060 students",
+            "note": "All forensic specialisations, not document examination alone",
+            "source": "AISHE 2023-24, Table 13 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,29 @@
           "Private practice depends on reputation and referrals.",
           "Next steps: senior examiner, lab lead, or independent practice."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in Criminology & Forensic Science",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "UG enrolment",
+                "values": [2511, 2998, 3975]
+              }
+            ]
+          }
+        },
+        "note": "Covers all forensic and criminology UG students; few specialise in questioned documents. Based on actual responses from institutions that reported data; the true national figure is likely somewhat higher.",
+        "source": "AISHE 2021-22, 2022-23, 2023-24 (Ministry of Education), Table 12",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

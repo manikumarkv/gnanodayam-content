@@ -28,6 +28,22 @@
             "label": "APP practice requirement",
             "value": "Varies by state",
             "note": "From none to several years at the Bar"
+          },
+          {
+            "label": "Cognisable crimes registered",
+            "value": "~62 lakh",
+            "note": "~37.6 lakh IPC and ~24.8 lakh special and local law cases",
+            "source": "NCRB, Crime in India 2023 (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Conviction rate, IPC crimes",
+            "value": "~54%",
+            "note": "Share of cases decided in court that ended in conviction; charge-sheet rate ~73%",
+            "source": "NCRB, Crime in India 2023 (as reported)",
+            "date": "2023",
+            "verified": false
           }
         ]
       }

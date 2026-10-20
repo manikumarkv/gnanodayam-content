@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Warehouse management systems, barcode scanners, Excel, ERP"
+          },
+          {
+            "label": "Warehousing space leased, 8 major cities",
+            "value": "~56 million sq ft",
+            "note": "Up ~12% from ~50 million sq ft in 2023; industry estimate",
+            "source": "Knight Frank India (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "WDRA-registered warehouses",
+            "value": "~1,700",
+            "note": "Mostly agricultural storage, ~116 lakh tonnes capacity; e-commerce and retail warehouses are not counted",
+            "source": "Warehousing Development and Regulatory Authority, Annual Report 2024-25",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

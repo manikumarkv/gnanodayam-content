@@ -21,6 +21,21 @@
           {
             "label": "Work setting",
             "value": "On farms, often in rural areas, with on-call duty"
+          },
+          {
+            "label": "Milk production",
+            "value": "~248 million tonnes",
+            "note": "~239 million tonnes in 2023-24",
+            "source": "DAHD, Basic Animal Husbandry Statistics (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Egg production",
+            "value": "~143 billion",
+            "source": "DAHD, Basic Animal Husbandry Statistics 2024 (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +70,29 @@
           "Disease outbreaks can bring intense work periods.",
           "An MVSc in a specialty (for example, medicine or reproduction) supports advanced roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Milk production in India",
+        "unit": "million tonnes",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2022-23", "2023-24", "2024-25"],
+            "series": [
+              {
+                "label": "Milk",
+                "values": [230.6, 239.3, 247.9]
+              }
+            ]
+          }
+        },
+        "note": "Sample-survey estimates; shows the size of the dairy sector, not veterinary job numbers.",
+        "source": "DAHD, Basic Animal Husbandry Statistics (as reported)",
+        "date": "2022-23 to 2024-25",
+        "verified": false
       }
     },
     {

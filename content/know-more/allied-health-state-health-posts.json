@@ -28,6 +28,30 @@
             "label": "Typical posts",
             "value": "Lab technician, radiographer, OT technician, physiotherapist, optometrist",
             "note": "Post names and qualifications vary by state"
+          },
+          {
+            "label": "Lab technicians at PHCs and CHCs",
+            "value": "~22,000",
+            "note": "In position, March 2022",
+            "source": "Rural Health Statistics 2021-22, MoHFW (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Radiographers at PHCs and CHCs",
+            "value": "~2,450",
+            "note": "In position, March 2022; ~2,420 a year earlier",
+            "source": "Rural Health Statistics 2021-22, MoHFW (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Vacant posts at urban CHCs",
+            "value": "~32% radiographer, ~19% lab technician",
+            "note": "Share of sanctioned posts not filled",
+            "source": "Rural Health Statistics 2021-22, MoHFW (as reported)",
+            "date": "2022",
+            "verified": false
           }
         ]
       }

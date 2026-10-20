@@ -22,6 +22,22 @@
           {
             "label": "Shift pattern",
             "value": "Day, night or 24-hour live-in duties, depending on the patient"
+          },
+          {
+            "label": "People aged 60+",
+            "value": "~13.8 crore",
+            "note": "A projection; the 2021 Census was not held",
+            "source": "National Commission on Population projections, in MoSPI 'Elderly in India 2021' (as reported)",
+            "date": "2021",
+            "verified": false
+          },
+          {
+            "label": "Registered nursing personnel",
+            "value": "~42.9 lakh",
+            "note": "All cadres; about 34 lakh estimated active",
+            "source": "Indian Nursing Council, via Rajya Sabha reply (as reported)",
+            "date": "As of 31 March 2025",
+            "verified": false
           }
         ]
       }

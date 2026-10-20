@@ -26,6 +26,22 @@
           {
             "label": "Typical work",
             "value": "Bootloaders, device drivers, RTOS tasks, firmware updates"
+          },
+          {
+            "label": "Engineering R&D services revenue",
+            "value": "~$63 billion",
+            "note": "FY2026 estimate; ~$56 billion in FY2025; includes embedded and automotive engineering",
+            "source": "Nasscom (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Electronics production in India",
+            "value": "~₹11.3 lakh crore",
+            "note": "2024-25",
+            "source": "PIB (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

@@ -25,6 +25,22 @@
           {
             "label": "Rules you work with",
             "value": "International documentary-credit rules (UCP 600), FEMA and RBI directions"
+          },
+          {
+            "label": "India's merchandise exports",
+            "value": "~US$437 billion",
+            "note": "About flat on 2023-24",
+            "source": "Ministry of Commerce and Industry release, 15 Apr 2025 (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Total exports, goods and services",
+            "value": "~US$821 billion (estimate)",
+            "note": "RBI data later put it near US$825 billion (as reported)",
+            "source": "Ministry of Commerce and Industry release, 15 Apr 2025 (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

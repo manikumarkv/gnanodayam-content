@@ -27,6 +27,22 @@
             "label": "Where you work",
             "value": "Central-government health facilities",
             "note": "Mostly in cities with CGHS or ESIC coverage"
+          },
+          {
+            "label": "Registered Ayush practitioners",
+            "value": "~7.5 lakh",
+            "note": "Doctors across Ayurveda, Unani, Siddha, Sowa Rigpa and Homoeopathy",
+            "source": "Rajya Sabha unstarred question 1923 (Ministry of Ayush), compiled from State/UT boards and councils",
+            "date": "as on 01.01.2023",
+            "verified": false
+          },
+          {
+            "label": "UPSC Medical Officer / Research Officer (Ayurveda) posts",
+            "value": "37",
+            "note": "One recruitment cycle; vacancy numbers change with each notice",
+            "source": "UPSC recruitment (2020 cycle), Ministry of AYUSH — as reported in a UPSC addendum",
+            "date": "2020",
+            "verified": false
           }
         ]
       }
@@ -48,6 +64,29 @@
           "Some contractual posts are filled by walk-in interview rather than a written exam.",
           "Applying to both central and state notifications widens the options."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Registered Ayush practitioners",
+        "unit": "lakh",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2017", "2022", "2023"],
+            "series": [
+              {
+                "label": "Registered practitioners",
+                "values": [7.74, 7.3, 7.52]
+              }
+            ]
+          }
+        },
+        "note": "Years are not evenly spaced. Counts come from State/UT boards and councils and may include inactive registrations; rounded to two decimals.",
+        "source": "Lok Sabha reply 2018 (figure as on 01.01.2017) and Rajya Sabha reply, March 2025 (figures as on 01.01.2022 and 01.01.2023), Ministry of Ayush",
+        "date": "2017, 2022, 2023",
+        "verified": false
       }
     }
   ],

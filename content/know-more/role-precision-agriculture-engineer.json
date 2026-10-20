@@ -26,6 +26,14 @@
             "label": "Drone operation",
             "value": "Flying a drone commercially needs a DGCA remote pilot certificate",
             "note": "Under the Drone Rules, 2021"
+          },
+          {
+            "label": "Drones under the Namo Drone Didi scheme",
+            "value": "15,000",
+            "note": "For women's self-help groups to rent out to farmers, 2024-25 to 2025-26",
+            "source": "Union Cabinet approval (PIB, as reported)",
+            "date": "2023-11",
+            "verified": false
           }
         ]
       }

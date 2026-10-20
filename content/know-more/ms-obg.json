@@ -28,6 +28,14 @@
             "label": "Regulator",
             "value": "National Medical Commission",
             "note": "DNB OBG (NBEMS) is a parallel route"
+          },
+          {
+            "label": "MS OBG seats",
+            "value": "~4,690",
+            "note": "Out of ~63,000 PG medical seats in the same matrix; excludes pending seat-increase applications",
+            "source": "NMC PG seat matrix 2026-27 (as reported)",
+            "date": "2026-27",
+            "verified": false
           }
         ]
       }
@@ -49,6 +57,48 @@
           "Obstetric care carries a notable medico-legal load, so documentation and consent matter a lot.",
           "It leads to consultant and hospital posts, private practice, or further training in areas such as reproductive medicine and gynaecological oncology."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Where MS OBG seats are",
+        "unit": "seats",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Karnataka",
+                "value": 615
+              },
+              {
+                "label": "Maharashtra",
+                "value": 499
+              },
+              {
+                "label": "Tamil Nadu",
+                "value": 461
+              },
+              {
+                "label": "Uttar Pradesh",
+                "value": 394
+              },
+              {
+                "label": "Andhra Pradesh",
+                "value": 387
+              },
+              {
+                "label": "Other states & UTs",
+                "value": 2334
+              }
+            ]
+          }
+        },
+        "note": "Five states with the most seats shown separately; all other states and UTs grouped. Figures may change as NMC updates the matrix.",
+        "source": "NMC PG seat matrix 2026-27 (as reported by Medical Dialogues, Oct 2026)",
+        "date": "2026-27",
+        "verified": false
       }
     },
     {

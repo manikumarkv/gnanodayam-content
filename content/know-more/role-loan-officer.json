@@ -25,6 +25,21 @@
           {
             "label": "Key checks",
             "value": "KYC, income proof, credit score, property or collateral papers"
+          },
+          {
+            "label": "PM MUDRA loans sanctioned (cumulative)",
+            "value": "~52 crore loans · ~₹32.6 lakh crore",
+            "note": "Since the scheme began in 2015; banks, NBFCs and MFIs together",
+            "source": "PIB document, Ministry of Finance",
+            "date": "Apr 2025",
+            "verified": false
+          },
+          {
+            "label": "Share of MUDRA loan accounts held by women",
+            "value": "~60%",
+            "source": "PIB document, Ministry of Finance",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

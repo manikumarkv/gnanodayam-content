@@ -22,6 +22,14 @@
             "label": "Departments you rotate through",
             "value": "Front office, food & beverage, housekeeping and kitchen",
             "note": "Varies by hotel and programme"
+          },
+          {
+            "label": "BHM enrolment",
+            "value": "~43,000",
+            "note": "About 24% women",
+            "source": "AISHE 2023-24, Ministry of Education (programme-wise enrolment, all modes)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +63,33 @@
           "Willingness to relocate is often a condition.",
           "Hours are long and include weekends and holidays."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Hotel management degree enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "BHM",
+                "values": [54588, 51692, 42975]
+              },
+              {
+                "label": "BHMCT",
+                "values": [20813, 21204, 20774]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE; similar courses are recorded under several programme names, so totals here are partial.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (programme-wise enrolment, all modes)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

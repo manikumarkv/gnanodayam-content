@@ -28,6 +28,14 @@
             "label": "Fees",
             "value": "Wide range",
             "note": "Public universities charge far less than private ones; check each official fee notice"
+          },
+          {
+            "label": "Students in programmes recorded as 'Master of Public Policy (MPP)'",
+            "value": "~160",
+            "note": "Many policy master's are recorded under M.A. and are not counted here, so the real number of policy students is higher",
+            "source": "AISHE 2023-24, Ministry of Education (Table 11, all modes)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

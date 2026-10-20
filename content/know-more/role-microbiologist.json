@@ -25,6 +25,22 @@
           {
             "label": "Work setting",
             "value": "Quality-control labs in plants and testing labs"
+          },
+          {
+            "label": "Postgraduate enrolment in Microbiology",
+            "value": "~23,500 students",
+            "note": "Science discipline; ~22,600 in 2022-23; based on actual institutional responses",
+            "source": "AISHE 2023-24, Table 13 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "M.Sc. Medical Microbiology enrolment",
+            "value": "~1,300 students",
+            "note": "The medical track; based on actual institutional responses",
+            "source": "AISHE 2023-24, Table 11 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

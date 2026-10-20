@@ -25,6 +25,22 @@
           {
             "label": "Common starting titles",
             "value": "Nutrition coach, wellness coach, health counsellor"
+          },
+          {
+            "label": "UG students in home science",
+            "value": "~87,000",
+            "note": "All modes; about 93% are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in nutrition",
+            "value": "~4,700",
+            "note": "Plus ~500 in food science & nutrition",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

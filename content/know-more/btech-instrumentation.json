@@ -26,6 +26,22 @@
           {
             "label": "GATE paper",
             "value": "IN — Instrumentation Engineering"
+          },
+          {
+            "label": "GATE IN paper (2024)",
+            "value": "~9,900 appeared; ~1,980 qualified",
+            "note": "12,451 registered",
+            "source": "GATE 2024 Statistical and Performance Report (IISc Bengaluru)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "GATE IN paper (2025)",
+            "value": "~11,900 appeared",
+            "note": "~14,700 registered; the candidates include graduates of related branches",
+            "source": "GATE 2025 paper-wise data (IIT Roorkee), as reported",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

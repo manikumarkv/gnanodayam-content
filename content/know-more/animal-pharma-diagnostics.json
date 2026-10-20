@@ -28,6 +28,22 @@
             "label": "Main segments",
             "value": "Poultry, dairy, companion animals, aquaculture",
             "note": "Each segment has its own product lines"
+          },
+          {
+            "label": "Registered veterinary practitioners",
+            "value": "~83,000",
+            "note": "All registered vets in India, not only those in industry roles",
+            "source": "Indian Veterinary Practitioners Register 2023 (VCI), via Ministry of Fisheries, Animal Husbandry & Dairying reply in Parliament",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Livestock population",
+            "value": "~536 million",
+            "note": "Plus ~852 million poultry; the customer base for animal health products",
+            "source": "20th Livestock Census, DAHD",
+            "date": "2019",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,29 @@
           "Many roles carry sales targets even when the job title is technical.",
           "Experience here can lead to product management, regulatory affairs or diagnostics lab roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Registered veterinary practitioners",
+        "unit": "practitioners",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["Mar 2020", "Mar 2021", "Mar 2023"],
+            "series": [
+              {
+                "label": "Registered vets",
+                "values": [73129, 76097, 81938]
+              }
+            ]
+          }
+        },
+        "note": "Counts as on 31 March of each year; 2022 not shown. Covers all registered vets, not only those in pharma or diagnostics.",
+        "source": "Indian Veterinary Practitioners Register (VCI), via DAHD replies in Parliament",
+        "date": "2020–2023",
+        "verified": false
       }
     },
     {

@@ -26,6 +26,22 @@
           {
             "label": "Standards followed",
             "value": "IPC workmanship standards and ESD-safe handling"
+          },
+          {
+            "label": "Electronics production in India",
+            "value": "~₹9.5 lakh crore",
+            "note": "2023-24",
+            "source": "MeitY, Lok Sabha reply (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Jobs in electronics manufacturing",
+            "value": "~25 lakh",
+            "note": "Direct and indirect",
+            "source": "Industry estimates cited by MeitY (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }
@@ -60,6 +76,36 @@
           "Work is shift-based and on the factory floor.",
           "Experience with test programs can lead into test engineering roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Domestic electronics production",
+        "unit": "₹ lakh crore",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24",
+              "2024-25"
+            ],
+            "series": [
+              {
+                "label": "Production",
+                "values": [5.33, 5.34, 6.4, 8.25, 9.52, 11.3]
+              }
+            ]
+          }
+        },
+        "note": "Value of goods produced, not employment; mobile phones make up a large share. Figures rounded.",
+        "source": "MeitY figures in Parliament replies and PIB (as reported)",
+        "date": "2019-20 to 2024-25",
+        "verified": false
       }
     },
     {

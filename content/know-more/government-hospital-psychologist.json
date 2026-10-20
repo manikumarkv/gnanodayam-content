@@ -27,6 +27,22 @@
           {
             "label": "Registration",
             "value": "Rehabilitation Council of India (RCI)"
+          },
+          {
+            "label": "RCI-registered clinical psychologists",
+            "value": "~1,200",
+            "note": "A 2026 Indian Journal of Clinical Psychology analysis of the register reported ~3,900 (as reported); counts differ by method",
+            "source": "Rajya Sabha reply, via data.gov.in (as reported)",
+            "date": "As on Jul 2023",
+            "verified": false
+          },
+          {
+            "label": "Clinical psychologists in the country",
+            "value": "~900",
+            "note": "Older official headcount, given alongside ~3,800 psychiatrists",
+            "source": "Lok Sabha reply, MoHFW (as reported)",
+            "date": "2015",
+            "verified": false
           }
         ]
       }

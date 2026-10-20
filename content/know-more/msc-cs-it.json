@@ -28,6 +28,22 @@
             "label": "Related degree",
             "value": "MCA — 2 years",
             "note": "AICTE-regulated; more application-oriented"
+          },
+          {
+            "label": "PG students in Computer Science",
+            "value": "~43,600",
+            "note": "All years; listed under IT & Computer. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Information Technology",
+            "value": "~14,600",
+            "note": "All years; listed under IT & Computer. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -50,6 +66,33 @@
           "For industry jobs, projects, internships and coding skill weigh heavily alongside the degree.",
           "Fees differ widely between government universities and private colleges."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in Computer Science and IT",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Computer Science",
+                "values": [45367, 44198, 43574]
+              },
+              {
+                "label": "Information Technology",
+                "values": [12641, 15821, 14643]
+              }
+            ]
+          }
+        },
+        "note": "Subject-level PG enrolment (mostly M.Sc), all years of the course; MCA is reported separately. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 13, PG enrolment by subject)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

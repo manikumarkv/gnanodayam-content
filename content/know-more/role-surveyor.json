@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Total station, auto level, GPS / DGPS, AutoCAD, drone survey software"
+          },
+          {
+            "label": "Villages drone-surveyed under SVAMITVA",
+            "value": "~3.26 lakh",
+            "note": "Out of ~3.44 lakh villages targeted",
+            "source": "Ministry of Panchayati Raj, reply in Lok Sabha (as reported)",
+            "date": "Aug 2025",
+            "verified": false
+          },
+          {
+            "label": "Rural property cards prepared",
+            "value": "~2.6 crore",
+            "note": "In ~1.73 lakh villages; later reports put it above 3 crore",
+            "source": "Ministry of Panchayati Raj, reply in Lok Sabha (as reported)",
+            "date": "Aug 2025",
+            "verified": false
           }
         ]
       }

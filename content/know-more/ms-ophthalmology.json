@@ -27,6 +27,22 @@
           {
             "label": "Regulator",
             "value": "National Medical Commission (NMC)"
+          },
+          {
+            "label": "MS Ophthalmology seats",
+            "value": "~2,500",
+            "note": "2,479 seats listed; excludes pending applications for new or increased intake",
+            "source": "NMC PG seat matrix 2026-27 (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "PG students in ophthalmology",
+            "value": "~5,400",
+            "note": "All postgraduate ophthalmology programmes, not only MS; about 69% are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,29 @@
           "Further sub-specialisation (retina, cornea, glaucoma and others) is usually through fellowships.",
           "Setting up an independent eye practice needs costly equipment; many begin in eye hospitals."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG enrolment in ophthalmology by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [3982, 4778, 5427]
+              }
+            ]
+          }
+        },
+        "note": "Covers all postgraduate ophthalmology programmes, not only MS. Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
+        "source": "AISHE 2021-22 to 2023-24, postgraduate level (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

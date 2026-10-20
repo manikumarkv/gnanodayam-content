@@ -25,6 +25,22 @@
           {
             "label": "Related titles",
             "value": "Research assistant, project assistant, junior research fellow (JRF)"
+          },
+          {
+            "label": "India's R&D spending (GERD)",
+            "value": "~₹1.27 lakh crore",
+            "note": "About 0.64% of GDP that year",
+            "source": "DST, R&D Statistics at a Glance 2022-23",
+            "date": "2020-21",
+            "verified": false
+          },
+          {
+            "label": "Share of GERD from central government",
+            "value": "~44%",
+            "note": "Private industry ~36%; much research hiring runs on public grants",
+            "source": "DST R&D Statistics 2022-23 (as reported)",
+            "date": "2020-21",
+            "verified": false
           }
         ]
       }

@@ -21,6 +21,21 @@
           {
             "label": "Rules followed",
             "value": "Good manufacturing practice (Schedule M) and written SOPs"
+          },
+          {
+            "label": "Pharma industry turnover",
+            "value": "~₹4.7 lakh crore",
+            "note": "Includes exports of ~₹2.46 lakh crore",
+            "source": "Department of Pharmaceuticals Annual Report 2025-26",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Students in D.Pharm. programmes",
+            "value": "~2.6 lakh",
+            "source": "AISHE 2023-24 (programme-wise enrolment, actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +70,35 @@
           "Shift work, including nights, is common in plants.",
           "A B.Pharm through lateral entry can open officer-level roles later."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Pharmaceutical industry turnover",
+        "unit": "₹ lakh crore",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24",
+              "2024-25"
+            ],
+            "series": [
+              {
+                "label": "Turnover",
+                "values": [3.28, 3.44, 3.79, 4.17, 4.72]
+              }
+            ]
+          }
+        },
+        "note": "Nominal values, not adjusted for inflation. Industry size, not employment.",
+        "source": "Department of Pharmaceuticals Annual Report 2025-26 (Pharmarack, NPPA, DGCIS)",
+        "date": "2020–2025",
+        "verified": false
       }
     },
     {

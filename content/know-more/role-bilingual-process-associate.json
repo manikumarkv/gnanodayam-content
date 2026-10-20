@@ -22,6 +22,22 @@
           {
             "label": "Common tools",
             "value": "CRM and ticketing systems, email, chat tools"
+          },
+          {
+            "label": "Tech and BPM industry employment",
+            "value": "~58 lakh",
+            "note": "Covers IT services, BPM, global capability centres and more; language processes are a small part",
+            "source": "NASSCOM Strategic Review (as reported)",
+            "date": "FY2025",
+            "verified": false
+          },
+          {
+            "label": "BPM revenue",
+            "value": "~US$55 billion",
+            "note": "Projected figure, not a final reported value",
+            "source": "NASSCOM estimate (as reported)",
+            "date": "FY2025",
+            "verified": false
           }
         ]
       }

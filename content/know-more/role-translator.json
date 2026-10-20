@@ -22,6 +22,22 @@
           {
             "label": "Common tools",
             "value": "CAT tools, translation memory, word processors"
+          },
+          {
+            "label": "PG students in Indian languages",
+            "value": "~4.5 lakh",
+            "note": "All years, all Indian languages. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in foreign languages other than English",
+            "value": "~8,700",
+            "note": "French, German, Spanish and others; all years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +71,29 @@
           "Machine translation now handles first drafts in many fields; human post-editing is a growing share of work.",
           "Specialising (legal, medical, technical, subtitles) widens the work available."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in Indian languages",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG Indian language enrolment",
+                "values": [415737, 460240, 449953]
+              }
+            ]
+          }
+        },
+        "note": "All years, all Indian languages combined; most graduates do not become translators. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 13, PG enrolment by subject)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

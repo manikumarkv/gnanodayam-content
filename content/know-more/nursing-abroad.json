@@ -33,6 +33,22 @@
             "label": "English test",
             "value": "IELTS or OET",
             "note": "Required score set by each regulator"
+          },
+          {
+            "label": "India-educated nurses & midwives on the UK register",
+            "value": "~62,400",
+            "note": "The largest group educated outside the UK",
+            "source": "Nursing and Midwifery Council (UK), annual data report",
+            "date": "Mar 2024",
+            "verified": false
+          },
+          {
+            "label": "B.Sc Nursing enrolment in India",
+            "value": "~5.45 lakh",
+            "note": "Up from ~2.89 lakh in 2019-20",
+            "source": "AISHE 2023-24, Ministry of Education (Box 14, regular mode)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +71,29 @@
           "Gulf jobs rarely lead to permanent residence; the UK, Australia, Canada and the US can, under their own immigration rules.",
           "Experience in ICU, theatre or emergency care is often asked for."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "India-educated nurses newly joining the UK register",
+        "unit": "new registrants",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2023-24", "2024-25", "2025-26"],
+            "series": [
+              {
+                "label": "India-educated joiners",
+                "values": [14615, 9249, 4215]
+              }
+            ]
+          }
+        },
+        "note": "UK only; years run April to March. Later years come from a news report of NMC data. Other countries have their own trends and rules.",
+        "source": "NMC (UK) annual data report March 2024; 2024-25 and 2025-26 as reported by Eastern Eye (Jul 2026)",
+        "date": "2023-24 to 2025-26",
+        "verified": false
       }
     },
     {

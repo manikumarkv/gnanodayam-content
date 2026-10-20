@@ -26,6 +26,14 @@
           {
             "label": "Common systems",
             "value": "ISO 14001 (environment) and ISO 45001 (safety)"
+          },
+          {
+            "label": "Factories covered by the Annual Survey of Industries",
+            "value": "~2.5 lakh",
+            "note": "Registered factories; a sense of how many sites factory and pollution rules apply to",
+            "source": "Annual Survey of Industries 2022-23, MoSPI (as reported)",
+            "date": "2022-23",
+            "verified": false
           }
         ]
       }

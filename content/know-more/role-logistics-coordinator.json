@@ -26,6 +26,13 @@
           {
             "label": "Key documents",
             "value": "E-way bill, invoice, lorry receipt; shipping bill and bill of lading for exports"
+          },
+          {
+            "label": "Logistics cost in India",
+            "value": "~₹24 lakh crore (~8% of GDP)",
+            "source": "NCAER study for DPIIT, Assessment of Logistics Cost in India (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -60,6 +67,29 @@
           "Growth path: coordinator → supervisor → logistics or supply-chain manager.",
           "Export-import logistics is a specialised branch with its own documentation."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Logistics cost as a share of GDP",
+        "unit": "% of GDP",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Logistics cost",
+                "values": [8.79, 8.84, 7.97]
+              }
+            ]
+          }
+        },
+        "note": "A measure of the sector's size, not of jobs; older studies used other methods and gave higher figures.",
+        "source": "NCAER study for DPIIT, Assessment of Logistics Cost in India (as reported)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

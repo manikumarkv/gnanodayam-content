@@ -31,6 +31,22 @@
             "label": "Equivalent route",
             "value": "DNB Anaesthesiology",
             "note": "Through NBEMS-accredited hospitals"
+          },
+          {
+            "label": "MD Anaesthesiology seats",
+            "value": "~5,670",
+            "note": "Second-largest PG speciality by seats, after MD General Medicine",
+            "source": "NMC PG seat matrix 2026-27 (as reported by Medical Dialogues)",
+            "date": "2026-27",
+            "verified": false
+          },
+          {
+            "label": "All PG medical seats (MD/MS/Diploma/DM/MCh)",
+            "value": "~63,200",
+            "note": "Excludes seats from pending applications",
+            "source": "NMC PG seat matrix 2026-27 (as reported by Medical Dialogues)",
+            "date": "2026-27",
+            "verified": false
           }
         ]
       }

@@ -21,6 +21,21 @@
           {
             "label": "Common tools",
             "value": "Excel, SPSS, survey platforms, PowerPoint"
+          },
+          {
+            "label": "Research & insights industry size",
+            "value": "~₹29,000 crore",
+            "note": "Up ~11% from ~₹26,300 crore in FY 2023-24; analytics is ~60% of it",
+            "source": "Market Research Society of India (MRSI) (as reported)",
+            "date": "FY 2024-25",
+            "verified": false
+          },
+          {
+            "label": "Full-time professionals",
+            "value": "~1.45 lakh",
+            "source": "Market Research Society of India (MRSI) (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

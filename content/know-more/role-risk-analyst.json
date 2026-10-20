@@ -25,6 +25,21 @@
           {
             "label": "Common tools",
             "value": "Python, R, SAS, SQL, Excel"
+          },
+          {
+            "label": "NBFCs registered with RBI",
+            "value": "~9,300",
+            "note": "Down from ~9,400 in March 2023 as registrations were cancelled",
+            "source": "RBI data cited in a law-firm sector paper (as reported)",
+            "date": "As on 30 June 2024",
+            "verified": false
+          },
+          {
+            "label": "NBFC sector balance sheet",
+            "value": "~₹61 lakh crore",
+            "source": "RBI Report on Trend and Progress of Banking in India 2024-25 (as reported)",
+            "date": "March 2025",
+            "verified": false
           }
         ]
       }

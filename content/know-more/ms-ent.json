@@ -31,6 +31,14 @@
             "label": "Equivalent route",
             "value": "DNB ENT",
             "note": "Through NBEMS-accredited hospitals"
+          },
+          {
+            "label": "MS ENT seats",
+            "value": "~2,070",
+            "note": "Karnataka has the most (~310); a further ~11 DLO diploma seats",
+            "source": "NMC PG seat matrix 2026-27 (as reported by Medical Dialogues)",
+            "date": "2026-27",
+            "verified": false
           }
         ]
       }

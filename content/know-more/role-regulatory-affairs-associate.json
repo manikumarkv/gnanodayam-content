@@ -26,6 +26,14 @@
           {
             "label": "Common formats and tools",
             "value": "CTD / eCTD dossiers, the SUGAM portal, Word and Excel"
+          },
+          {
+            "label": "Pharmaceutical exports",
+            "value": "~USD 30 billion",
+            "note": "Each export market needs its own regulatory filings",
+            "source": "Pharmexcil / Ministry of Commerce (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

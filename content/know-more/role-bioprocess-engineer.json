@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Plant shifts and clean-room gowning are common"
+          },
+          {
+            "label": "India's bioeconomy",
+            "value": "~US$195 billion",
+            "note": "Up from ~US$166 billion in 2024",
+            "source": "India BioEconomy Report 2026, DBT-BIRAC (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "BioIndustrial segment",
+            "value": "~US$90 billion",
+            "note": "The largest of the report's four segments (BioIndustrial, BioPharma, BioServices, BioAgri)",
+            "source": "India BioEconomy Report 2026, DBT-BIRAC (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

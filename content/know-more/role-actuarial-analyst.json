@@ -26,6 +26,30 @@
           {
             "label": "Common tools",
             "value": "Excel, R or Python, SQL"
+          },
+          {
+            "label": "Fellows of IAI",
+            "value": "758",
+            "note": "As on 31 March 2025",
+            "source": "IAI Annual Report & Accounts 2024-25",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Student members of IAI",
+            "value": "~8,700",
+            "note": "As on 31 March 2025",
+            "source": "IAI Annual Report & Accounts 2024-25",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "ACET candidates (2024-25)",
+            "value": "~4,300 appeared, ~2,560 passed",
+            "note": "Four sessions; ~59% pass rate",
+            "source": "IAI Annual Report & Accounts 2024-25",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -60,6 +84,29 @@
           "Typical next steps: actuarial associate, then fellow in pricing, reserving or pensions.",
           "Exam pass rates are low, so progress is often slower than planned."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Fellows of the Institute of Actuaries of India",
+        "unit": "fellows",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021", "2022", "2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "Fellows",
+                "values": [473, 515, 569, 654, 758]
+              }
+            ]
+          }
+        },
+        "note": "As on 31 March each year. Fellows are fully qualified actuaries; most members are students still writing exams.",
+        "source": "IAI Annual Report & Accounts 2024-25",
+        "date": "2021–2025",
+        "verified": false
       }
     },
     {

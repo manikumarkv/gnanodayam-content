@@ -25,6 +25,14 @@
           {
             "label": "Work pattern",
             "value": "Shift-based network operations centre (NOC) roles are common at entry"
+          },
+          {
+            "label": "Tech industry workforce",
+            "value": "~59.5 lakh",
+            "note": "~58 lakh at end of FY2025; all IT and BPM roles, not only networking",
+            "source": "NASSCOM Strategic Review 2026 (as reported)",
+            "date": "FY2026 (est.)",
+            "verified": false
           }
         ]
       }

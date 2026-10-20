@@ -22,6 +22,30 @@
             "label": "Typical requirement",
             "value": "Coaching diploma or physical education degree, plus a playing record in the sport",
             "note": "Exact rules differ by recruiter and post"
+          },
+          {
+            "label": "SAI Assistant Coach vacancies (2026 notice)",
+            "value": "323",
+            "note": "Across 26 sports disciplines; provisional count",
+            "source": "SAI Assistant Coach notification dated 15.01.2026 (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Pay level, SAI Assistant Coach",
+            "value": "Level 6 (7th CPC)",
+            "note": "Pay Matrix Level 6, ₹35,400–1,12,400",
+            "source": "SAI Assistant Coach notification dated 15.01.2026",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Vacant posts across SAI",
+            "value": "~1,190",
+            "note": "All SAI posts, not only coaches",
+            "source": "Lok Sabha reply, Ministry of Youth Affairs & Sports (as reported)",
+            "date": "Dec 2025",
+            "verified": false
           }
         ]
       }

@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Non-linear editing software, audio tools, basic motion graphics"
+          },
+          {
+            "label": "Media & entertainment sector size",
+            "value": "~₹2.78 lakh crore",
+            "note": "All segments; digital media crossed ~₹1 lakh crore",
+            "source": "FICCI-EY Media & Entertainment Report 2026 (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -54,6 +62,29 @@
           "Short-form social video has added many entry-level openings.",
           "Next steps: senior editor, post-production supervisor, or video producer."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "India's media & entertainment sector",
+        "unit": "₹ lakh crore",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "Sector revenue",
+                "values": [2.3, 2.5, 2.78]
+              }
+            ]
+          }
+        },
+        "note": "Industry estimates from successive reports; revenue, not jobs.",
+        "source": "FICCI-EY Media & Entertainment Reports 2024, 2025 and 2026 (as reported)",
+        "date": "2023–2025",
+        "verified": false
       }
     },
     {

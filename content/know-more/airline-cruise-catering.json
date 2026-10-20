@@ -23,6 +23,14 @@
             "label": "Cruise prerequisites",
             "value": "STCW basic safety training + seafarer document",
             "note": "Indian crew usually need a CDC from DG Shipping"
+          },
+          {
+            "label": "Indian seafarers",
+            "value": "~3.2 lakh",
+            "note": "All ship types, up from ~1.17 lakh in 2013-14; cruise crew are only a part of this",
+            "source": "New India Samachar (PIB), citing shipping-sector data (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

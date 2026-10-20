@@ -23,6 +23,22 @@
             "label": "Who recruits",
             "value": "State PSCs or the animal husbandry department",
             "note": "Some states also hire on contract"
+          },
+          {
+            "label": "Veterinary hospitals and polyclinics",
+            "value": "~13,200",
+            "note": "Plus ~30,200 dispensaries and ~24,500 aid centres, mostly run by state governments",
+            "source": "Department of Animal Husbandry & Dairying, Rajya Sabha reply (as reported)",
+            "date": "31 Mar 2024",
+            "verified": false
+          },
+          {
+            "label": "BVSc & AH enrolment",
+            "value": "~22,400 students",
+            "note": "All years of the course; based on actual institutional responses",
+            "source": "AISHE 2023-24, Table 11 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -44,6 +60,29 @@
           "Postings are often in rural blocks, with field visits as a routine part of the job.",
           "Promotion leads to senior and district-level animal husbandry posts; an MVSc can help for specialist and teaching roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BVSc & AH enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "BVSc & AH enrolment",
+                "values": [20690, 20749, 22394]
+              }
+            ]
+          }
+        },
+        "note": "Counts students across all years of the degree, not annual intake. A separate 'B.V.Sc.' row (~4,300–5,400) is not included. Based on actual responses from institutions that reported data; the true national figure is likely somewhat higher.",
+        "source": "AISHE 2021-22, 2022-23, 2023-24 (Ministry of Education), Table 11",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

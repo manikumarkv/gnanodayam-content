@@ -23,6 +23,21 @@
             "label": "Experience",
             "value": "Set number of total and pilot-in-command hours",
             "note": "Exact hours and type rating are stated in each notice"
+          },
+          {
+            "label": "Commercial pilot licences issued",
+            "value": "~1,650",
+            "note": "All CPLs issued in India that year, not only for government flying",
+            "source": "DGCA data, Ministry of Civil Aviation reply in Rajya Sabha (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "DGCA-approved flying training organisations",
+            "value": "41 (across 63 bases)",
+            "source": "Ministry of Civil Aviation reply in Rajya Sabha (as reported)",
+            "date": "Jul 2026",
+            "verified": false
           }
         ]
       }
@@ -45,6 +60,29 @@
           "Many posts are contractual and are often filled by former defence or airline pilots.",
           "Flying follows official schedules, with short-notice duty."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Commercial pilot licences issued by DGCA",
+        "unit": "licences",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2022", "2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "CPLs issued",
+                "values": [1165, 1622, 1347, 1652]
+              }
+            ]
+          }
+        },
+        "note": "Calendar-year totals for all CPLs in India. State government flying is a small share of pilot jobs.",
+        "source": "DGCA data, Ministry of Civil Aviation replies in Parliament (as reported)",
+        "date": "2022–2025",
+        "verified": false
       }
     },
     {

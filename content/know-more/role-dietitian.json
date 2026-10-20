@@ -26,6 +26,14 @@
           {
             "label": "Common workplaces",
             "value": "Hospitals, clinics, food service, wellness firms"
+          },
+          {
+            "label": "Postgraduate students in nutrition",
+            "value": "~4,700",
+            "note": "PG enrolment under 'Nutrition'; food science courses are listed separately",
+            "source": "AISHE (Ministry of Education) 2023-24, Table 13 (based on actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -60,6 +68,29 @@
           "Next roles: senior or chief dietitian, clinical nutrition lead, diabetes educator, or private practice.",
           "Government dietitian posts (railways, central and state hospitals) are few and notified irregularly."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate enrolment in nutrition",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG students",
+                "values": [3663, 4363, 4727]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE. The large majority are women. Shows the graduate pool, not dietitian posts.",
+        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 13 — Nutrition, PG level",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

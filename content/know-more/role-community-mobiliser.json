@@ -25,6 +25,22 @@
           {
             "label": "Language",
             "value": "Fluency in the local language"
+          },
+          {
+            "label": "Women in DAY-NRLM self-help groups",
+            "value": "~10 crore",
+            "note": "In about 91 lakh SHGs as of 31 January 2025; much of the mission's field work is done by trained community resource persons",
+            "source": "Ministry of Rural Development, Lok Sabha reply, as reported",
+            "date": "2025-01",
+            "verified": false
+          },
+          {
+            "label": "BSW students enrolled",
+            "value": "~47,700",
+            "note": "Across all years of the degree",
+            "source": "AISHE 2023-24",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,29 @@
           "Many posts are tied to project funding and run for fixed terms.",
           "Field travel, sometimes to remote areas, is a regular part of the job."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in BSW",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "BSW enrolment",
+                "values": [30784, 40944, 47685]
+              }
+            ]
+          }
+        },
+        "note": "Total across all years of the course, not annual intake. Mobilisers also come from BA and MSW backgrounds.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (programme-wise enrolment)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

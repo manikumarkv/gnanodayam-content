@@ -21,6 +21,22 @@
           {
             "label": "Where",
             "value": "Wellness resorts, Ayurveda retreats, spa chains, integrative wellness clinics"
+          },
+          {
+            "label": "Registered Ayurveda practitioners",
+            "value": "~3.6 lakh",
+            "note": "Registered with State Boards / Councils; not all practise or work in wellness",
+            "source": "Ministry of Ayush data, Rajya Sabha Unstarred Q. 1923, 18 Mar 2025 (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "UG students in Ayurveda",
+            "value": "~1.15 lakh",
+            "note": "All modes; about 57% are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,29 @@
           "Next roles: senior consultant, medical head of a wellness centre, or own practice.",
           "The role is part clinical, part hospitality; guest experience matters."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in Ayurveda by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [95477, 127190, 114997]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

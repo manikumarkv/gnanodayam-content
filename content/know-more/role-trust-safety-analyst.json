@@ -25,6 +25,22 @@
           {
             "label": "Languages",
             "value": "Regional-language skills are often needed for Indian content"
+          },
+          {
+            "label": "Internet subscribers in India",
+            "value": "~969 million",
+            "note": "Up from ~954 million in March 2024; counts connections, not unique users",
+            "source": "TRAI, Indian Telecom Services Performance Indicators (as reported)",
+            "date": "Mar 2025",
+            "verified": false
+          },
+          {
+            "label": "Wireless share of internet subscribers",
+            "value": "~96%",
+            "note": "~928 million of ~969 million",
+            "source": "TRAI, Indian Telecom Services Performance Indicators (as reported)",
+            "date": "Mar 2025",
+            "verified": false
           }
         ]
       }

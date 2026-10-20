@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Excel, audience measurement data, digital ad platforms"
+          },
+          {
+            "label": "Advertising industry size",
+            "value": "~₹1.5 lakh crore",
+            "note": "Calendar year 2025",
+            "source": "FICCI-EY Media & Entertainment report (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Digital advertising",
+            "value": "~₹94,700 crore",
+            "note": "About 63% of ad revenue in 2025",
+            "source": "FICCI-EY Media & Entertainment report (as reported)",
+            "date": "2026",
+            "verified": false
           }
         ]
       }

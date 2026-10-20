@@ -28,6 +28,14 @@
             "label": "Central alternative",
             "value": "UPSC Combined Medical Services (CMS) exam",
             "note": "For central government health services and railways"
+          },
+          {
+            "label": "Specialist doctors in position at CHCs",
+            "value": "~4,400 of ~22,000 required",
+            "note": "A shortfall of ~80% for specialists at rural Community Health Centres; general MO posts are counted separately",
+            "source": "Health Dynamics of India 2022-23, MoHFW (as reported)",
+            "date": "Mar 2023",
+            "verified": false
           }
         ]
       }

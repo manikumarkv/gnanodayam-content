@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Payroll software, Excel, Income Tax, EPFO and ESIC portals"
+          },
+          {
+            "label": "Net additions to EPFO payroll",
+            "value": "~14.5–19.5 lakh a month",
+            "note": "For example 17.89 lakh in January 2025; monthly figures are provisional and revised later",
+            "source": "EPFO provisional payroll data (monthly press releases)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "New EPFO subscribers",
+            "value": "~7.5–8.7 lakh a month",
+            "note": "First-time members, November 2024 to March 2025 releases",
+            "source": "EPFO provisional payroll data (monthly press releases)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

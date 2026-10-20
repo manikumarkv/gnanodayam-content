@@ -23,6 +23,21 @@
             "label": "Planner posts",
             "value": "B.Plan or M.Plan often required",
             "note": "Assistant Town Planner and similar posts"
+          },
+          {
+            "label": "Sanctioned town planner posts in state TCP departments",
+            "value": "~3,945",
+            "note": "Vacancies as high as ~42%",
+            "source": "NITI Aayog, Reforms in Urban Planning Capacity in India (as summarised by PRS)",
+            "date": "Sep 2021",
+            "verified": false
+          },
+          {
+            "label": "Urban settlements without a master plan",
+            "value": "~65% of 7,933",
+            "source": "NITI Aayog, Reforms in Urban Planning Capacity in India (as summarised by PRS)",
+            "date": "Sep 2021",
+            "verified": false
           }
         ]
       }
@@ -45,6 +60,33 @@
           "Some authorities hire on contract for specific projects, such as master-plan or urban-mission work.",
           "Planning work involves government procedure, public consultation and regulation as much as design."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Planning degree enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Plan",
+                "values": [1347, 1377, 1282]
+              },
+              {
+                "label": "M.Plan",
+                "values": [2182, 2198, 2011]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE; small programmes, so year-to-year changes can reflect reporting.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (programme-wise enrolment, all modes)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

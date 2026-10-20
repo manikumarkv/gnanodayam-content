@@ -23,6 +23,30 @@
             "label": "Regulation",
             "value": "NCAHP Act, 2021",
             "note": "National Commission for Allied and Healthcare Professions"
+          },
+          {
+            "label": "Professions under the NCAHP Act",
+            "value": "56 professions in 10 categories",
+            "note": "The schedule can be amended to add professions",
+            "source": "NCAHP Act, 2021 (Schedule), as reported",
+            "date": "2021",
+            "verified": false
+          },
+          {
+            "label": "PG students in Medical Lab Technology",
+            "value": "~2,500",
+            "note": "All years of the course; many allied health M.Sc programmes are reported under general M.Sc, so this is a partial picture. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students in M.Optom (Master of Optometry)",
+            "value": "~1,180",
+            "note": "All years, all modes; one specialisation only",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -45,6 +69,29 @@
           "Specialisations are narrow, so the choice ties you to a particular lab, imaging or clinical area.",
           "A PhD can follow for research or senior academic roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in M.Optom",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "M.Optom enrolment",
+                "values": [833, 898, 1178]
+              }
+            ]
+          }
+        },
+        "note": "Optometry is one allied health specialisation; other M.Sc fields are not reported separately. All years of the course, all modes. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 11, programme-wise enrolment)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

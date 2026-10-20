@@ -26,6 +26,22 @@
           {
             "label": "Law enforced",
             "value": "Food Safety and Standards Act, 2006"
+          },
+          {
+            "label": "CFSO pay level (FSSAI)",
+            "value": "Level 7 (7th CPC)",
+            "note": "Central Food Safety Officer; state FSO pay is set by each state",
+            "source": "FSSAI direct recruitment notice DR-04/2021",
+            "date": "2021",
+            "verified": false
+          },
+          {
+            "label": "CFSO vacancies in that FSSAI drive",
+            "value": "~35–37",
+            "note": "37 notified; revised to 35 in Oct 2022, subject to a court matter",
+            "source": "FSSAI notice DR-04/2021 and revised vacancy notice",
+            "date": "2021–22",
+            "verified": false
           }
         ]
       }

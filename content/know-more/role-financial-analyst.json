@@ -27,6 +27,22 @@
             "label": "Optional credentials",
             "value": "CFA, CA, CMA or FRM",
             "note": "Not required to start"
+          },
+          {
+            "label": "Global capability centres (GCCs) in India",
+            "value": "~2,100",
+            "note": "Up from ~1,700 in FY2024",
+            "source": "NASSCOM–Zinnov, as reported",
+            "date": "FY2026",
+            "verified": false
+          },
+          {
+            "label": "People working in GCCs",
+            "value": "~23–24 lakh",
+            "note": "~19 lakh in FY2024; all functions, of which finance is one",
+            "source": "NASSCOM–Zinnov, as reported",
+            "date": "FY2026",
+            "verified": false
           }
         ]
       }

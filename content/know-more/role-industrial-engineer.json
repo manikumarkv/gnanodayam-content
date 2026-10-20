@@ -21,6 +21,21 @@
           {
             "label": "Common tools",
             "value": "Excel, time-study methods, lean tools (5S, value-stream mapping), simulation"
+          },
+          {
+            "label": "People employed in factories",
+            "value": "~1.95 crore",
+            "note": "Organised manufacturing; up ~5.9% on 2022-23",
+            "source": "Annual Survey of Industries 2023-24, MoSPI (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Factories covered",
+            "value": "~2.5 lakh",
+            "source": "Annual Survey of Industries 2022-23, MoSPI (as reported)",
+            "date": "2022-23",
+            "verified": false
           }
         ]
       }
@@ -55,6 +70,29 @@
           "It often leads to operations or supply-chain roles.",
           "Next roles: senior industrial engineer, operations manager, continuous-improvement lead."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Employment in factories (ASI)",
+        "unit": "crore people",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Employment",
+                "values": [1.72, 1.84, 1.95]
+              }
+            ]
+          }
+        },
+        "note": "Covers registered factories only; informal manufacturing is not included. Not a count of industrial engineers.",
+        "source": "Annual Survey of Industries, MoSPI (as reported)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

@@ -25,6 +25,14 @@
           {
             "label": "Work pattern",
             "value": "Often project-based with extended travel"
+          },
+          {
+            "label": "Households interviewed in NFHS-5",
+            "value": "~6.4 lakh",
+            "note": "One national survey round; data collected by field teams across all districts",
+            "source": "NFHS-5 National Report, IIPS / Ministry of Health & Family Welfare",
+            "date": "2019-21",
+            "verified": false
           }
         ]
       }

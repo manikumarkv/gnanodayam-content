@@ -22,6 +22,14 @@
             "label": "Recruitment",
             "value": "Corporation's own notices",
             "note": "Many posts are contract or fixed-term"
+          },
+          {
+            "label": "Domestic tourist visits",
+            "value": "~251 crore",
+            "note": "Up from ~173 crore in 2022; counts visits, not unique people",
+            "source": "Ministry of Tourism (as reported)",
+            "date": "2023",
+            "verified": false
           }
         ]
       }

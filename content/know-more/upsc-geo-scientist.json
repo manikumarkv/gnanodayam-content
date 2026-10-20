@@ -27,6 +27,14 @@
             "label": "Age limit",
             "value": "21–32 years",
             "note": "Relaxations for reserved categories; check the current notice"
+          },
+          {
+            "label": "Vacancies in the latest notice",
+            "value": "127 (tentative)",
+            "note": "Geological Survey of India and Central Ground Water Board posts; the final number can change",
+            "source": "UPSC notice for CGSE 2027 (as reported)",
+            "date": "2026-09",
+            "verified": false
           }
         ]
       }

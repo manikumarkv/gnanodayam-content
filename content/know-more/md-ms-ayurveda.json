@@ -28,6 +28,22 @@
             "label": "All-India counselling",
             "value": "AACCC",
             "note": "Ayush Admissions Central Counselling Committee; state-quota seats go through state counselling"
+          },
+          {
+            "label": "Ayurveda candidates in AIAPGET",
+            "value": "~29,800 appeared",
+            "note": "~26,100 appeared in 2024 (NTA)",
+            "source": "NTA AIAPGET 2025 result data (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "PG seats (Ayurveda)",
+            "value": "~5,000",
+            "note": "Approx. sum across ~150 colleges with PG permission (list as on 29 Aug 2025)",
+            "source": "NCISM list of permitted Ayurveda colleges, approx.",
+            "date": "2025-26",
+            "verified": false
           }
         ]
       }
@@ -50,6 +66,29 @@
           "It leads to specialist practice, teaching in Ayurveda colleges (where a PG is required for faculty posts) and research.",
           "A PhD in Ayurveda (Ayurveda Vachaspati) is the next academic step."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "AIAPGET Ayurveda candidates by year",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "Ayurveda candidates",
+                "values": [25627, 26141, 29824]
+              }
+            ]
+          }
+        },
+        "note": "2023 from NTA's subject-wise table; 2024 is candidates who appeared (NTA); 2025 appeared figure as reported by secondary sources. These are candidates, not seats; one candidate may sit the exam in more than one year.",
+        "source": "NTA AIAPGET result notices (2025 as reported)",
+        "date": "2023 to 2025",
+        "verified": false
       }
     },
     {

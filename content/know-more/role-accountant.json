@@ -26,6 +26,22 @@
           {
             "label": "Key deadlines",
             "value": "Monthly GST and TDS; quarterly and annual returns"
+          },
+          {
+            "label": "ICAI members (Chartered Accountants)",
+            "value": "~4.1 lakh",
+            "note": "Associates and Fellows; not all work as accountants",
+            "source": "ICAI member data, as reported",
+            "date": "Feb 2025",
+            "verified": false
+          },
+          {
+            "label": "CA students registered",
+            "value": "~10 lakh",
+            "note": "Across Foundation, Intermediate and Final",
+            "source": "ICAI student data, as reported",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

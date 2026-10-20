@@ -25,6 +25,22 @@
           {
             "label": "Key outputs",
             "value": "Credit appraisal notes and risk ratings"
+          },
+          {
+            "label": "Credit rating agencies registered with SEBI",
+            "value": "8",
+            "note": "Three of them are listed companies",
+            "source": "SEBI Annual Report 2025-26",
+            "date": "Mar 2026",
+            "verified": false
+          },
+          {
+            "label": "NBFC credit as a share of GDP",
+            "value": "~14.6%",
+            "note": "Up from 13.5% a year earlier; NBFCs employ many credit analysts alongside banks",
+            "source": "RBI, Report on Trend and Progress of Banking in India 2024-25",
+            "date": "Mar 2025",
+            "verified": false
           }
         ]
       }
