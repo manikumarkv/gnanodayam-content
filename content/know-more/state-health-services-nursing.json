@@ -63,6 +63,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Nursing staff in rural government health centres",
+        "unit": "nurses",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Community health centres (CHCs)",
+                "value": 51059
+              },
+              {
+                "label": "Primary health centres (PHCs)",
+                "value": 47932
+              }
+            ]
+          }
+        },
+        "note": "Covers PHCs and CHCs only; nurses in district hospitals, medical colleges and sub-centres are not included. Counts are posts filled as reported by states.",
+        "source": "MoHFW, Health Dynamics of India (Infrastructure & Human Resources) 2022-23 (as reported)",
+        "date": "As on 31 Mar 2023",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

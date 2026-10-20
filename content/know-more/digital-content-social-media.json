@@ -67,6 +67,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG students in Journalism & Mass Communication",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [33479, 31443, 31001]
+              }
+            ]
+          }
+        },
+        "note": "One common degree route into this field; many people enter digital content work from other degrees or without one. AISHE counts responding institutions only; coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 12 (UG level), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

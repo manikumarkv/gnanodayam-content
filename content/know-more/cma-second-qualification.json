@@ -68,6 +68,33 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "CA Intermediate, May 2025: appeared and passed",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["Group I only", "Group II only", "Both groups"],
+            "series": [
+              {
+                "label": "Appeared",
+                "values": [97034, 72069, 38029]
+              },
+              {
+                "label": "Passed",
+                "values": [14232, 15502, 5028]
+              }
+            ]
+          }
+        },
+        "note": "All CA Intermediate candidates, not only CMA holders. Pass rates about 14.7% (Group I), 21.5% (Group II) and 13.2% (both groups). Pass rates vary by session.",
+        "source": "ICAI CA Intermediate May 2025 result, as reported",
+        "date": "July 2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -55,6 +55,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "M.Plan enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [2182, 2198, 2011]
+              }
+            ]
+          }
+        },
+        "note": "M.Plan row only; Master of Urban Planning and similar degrees are counted separately. AISHE counts responding institutions only; coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 programme-wise enrolment, actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -65,6 +65,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Undergraduate students in Indian languages",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [355596, 351138, 429662]
+              }
+            ]
+          }
+        },
+        "note": "Covers Hindi and all other Indian languages at UG level, not only the B.A. major. The rise in 2023-24 is large for one year. AISHE counts responding institutions only; coverage varies by year, so part of any change may reflect reporting rather than real enrolment.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 12 (UG enrolment by discipline, 'Indian Language'), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",

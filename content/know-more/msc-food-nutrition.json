@@ -50,6 +50,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in Nutrition",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Nutrition (PG level)",
+                "values": [3663, 4363, 4727]
+              }
+            ]
+          }
+        },
+        "note": "AISHE counts responding institutions only; coverage varies by year, so part of any change may reflect reporting rather than real growth or decline. Uses the 'Nutrition' row only; a smaller 'Food Science & Nutrition' row is listed separately.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 postgraduate enrolment by subject, based on actual responses (Ministry of Education), Home Science group",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

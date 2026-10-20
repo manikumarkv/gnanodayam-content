@@ -61,6 +61,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "UPSC CMS vacancies by exam year",
+        "unit": "vacancies",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021", "2022", "2023", "2024", "2025", "2026"],
+            "series": [
+              {
+                "label": "Vacancies notified",
+                "values": [838, 687, 1261, 827, 705, 1358]
+              }
+            ]
+          }
+        },
+        "note": "Figures as first notified. UPSC can revise them later — the 2025 count was reportedly raised from 705 to about 844. Check each year's UPSC notification.",
+        "source": "UPSC CMS notifications, as compiled by coaching-site vacancy tables",
+        "date": "2021–2026",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

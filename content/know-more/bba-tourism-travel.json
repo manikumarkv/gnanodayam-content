@@ -75,6 +75,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Foreign tourist arrivals in India",
+        "unit": "lakh arrivals",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2022", "2023", "2024"],
+            "series": [
+              {
+                "label": "Foreign tourist arrivals",
+                "values": [64.37, 95.21, 99.52]
+              }
+            ]
+          }
+        },
+        "note": "Earlier provisional figures were lower (about 61.9 lakh for 2022 and 92.4 lakh for 2023). Shows demand in the sector, not jobs or hiring for graduates of this course.",
+        "source": "Ministry of Tourism, Lok Sabha reply (Aug 2025), based on Bureau of Immigration data (as reported)",
+        "date": "2022 to 2024",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",

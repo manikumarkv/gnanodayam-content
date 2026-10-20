@@ -58,6 +58,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "NABARD Grade A posts notified",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2022", "2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "Grade A posts notified",
+                "values": [170, 150, 102, 91]
+              }
+            ]
+          }
+        },
+        "note": "Totals across all streams (RDBS plus Rajbhasha, Legal or Protocol & Security where advertised); as notified, final numbers can change.",
+        "source": "NABARD Grade A notifications, as reported by job and news sites (pscpdfbanks, Scroll, PracticeMock, Sakshi Post)",
+        "date": "2022–2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

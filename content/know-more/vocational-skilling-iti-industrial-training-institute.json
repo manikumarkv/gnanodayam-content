@@ -57,6 +57,29 @@
           "Seats in some trades go unfilled while others are in high demand."
         ]
       }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Number of ITIs in India",
+        "unit": "ITIs",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2009-10", "2010-11", "2013-14", "Apr 2016"],
+            "series": [
+              {
+                "label": "ITIs",
+                "values": [8039, 8800, 10750, 13105]
+              }
+            ]
+          }
+        },
+        "note": "Older series (government + private ITIs); gaps between years are uneven. Recent counts are around 14,600+ after disaffiliation of some ITIs.",
+        "source": "Rajya Sabha replies, Ministry of Labour / MSDE (as reported)",
+        "date": "2009-10 to 2016",
+        "verified": false
+      }
     }
   ],
   "lastReviewed": "2026-10",

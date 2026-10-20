@@ -50,6 +50,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate students in foreign languages other than English",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG enrolment",
+                "values": [7589, 7681, 8664]
+              }
+            ]
+          }
+        },
+        "note": "Sum of four rows; English is excluded. Most students fall under 'Other Foreign Languages', which is not broken down by language. AISHE counts only responding institutions, and coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 (PG enrolment by discipline: French, German, Spanish and 'Other Foreign Languages' rows, summed), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related roles and paths",

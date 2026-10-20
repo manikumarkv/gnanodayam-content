@@ -55,6 +55,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Domestic tourist visits in India",
+        "unit": "crore visits",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021", "2022", "2023"],
+            "series": [
+              {
+                "label": "Domestic tourist visits",
+                "values": [67.8, 173.1, 251.0]
+              }
+            ]
+          }
+        },
+        "note": "2021 was still affected by COVID-19 restrictions; 2023 is provisional. Visits are counted by states and UTs, so one person can be counted more than once.",
+        "source": "Ministry of Tourism, India Tourism Statistics (as reported)",
+        "date": "2021–2023",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

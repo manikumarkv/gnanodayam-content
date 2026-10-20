@@ -59,6 +59,29 @@
           "SSC publishes a yearly exam calendar, but dates and vacancy counts are often revised."
         ]
       }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "SSC CGL vacancies by exam year",
+        "unit": "vacancies",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2020", "2021", "2022", "2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "Vacancies",
+                "values": [7035, 7621, 36001, 8415, 18174, 14582]
+              }
+            ]
+          }
+        },
+        "note": "Final or revised counts where available: 2022 was notified as 37,409 and revised to 36,001; 2024 was notified as 17,727; 2025 is the final list figure. Vacancies change during the recruitment cycle — check the SSC's final vacancy notices. 2024 shows the revised final vacancy count; the notified figure was lower.",
+        "source": "SSC CGL vacancy notices, as compiled by a coaching-site vacancy table",
+        "date": "2020–2025",
+        "verified": false
+      }
     }
   ],
   "lastReviewed": "2026-10",

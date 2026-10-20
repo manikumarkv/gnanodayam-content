@@ -58,6 +58,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate students in Philosophy",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG enrolment",
+                "values": [12490, 13389, 14337]
+              }
+            ]
+          }
+        },
+        "note": "Postgraduate (not B.A.) enrolment, shown as a guide to how many continue in the subject. AISHE counts only responding institutions, and coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 (PG enrolment by discipline, 'Philosophy' row), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",

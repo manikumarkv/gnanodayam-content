@@ -63,6 +63,36 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "CTET December 2024: appeared vs qualified",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Paper 1 (Classes I-V)",
+              "Paper 2 (Classes VI-VIII)"
+            ],
+            "series": [
+              {
+                "label": "Appeared",
+                "values": [572489, 1136087]
+              },
+              {
+                "label": "Qualified",
+                "values": [138389, 139888]
+              }
+            ]
+          }
+        },
+        "note": "Pass rates 24.17% (Paper 1) and 12.31% (Paper 2). One session only; results vary between sessions. Qualifying CTET is an eligibility step, not a job offer.",
+        "source": "CBSE CTET result (as reported by Careers360)",
+        "date": "2025-01",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related paths",

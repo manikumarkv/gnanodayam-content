@@ -56,6 +56,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in Hospitality Administration, by gender",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Men",
+                "value": 315
+              },
+              {
+                "label": "Women",
+                "value": 212
+              }
+            ]
+          }
+        },
+        "note": "Small numbers; AISHE groups hospitality subjects differently across years, so no trend is shown. AISHE counts responding institutions only; coverage varies by year.",
+        "source": "AISHE 2023-24, Table 13 (PG level), actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

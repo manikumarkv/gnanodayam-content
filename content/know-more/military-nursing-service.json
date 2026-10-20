@@ -58,6 +58,33 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "MNS (SSC) 2024 selection funnel",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Registered",
+              "Appeared in CBT",
+              "Shortlisted for interview"
+            ],
+            "series": [
+              {
+                "label": "Candidates",
+                "values": [28220, 24725, 1416]
+              }
+            ]
+          }
+        },
+        "note": "One recruitment cycle (CBT held January 2024). Shortlisted candidates still face interview and medical; final vacancies are fewer.",
+        "source": "NTA result notice (as reported by Careers360)",
+        "date": "2024-03",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

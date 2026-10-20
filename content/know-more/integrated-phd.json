@@ -54,6 +54,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Integrated PhD enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [2033, 1772, 1109]
+              }
+            ]
+          }
+        },
+        "note": "Row 'Integrated Ph.D-Integrated Doctor of Philosophy'. Some institutes may report these students under M.Sc or Ph.D rows instead. AISHE counts only responding institutions, and coverage varies by year, so part of any change can reflect reporting rather than real growth or decline.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 programme-wise enrolment, based on actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

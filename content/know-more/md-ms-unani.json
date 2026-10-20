@@ -56,6 +56,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate students in Unani, by gender",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Women",
+                "value": 262
+              },
+              {
+                "label": "Men",
+                "value": 150
+              }
+            ]
+          }
+        },
+        "note": "Small base of 412 students reported by responding institutions; AISHE coverage of Ayush colleges is incomplete, so totals are lower than the real number of seats.",
+        "source": "AISHE 2023-24, Table 13 (PG enrolment by discipline, Unani), actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

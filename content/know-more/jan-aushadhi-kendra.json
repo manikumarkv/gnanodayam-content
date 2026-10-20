@@ -67,6 +67,35 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Jan Aushadhi Kendras open (cumulative)",
+        "unit": "kendras",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Mar 2021",
+              "Mar 2022",
+              "Mar 2023",
+              "Mar 2024",
+              "Nov 2025"
+            ],
+            "series": [
+              {
+                "label": "Kendras open",
+                "values": [7557, 8610, 9304, 11261, 17610]
+              }
+            ]
+          }
+        },
+        "note": "Counts at the end of each financial year (March), except the last, which is as on 30 Nov 2025. Figures are kendras opened, not necessarily all still operating.",
+        "source": "Lok Sabha replies (USQ 1373, Feb 2024; Dec 2025) and PMBJP portal figures as compiled by ORF",
+        "date": "2021–2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

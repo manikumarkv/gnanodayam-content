@@ -71,6 +71,35 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Persons engaged in registered food processing units",
+        "unit": "lakh workers",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2015-16",
+              "2016-17",
+              "2017-18",
+              "2018-19",
+              "2019-20"
+            ],
+            "series": [
+              {
+                "label": "Persons engaged",
+                "values": [17.65, 18.53, 19.33, 20.05, 20.32]
+              }
+            ]
+          }
+        },
+        "note": "Registered (factory) sector only; the much larger unregistered food processing workforce is not counted. Later years are not shown here.",
+        "source": "Annual Survey of Industries, as tabulated in a Lok Sabha reply (MoFPI)",
+        "date": "2015-16 to 2019-20",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

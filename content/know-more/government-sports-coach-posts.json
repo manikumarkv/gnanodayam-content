@@ -70,6 +70,44 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "SAI Assistant Coach vacancies by category (2026 notice)",
+        "unit": "vacancies",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Unreserved",
+                "value": 187
+              },
+              {
+                "label": "OBC",
+                "value": 73
+              },
+              {
+                "label": "SC",
+                "value": 32
+              },
+              {
+                "label": "EWS",
+                "value": 22
+              },
+              {
+                "label": "ST",
+                "value": 9
+              }
+            ]
+          }
+        },
+        "note": "323 provisional vacancies across 26 sports; 33% horizontal reservation for women applies. One notice only.",
+        "source": "SAI Assistant Coach notification dated 15.01.2026 (as reported)",
+        "date": "2026",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

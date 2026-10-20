@@ -63,6 +63,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "ISS posts notified by UPSC",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2023", "2024", "2025", "2026"],
+            "series": [
+              {
+                "label": "ISS posts",
+                "values": [33, 30, 35, 28]
+              }
+            ]
+          }
+        },
+        "note": "Approximate numbers from each year's notice; final vacancies can differ (2024's final result listed 33 including backlog).",
+        "source": "UPSC IES/ISS notifications (as reported)",
+        "date": "2023–2026",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

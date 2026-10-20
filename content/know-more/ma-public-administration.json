@@ -50,6 +50,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate enrolment in Public Administration",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG students",
+                "values": [29730, 29477, 27199]
+              }
+            ]
+          }
+        },
+        "note": "Counts all PG students in the Public Administration discipline (Social Science), across all modes reported. AISHE counts only responding institutions, and coverage varies by year, so part of any change can reflect reporting rather than real growth or decline.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 postgraduate enrolment by discipline, based on actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -66,6 +66,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in B.Optom.",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Optom. enrolment",
+                "values": [8377, 8802, 9526]
+              }
+            ]
+          }
+        },
+        "note": "One allied health degree only (optometry); other allied health programmes are counted separately. AISHE counts only responding institutions, and coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (programme-wise enrolment, B.Optom.-Bachelor of Clinical Optometry), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths to explore",

@@ -66,6 +66,37 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "IFoS vacancies notified by year",
+        "unit": "vacancies",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2024",
+              "2025",
+              "2026"
+            ],
+            "series": [
+              {
+                "label": "Vacancies notified",
+                "values": [90, 110, 151, 150, 150, 150, 80]
+              }
+            ]
+          }
+        },
+        "note": "Approximate vacancies stated in each year's notice; UPSC says these can change, and final selections can differ (e.g. 147 recommended in 2023).",
+        "source": "UPSC IFoS examination notices, as reported (PW, Vajiram & Ravi)",
+        "date": "2020–2026",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -58,6 +58,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "MCA enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [166211, 203548, 249857]
+              }
+            ]
+          }
+        },
+        "note": "All modes of study (regular, distance, private). AISHE counts responding institutions only; coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 programme-wise enrolment, actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related paths",

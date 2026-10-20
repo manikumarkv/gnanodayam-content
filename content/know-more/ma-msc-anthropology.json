@@ -50,6 +50,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in Anthropology",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Anthropology (PG level)",
+                "values": [4647, 4344, 4513]
+              }
+            ]
+          }
+        },
+        "note": "AISHE counts responding institutions only; coverage varies by year, so part of any change may reflect reporting rather than real growth or decline. PG level covers M.A. and M.Sc. together; Ph.D. and M.Phil. are excluded.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 postgraduate enrolment by subject, based on actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

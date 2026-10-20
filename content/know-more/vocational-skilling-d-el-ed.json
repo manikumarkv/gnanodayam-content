@@ -64,6 +64,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "D.El.Ed students, by gender",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Women",
+                "value": 149167
+              },
+              {
+                "label": "Men",
+                "value": 108647
+              }
+            ]
+          }
+        },
+        "note": "D.Ed is counted as a separate programme. Year-on-year D.El.Ed totals jump sharply in AISHE (likely reporting/classification changes), so only the 2023-24 split is shown. AISHE counts responding institutions only.",
+        "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, D.El.Ed.), actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths to explore",

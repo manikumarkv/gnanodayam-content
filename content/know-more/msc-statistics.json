@@ -54,6 +54,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in Statistics by gender",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Women",
+                "value": 6495
+              },
+              {
+                "label": "Men",
+                "value": 5291
+              }
+            ]
+          }
+        },
+        "note": "AISHE counts responding institutions only. PG level covers M.Sc. and M.A. Statistics; a small 'Statistics' row under Social Science (153 students) is not included. A year-on-year trend is not shown because the subject's classification changed between 2021-22 and 2022-23.",
+        "source": "AISHE 2023-24, Table 13 postgraduate enrolment by subject (Science group, Statistics), based on actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

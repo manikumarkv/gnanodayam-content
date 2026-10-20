@@ -67,6 +67,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "IT Officer (Scale I) vacancies in IBPS SO",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2019", "2020", "2021", "2022", "2023"],
+            "series": [
+              {
+                "label": "IT Officer vacancies",
+                "values": [76, 57, 220, 44, 120]
+              }
+            ]
+          }
+        },
+        "note": "Figures as initially notified; final allotments can differ (2022 was later reported higher). Later cycles are omitted because reported figures conflict across sources.",
+        "source": "IBPS SO post-wise vacancy tables, as compiled by Oliveboard",
+        "date": "2019–2023",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",
