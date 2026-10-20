@@ -1,0 +1,136 @@
+{
+  "title": "IT — Information Technology",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Information Technology is a close cousin of CSE. It covers programming, databases, networks, web and software engineering, with a bit more weight on building, running and securing applications and systems, and a bit less on theory and hardware. Graduates largely compete for the same software and IT jobs as CSE graduates."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in IT",
+            "value": "~2.4 lakh",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~35%",
+            "note": "Computed from the same AISHE row (83,432 of 2,35,592)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Class 12 with Physics, Chemistry and Mathematics is required. Few IITs offer IT as a separate branch; it is more common at NITs, IIITs and state and private colleges."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The syllabus overlaps CSE by a large margin; the label on the degree matters less than skills.",
+          "Placement and coding interviews are usually the same as for CSE students.",
+          "GATE uses the same Computer Science (CS) paper for IT graduates.",
+          "Common next steps: a software job, M.Tech / MS, or an MBA."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Information Technology",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 152160
+              },
+              {
+                "label": "Female",
+                "value": 83432
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/btech.it.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/btech.it.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/btech.it.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Frontend Developer",
+            "href": "/roles/frontend-developer"
+          },
+          {
+            "label": "Backend Developer",
+            "href": "/roles/backend-developer"
+          },
+          {
+            "label": "Full-Stack Developer",
+            "href": "/roles/full-stack-developer"
+          },
+          {
+            "label": "Cloud / DevOps Engineer",
+            "href": "/roles/cloud-devops-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

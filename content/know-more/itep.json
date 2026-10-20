@@ -1,0 +1,118 @@
+{
+  "title": "Integrated B.Ed (ITEP)",
+  "kicker": "Four-year integrated teacher education degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Integrated Teacher Education Programme (ITEP) is a four-year dual degree — B.A. B.Ed., B.Sc. B.Ed. or B.Com. B.Ed. — that combines a subject degree with teacher training. Each programme prepares teachers for one school stage: foundational, preparatory, middle or secondary. It was introduced by the National Council for Teacher Education (NCTE) in 2023-24 under NEP 2020."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; one programme gives both degrees"
+          },
+          {
+            "label": "ITEP seats",
+            "value": "~6,100 in 77 institutions",
+            "note": "Seats rose sharply for 2026-27 (as reported)",
+            "source": "NCTE/NTA NCET 2025 notice; Careers360 (as reported)",
+            "date": "2025-26",
+            "verified": false
+          },
+          {
+            "label": "Students in integrated B.Ed degrees",
+            "value": "~1.7 lakh",
+            "note": "All modes; B.A., B.Sc. and B.Com. B.Ed. combined. Includes older integrated programmes, not only ITEP",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Pass Class 12. Admission is through NCET (National Common Entrance Test), run by NTA; NCTE requires ITEP institutions to admit only through NCET. Each participating institution then runs its own counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "ITEP is offered at central and state universities, IITs, NITs, Regional Institutes of Education and government colleges.",
+          "You still need to clear CTET or a state TET for most teaching jobs.",
+          "The stage you train for shapes which classes you are prepared to teach."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Integrated B.Ed enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  147690,
+                  170600,
+                  172287
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Sum of B.A. B.Ed., B.Sc. B.Ed. and B.Com. B.Ed. rows; includes older integrated programmes",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Teaching",
+            "href": "/explore/itep.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/itep.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/itep.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "title": "CA (Chartered Accountancy)",
+  "kicker": "Professional qualification (ICAI)",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Chartered Accountancy is a professional qualification, not a university degree. It is awarded by the Institute of Chartered Accountants of India (ICAI), a statutory body. You move through three exam levels — Foundation, Intermediate and Final — with two years of practical training (articleship) before the Final. Qualified CAs work in audit, tax, accounting and finance, and only members in practice can sign a company's statutory audit."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Exam levels",
+            "value": "3",
+            "note": "Foundation → Intermediate → Final; exams held in January, May and September"
+          },
+          {
+            "label": "Articleship",
+            "value": "2 years",
+            "note": "Starts after passing both Intermediate groups and the ICITSS course"
+          },
+          {
+            "label": "CA Final pass rate (both groups)",
+            "value": "~14%",
+            "note": "May 2026: 3,345 of 23,776 passed",
+            "source": "ICAI result press release",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "CA Foundation pass rate",
+            "value": "~20%",
+            "note": "May 2026: 18,124 of 90,217 passed",
+            "source": "ICAI result press release",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "ICAI members",
+            "value": "Over 4 lakh",
+            "note": "With around 9.85 lakh students",
+            "source": "ICAI press release",
+            "date": "Feb 2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register with ICAI for the Foundation course and sit the Foundation exam after Class 12; any stream can apply. Graduates with the required marks, and those who have passed the ICSI or ICMAI Intermediate level, can register directly for the Intermediate level."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Pass rates at each level are low, and many students take more than one attempt per level.",
+          "Articleship is paid a stipend and gives real audit and tax work before you qualify.",
+          "Many students complete a B.Com or another degree by distance alongside the CA course.",
+          "Since 2021, UGC treats the CA qualification as equivalent to a postgraduate degree (for example, for NET and PhD)."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "CA Final pass rate, both groups",
+        "unit": "%",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Sep 2025",
+              "Jan 2026",
+              "May 2026"
+            ],
+            "series": [
+              {
+                "label": "Pass % (both groups)",
+                "values": [
+                  16.23,
+                  10.97,
+                  14.07
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Candidates who sat both Final groups in the same attempt.",
+        "source": "ICAI result press releases",
+        "date": "Sep 2025 to May 2026",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/ca.job"
+          },
+          {
+            "label": "Further Study",
+            "href": "/explore/ca.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/ca.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

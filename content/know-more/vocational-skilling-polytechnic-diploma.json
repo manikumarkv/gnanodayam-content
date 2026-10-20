@@ -1,0 +1,76 @@
+{
+  "title": "Polytechnic Diploma",
+  "kicker": "Vocational / Skilling · Technical diploma",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A polytechnic diploma is a technician-level qualification in engineering and applied fields — civil, mechanical, electrical, electronics, computer and more. It normally takes 3 years after Class 10; Class 12 (Science or vocational) and ITI pass students can usually join directly in the second year. Programmes are AICTE-approved and diplomas are awarded by state technical boards."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "About 2 years with lateral entry after Class 12 or ITI, in many states"
+          },
+          {
+            "label": "Polytechnics registered",
+            "value": "5,194",
+            "note": "4,209 reported data",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Enrolment in technical / polytechnic institutes",
+            "value": "~13.9 lakh",
+            "note": "Stand-alone institutions",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Diploma (engineering) approved intake",
+            "value": "~9.8 lakh",
+            "note": "About half of seats reported vacant",
+            "source": "AICTE data, via Avanti Fellows analysis (as reported)",
+            "date": "2021-22",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Through state-run admissions: entrance tests such as JEECUP (Uttar Pradesh) or POLYCET (Telangana, Andhra Pradesh), or merit-based counselling in other states. Class 12 Science or vocational students — and ITI pass-outs — apply for direct second-year (lateral) admission where the state allows it."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Diploma holders can enter B.Tech/B.E. in the second year through state lateral-entry tests (for example ECET or LEET).",
+          "A diploma meets the qualification for junior engineer (JE) posts in many government departments, through exams such as SSC JE.",
+          "For Class 12 Science students, a diploma followed by lateral-entry B.Tech takes about a year longer than a direct B.Tech, with an earlier exit point into work.",
+          "Quality, seat-fill and placements vary widely between institutes."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

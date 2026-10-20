@@ -1,0 +1,96 @@
+{
+  "title": "CS (Company Secretary)",
+  "kicker": "Professional qualification (ICSI)",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Company Secretary is a professional qualification, not a university degree. It is awarded by the Institute of Company Secretaries of India (ICSI), a statutory body. The course covers company law, securities law, governance and compliance. You move through an entrance test (CSEET), the Executive Programme and the Professional Programme, along with practical training."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Stages",
+            "value": "3",
+            "note": "CSEET → Executive → Professional; Executive and Professional exams in June and December"
+          },
+          {
+            "label": "Practical training",
+            "value": "~21 months",
+            "note": "Long-term training under ICSI's training structure, plus short programmes",
+            "source": "ICSI training structure (2020), as reported",
+            "date": "2020",
+            "verified": false
+          },
+          {
+            "label": "CS Professional pass rate",
+            "value": "~29–33%",
+            "note": "June 2026, by group (Group 1: 32.69%, Group 2: 29.49%)",
+            "source": "ICSI result press release (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "ICSI members",
+            "value": "~80,000",
+            "note": "With about 2.5 lakh students",
+            "source": "ICSI figures (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Pass CSEET, ICSI's entrance test, which you can take after Class 12 in any stream. Then register for the Executive Programme. Graduates who meet ICSI's conditions, and those who have passed the ICAI or ICMAI Final, can be exempt from CSEET and join the Executive Programme directly."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Every listed company, and other companies above a set paid-up capital, must have a whole-time company secretary.",
+          "The work is close to law; many CSs also take an LLB.",
+          "Pass rates for the Executive and Professional levels are low, and repeat attempts are common.",
+          "Since 2021, UGC treats the CS qualification as equivalent to a postgraduate degree (for example, for NET and PhD)."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/cs.job"
+          },
+          {
+            "label": "Further Study",
+            "href": "/explore/cs.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/cs.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

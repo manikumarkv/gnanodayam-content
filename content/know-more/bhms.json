@@ -1,0 +1,117 @@
+{
+  "title": "BHMS",
+  "kicker": "Undergraduate homoeopathy degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Bachelor of Homoeopathic Medicine and Surgery. You study anatomy, physiology, pathology and other medical subjects alongside homoeopathic materia medica, repertory and the Organon of Medicine, then complete a one-year internship. It is regulated by the National Commission for Homoeopathy (NCH)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5½ years",
+            "note": "4½ years of study + 1-year compulsory internship"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~65,700",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG seats",
+            "value": "~17,000–18,000",
+            "note": "Across ~220 colleges with UG permission for 2025-26 (status as on 25 Aug 2025); approx. sum",
+            "source": "NCH permission status list, approx.",
+            "date": "2025-26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, and a qualifying NEET-UG score. AACCC (Ministry of Ayush) counsels the 15% All India Quota and central, national-institute and deemed-university seats; states fill the rest through their own counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Practice needs registration with a State Board or Council of Homoeopathy.",
+          "Enrolment held steady at about 64,000–66,000 across 2021-22 to 2023-24.",
+          "An MD (Homoeopathy) through AIAPGET is the usual way to specialise."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BHMS enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  63547,
+                  65773,
+                  65714
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bhms.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bhms.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bhms.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

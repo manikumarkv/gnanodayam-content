@@ -1,0 +1,71 @@
+{
+  "title": "Self-employment / Entrepreneurship",
+  "kicker": "Job / Work · Work for yourself",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Earning by working for yourself — a trade or service (electrical work, tailoring, mobile repair, beauty services), a shop, farm-linked work, freelancing, or a registered startup. Many people begin small, often within a family business, and grow over time."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Workers who are self-employed",
+            "value": "58.4%",
+            "note": "All ages, usual status; includes helpers in family enterprises",
+            "source": "PLFS Annual Report July 2023–June 2024 (MoSPI, as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "MSMEs registered on Udyam",
+            "value": "~7.2 crore",
+            "note": "As of 30 Nov 2025; includes informal micro units on the Udyam Assist Platform",
+            "source": "Lok Sabha reply, Ministry of MSME (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "DPIIT-recognised startups",
+            "value": "~1.98 lakh",
+            "note": "Cumulative, as of 31 Oct 2025",
+            "source": "Lok Sabha reply, Ministry of Commerce (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "There is no exam or minimum qualification. It suits people with a skill, a family business or a clear local need to serve, and some tolerance for uneven income. Free online Udyam registration formalises a small business and is needed for many MSME schemes; government credit schemes such as PM Mudra Yojana and PMEGP lend to small units, subject to eligibility."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Income is irregular, especially in the first years; savings or family support often carry the gap.",
+          "Most self-employed people in India run very small units; registered startups are a much narrower slice.",
+          "A skill certificate (ITI or a short course) can add credibility for trades such as electrical or plumbing work.",
+          "Registrations, GST (above turnover thresholds) and basic bookkeeping are part of running a business."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

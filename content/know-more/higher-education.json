@@ -1,0 +1,159 @@
+{
+  "title": "Higher Education",
+  "kicker": "After Class 12 · Go to college",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Going to college after Class 12 means choosing an undergraduate degree — B.A., B.Sc., B.Com., B.Tech, MBBS, LLB and many more — usually lasting 3 to 5 years. The degree shapes which jobs, entrance exams and postgraduate options open up later, although many careers stay reachable from more than one degree."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3–5+ years",
+            "note": "3 years for most B.A./B.Sc./B.Com.; 4 for B.Tech; 5 for B.Arch and integrated LLB; MBBS adds an internship"
+          },
+          {
+            "label": "Students in higher education",
+            "value": "~4.5 crore",
+            "note": "All levels, including estimation",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Undergraduate enrolment",
+            "value": "~3.5 crore",
+            "note": "76.8% of all higher-education enrolment",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Gross Enrolment Ratio (18–23 yrs)",
+            "value": "30.0",
+            "note": "Share of the 18–23 age group in higher education",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Colleges registered",
+            "value": "48,246",
+            "note": "Plus 1,289 universities",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Suits students who want a recognised degree before working, or whose target career requires one — medicine, law, engineering, architecture, teaching, and most government officer posts. Admission is through Class 12 marks, CUET-UG (central and many other universities), or course-specific tests such as NEET-UG, JEE Main, NATA, CLAT and state CETs."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It means 3–5 years of fees and living costs before a full-time salary; government colleges and scholarships lower the cost.",
+          "A graduate degree is the minimum requirement for many government exams, including UPSC Civil Services, SSC CGL and bank PO/clerk exams.",
+          "Outcomes depend heavily on the institution and on the skills built alongside the degree, not only on the degree name.",
+          "Distance and open-university degrees let some students study while working."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Higher-education enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Total enrolment",
+                "values": [
+                  38536359,
+                  41380713,
+                  43268181,
+                  44632261,
+                  45001123
+                ]
+              }
+            ]
+          }
+        },
+        "note": "All levels (PhD to certificate), including estimation for non-responding institutions.",
+        "source": "AISHE 2023-24, Box 12 (Ministry of Education)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "B.Arch",
+            "href": "/explore/barch"
+          },
+          {
+            "label": "B.Com",
+            "href": "/explore/bcom"
+          },
+          {
+            "label": "B.Des",
+            "href": "/explore/bdes"
+          },
+          {
+            "label": "B.Pharm",
+            "href": "/explore/bpharm"
+          },
+          {
+            "label": "B.Sc",
+            "href": "/explore/bsc"
+          },
+          {
+            "label": "B.Sc Nursing",
+            "href": "/explore/bsc-nursing"
+          },
+          {
+            "label": "B.Tech",
+            "href": "/explore/btech"
+          },
+          {
+            "label": "BA",
+            "href": "/explore/ba"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Commercial Pilot (CPL)",
+  "kicker": "Flying licence (DGCA)",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A Commercial Pilot Licence (CPL) lets you fly aircraft for pay. It is a licence issued by the Directorate General of Civil Aviation (DGCA), not a university degree. You train at a DGCA-approved flying training organisation (or abroad, then convert the licence), log flying hours and pass DGCA ground exams. To fly an airliner you then need a type rating for that aircraft."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Flying needed",
+            "value": "200 hours",
+            "note": "Minimum total flight time for a CPL (aeroplanes); minimum age 18"
+          },
+          {
+            "label": "CPLs issued in 2025",
+            "value": "1,652",
+            "note": "1,347 in 2024",
+            "source": "DGCA figures in a Rajya Sabha reply (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Flying training organisations",
+            "value": "41",
+            "note": "DGCA-approved, across 63 bases",
+            "source": "Ministry of Civil Aviation reply (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Trained abroad",
+            "value": "~41%",
+            "note": "540 of 1,331 CPLs issued in Jan–Jun 2026",
+            "source": "Ministry of Civil Aviation reply (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "There is no common entrance exam. You need Class 12 with Physics and Mathematics (students from other streams have cleared these through NIOS; DGCA has proposed easing this rule, so check the current position). Clear a DGCA Class 2 medical to start and a Class 1 medical for the CPL, then join a DGCA-approved flying school or an airline cadet programme."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Training is largely self-funded and costly; ask schools for the full cost, including hours abroad.",
+          "A CPL alone does not get you an airline job; a type rating and airline selection come next.",
+          "The Class 1 medical has to stay valid throughout a flying career.",
+          "Training time often stretches because of weather, aircraft availability and exam slots."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Commercial Pilot Licences issued by DGCA",
+        "unit": "licences",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2022",
+              "2023",
+              "2024",
+              "2025"
+            ],
+            "series": [
+              {
+                "label": "CPLs issued",
+                "values": [
+                  1165,
+                  1622,
+                  1347,
+                  1652
+                ]
+              }
+            ]
+          }
+        },
+        "source": "DGCA figures in a Rajya Sabha reply, Ministry of Civil Aviation (as reported)",
+        "date": "2022 to 2025",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/vocational-skilling.commercial-pilot-cpl.job"
+          },
+          {
+            "label": "Further Licences",
+            "href": "/explore/vocational-skilling.commercial-pilot-cpl.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/vocational-skilling.commercial-pilot-cpl.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

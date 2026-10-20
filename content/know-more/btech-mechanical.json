@@ -1,0 +1,112 @@
+{
+  "title": "Mechanical Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Mechanical Engineering covers mechanics, thermodynamics, fluid mechanics, materials, machine design, manufacturing and heat transfer, with workshops and CAD. It leads to manufacturing, automobile, energy, aerospace and design work, and to government engineering jobs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in Mechanical",
+            "value": "~4.2 lakh",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~10%",
+            "note": "Computed from the same AISHE row (40,119 of 4,17,166)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Class 12 with Physics, Chemistry and Mathematics is required. Mechanical seats at many private and state colleges have gone unfilled in recent years, so cut-offs there are often lower than for CSE."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Core roles are spread across many industries but entry salaries vary widely; some graduates move into software or management.",
+          "GATE (ME paper) leads to M.Tech and PSU jobs; UPSC ESE has a Mechanical stream.",
+          "Shop-floor and site roles are common at the start; design and R&D roles often expect higher study.",
+          "Women are a small minority in this branch, though the field itself has no such requirement."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Mechanical",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 377047
+              },
+              {
+                "label": "Female",
+                "value": 40119
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/btech.mechanical.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/btech.mechanical.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/btech.mechanical.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

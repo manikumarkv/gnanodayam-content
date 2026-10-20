@@ -1,0 +1,130 @@
+{
+  "title": "AI & ML — Artificial Intelligence & Machine Learning",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A newer branch built on a computer-science core — programming, data structures, algorithms, databases — with more mathematics (linear algebra, probability, statistics) and courses in machine learning, deep learning, data handling and AI systems. Some colleges call it 'CSE (AI & ML)' or 'AI & Data Science'; the content is similar."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in AI & ML",
+            "value": "~53,600",
+            "note": "A separate 'AI & Data Science' row has ~51,600 and 'Artificial Intelligence' ~14,000",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~34%",
+            "note": "Computed from the AI & ML row (18,083 of 53,571)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Class 12 with Physics, Chemistry and Mathematics is required. At many colleges the branch is a CSE specialisation with its own seat pool and cut-off."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most AI/ML jobs ask for strong maths, coding and project work; the branch name alone does not decide hiring.",
+          "Many entry-level roles are general software or data roles before specialised ML work.",
+          "Research-oriented ML roles often expect an M.Tech, MS or PhD.",
+          "Because the branch is new, faculty depth and labs vary a lot between colleges."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — AI & ML",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 35488
+              },
+              {
+                "label": "Female",
+                "value": 18083
+              }
+            ]
+          }
+        },
+        "note": "The 'Artificial Intelligence & Machine Learning' row only.",
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/btech.ai-ml.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/btech.ai-ml.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/btech.ai-ml.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Backend Developer",
+            "href": "/roles/backend-developer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

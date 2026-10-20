@@ -1,0 +1,70 @@
+{
+  "title": "SSC",
+  "kicker": "Government / Competitive · Central government posts",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Staff Selection Commission (SSC) recruits for Group B and Group C posts in central ministries, departments and organisations — assistants, tax and excise inspectors, auditors, clerks, multi-tasking staff, junior engineers, constables and more. It runs separate exams by qualification level: CGL (graduates), CHSL (Class 12), MTS (Class 10), GD Constable, JE and Stenographer, among others."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "SSC CGL 2024 — vacancies",
+            "value": "~17,727",
+            "note": "Tentative, at notification",
+            "source": "SSC notification (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "SSC CGL 2023 — registered candidates",
+            "value": "~24.7 lakh",
+            "note": "About 12.4 lakh appeared",
+            "source": "SSC data (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "SSC CHSL 2023 — applications",
+            "value": "~32 lakh",
+            "source": "SSC data (as reported)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After Class 12 you can apply for CHSL (Lower Division Clerk, Junior Secretariat Assistant, Data Entry Operator), as well as the MTS, GD Constable and Stenographer exams; CGL needs a graduate degree. Each exam has its own age limit with category relaxations. Selection is through computer-based tests and, depending on the post, a typing or skill test and document verification."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Posts carry central-government pay scales and benefits; postings can be anywhere in India or within a zone.",
+          "Applications run into lakhs per exam, while vacancies are in the thousands.",
+          "Exams test reasoning, quantitative aptitude, English and general awareness; CHSL adds a typing or skill test.",
+          "SSC publishes a yearly exam calendar, but dates and vacancy counts are often revised."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "title": "BSW (Social Work)",
+  "kicker": "Undergraduate social work degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A degree in social work. You study society, psychology, social policy and community work, and do supervised field work with NGOs, hospitals, schools or community groups. It leads to work in the social sector and to a Master of Social Work (MSW)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year honours option at some universities under NEP 2020"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~47,700",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Growth in enrolment",
+            "value": "~1.5× in two years",
+            "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+            "date": "2021-22 to 2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Many colleges admit on Class 12 marks; central universities and some others use CUET-UG, and a few run their own tests."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Supervised field work is a core part of the course.",
+          "Specialised roles, such as medical or psychiatric social work, usually ask for an MSW.",
+          "Pay varies widely between NGOs, CSR foundations and government projects."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BSW enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  30784,
+                  40944,
+                  47685
+                ]
+              }
+            ]
+          }
+        },
+        "note": "AISHE counts are based on institutions' own responses.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Field Work",
+            "href": "/explore/bsw.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsw.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsw.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

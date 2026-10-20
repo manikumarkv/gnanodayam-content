@@ -1,0 +1,104 @@
+{
+  "title": "B.Sc Statistics",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree in collecting, analysing and drawing conclusions from data: probability, distributions, sampling, statistical inference, regression, design of experiments and statistical computing, usually alongside Mathematics. It leads to analytics, research, government statistics and actuarial work."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "B.Sc enrolment (all majors)",
+            "value": "~44.7 lakh",
+            "note": "Regular mode; down from ~47.3 lakh in 2020-21",
+            "source": "AISHE 2023-24, Box 14 regular mode (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Statistics",
+            "value": "~11,800",
+            "note": "M.Sc and other PG programmes, AISHE 'Science — Statistics' row",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream, usually with Mathematics (usually required). Central universities (Delhi University, BHU and others) admit through CUET-UG scores in the relevant subjects; many state universities and their colleges admit on Class 12 merit or a state test. You usually choose the major — or a combination of two or three subjects — at admission. The Indian Statistical Institute's B.Stat (Hons) is a separate degree with its own entrance test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Fewer colleges offer Statistics as a major than Mathematics or Physics.",
+          "Analytics and data roles hire statistics graduates, especially with R, Python or SQL skills.",
+          "UPSC's Indian Statistical Service accepts graduates with Statistics as a subject (or a master's); state statistics departments also recruit.",
+          "IIT JAM (Mathematical Statistics paper), ISI's M.Stat and CUET-PG lead to master's programmes."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bsc.statistics.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc.statistics.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc.statistics.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "History",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "History as a major studies the past through sources — ancient, medieval and modern Indian history, world history, and historiography (how history is written). The work is mostly reading primary and secondary sources and writing long-form arguments."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in History",
+            "value": "~2.3 lakh",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in History",
+            "value": "~5,500",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG, where the subject itself can be one of the tests counted; others admit on Class 12 marks or their own test. Some universities fix the major at admission; others, under the NEP four-year programme, let students settle it after the first year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work routes include teaching, archives, museums and heritage, research, publishing, journalism and tourism.",
+          "Museum, archaeology and archival roles usually need specialised postgraduate training, such as museology or archaeology.",
+          "History is part of the general-studies syllabus in civil-services exams and is also offered as an optional subject.",
+          "Common next steps: an M.A. History, a B.Ed, a 3-year LL.B, or civil-services preparation."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/ba.history.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/ba.history.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/ba.history.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

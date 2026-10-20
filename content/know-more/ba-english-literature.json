@@ -1,0 +1,87 @@
+{
+  "title": "English / Literature",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "English as a major studies literature written in English — British, American, Indian and world writing in translation — along with literary theory, the basics of linguistics, and academic writing. Some courses add papers in journalism, translation or communication."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in English",
+            "value": "~2.6 lakh",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in English",
+            "value": "~9,000",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG, where the subject itself can be one of the tests counted; others admit on Class 12 marks or their own test. Some universities fix the major at admission; others, under the NEP four-year programme, let students settle it after the first year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Reading and writing load is heavy; most assessment is by essays and close reading of texts.",
+          "Graduate jobs are spread across content writing, editing, publishing, media, corporate communications and teaching.",
+          "School teaching needs a B.Ed; college teaching usually needs an M.A. plus UGC-NET or a Ph.D.",
+          "Strong English helps in civil-services and bank exams, which test the language, but the degree is not required for them."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/ba.english-literature.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/ba.english-literature.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/ba.english-literature.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

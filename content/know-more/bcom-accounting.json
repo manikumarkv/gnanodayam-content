@@ -1,0 +1,118 @@
+{
+  "title": "Accounting",
+  "kicker": "B.Com specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.Com with an accounting focus — run as B.Com (Accounting & Finance) at some universities, or as accounting electives within a general or Honours B.Com. You study financial, cost and corporate accounting, auditing, business law and tax basics, and learn to prepare and read financial statements. It is the usual academic base for CA, CMA and CS, which are separate professional qualifications."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "CA students registered",
+            "value": "~10 lakh",
+            "note": "Foundation, Intermediate and Final combined",
+            "source": "ICAI data as of 28 Feb 2025 (as reported by Careers360)",
+            "date": "2025-02",
+            "verified": false
+          },
+          {
+            "label": "ICAI members",
+            "value": "~4.1 lakh",
+            "note": "Associate and Fellow chartered accountants",
+            "source": "ICAI data as of 28 Feb 2025 (as reported by Careers360)",
+            "date": "2025-02",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 (commerce preferred, not always required). Central and many other universities admit through CUET-UG; others admit on Class 12 marks or their own process. Accountancy in Class 12 helps but is not always required. Where accounting is a named programme, you choose it at admission; elsewhere you pick accounting papers as electives."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The degree and the CA, CMA or CS qualifications are different things; many students register for one of them while doing the B.Com, and graduates can enter CA at the Intermediate level through ICAI's direct-entry route.",
+          "Entry-level work is usually accounts executive, accounts payable or receivable, audit assistant, or GST and compliance support.",
+          "Accounting software and spreadsheet skills are commonly expected alongside the degree.",
+          "Common next steps: CA, CMA or CS, an M.Com, an MBA (Finance), or ACCA for international roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "CA students by level",
+        "unit": "students",
+        "data": {
+          "discriminant": "pie",
+          "value": {
+            "slices": [
+              {
+                "label": "Foundation",
+                "value": 347256
+              },
+              {
+                "label": "Intermediate",
+                "value": 417609
+              },
+              {
+                "label": "Final",
+                "value": 241391
+              }
+            ]
+          }
+        },
+        "note": "Registered students, not annual entrants; includes students from all degree backgrounds.",
+        "source": "ICAI data as of 28 Feb 2025 (as reported by Careers360)",
+        "date": "2025-02",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/bcom.accounting.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bcom.accounting.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/bcom.accounting.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

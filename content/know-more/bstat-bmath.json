@@ -1,0 +1,83 @@
+{
+  "title": "B.Stat / B.Math (ISI / CMI)",
+  "kicker": "Undergraduate statistics and mathematics degrees",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Small, mathematics-heavy degrees at two specialised institutes. The Indian Statistical Institute offers a B.Stat (Hons) at Kolkata and a B.Math (Hons) at Bengaluru, each three years long. Chennai Mathematical Institute offers a four-year BS (Honours) in Mathematics, Mathematics and Computer Science, or Mathematics and Physics, with an exit option after three years."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3–4 years",
+            "note": "ISI: 3 years. CMI: 4 years, with a B.Sc exit after 3 years"
+          },
+          {
+            "label": "ISI seats per programme",
+            "value": "~63 + 16 for women",
+            "note": "Each of B.Stat and B.Math; extra seats for INMO qualifiers",
+            "source": "ISI admission seat table (as reported)",
+            "date": "2026-27",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Mathematics. ISI admits through its own ISI Admission Test (held in May); INMO qualifiers can get extra seats. CMI admits through its own entrance exam (also in May), and strong performers in national olympiads may be exempted."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats are few and the entrance tests are mathematics-heavy.",
+          "Graduates often continue to a master's or PhD, or move into data, finance and software roles.",
+          "ISI's BSDS (data science) programme has a separate admission route."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bstat-bmath.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bstat-bmath.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bstat-bmath.government"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

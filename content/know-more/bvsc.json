@@ -1,0 +1,126 @@
+{
+  "title": "BVSc & AH",
+  "kicker": "Undergraduate veterinary degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Bachelor of Veterinary Science and Animal Husbandry. You study animal anatomy, medicine, surgery and gynaecology alongside livestock, dairy and poultry production, then complete a one-year internship. It is regulated by the Veterinary Council of India (VCI)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5½ years",
+            "note": "4½ years of study + 1-year compulsory internship"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~22,400",
+            "note": "All modes; a further ~5,400 are listed separately as B.V.Sc.",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "All India Quota seats",
+            "value": "858",
+            "note": "15% of seats in recognised colleges, counselled by VCI",
+            "source": "VCI Information Bulletin 2026-27 (as reported)",
+            "date": "2026-27",
+            "verified": false
+          },
+          {
+            "label": "Colleges teaching BVSc & AH",
+            "value": "~70",
+            "note": "56 fully recognised, the rest provisionally recognised",
+            "source": "Rajya Sabha reply, Ministry of Fisheries, Animal Husbandry & Dairying (as reported)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry, Biology and English, and a NEET-UG score. VCI counsels the 15% All India Quota online; states fill the remaining 85% through their own counselling, usually on NEET-UG scores."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Practice needs registration with the VCI or a State Veterinary Council.",
+          "State animal husbandry departments run veterinary hospitals and recruit veterinary officers.",
+          "An M.V.Sc. (admission mostly via ICAR AIEEA-PG or state tests) is the usual way to specialise."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BVSc & AH enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  20690,
+                  20749,
+                  22394
+                ]
+              }
+            ]
+          }
+        },
+        "note": "B.V.Sc. & A.H. programme row only.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bvsc.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bvsc.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bvsc.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

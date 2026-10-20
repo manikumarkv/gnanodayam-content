@@ -1,0 +1,87 @@
+{
+  "title": "Political Science",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Political Science as a major studies power, government and public life — political theory, Indian government and politics, comparative politics, international relations, public administration and public policy."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in Political Science",
+            "value": "~2.6 lakh",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in Political Science",
+            "value": "~4,700",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG, where the subject itself can be one of the tests counted; others admit on Class 12 marks or their own test. Some universities fix the major at admission; others, under the NEP four-year programme, let students settle it after the first year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The syllabus overlaps heavily with UPSC and state PSC general studies (polity, governance, international relations).",
+          "Jobs with a bachelor's include policy research assistance, journalism, political consulting, NGO and advocacy work, and public-affairs roles.",
+          "Think-tank and international-relations roles usually expect a master's degree.",
+          "Common next steps: an M.A. in Political Science, International Relations or Public Policy, a 3-year LL.B, or civil-services preparation."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/ba.political-science.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/ba.political-science.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/ba.political-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

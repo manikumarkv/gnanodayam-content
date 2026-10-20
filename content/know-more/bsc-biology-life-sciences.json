@@ -1,0 +1,134 @@
+{
+  "title": "B.Sc Biology / Life Sciences",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree in living systems. Depending on the college it is offered as Zoology, Botany, Microbiology, Biotechnology, Biochemistry or a combined Life Sciences major. You study cell and molecular biology, genetics, physiology, ecology and lab techniques. It leads to biotech and pharma labs, research, healthcare-adjacent work and teaching."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "B.Sc enrolment (all majors)",
+            "value": "~44.7 lakh",
+            "note": "Regular mode; down from ~47.3 lakh in 2020-21",
+            "source": "AISHE 2023-24, Box 14 regular mode (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students across life-science subjects",
+            "value": "~2.7 lakh",
+            "note": "Sum of AISHE PG rows for Zoology, Botany, Microbiology, Bio-Science, Life Science, Bio-Technology and Bio-Chemistry",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream, usually with Biology (Physics, Chemistry and Biology). Central universities (Delhi University, BHU and others) admit through CUET-UG scores in the relevant subjects; many state universities and their colleges admit on Class 12 merit or a state test. You usually choose the major — or a combination of two or three subjects — at admission. This is a separate route from NEET-based medical admissions."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Lab, research and biotech R&D roles commonly expect an M.Sc or PhD.",
+          "IIT JAM (Biotechnology paper), GAT-B (for biotechnology programmes) and CUET-PG lead to master's seats.",
+          "Entry roles include lab technician, quality control, clinical research and healthcare operations.",
+          "Teaching needs a B.Ed for schools, or a master's plus NET/SET or PhD for colleges."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Where life-science PG students study",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Zoology",
+                "value": 96873
+              },
+              {
+                "label": "Botany",
+                "value": 78248
+              },
+              {
+                "label": "Microbiology",
+                "value": 23526
+              },
+              {
+                "label": "Bio-Science",
+                "value": 23474
+              },
+              {
+                "label": "Life Science",
+                "value": 21548
+              },
+              {
+                "label": "Bio-Technology",
+                "value": 18339
+              },
+              {
+                "label": "Bio-Chemistry",
+                "value": 7047
+              }
+            ]
+          }
+        },
+        "note": "PG enrolment by subject; shows the spread of specialisations, not the B.Sc itself.",
+        "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bsc.biology-life-sciences.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc.biology-life-sciences.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc.biology-life-sciences.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

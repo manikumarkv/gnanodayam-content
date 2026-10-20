@@ -1,0 +1,104 @@
+{
+  "title": "CMA (Cost & Management Accountancy)",
+  "kicker": "Professional qualification (ICMAI)",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Cost and Management Accountancy is a professional qualification, not a university degree. It is awarded by the Institute of Cost Accountants of India (ICMAI), a statutory body once known as ICWAI. The course covers costing, management accounting, financial management, tax and cost audit. You move through Foundation, Intermediate and Final levels, with practical training along the way."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Exam levels",
+            "value": "3",
+            "note": "Foundation → Intermediate → Final; exams in June and December"
+          },
+          {
+            "label": "Practical training",
+            "value": "15 months",
+            "note": "For students registered for Intermediate from February 2020",
+            "source": "ICMAI practical training scheme",
+            "date": "2020",
+            "verified": false
+          },
+          {
+            "label": "CMA Final pass rate (both groups)",
+            "value": "~33%",
+            "note": "June 2026: 1,430 of 4,337 passed",
+            "source": "ICMAI result press release",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "CMA Intermediate pass rate (both groups)",
+            "value": "~20%",
+            "note": "June 2026: 2,144 of 10,897 passed",
+            "source": "ICMAI result press release",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Completed the Final course",
+            "value": "4,220",
+            "note": "In the June 2026 exam session",
+            "source": "ICMAI result press release",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register with ICMAI for the Foundation course and take the Foundation exam after Class 12; any stream can apply. Graduates and some others who meet ICMAI's conditions can register directly for the Intermediate level."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Cost audits under the Companies Act are done by practising cost accountants.",
+          "Exams are held twice a year, so a failed level usually means waiting about six months to retry.",
+          "Many students take a B.Com or another degree alongside the course.",
+          "Since 2021, UGC treats the CMA (ICWA) qualification as equivalent to a postgraduate degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/cma.job"
+          },
+          {
+            "label": "Further Study",
+            "href": "/explore/cma.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/cma.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

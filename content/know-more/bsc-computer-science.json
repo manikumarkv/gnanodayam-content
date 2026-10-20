@@ -1,0 +1,112 @@
+{
+  "title": "B.Sc Computer Science",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree in computing: programming, data structures, databases, operating systems, networks and discrete mathematics, often alongside Mathematics or another science subject. It is more theory- and maths-oriented than a BCA and shorter than a B.Tech CSE. It leads to software and data jobs, an MCA or M.Sc, or further study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "B.Sc enrolment (all majors)",
+            "value": "~44.7 lakh",
+            "note": "Regular mode; down from ~47.3 lakh in 2020-21",
+            "source": "AISHE 2023-24, Box 14 regular mode (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Computer Science",
+            "value": "~43,600",
+            "note": "M.Sc and other PG programmes in AISHE's 'IT & Computer — Computer Science' row; MCA is counted separately",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream, usually with Mathematics (many colleges require it for Computer Science). Central universities (Delhi University, BHU and others) admit through CUET-UG scores in the relevant subjects; many state universities and their colleges admit on Class 12 merit or a state test. You usually choose the major — or a combination of two or three subjects — at admission."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Software employers often hire B.Sc graduates, but some campus drives and job listings ask for B.E./B.Tech only.",
+          "Common next steps: an MCA (NIMCET for NITs, state tests, CUET-PG), an M.Sc, or a job.",
+          "Projects, internships and coding practice matter as much as the degree for tech hiring.",
+          "Government routes are mostly general-graduate exams (SSC, banking, state PSCs)."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bsc.computer-science.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc.computer-science.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc.computer-science.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Frontend Developer",
+            "href": "/roles/frontend-developer"
+          },
+          {
+            "label": "Backend Developer",
+            "href": "/roles/backend-developer"
+          },
+          {
+            "label": "Full-Stack Developer",
+            "href": "/roles/full-stack-developer"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

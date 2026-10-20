@@ -1,0 +1,95 @@
+{
+  "title": "Government / Competitive",
+  "kicker": "After Class 12 · Aim for a government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Aiming for a government job through competitive exams — the civil services (UPSC), central clerical and officer posts (SSC), public-sector banks (IBPS/SBI), the armed forces (NDA), and many state-level exams. Selection is by written exams, often followed by interviews, skill tests, or physical and medical standards. These jobs offer security and benefits, but competition is intense and preparation can take years."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "UPSC Civil Services 2024 — recommended",
+            "value": "1,009",
+            "note": "Final result, April 2025; more added later from the reserve list",
+            "source": "UPSC final result (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "SSC CGL 2024 — vacancies",
+            "value": "~17,727",
+            "note": "Tentative, at notification",
+            "source": "SSC notification (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "SSC CGL 2023 — registered candidates",
+            "value": "~24.7 lakh",
+            "note": "About half appeared",
+            "source": "SSC data (as reported)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Directly after Class 12, you can sit for the NDA & NA exam (Physics and Maths needed for Air Force and Navy), SSC CHSL, SSC MTS and GD Constable, and several state-level and defence entries. UPSC Civil Services, SSC CGL and bank PO/clerk exams need a graduate degree, so most aspirants take them after — or in the final year of — a degree. Each exam has age limits, with relaxations for reserved categories."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies are small compared with the number of applicants, so many candidates take several attempts.",
+          "Preparation is often combined with a degree, a job or coaching, and a fallback plan is common.",
+          "Notifications, syllabi and vacancy numbers change every cycle; the official notice is the reference for each exam.",
+          "Selection is merit-based, and reservation rules apply for SC, ST, OBC, EWS and PwBD candidates."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "NDA (Defence)",
+            "href": "/explore/government-competitive.nda-defence"
+          },
+          {
+            "label": "SSC",
+            "href": "/explore/government-competitive.ssc"
+          },
+          {
+            "label": "UPSC Civil Services",
+            "href": "/explore/government-competitive.upsc-civil-services"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

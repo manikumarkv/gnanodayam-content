@@ -1,0 +1,88 @@
+{
+  "title": "Finance",
+  "kicker": "BBA specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A BBA track focused on managing money in a business — financial accounting, corporate finance, financial markets, investment and portfolio basics, banking, and cost accounting, within a broader management degree."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Regulator",
+            "value": "AICTE approval since 2024-25",
+            "note": "Alongside the affiliating university; BBA, BCA and BMS were brought under AICTE from 2024-25",
+            "source": "AICTE Approval Process Handbook 2024-27 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Demat accounts in India",
+            "value": "~21.6 crore",
+            "note": "A measure of retail market participation, not of jobs",
+            "source": "SEBI monthly data (as reported)",
+            "date": "Dec 2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Admission is by Class 12 marks, CUET-UG, or a university's own test. Most students pick the specialisation in the second or third year; some institutes admit directly to a named programme. "
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It has fewer accounting papers than a B.Com and more management subjects.",
+          "Several market-facing roles need SEBI-mandated NISM certifications, such as mutual fund distribution.",
+          "Entry roles include financial analyst trainee, credit or loan processing, banking sales and fund operations.",
+          "Common next steps: an MBA (Finance), CFA or FRM, or bank recruitment exams."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/bba.finance.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bba.finance.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/bba.finance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

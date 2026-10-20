@@ -1,0 +1,99 @@
+{
+  "title": "BS-MS (IISER / NISER)",
+  "kicker": "Five-year integrated science degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A five-year programme that combines a bachelor's and a master's in the basic sciences, with a strong focus on research. The seven IISERs award a BS-MS dual degree; NISER Bhubaneswar and UM-DAE CEBS Mumbai offer a similar five-year integrated M.Sc. You study biology, chemistry, mathematics and physics first, then major in one subject and finish with a year-long research project."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5 years",
+            "note": "10 semesters; the final year is mostly a research project"
+          },
+          {
+            "label": "IISER BS-MS seats",
+            "value": "~2,100",
+            "note": "Across 7 IISERs; tentative seat matrix",
+            "source": "IISER IAT 2025 seat matrix (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "NISER + CEBS seats",
+            "value": "~200 + ~57",
+            "note": "Five-year integrated M.Sc",
+            "source": "NEST 2025 notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Students in BS-MS programmes",
+            "value": "~12,000",
+            "note": "All modes; all institutions reporting a BS-MS, not only IISERs",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream. IISERs admit through the IISER Aptitude Test (IAT); the JEE Advanced and KVPY channels were dropped from 2024. NISER and UM-DAE CEBS admit through NEST (National Entrance Screening Test)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "IISERs are at Berhampur, Bhopal, Kolkata, Mohali, Pune, Thiruvananthapuram and Tirupati.",
+          "The programme is designed as a route into research; many graduates go on to a PhD.",
+          "Graduates also move into data, analytics and industry R&D roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bs-ms.job"
+          },
+          {
+            "label": "Higher Education / Research",
+            "href": "/explore/bs-ms.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bs-ms.government"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

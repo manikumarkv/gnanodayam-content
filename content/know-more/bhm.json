@@ -1,0 +1,118 @@
+{
+  "title": "BHM (Hotel Management)",
+  "kicker": "Undergraduate hotel management degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A degree in running hotels, restaurants and other hospitality businesses. You study food production, food and beverage service, front office, housekeeping and hotel accounts, with kitchen practicals and an industry training stint. The name varies: B.Sc. Hospitality & Hotel Administration (HHA) at NCHMCT institutes, and BHM or BHMCT at many universities."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3–4 years",
+            "note": "B.Sc. HHA at NCHMCT institutes is 3 years; university BHM / BHMCT is usually 4 years"
+          },
+          {
+            "label": "NCHMCT-affiliated institutes",
+            "value": "~80",
+            "note": "Includes 21 central IHMs; the rest are state, PSU and private",
+            "source": "NCHMCT / NCHM JEE counselling (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~43,000",
+            "note": "All modes; B.H.M. only — BHMCT (~20,800) and other hotel degrees are counted separately",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream; NCHMCT institutes need English as a subject. The NCHM JEE, run by the National Testing Agency (NTA), fills B.Sc. HHA seats at NCHMCT-affiliated IHMs. Universities and private colleges use state CETs (for example Maharashtra's combined BHMCT/BCA/BBA/BMS/BBM CET), their own tests or Class 12 merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The B.Sc. HHA degree from NCHMCT institutes is awarded by Jawaharlal Nehru University (JNU).",
+          "Hotel and kitchen work often runs in shifts, including weekends and festivals.",
+          "Work extends beyond hotels: flight kitchens, airlines, cruise lines, railway catering and restaurant chains."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.H.M. enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  54588,
+                  51692,
+                  42975
+                ]
+              }
+            ]
+          }
+        },
+        "note": "B.H.M. programme row only; BHMCT and B.Sc. hospitality degrees are listed separately. AISHE counts are based on institutions' own responses.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Industry",
+            "href": "/explore/bhm.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bhm.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bhm.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

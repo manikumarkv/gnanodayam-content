@@ -1,0 +1,95 @@
+{
+  "title": "B.Sc Allied Health",
+  "kicker": "Undergraduate allied and healthcare degrees",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A group of B.Sc degrees that train the technologists who work alongside doctors and nurses: medical laboratory technology, radiology and imaging, optometry, operation theatre and anaesthesia technology, dialysis, cardiac care and others. You choose one specialisation at admission. These professions are regulated under the National Commission for Allied and Healthcare Professions (NCAHP) Act, 2021."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3–4 years",
+            "note": "Varies by course and university; many include a clinical internship"
+          },
+          {
+            "label": "Professions under NCAHP",
+            "value": "56 in 10 categories",
+            "note": "Some later reports say 57",
+            "source": "NCAHP Act, 2021 (Schedule)",
+            "date": "2021",
+            "verified": false
+          },
+          {
+            "label": "B.M.L.T. students enrolled",
+            "value": "~25,600",
+            "note": "All modes. Many allied courses are reported under other programme names, so totals are incomplete",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.Optom. students enrolled",
+            "value": "~9,500",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology; some courses, such as optometry, also accept Mathematics. Admission is through state counselling, university tests, CUET-UG at some universities, or Class 12 merit. AIIMS runs its own B.Sc (Hons) Paramedical entrance for its seats."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The specialisation you pick largely decides the job you do.",
+          "NCAHP is rolling out national curricula and registration rules for these professions (as reported).",
+          "Most work is in hospitals, diagnostic labs, imaging centres and eye-care chains."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bsc-allied-health.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc-allied-health.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc-allied-health.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

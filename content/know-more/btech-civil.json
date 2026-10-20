@@ -1,0 +1,112 @@
+{
+  "title": "Civil Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Civil Engineering covers structures, construction, surveying, geotechnical engineering, transportation, water resources and environmental engineering. It leads to work on buildings, roads, bridges, railways and water systems — with construction firms, consultancies and government departments."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in Civil",
+            "value": "~3.2 lakh",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~25%",
+            "note": "Computed from the same AISHE row (79,876 of 3,23,296)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Class 12 with Physics, Chemistry and Mathematics is required. Civil seats at many private and state colleges have gone unfilled in recent years, so cut-offs there are often lower than for CSE."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Government is a large employer: PWD, irrigation, railways and municipal bodies recruit through state and central exams.",
+          "GATE (CE paper) leads to M.Tech and some PSU jobs; UPSC ESE has a Civil Engineering stream.",
+          "Early private-sector roles are often on construction sites, sometimes in remote locations.",
+          "Structural, geotechnical and transportation specialisations usually come through an M.Tech."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Civil",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 243420
+              },
+              {
+                "label": "Female",
+                "value": 79876
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/btech.civil.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/btech.civil.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/btech.civil.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

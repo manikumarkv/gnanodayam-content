@@ -1,0 +1,110 @@
+{
+  "title": "BJMC (Journalism & Mass Comm.)",
+  "kicker": "Undergraduate journalism & mass communication degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A degree in news, media and communication. You study reporting and editing, media law and ethics, advertising and public relations, and radio, TV and digital production, usually with hands-on projects and an internship. Some universities offer the same subject as a BA (Journalism & Mass Communication)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year honours option at some universities under NEP 2020"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~19,800",
+            "note": "All modes; B.J. and BA (JMC) programmes are counted separately",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Admission is through CUET-UG at many central and state universities, a university's own entrance test, or Class 12 merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Newsrooms and agencies often look closely at published work and internships, not only marks.",
+          "Work spans news, digital content, advertising, PR and corporate communication.",
+          "A master's or PG diploma (for example at IIMC, via CUET-PG) is one route to specialise."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BJMC enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  23333,
+                  21059,
+                  19825
+                ]
+              }
+            ]
+          }
+        },
+        "note": "B.J.M.C. programme row only. AISHE counts are based on institutions' own responses.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bjmc.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bjmc.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bjmc.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

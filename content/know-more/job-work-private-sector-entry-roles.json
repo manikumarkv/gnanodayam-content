@@ -1,0 +1,65 @@
+{
+  "title": "Private-sector entry roles",
+  "kicker": "Job / Work · After Class 12",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Salaried jobs that accept Class 12 pass candidates — for example customer support and BPO roles, retail and counter sales, delivery and logistics, data entry and back-office work, hospitality, and field sales for banks, telecom and insurance companies. Training is usually given on the job."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Minimum qualification",
+            "value": "Class 12",
+            "note": "Some roles accept Class 10"
+          },
+          {
+            "label": "Entrance exam",
+            "value": "None",
+            "note": "Selection is usually by interview, sometimes with a short aptitude or typing test"
+          },
+          {
+            "label": "Workers in regular wage / salaried jobs",
+            "value": "21.7%",
+            "note": "All workers, all ages",
+            "source": "PLFS Annual Report July 2023–June 2024 (MoSPI, as reported)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Mostly through interviews: walk-in drives, job fairs (including state employment exchanges and the National Career Service portal), staffing agencies and online job portals. Communication skills, basic computer use and comfort in English, Hindi or the regional language are commonly tested."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many roles are contract or agency-based; it helps to check for a written offer letter and PF/ESI cover.",
+          "Shift work and sales targets are common in BPO, retail and field-sales roles.",
+          "Moving up to team-lead or supervisor levels is possible, though some employers prefer a degree for promotions.",
+          "A distance degree alongside the job is a common way to keep later options open."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

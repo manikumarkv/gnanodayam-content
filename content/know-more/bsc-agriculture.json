@@ -1,0 +1,118 @@
+{
+  "title": "B.Sc Agriculture",
+  "kicker": "Undergraduate agriculture degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A four-year degree covering crop production, soil science, plant protection, horticulture, agricultural economics and extension. The final year includes field work in villages and industry (Rural Agricultural Work Experience). It is offered mainly by state agricultural universities, with a course structure set by ICAR guidelines."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters, including rural and industry work experience"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~1.77 lakh",
+            "note": "All modes; recorded as B.Agri. Some B.Sc (Hons) Agriculture students may be counted under B.Sc (Hons)",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Agriculture & allied universities",
+            "value": "52",
+            "note": "Universities of this type that responded to the survey",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology or Mathematics; some universities also accept Agriculture as a subject. ICAR fills 20% of the All India Quota seats in agricultural universities, and all seats at a few ICAR and central institutions, through CUET-UG (ICAR counselling). Other seats go through state tests such as KCET, AP/TS EAPCET and MHT-CET, or university tests."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many state agriculture department posts ask for an agriculture degree specifically.",
+          "Private-sector work is mostly in seeds, fertilisers, agrochemicals, food processing and rural finance.",
+          "An M.Sc (Agriculture) through ICAR AIEEA-PG is a common next step."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Sc Agriculture enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  154954,
+                  169273,
+                  176858
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Programme recorded as B.Agri. in AISHE",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Agri-business",
+            "href": "/explore/bsc-agriculture.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc-agriculture.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc-agriculture.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

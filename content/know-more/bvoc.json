@@ -1,0 +1,110 @@
+{
+  "title": "B.Voc",
+  "kicker": "Bachelor of Vocation — skills-based degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year, skills-based bachelor's degree in one trade, such as retail, tourism, healthcare technology, software or media. Most of the credits go to hands-on skill training and on-the-job learning, linked to the National Skills Qualifications Framework (NSQF). Universities and colleges run it under UGC and AICTE schemes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Exit points: diploma after 1 year, advanced diploma after 2 years (NSQF levels 5–7)"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~73,700",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12; some trades need specific subjects, and some colleges also take ITI or diploma holders. Admission is mostly by Class 12 merit or a university's own process. Some central universities, such as MANUU and the Central University of Kashmir, use CUET-UG."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A UGC notice (2016) asks that B.Voc be treated on par with other bachelor's degrees for UPSC, SSC and state PSC exams.",
+          "The trade you choose shapes your job options more than the degree name.",
+          "An M.Voc, or any master's open to graduates (such as an MBA), can follow."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Voc enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  61679,
+                  70079,
+                  73719
+                ]
+              }
+            ]
+          }
+        },
+        "note": "AISHE counts are based on institutions' own responses.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bvoc.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bvoc.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bvoc.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

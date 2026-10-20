@@ -1,0 +1,142 @@
+{
+  "title": "CSE — Computer Science & Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Computer Science & Engineering covers how software and computers work: programming, data structures and algorithms, operating systems, databases, computer networks, theory of computation and compilers, plus electives such as machine learning, security and cloud. It leads to software jobs, research and higher study, and it is the largest engineering branch in India by enrolment."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in Computer Engineering",
+            "value": "~17.9 lakh",
+            "note": "AISHE's 'Computer Engineering' group; CSE is reported under it",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~34%",
+            "note": "Computed from the same AISHE row (6.05 lakh of 17.87 lakh)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Class 12 with Physics, Chemistry and Mathematics is required. CSE seats usually fill first and have the most competitive cut-offs, so a given rank gets CSE at fewer colleges than other branches."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the syllabus overlaps with IT and AI & ML; recruiters often treat these branches alike.",
+          "Hiring depends heavily on coding skill, projects and internships, not just the degree.",
+          "Outcomes vary widely between colleges, so look at each college's own placement record.",
+          "GATE (CS paper) leads to M.Tech and some PSU jobs; many graduates also go abroad for an MS."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Computer Engineering",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 1182282
+              },
+              {
+                "label": "Female",
+                "value": 604567
+              }
+            ]
+          }
+        },
+        "note": "AISHE's 'Computer Engineering' discipline, all institutions that responded.",
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/btech.cse.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/btech.cse.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/btech.cse.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Frontend Developer",
+            "href": "/roles/frontend-developer"
+          },
+          {
+            "label": "Backend Developer",
+            "href": "/roles/backend-developer"
+          },
+          {
+            "label": "Full-Stack Developer",
+            "href": "/roles/full-stack-developer"
+          },
+          {
+            "label": "Cloud / DevOps Engineer",
+            "href": "/roles/cloud-devops-engineer"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
