@@ -25,6 +25,22 @@
           {
             "label": "Common tools",
             "value": "Taping, exercise equipment, strength and movement testing"
+          },
+          {
+            "label": "Enrolment, B.P.T. (Bachelor of Physiotherapy)",
+            "value": "~1.16 lakh",
+            "note": "All BPT students, not only those who later specialise in sports",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, all modes, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Khelo India accredited academies",
+            "value": "306",
+            "note": "The same note lists 1,045 Khelo India Centres and 34 State Centres of Excellence",
+            "source": "PIB backgrounder 'Khelo Bharat Niti 2025' (10 Jul 2025)",
+            "date": "2025-07",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,29 @@
           "Work follows the sports calendar, with travel and weekend matches.",
           "Later roles include lead physiotherapist for a team or academy, or running a sports-injury clinic."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.P.T. enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "BPT enrolment",
+                "values": [92586, 104297, 116439]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE each year; covers all BPT students, not only sports physiotherapy.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 11",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

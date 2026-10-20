@@ -25,6 +25,22 @@
           {
             "label": "Key hiring factor",
             "value": "A showreel of your own work"
+          },
+          {
+            "label": "Animation & VFX segment revenue (India)",
+            "value": "~₹103 billion (~₹10,300 crore)",
+            "note": "Segment of the media and entertainment sector; FICCI-EY-based estimates differ slightly by definition",
+            "source": "PIB backgrounder 'Creative Industries as Growth Engines' (16 Feb 2026)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "AVGC professionals needed (projection)",
+            "value": "nearly 2 million by 2030",
+            "note": "A projection for animation, VFX, gaming, comics and XR combined, not a count of current jobs",
+            "source": "PIB backgrounder 'Creative Industries as Growth Engines' (16 Feb 2026), as stated",
+            "date": "2026",
+            "verified": false
           }
         ]
       }

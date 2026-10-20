@@ -26,6 +26,22 @@
           {
             "label": "References used",
             "value": "ISHRAE and ASHRAE guidelines, National Building Code"
+          },
+          {
+            "label": "ISHRAE membership",
+            "value": "25,000+",
+            "note": "Indian Society of Heating, Refrigerating and Air Conditioning Engineers; includes student members",
+            "source": "ISHRAE website (as stated)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "UG enrolment, Mechanical Engineering",
+            "value": "~4.17 lakh",
+            "note": "All mechanical students, of whom only some move into HVAC",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 12, actual responses",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -60,6 +76,29 @@
           "Next roles: senior design engineer, project manager, or energy and green-building consulting.",
           "Demand follows commercial construction and data-centre building."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Undergraduate enrolment in Mechanical Engineering",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "UG enrolment",
+                "values": [543641, 471588, 417166]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE each year; the entry degree for most HVAC engineers, not a count of HVAC jobs.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 12",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

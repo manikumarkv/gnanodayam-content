@@ -25,6 +25,22 @@
           {
             "label": "Common starting titles",
             "value": "HRIS executive, HRMS associate, HR systems analyst"
+          },
+          {
+            "label": "B.B.A. enrolment (all specialisations)",
+            "value": "~8.8 lakh",
+            "note": "HR is one of several BBA specialisations; no separate HR count",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.C.A. enrolment",
+            "value": "~9.6 lakh",
+            "note": "Another common entry degree for HR-systems work",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

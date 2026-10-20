@@ -25,6 +25,22 @@
           {
             "label": "Common tools",
             "value": "Maintenance records software, spreadsheets"
+          },
+          {
+            "label": "Aircraft in fleets of Indian scheduled airlines",
+            "value": "~771",
+            "note": "As on 31 December 2023; each aircraft needs maintained records",
+            "source": "Ministry of Civil Aviation, via Skift (as reported)",
+            "date": "Dec 2023",
+            "verified": false
+          },
+          {
+            "label": "UG enrolment in Aeronautical Engineering",
+            "value": "~19,000",
+            "note": "Based on actual responses; DGCA-approved AME courses are not counted in AISHE",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 12",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

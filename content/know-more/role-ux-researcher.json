@@ -25,6 +25,29 @@
           {
             "label": "Common tools",
             "value": "Survey forms, recording and note tools, Figma (to view designs)"
+          },
+          {
+            "label": "Tech industry workforce (India)",
+            "value": "~5.8 million",
+            "note": "Whole technology industry; UX research is a small part of it",
+            "source": "Nasscom Annual Strategic Review 2025 press release",
+            "date": "FY2025 (est.)",
+            "verified": false
+          },
+          {
+            "label": "Postgraduate enrolment, Psychology",
+            "value": "~54,500",
+            "note": "One of the subjects many UX researchers come from",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 13, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Postgraduate enrolment, Anthropology",
+            "value": "~4,500",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 13, actual responses",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

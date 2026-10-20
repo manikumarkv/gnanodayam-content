@@ -26,6 +26,21 @@
           {
             "label": "Framework",
             "value": "EIA process under the Environment (Protection) Act"
+          },
+          {
+            "label": "Postgraduate enrolment, Environmental Science",
+            "value": "~19,100",
+            "note": "Students in PG programmes in the subject, not working consultants",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 13, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. enrolment, Environmental Science",
+            "value": "~2,100",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 13, actual responses",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -60,6 +75,29 @@
           "Growth path: junior consultant → consultant → project manager or functional area expert.",
           "Work volume follows infrastructure and industrial project activity."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate enrolment in Environmental Science",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG enrolment",
+                "values": [15844, 20429, 19148]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE each year, so part of the change can come from reporting coverage.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 13",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

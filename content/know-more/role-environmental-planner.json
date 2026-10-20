@@ -21,6 +21,29 @@
           {
             "label": "Common tools",
             "value": "GIS software, Excel, EIA notification and guidelines"
+          },
+          {
+            "label": "B.Plan enrolment (all modes)",
+            "value": "~1,280 students",
+            "note": "All years of the course; a small, niche programme",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "M.Plan enrolment (all modes)",
+            "value": "~2,010 students",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Environmental Science postgraduate enrolment",
+            "value": "~19,100 students",
+            "note": "Postgraduate level, discipline-wise count",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 13, actual responses",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +78,33 @@
           "Work is project-based and tied to infrastructure and urban development cycles.",
           "Leading EIA studies typically needs accredited experts, which takes years of experience."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Planning degree enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Plan",
+                "values": [1347, 1377, 1282]
+              },
+              {
+                "label": "M.Plan",
+                "values": [2182, 2198, 2011]
+              }
+            ]
+          }
+        },
+        "note": "All modes; based on institutions that responded to AISHE, so totals may be slightly understated. Counts all years of each course.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 11, actual responses",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

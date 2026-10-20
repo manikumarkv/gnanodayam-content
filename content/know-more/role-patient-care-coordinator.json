@@ -26,6 +26,22 @@
           {
             "label": "Languages",
             "value": "Local language plus English; other languages help on international-patient desks"
+          },
+          {
+            "label": "NABH-accredited hospitals",
+            "value": "~4,650",
+            "note": "Accredited hospitals only; many hospitals that hire coordinators are not accredited",
+            "source": "Rajya Sabha reply (Ministry of Health), data from NABH (as reported)",
+            "date": "Dec 2024",
+            "verified": false
+          },
+          {
+            "label": "B.H.A. (Hospital Administration) enrolment",
+            "value": "~6,000",
+            "note": "Students across all years of the degree",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,29 @@
           "The role is people-facing and emotionally demanding at times.",
           "Nursing graduates sometimes move into this role from ward work."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.H.A. (Hospital Administration) enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.H.A. enrolment",
+                "values": [4830, 6498, 6041]
+              }
+            ]
+          }
+        },
+        "note": "Counts only institutions that responded to AISHE; BBA (Hospital Management) students are counted under BBA",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (programme-wise enrolment, actual responses)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

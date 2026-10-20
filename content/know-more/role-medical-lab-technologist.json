@@ -26,6 +26,22 @@
           {
             "label": "Common tools",
             "value": "Haematology and biochemistry analysers, microscopes, lab information systems"
+          },
+          {
+            "label": "NABL-accredited medical laboratories",
+            "value": "~2,568",
+            "note": "Accredited labs only; many more unaccredited labs operate",
+            "source": "NABL (Quality Council of India), accredited bodies summary, data as on 30 Sep 2026",
+            "date": "2026-09",
+            "verified": false
+          },
+          {
+            "label": "Enrolment, B.M.L.T. (Bachelor in Medical Lab Technology)",
+            "value": "~25,600",
+            "note": "Only the programme named B.M.L.T.; B.Sc MLT and diploma students reported under other names are not included",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, all modes, actual responses",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

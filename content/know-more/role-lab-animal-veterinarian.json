@@ -21,6 +21,22 @@
           {
             "label": "Rules followed",
             "value": "CPCSEA guidelines and institutional animal ethics committee approvals"
+          },
+          {
+            "label": "Establishments registered with CCSEA (formerly CPCSEA)",
+            "value": "~1,580",
+            "note": "Compiled from online records over 1999–2023; about 1,130 were private; may include registrations no longer active",
+            "source": "Krishnamoorthy & Lakshmi, Journal of Laboratory Animal Science, 2024 (as reported)",
+            "date": "1999–2023",
+            "verified": false
+          },
+          {
+            "label": "GLP-certified animal facilities in India",
+            "value": "~50",
+            "note": "Same compiled study; reported as 52",
+            "source": "Krishnamoorthy & Lakshmi, Journal of Laboratory Animal Science, 2024 (as reported)",
+            "date": "1999–2023",
+            "verified": false
           }
         ]
       }
@@ -55,6 +71,29 @@
           "An MVSc or a pathology/pharmacology specialisation opens senior research roles.",
           "The work suits those interested in science over clinical practice."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.V.Sc. & A.H. enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.V.Sc. & A.H. enrolment",
+                "values": [20690, 20749, 22394]
+              }
+            ]
+          }
+        },
+        "note": "Based on actual responses from institutions; all years of the course combined. A separate 'B.V.Sc.' programme row is not included.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

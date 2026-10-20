@@ -25,6 +25,22 @@
           {
             "label": "Reports to",
             "value": "An accountant or the business owner"
+          },
+          {
+            "label": "B.Com enrolment (all modes)",
+            "value": "~38.8 lakh students",
+            "note": "All years of the course; B.Com is one common entry degree for bookkeeping",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "MSMEs registered (Udyam + Udyam Assist)",
+            "value": "~7.3 crore",
+            "note": "Cumulative registrations since July 2020; counts enterprises, not bookkeeping jobs",
+            "source": "Ministry of MSME, Year End Review 2025 (as reported)",
+            "date": "Dec 2025",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,35 @@
           "Routine entry work is increasingly automated by accounting software.",
           "Next roles: accounts assistant, accountant."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Com enrolment, regular mode",
+        "unit": "lakh students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "B.Com (regular mode)",
+                "values": [36.7, 37.9, 38.7, 37.4, 34.1]
+              }
+            ]
+          }
+        },
+        "note": "Regular mode only (distance mode excluded); rounded to one decimal. Counts all years of the course, not graduates.",
+        "source": "AISHE 2023-24 (Ministry of Education), Box 14",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {

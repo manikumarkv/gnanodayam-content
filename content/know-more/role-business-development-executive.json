@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "CRM software, email outreach tools, LinkedIn, Excel"
+          },
+          {
+            "label": "B.B.A. enrolment (all specialisations)",
+            "value": "~8.8 lakh",
+            "note": "Students across all BBA years, not only marketing",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Indian tech industry revenue (NASSCOM)",
+            "value": "~US$ 283 billion",
+            "note": "Estimate; one of many sectors that hire business development staff",
+            "source": "NASSCOM Strategic Review 2025 (as reported)",
+            "date": "FY2025",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,29 @@
           "Next roles: senior BDE, key account manager, business development manager.",
           "Targets are pressured; turnover in some sectors is high."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.B.A. enrolment in India",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.B.A. enrolment",
+                "values": [715423, 801662, 881236]
+              }
+            ]
+          }
+        },
+        "note": "All BBA specialisations combined; counts only institutions that responded to AISHE, so true totals are higher",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (programme-wise enrolment, actual responses)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

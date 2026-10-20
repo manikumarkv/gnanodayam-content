@@ -25,6 +25,30 @@
           {
             "label": "Common credentials",
             "value": "NISM or IRDAI certifications for selling mutual funds or insurance"
+          },
+          {
+            "label": "Commercial banks in India",
+            "value": "139 (135 scheduled)",
+            "note": "Includes public, private, foreign, small finance, payments, regional rural and local area banks",
+            "source": "RBI, Trend and Progress of Banking in India 2024-25",
+            "date": "End-March 2025",
+            "verified": false
+          },
+          {
+            "label": "Branches of public, private and foreign banks",
+            "value": "~1.35 lakh",
+            "note": "Sum of bank-group totals; excludes RRBs, small finance banks, digital banking units and admin offices",
+            "source": "RBI, Trend and Progress of Banking in India 2024-25, Appendix Table IV.12",
+            "date": "End-March 2025",
+            "verified": false
+          },
+          {
+            "label": "Mutual fund distributor registrations (ARN holders)",
+            "value": "~2.9 lakh",
+            "note": "Many bank relationship managers hold an ARN/EUIN to sell mutual funds",
+            "source": "AMFI data (as reported, Cafemutual)",
+            "date": "Dec 2024",
+            "verified": false
           }
         ]
       }
@@ -59,6 +83,36 @@
           "Common next steps: senior RM, wealth or priority banking, branch manager, or credit roles.",
           "Retail and SME roles involve a lot of fieldwork and customer visits."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Bank branches by bank group",
+        "unit": "branches",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Public sector banks",
+                "value": 86535
+              },
+              {
+                "label": "Private sector banks",
+                "value": 47275
+              },
+              {
+                "label": "Foreign banks",
+                "value": 774
+              }
+            ]
+          }
+        },
+        "note": "Scheduled commercial bank branches only; excludes RRBs, small finance banks, digital banking units and administrative offices.",
+        "source": "RBI, Trend and Progress of Banking in India 2024-25, Appendix Table IV.12",
+        "date": "End-March 2025",
+        "verified": false
       }
     },
     {

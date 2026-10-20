@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Excel, Word, email, basic purchase or expense software"
+          },
+          {
+            "label": "Active companies (MCA)",
+            "value": "~18.9 lakh",
+            "note": "Companies with active status, about 65% of all registered; every company needs some office administration",
+            "source": "Ministry of Corporate Affairs monthly bulletin (as reported)",
+            "date": "May 2025",
+            "verified": false
+          },
+          {
+            "label": "Registered companies (MCA)",
+            "value": "~29 lakh",
+            "note": "Includes inactive and struck-off companies; excludes LLPs, schools, hospitals and NGOs",
+            "source": "Ministry of Corporate Affairs monthly bulletin (as reported)",
+            "date": "May 2025",
+            "verified": false
           }
         ]
       }

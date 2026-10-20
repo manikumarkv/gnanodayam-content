@@ -21,6 +21,30 @@
           {
             "label": "Common tools",
             "value": "Excel, social media and ad dashboards, analytics tools"
+          },
+          {
+            "label": "Indian media & entertainment sector size",
+            "value": "~₹2.5 lakh crore (INR 2.5 trillion)",
+            "note": "Advertising is a large share of this sector's revenue",
+            "source": "FICCI-EY report (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Growth in advertising revenue",
+            "value": "~8.1%",
+            "note": "Year-on-year growth for India",
+            "source": "FICCI-EY report (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Digital advertising revenue",
+            "value": "~₹70,000 crore (INR 700 billion)",
+            "note": "About 55% of total advertising revenue",
+            "source": "FICCI-EY report (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

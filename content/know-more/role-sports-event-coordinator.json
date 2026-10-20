@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Event-driven, with weekend and on-ground work"
+          },
+          {
+            "label": "Khelo India Programme budget",
+            "value": "~₹1,000 crore",
+            "note": "Union budget allocation to the national sports-development scheme",
+            "source": "PIB (Government of India)",
+            "date": "2025-26",
+            "verified": false
+          },
+          {
+            "label": "Khelo India Games held so far",
+            "value": "17 editions, 50,000+ athletes",
+            "note": "Youth, University, Para and Winter Games combined",
+            "source": "PIB (Government of India)",
+            "date": "June 2025",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,29 @@
           "Work is seasonal and peaks around event calendars.",
           "Long on-ground days and travel are common."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.P.Ed. enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.P.Ed. enrolment",
+                "values": [44224, 50411, 56072]
+              }
+            ]
+          }
+        },
+        "note": "Bachelor of Physical Education only, based on actual responses; B.P.E. and B.P.E.S. are separate rows not included here.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

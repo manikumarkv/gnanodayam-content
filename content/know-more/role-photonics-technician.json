@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Optical benches, power meters, OTDR and fibre splicers, oscilloscopes"
+          },
+          {
+            "label": "Optical fibre laid under BharatNet",
+            "value": "~6.93 lakh km",
+            "note": "Government rural broadband scheme; figure as on 1 Jan 2025",
+            "source": "Ministry of Communications, via IANS (as reported)",
+            "date": "2025-01",
+            "verified": false
+          },
+          {
+            "label": "Optical fibre route length in India",
+            "value": "~42 lakh route km",
+            "note": "All networks, as on March 2025",
+            "source": "Ministry of Communications, via IANS (as reported)",
+            "date": "2025-03",
+            "verified": false
           }
         ]
       }
