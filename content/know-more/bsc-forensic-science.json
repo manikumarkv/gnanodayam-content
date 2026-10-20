@@ -1,0 +1,88 @@
+{
+  "title": "B.Sc Forensic Science",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree that applies chemistry, biology and physics to crime evidence: crime-scene management, fingerprints, questioned documents, toxicology, serology and DNA basics, ballistics and digital evidence, along with criminal law basics and lab work. It leads to private forensic and investigation work, government forensic lab posts (usually after a master's), or an M.Sc."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "UG students in Criminology & Forensic Science",
+            "value": "~4,000",
+            "note": "Only programmes reported under this discipline; some B.Sc Forensic Science courses may be counted under Science",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Forensic Science",
+            "value": "~950",
+            "note": "Criminology & Forensic Science PG counted separately (~1,800)",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream (Physics, Chemistry with Biology or Mathematics). Admission is through CUET-UG at some central universities, the National Forensic Sciences University's own entrance test, or Class 12 merit and university tests at private and state institutions."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The course is offered mostly by private universities and a few specialised institutions.",
+          "Government forensic lab posts are limited and usually ask for a master's.",
+          "Private work includes forensic labs, document verification and insurance investigation.",
+          "Specialising (DNA, toxicology, documents, digital forensics) usually happens at the M.Sc stage."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Forensic Analyst",
+            "href": "/roles/forensic-analyst"
+          },
+          {
+            "label": "Claims Investigator",
+            "href": "/roles/claims-investigator"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -77,6 +77,14 @@
           {
             "label": "B.Stat / B.Math (ISI / CMI)",
             "href": "/explore/bstat-bmath.job"
+          },
+          {
+            "label": "B.Sc · Data Science",
+            "href": "/explore/bsc.data-science.job"
+          },
+          {
+            "label": "B.Tech · Data Science",
+            "href": "/explore/btech.data-science.job"
           }
         ]
       }

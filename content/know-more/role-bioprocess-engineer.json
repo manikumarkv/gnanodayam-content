@@ -1,0 +1,82 @@
+{
+  "title": "Bioprocess Engineer",
+  "kicker": "Role · Biotech production",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A bioprocess engineer runs the fermentation, cell-culture and purification steps that turn living cells into products such as vaccines, enzymes and biologic medicines. Biopharma, vaccine, enzyme and fermentation companies hire them. A day involves running and monitoring batches, filling in batch records, and working with quality teams on deviations."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Biotechnology or Chemical; M.Sc for some posts"
+          },
+          {
+            "label": "Common tools",
+            "value": "Bioreactors, chromatography systems, batch records"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Plant shifts and clean-room gowning are common"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a biopharma, vaccine or enzyme plant as a trainee or executive in upstream or downstream production, through campus placement or direct application. Some companies prefer an M.Tech or M.Sc for process development roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Aseptic technique and cell-culture handling",
+          "Running fermenters and purification steps",
+          "Good Manufacturing Practice (GMP) documentation",
+          "Basic process calculations and data logging"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: process development scientist, technology transfer, production manager.",
+          "Work is audited against GMP rules, so documentation is constant.",
+          "Plants are concentrated in a few industrial clusters, so relocation is common."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Biotechnology",
+            "href": "/explore/btech.biotech.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

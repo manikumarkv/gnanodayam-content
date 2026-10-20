@@ -69,6 +69,26 @@
           {
             "label": "B.Tech · Mechanical",
             "href": "/explore/btech.mechanical.job"
+          },
+          {
+            "label": "B.Tech · Agricultural Engineering",
+            "href": "/explore/btech.agricultural.job"
+          },
+          {
+            "label": "B.Tech · Automobile",
+            "href": "/explore/btech.automobile.job"
+          },
+          {
+            "label": "B.Tech · Chemical",
+            "href": "/explore/btech.chemical.job"
+          },
+          {
+            "label": "B.Tech · Food Technology",
+            "href": "/explore/btech.food-tech.job"
+          },
+          {
+            "label": "B.Tech · Metallurgy & Materials",
+            "href": "/explore/btech.metallurgy.job"
           }
         ]
       }

@@ -1,0 +1,79 @@
+{
+  "title": "Industrial Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An industrial engineer studies how people, machines and materials come together and finds ways to make work faster, safer and cheaper. Employers include manufacturers (automotive, apparel, electronics, consumer goods), warehouses, logistics firms and hospitals. A typical day includes time studies on the floor, analysing data and running improvement projects with production teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Production / Industrial or Mechanical"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, time-study methods, lean tools (5S, value-stream mapping), simulation"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join manufacturing or logistics firms as graduate engineer trainees in the industrial engineering or operations team. Lean or Six Sigma training and a shop-floor internship help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Work study and time standards",
+          "Data analysis in spreadsheets",
+          "Lean manufacturing methods",
+          "Plant layout and line balancing",
+          "Working with operators and supervisors"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The role sits between engineering and management.",
+          "It often leads to operations or supply-chain roles.",
+          "Next roles: senior industrial engineer, operations manager, continuous-improvement lead."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Production & Industrial",
+            "href": "/explore/btech.production.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Field Engineer (Oilfield Services)",
+  "kicker": "Role · Oil & gas",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An oilfield field engineer leads a small crew that delivers one specialised service at a well — such as wireline logging, cementing, well testing or stimulation. Oilfield service companies hire them to work for oil and gas operators. Days are long and irregular when a job is running, and are spent preparing equipment and reports at the base between jobs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in Petroleum, Mechanical, Electrical or ECE"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Long field rotations, onshore and offshore, sometimes abroad"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Service companies hire freshers as field engineer trainees, mostly through campus placement, followed by a structured training period. A valid passport and willingness to relocate and travel are usually expected."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Operating and troubleshooting field equipment",
+          "Basic interpretation of well data",
+          "Leading a small crew on site",
+          "Well-site safety practices",
+          "Writing clear job reports"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The lifestyle is demanding; many move to office roles after a few years.",
+          "Common next roles: senior field engineer, service quality or technical support, operations or sales.",
+          "Hiring is cyclical and tracks oil-and-gas activity."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Petroleum",
+            "href": "/explore/btech.petroleum.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

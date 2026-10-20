@@ -74,6 +74,22 @@
           {
             "label": "B.Sc · Physics",
             "href": "/explore/bsc.physics.job"
+          },
+          {
+            "label": "B.Sc · Biotechnology",
+            "href": "/explore/bsc.biotechnology.job"
+          },
+          {
+            "label": "B.Sc · Environmental Science",
+            "href": "/explore/bsc.environmental-science.job"
+          },
+          {
+            "label": "B.Sc · Forensic Science",
+            "href": "/explore/bsc.forensic-science.job"
+          },
+          {
+            "label": "B.Sc · Geology",
+            "href": "/explore/bsc.geology.job"
           }
         ]
       }

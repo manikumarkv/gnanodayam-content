@@ -1,0 +1,80 @@
+{
+  "title": "Production & Industrial Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Production & Industrial Engineering covers manufacturing processes, machine tools, metrology, production planning, operations research, quality management and work study. It is close to mechanical engineering but focuses on how things are made and how factories run. Names vary: Production, Industrial, Manufacturing, or Industrial & Production Engineering."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "GATE paper",
+            "value": "Production & Industrial Engineering (PI)",
+            "note": "Graduates can also take the Mechanical (ME) paper, subject to eligibility"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. The branch is offered at a few IITs and NITs (allotted through JoSAA) and at state and private colleges, filled through state CETs or university tests. Class 12 with Physics, Chemistry and Mathematics is required. Fewer colleges offer it than Mechanical, so seats are limited."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Employers are mostly manufacturers, plus logistics and consulting firms.",
+          "Most core jobs are also open to Mechanical graduates, so competition is shared.",
+          "Operations and supply-chain roles are common next steps, sometimes after an MBA."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Production Engineer",
+            "href": "/roles/production-engineer"
+          },
+          {
+            "label": "Industrial Engineer",
+            "href": "/roles/industrial-engineer"
+          },
+          {
+            "label": "Quality Engineer",
+            "href": "/roles/quality-engineer"
+          },
+          {
+            "label": "Supply Chain Associate",
+            "href": "/roles/supply-chain-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

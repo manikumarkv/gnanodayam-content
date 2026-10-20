@@ -1,0 +1,91 @@
+{
+  "title": "M.Sc Geology / Applied Geology",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree (also offered as M.Sc Applied Geology, or M.Sc Tech at some institutes) covering mineralogy, petrology, structural geology, stratigraphy, economic geology, hydrogeology and remote sensing, with extended field training. It is the usual qualification for geologist posts in companies and government."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "M.Sc Tech Applied Geology at some institutes runs 3 years"
+          },
+          {
+            "label": "PG students in Geology",
+            "value": "~8,700",
+            "note": "Geo-Physics is counted separately (~1,100)",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG pass-outs in Geology",
+            "value": "~4,100 a year",
+            "note": "Based on institutions that reported data",
+            "source": "AISHE 2023-24, Table 37 PG out-turn by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc with Geology. Admission is through IIT JAM (Geology paper) for IITs and some other institutes, CUET-PG for many central universities, or a state or university entrance test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It is the base qualification for the UPSC Combined Geo-Scientist Examination.",
+          "GATE (Geology & Geophysics) opens M.Tech seats and some PSU posts.",
+          "Fieldwork is a large, required part of the course."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Geologist",
+            "href": "/roles/geologist"
+          },
+          {
+            "label": "Mud Logger",
+            "href": "/roles/mud-logger"
+          },
+          {
+            "label": "GIS Analyst",
+            "href": "/roles/gis-analyst"
+          },
+          {
+            "label": "Government / competitive",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

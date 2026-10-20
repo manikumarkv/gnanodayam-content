@@ -1,0 +1,79 @@
+{
+  "title": "Pollution Control Boards",
+  "kicker": "Government jobs · Environment",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Central Pollution Control Board (CPCB) and the State Pollution Control Boards / Committees monitor air, water and noise pollution, run testing labs, and issue consents to industries. They recruit scientific and technical staff such as scientists, environmental engineers, and junior / senior scientific and lab assistants."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Who hires",
+            "value": "CPCB and each State Pollution Control Board or Committee"
+          },
+          {
+            "label": "Typical posts",
+            "value": "Scientist, Environmental Engineer, Scientific Assistant, Lab Assistant"
+          },
+          {
+            "label": "Qualification",
+            "value": "Science degree (often a master's) in Environmental Science, Chemistry or related subjects",
+            "note": "Engineering posts need a B.E./B.Tech"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Watch the CPCB and your state board's recruitment notices; some states recruit through the state PSC or staff selection board. Selection is usually a written test, sometimes with an interview or skill test. Many scientist posts ask for a master's degree; assistant posts often accept a B.Sc."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Recruitment is irregular and differs from state to state.",
+          "Work includes sampling, lab analysis, industry inspections and consent processing.",
+          "Contract and project posts also appear, alongside regular posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "EHS Executive",
+            "href": "/roles/ehs-executive"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          },
+          {
+            "label": "Government / competitive",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -73,6 +73,14 @@
           {
             "label": "B.Tech · Mechanical",
             "href": "/explore/btech.mechanical.job"
+          },
+          {
+            "label": "B.Tech · Electronics & Instrumentation",
+            "href": "/explore/btech.instrumentation.job"
+          },
+          {
+            "label": "B.Tech · Mechatronics & Robotics",
+            "href": "/explore/btech.mechatronics.job"
           }
         ]
       }

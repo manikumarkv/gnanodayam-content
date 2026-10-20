@@ -1,0 +1,83 @@
+{
+  "title": "Mine Planning Engineer",
+  "kicker": "Role · Mining",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A mine planning engineer decides where and in what order a mine will dig — the shape of the pit or the underground layout, the schedule, and the equipment needed — so that the mine meets its targets safely. Mining companies, mining contractors and mining consultancies hire them. Most days are spent at a computer with geology models and survey data, with regular visits to the mine to check plans against reality."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in Mining Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "Mine-planning software (Surpac, Datamine, Vulcan-type), AutoCAD"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Site office at the mine, or a corporate planning office"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start in mine operations and move to planning after some site experience; some companies and consultancies take freshers directly into planning cells. Training in a mine-planning package helps."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Mine design and scheduling",
+          "Working with block and geological models",
+          "Reserve estimation basics",
+          "Reading survey data and plans",
+          "Spreadsheet and software skills"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Site experience makes planning work more realistic and is valued.",
+          "Common next roles: senior planner, planning head, mining consultant.",
+          "Mining plans and their approvals are regulated, so documentation is a large part of the work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mining",
+            "href": "/explore/btech.mining.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

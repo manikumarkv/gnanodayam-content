@@ -1,0 +1,142 @@
+{
+  "title": "B.Sc Biotechnology",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year science degree that applies biology to products and processes. You study cell and molecular biology, genetics, biochemistry, microbiology, immunology, genetic engineering and bioprocess techniques, with a lot of lab work. It is offered as a single major or as one subject in a combination, and leads to lab and quality work in biopharma, diagnostics and research, and often to an M.Sc."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "PG students in Biotechnology",
+            "value": "~18,300",
+            "note": "Master's-level enrolment in the science discipline (the usual next step); AISHE does not report B.Sc Biotechnology separately",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women (PG Biotechnology)",
+            "value": "~73%",
+            "note": "Computed from the same AISHE row",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream, usually with Physics, Chemistry and Biology; some colleges also accept Mathematics in place of Biology. Central universities admit through CUET-UG scores; many state universities and their colleges admit on Class 12 merit or a state test, and private universities may run their own tests. This is a separate route from NEET-based medical admissions."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "R&D and scientist roles usually expect an M.Sc or PhD; with a B.Sc, entry roles are mostly lab, production, QC support, clinical research or sales.",
+          "GAT-B, IIT JAM (Biotechnology) and CUET-PG lead to many M.Sc seats.",
+          "This is a different degree from the four-year B.Tech in Biotechnology.",
+          "Teaching needs a B.Ed for schools, or a master's plus NET/SET or PhD for colleges."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG Biotechnology enrolment by gender",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 5007
+              },
+              {
+                "label": "Female",
+                "value": 13332
+              }
+            ]
+          }
+        },
+        "note": "Postgraduate level, science discipline; shows the next step, not the B.Sc itself.",
+        "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bsc.biotechnology.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc.biotechnology.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc.biotechnology.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Biotech Associate",
+            "href": "/roles/biotech-associate"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Clinical Research Associate",
+            "href": "/roles/clinical-research-associate"
+          },
+          {
+            "label": "Medical Representative",
+            "href": "/roles/medical-representative"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

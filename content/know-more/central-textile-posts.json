@@ -1,0 +1,68 @@
+{
+  "title": "Central Textile Bodies",
+  "kicker": "Government posts for textile graduates",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Ministry of Textiles has offices and bodies that employ textile graduates in technical posts. These include the Office of the Textile Commissioner, the Office of the Development Commissioner (Handlooms) with its Weavers' Service Centres, the Textiles Committee and its testing labs, the Central Silk Board, and the public-sector National Textile Corporation. The work ranges from testing and quality assurance to design, training and support for handloom and powerloom clusters."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Who recruits",
+            "value": "UPSC, SSC (Selection Posts) and the bodies themselves",
+            "note": "Some posts are filled by deputation instead"
+          },
+          {
+            "label": "Degrees asked for",
+            "value": "Textile technology, textile chemistry or processing",
+            "note": "Varies by post; some posts also need experience"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Watch UPSC recruitment advertisements, SSC Selection Post notices and each body's own vacancy notices. Selection is by a written or computer-based test, an interview, or both, depending on the post. Senior technical posts often ask for several years of industry experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies are few and irregular, so most graduates keep other options open.",
+          "Entry-level technical posts are more common than direct officer posts for fresh graduates.",
+          "State handloom and textile departments run separate recruitment through state bodies."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Dietitian",
+  "kicker": "Role · Health & nutrition",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A dietitian plans diets for people with medical conditions and for healthy groups. Hospitals, clinics, diabetes and kidney-care centres, food-service companies and wellness firms hire dietitians. A typical day involves assessing patients, planning therapeutic diets with doctors, counselling patients and families, and checking hospital meals."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Nutrition & Dietetics or Home Science (Food & Nutrition); many add an M.Sc or PG diploma"
+          },
+          {
+            "label": "Professional credential",
+            "value": "Registered Dietitian (RD)",
+            "note": "Indian Dietetic Association exam after a degree, a PG qualification and a supervised internship (as reported)"
+          },
+          {
+            "label": "Common workplaces",
+            "value": "Hospitals, clinics, food service, wellness firms"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc in nutrition, dietetics or home science (food and nutrition), usually followed by an M.Sc or PG diploma in dietetics and a hospital internship. Freshers often start as trainee or assistant dietitians. Many hospital posts prefer or require the RD credential."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Nutritional assessment",
+          "Therapeutic diet planning",
+          "Patient counselling",
+          "Food service and hygiene standards",
+          "Record-keeping and reporting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Clinical posts usually expect a postgraduate qualification or internship, not only a B.Sc.",
+          "Next roles: senior or chief dietitian, clinical nutrition lead, diabetes educator, or private practice.",
+          "Government dietitian posts (railways, central and state hospitals) are few and notified irregularly."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Nutrition & Dietetics",
+            "href": "/explore/bsc.nutrition-dietetics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

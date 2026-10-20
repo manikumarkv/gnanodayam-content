@@ -1,0 +1,91 @@
+{
+  "title": "B.Sc Geology",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree in the Earth: minerals and rocks, fossils, structural geology, stratigraphy, economic geology and groundwater, with regular field trips and mapping. It is usually studied with Chemistry, Physics or Mathematics. Most geologist jobs expect a master's, so many graduates go on to an M.Sc in Geology or Applied Geology."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "PG students in Geology",
+            "value": "~8,700",
+            "note": "M.Sc and other PG programmes; B.Sc-level figures are not published by subject",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. scholars in Geology",
+            "value": "~1,500",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream, usually with Physics, Chemistry and Mathematics or Biology. Central universities admit through CUET-UG; many state universities and colleges admit on Class 12 merit or a state test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Field training is a required and large part of the course.",
+          "An M.Sc is the usual entry level for geologist titles in companies and government.",
+          "The UPSC Combined Geo-Scientist Examination and GATE (Geology & Geophysics) are the main exam routes after an M.Sc.",
+          "Mining, exploration, groundwater and oil and gas are the main employing sectors."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Geologist",
+            "href": "/roles/geologist"
+          },
+          {
+            "label": "Mud Logger",
+            "href": "/roles/mud-logger"
+          },
+          {
+            "label": "GIS Analyst",
+            "href": "/roles/gis-analyst"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

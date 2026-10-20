@@ -1,0 +1,78 @@
+{
+  "title": "Automotive Service Engineer",
+  "kicker": "Role · Automotive after-sales",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An automotive service engineer works in after-sales: diagnosing faults, guiding workshop technicians, handling warranty cases and sending field-failure reports back to the maker. Employers include vehicle makers' service divisions, authorised dealerships and fleet operators. The day is split between the workshop floor, customers and reporting."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech or diploma in Automobile or Mechanical Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "On-board diagnostics (OBD) scan tools, dealer management software"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join dealerships or a vehicle maker's service team as trainees, often starting in the workshop. A driving licence is usually expected, and some roles need travel across a region."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Vehicle systems and diagnostics",
+          "Customer communication",
+          "Warranty and service documentation",
+          "Basics of electric and hybrid vehicles"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Customer-facing work, including weekends at some dealerships.",
+          "Workshop experience can count toward state Motor Vehicle Inspector eligibility in some states.",
+          "Next roles: service manager, regional service lead, warranty or quality analyst."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Automobile",
+            "href": "/explore/btech.automobile.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

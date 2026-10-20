@@ -1,0 +1,138 @@
+{
+  "title": "B.Sc Home Science / Community Science",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree about individuals, families and communities. It usually covers five areas — food and nutrition, human development and family studies, textiles and clothing, resource management, and extension and communication — with a specialisation in later years. ICAR's agricultural universities now call it Community Science. It leads to nutrition, child-development, textile, extension and teaching work, and to postgraduate study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for B.Sc (Hons) Community Science at agricultural universities and for NEP Honours degrees"
+          },
+          {
+            "label": "UG students enrolled",
+            "value": "~86,800",
+            "note": "Responding institutions only",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Graduates in a year",
+            "value": "~20,900",
+            "note": "UG out-turn, responding institutions only",
+            "source": "AISHE 2023-24, Table 36 UG out-turn by discipline (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12; many colleges prefer or require science, while some accept arts or commerce (rules vary). Central universities admit through CUET-UG; state universities and women's colleges often admit on Class 12 merit or a state test. Agricultural universities admit to B.Sc (Hons) Community Science through ICAR's quota (via CUET-UG) or a state entrance."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most students are women, and many colleges offering it are women's colleges.",
+          "ICAR's Fifth Deans' Committee recommended renaming it Community Science; several agricultural universities adopted the name around 2017 (as reported).",
+          "Your specialisation shapes your options: food and nutrition leads towards dietetics; human development towards early-childhood and social-sector work; textiles towards apparel and quality roles.",
+          "Common next steps are an M.Sc in a home science area, an M.Sc in Food & Nutrition, or a B.Ed for teaching."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Who studies Home Science (UG)",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Women",
+                "value": 81092
+              },
+              {
+                "label": "Men",
+                "value": 5701
+              }
+            ]
+          }
+        },
+        "note": "Responding institutions only.",
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bsc.home-science.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc.home-science.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc.home-science.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Nutritionist",
+            "href": "/roles/nutritionist"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Quality Control Analyst",
+            "href": "/roles/quality-control-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

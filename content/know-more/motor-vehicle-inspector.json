@@ -1,0 +1,74 @@
+{
+  "title": "Motor Vehicle Inspector",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Motor Vehicle Inspectors work in a state's transport or motor vehicles department. They check vehicle fitness, conduct driving tests, inspect vehicles after accidents and enforce road-safety rules. Each state recruits for these posts, usually through its Public Service Commission."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Central minimum qualification",
+            "value": "Class 10 + 3-year diploma in Automobile or Mechanical Engineering",
+            "note": "Plus a driving licence for geared motorcycles and light motor vehicles; states add their own rules",
+            "source": "MoRTH notification under Section 213(4), Motor Vehicles Act (as reported)",
+            "date": "2019",
+            "verified": false
+          },
+          {
+            "label": "Who recruits",
+            "value": "State PSC or state transport department"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Meet your state's recruitment rules: typically an Automobile or Mechanical engineering qualification, a valid driving licence and, in some states, one to two years of experience in an approved automobile workshop. Apply when the state notifies posts; selection is usually a written exam, sometimes followed by an interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Recruitment is irregular and the rules differ from state to state.",
+          "Domicile and state-language requirements are common.",
+          "Work mixes office duties, driving tests and roadside enforcement."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Automotive Service Engineer",
+            "href": "/roles/automotive-service-engineer"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

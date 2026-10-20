@@ -1,0 +1,85 @@
+{
+  "title": "Geologist",
+  "kicker": "Role · Earth sciences",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Studies rocks, minerals, soil and groundwater to locate resources such as ores, coal, oil and water, and to judge ground conditions for construction. Mining and exploration companies, oil and gas firms, consultancies and government departments hire geologists. Work splits between fieldwork (mapping, sampling, logging drill cores) and office work on maps, data and reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "M.Sc / M.Sc Tech in Geology or Applied Geology",
+            "note": "B.Sc graduates usually start as field or geology assistants"
+          },
+          {
+            "label": "Common tools",
+            "value": "Geological maps, Brunton compass, GPS, GIS software, microscopes"
+          },
+          {
+            "label": "Government route",
+            "value": "UPSC Combined Geo-Scientist Examination",
+            "note": "For Geological Survey of India and groundwater posts; needs a master's"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most geologist posts expect a master's in Geology or Applied Geology. With a B.Sc, entry is usually as a field or exploration assistant with an exploration, mining or consultancy firm. After an M.Sc, routes include company hiring, GATE (Geology & Geophysics) for some PSUs, and the UPSC Combined Geo-Scientist Examination for central posts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Field mapping and sampling",
+          "Identifying rocks and minerals",
+          "Core logging",
+          "Reading and making geological maps (including GIS)",
+          "Report writing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Long field stints in remote areas are common, especially early on.",
+          "A master's is the usual entry level for geologist titles.",
+          "Specialisations include exploration, mining, hydrogeology, engineering geology and petroleum geology."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Geology",
+            "href": "/explore/bsc.geology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

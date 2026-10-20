@@ -1,0 +1,84 @@
+{
+  "title": "Drilling Engineer",
+  "kicker": "Role · Oil & gas",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A drilling engineer plans how an oil or gas well will be drilled — depths, casing, drilling fluids, equipment — and then helps supervise the work on the rig. Upstream oil and gas companies, drilling contractors and oilfield service firms hire them. Field days follow the rig's round-the-clock operations; office days go into well planning, cost tracking and reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in Petroleum or Mechanical"
+          },
+          {
+            "label": "Common certification",
+            "value": "Well-control certification (IWCF or IADC WellSharp)",
+            "note": "Often required before rig postings"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Rotational field duty on onshore or offshore rigs"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join upstream PSUs as trainee or assistant engineers, usually through GATE or the company's own exam followed by interviews, or join drilling contractors and service companies through campus hiring. Freshers often start in rig-site roles before moving to planning."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Well planning and casing design basics",
+          "Drilling fluids and hydraulics",
+          "Well control procedures",
+          "Reading daily drilling reports and logs",
+          "Working safely in a rig crew"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Hiring rises and falls with oil prices and exploration budgets.",
+          "Field rotations mean long stretches away from home, sometimes offshore or abroad.",
+          "Common next roles: senior drilling engineer, drilling superintendent, well engineering lead."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Petroleum",
+            "href": "/explore/btech.petroleum.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

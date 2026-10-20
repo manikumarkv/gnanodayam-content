@@ -1,0 +1,79 @@
+{
+  "title": "Aerospace Design Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An aerospace design engineer works on the shape, structure and parts of aircraft, helicopters, drones, satellites or launch vehicles. Employers include aircraft and component makers, engineering services firms that design for overseas clients, drone and space start-ups, and government research labs. A typical day involves CAD modelling, calculations or simulation, design reviews and documentation."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Aerospace / Aeronautical or Mechanical"
+          },
+          {
+            "label": "Common tools",
+            "value": "CATIA, NX, ANSYS / NASTRAN, MATLAB"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join engineering services firms, drone or space start-ups, or public-sector aerospace companies as graduate engineer trainees. Student aircraft, drone or rocketry projects and CAD skills help when applying; research-lab roles often expect an M.Tech or a GATE score."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "CAD modelling and engineering drawings",
+          "Strength of materials and structures",
+          "Aerodynamics basics",
+          "Finite element analysis",
+          "Technical documentation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much entry-level work is for overseas clients through engineering services firms.",
+          "Core aerospace hiring in India is smaller than in mechanical or software fields.",
+          "Next roles: stress engineer, design lead, systems engineer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Aerospace / Aeronautical",
+            "href": "/explore/btech.aerospace.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

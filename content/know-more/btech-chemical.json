@@ -1,0 +1,128 @@
+{
+  "title": "Chemical Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Chemical Engineering covers how raw materials are turned into products at scale: mass and energy balances, thermodynamics, fluid flow, heat and mass transfer, reaction engineering, process control and plant design, with lab work. It leads to refineries, fertiliser, petrochemical, pharmaceutical and specialty-chemical plants, to process-design (EPC) firms, and to research and government labs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in Chemical",
+            "value": "~52,500",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~27%",
+            "note": "Computed from the same AISHE row (14,422 of 52,541)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "GATE Chemical (CH) paper",
+            "value": "~18,000 registered",
+            "note": "~14,800 appeared; ~3,000 qualified",
+            "source": "GATE 2025 Statistical & Performance Report (IIT Roorkee)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Class 12 with Physics, Chemistry and Mathematics is required. Some institutes also offer closely related B.Tech courses such as Chemical Technology through the same routes."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Plant roles are usually in industrial clusters, often with shift work at the start.",
+          "GATE (CH paper) is used for M.Tech admissions and by several refining, gas and fertiliser PSUs.",
+          "UPSC ESE has no Chemical stream, so government routes run mainly through GATE-based PSUs, BARC and state bodies.",
+          "Some graduates move into software, analytics or management roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Chemical",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 38119
+              },
+              {
+                "label": "Female",
+                "value": 14422
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Process Engineer",
+            "href": "/roles/process-engineer"
+          },
+          {
+            "label": "Production Engineer",
+            "href": "/roles/production-engineer"
+          },
+          {
+            "label": "Process Design Engineer",
+            "href": "/roles/process-design-engineer"
+          },
+          {
+            "label": "EHS Executive",
+            "href": "/roles/ehs-executive"
+          },
+          {
+            "label": "Quality Control Analyst",
+            "href": "/roles/quality-control-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

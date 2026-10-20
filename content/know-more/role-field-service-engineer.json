@@ -1,0 +1,84 @@
+{
+  "title": "Field Service Engineer",
+  "kicker": "Role · Electronics & equipment service",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Installs, maintains and repairs equipment at customers' premises — for example medical devices in hospitals, analytical instruments in labs, or machines in factories. Equipment makers and their service partners hire for this role. A typical day involves travelling to sites, finding and fixing faults, and writing up service reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Electronics / Physics, a diploma, or a B.Tech in ECE, EEE or Instrumentation"
+          },
+          {
+            "label": "Common tools",
+            "value": "Multimeters, oscilloscopes, service manuals and the maker's diagnostic software"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Regular travel within an assigned territory",
+            "note": "Two-wheeler and driving licence are often asked for"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as trainee service engineers with an equipment maker or a dealer, and learn specific product lines through company training. Interviews check basic electronics, fault-finding and communication. Willingness to travel and to work in a given city or region is usually a condition."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading circuit diagrams and service manuals",
+          "Fault-finding with test instruments",
+          "Basic electrical safety",
+          "Explaining problems clearly to customers",
+          "Keeping accurate service records"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Growth path: service engineer → senior / specialist engineer → service or regional manager.",
+          "Product knowledge built on the job can lead to application or sales roles.",
+          "Travel, on-call duty and site deadlines are common."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Electronics",
+            "href": "/explore/bsc.electronics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

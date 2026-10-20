@@ -1,0 +1,87 @@
+{
+  "title": "Process Engineer",
+  "kicker": "Role · Process engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A process engineer looks after how a plant unit runs — temperatures, pressures, flows, yields and energy use — and works out how to make it safer and more efficient. Refineries, fertiliser, petrochemical, specialty-chemical and pharmaceutical plants hire them. A day mixes checking unit data, working through problems with the operations team, and planning trials or small modifications."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Chemical (sometimes Petroleum)"
+          },
+          {
+            "label": "Common tools",
+            "value": "Process simulators (Aspen-type), DCS data, P&IDs, Excel"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Plant-based; shift duty is common at entry"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as graduate engineer trainees through campus placement at process companies. Refining, gas and fertiliser PSUs typically recruit through GATE (Chemical paper) followed by interviews. Some start as shift or production engineers and move into process roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Mass and energy balances",
+          "Reading P&IDs and process flow diagrams",
+          "Unit troubleshooting and root-cause analysis",
+          "Process safety practices (HAZOP, permits, management of change)",
+          "Using process simulation software"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is at plant sites, often in industrial clusters away from big cities.",
+          "Common next roles: senior process engineer, technical services, process design, plant or production manager.",
+          "Hands-on plant years are valued if you later move to design or consulting work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Chemical",
+            "href": "/explore/btech.chemical.job"
+          },
+          {
+            "label": "B.Tech · Petroleum",
+            "href": "/explore/btech.petroleum.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

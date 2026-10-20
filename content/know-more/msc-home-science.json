@@ -1,0 +1,83 @@
+{
+  "title": "M.Sc Home Science / Community Science",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in one home science area: food and nutrition, human development and family studies, textiles and apparel, resource management and consumer science, or extension and communication. Agricultural universities offer it as an M.Sc in Community Science. It leads to specialist roles, college teaching (with UGC-NET) and research."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Includes a dissertation or project in many programmes"
+          },
+          {
+            "label": "PG students in Home Science",
+            "value": "~12,500",
+            "note": "AISHE 'Home Science' row; the discipline total including Nutrition and Food rows is ~19,000",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc in Home Science / Community Science, or a related degree for some specialisations (rules vary). Admission is through CUET-PG at participating universities, a university entrance test or graduation merit; agricultural universities use ICAR's national entrance or their own test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "You choose one specialisation, and it largely decides the jobs that follow.",
+          "UGC-NET (Home Science) is needed for assistant professor posts in colleges; a PhD helps.",
+          "Seats are limited and concentrated in a small number of universities and women's colleges."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Nutritionist",
+            "href": "/roles/nutritionist"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Automobile Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Automobile Engineering is a specialisation of mechanical engineering focused on road vehicles: engines and powertrains, vehicle dynamics, chassis, transmissions, vehicle electronics and, increasingly, electric drives and batteries. Alongside core mechanical subjects, students work in vehicle labs and on projects. It leads to design, testing, manufacturing and after-sales roles in the automotive industry."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in Automobile",
+            "value": "~2,300",
+            "note": "Only programmes reported under 'Automobile Engineering' (2,282); some may be counted under other headings",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~3%",
+            "note": "Computed from the same AISHE row (76 of 2,282)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. Few centrally funded institutes offer Automobile Engineering; most seats are in state and private colleges, filled through state CETs (MHT-CET, KCET, TNEA and others) or university tests. Class 12 with Physics, Chemistry and Mathematics is required. Diploma holders in Automobile or Mechanical Engineering can join year 2 through lateral entry."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The automotive industry is the main employer, so hiring tends to follow vehicle sales cycles.",
+          "Many employers hire Mechanical graduates for the same roles.",
+          "GATE has no separate automobile paper; graduates usually take the Mechanical (ME) paper.",
+          "Electric-vehicle skills (batteries, motors, controls) are increasingly asked for."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Automotive Engineer",
+            "href": "/roles/automotive-engineer"
+          },
+          {
+            "label": "Vehicle Validation Engineer",
+            "href": "/roles/vehicle-validation-engineer"
+          },
+          {
+            "label": "Automotive Service Engineer",
+            "href": "/roles/automotive-service-engineer"
+          },
+          {
+            "label": "Production Engineer",
+            "href": "/roles/production-engineer"
+          },
+          {
+            "label": "Quality Engineer",
+            "href": "/roles/quality-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

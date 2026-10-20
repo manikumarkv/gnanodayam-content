@@ -1,0 +1,82 @@
+{
+  "title": "Irrigation Engineer",
+  "kicker": "Role · Irrigation & water",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An irrigation engineer plans and installs systems that bring water to crops, such as drip and sprinkler networks. Micro-irrigation companies, their dealers and contractors working on government irrigation schemes hire them. A day involves field surveys, designing layouts, estimating costs and supervising installation."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Agricultural or Civil Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "Survey instruments, design software, spreadsheets"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Mostly field-based, with travel across villages"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a micro-irrigation company or its dealer network as a field or design engineer trainee, through campus placement or direct application. Government irrigation and soil conservation posts come through separate state recruitment."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Hydraulics and water requirement calculations",
+          "Layout design for drip and sprinkler systems",
+          "Cost estimation and quotations",
+          "Working with farmers in the local language"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: project engineer, area manager, design lead.",
+          "Much of the work is linked to subsidy schemes, so paperwork is part of the job.",
+          "Postings are often in rural areas."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Agricultural Engineering",
+            "href": "/explore/btech.agricultural.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

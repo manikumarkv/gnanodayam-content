@@ -1,0 +1,84 @@
+{
+  "title": "Materials Testing Engineer",
+  "kicker": "Role · Metallurgy",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A materials testing engineer checks whether materials and parts meet their specifications — how strong they are, what they are made of, and whether they hide cracks or other defects. Testing laboratories, inspection agencies, steel and component makers, and aerospace and defence suppliers hire them. A day involves preparing samples, running tests on lab instruments or on site, and writing test reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in Metallurgical or Materials; B.Sc / Diploma for some posts"
+          },
+          {
+            "label": "Common standards",
+            "value": "ASTM / IS test methods, ISO/IEC 17025 for labs"
+          },
+          {
+            "label": "Common certification",
+            "value": "NDT Level II (e.g. ASNT or ISO 9712)",
+            "note": "Asked for in NDT roles"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join testing labs, inspection agencies or plant labs as trainee engineers through campus placement or direct application. Short NDT courses leading to Level II certification are a common add-on for site inspection work."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Mechanical testing (tensile, hardness, impact)",
+          "Metallography and microscopy",
+          "Non-destructive testing methods",
+          "Following test standards and procedures",
+          "Writing clear test reports"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Lab roles are steady; site NDT roles involve travel and shifts.",
+          "Common next roles: senior testing engineer, lab in-charge, failure-analysis or quality roles.",
+          "Accredited labs follow strict documentation, so attention to detail matters."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Metallurgy & Materials",
+            "href": "/explore/btech.metallurgy.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

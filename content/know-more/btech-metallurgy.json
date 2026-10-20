@@ -1,0 +1,128 @@
+{
+  "title": "Metallurgy & Materials Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Metallurgical and Materials Engineering covers how metals and other materials are extracted, processed, shaped, tested and chosen: physical and mechanical metallurgy, iron and steelmaking, phase transformations, heat treatment, corrosion, welding, casting and characterisation. Some institutes call it Materials Science and Engineering. It leads to steel and non-ferrous plants, foundries and forging, automotive and aerospace suppliers, testing labs and research."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in Metallurgical",
+            "value": "~11,200",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~24%",
+            "note": "Computed from the same AISHE row (2,668 of 11,244)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "GATE Metallurgical (MT) paper",
+            "value": "~4,400 registered",
+            "note": "~3,600 appeared; ~930 qualified",
+            "source": "GATE 2025 Statistical & Performance Report (IIT Roorkee)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Class 12 with Physics, Chemistry and Mathematics is required. The branch is offered mainly at IITs, NITs and some state and private colleges."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Steel and metal plants are large employers; much of the work is at plant sites in mineral belts and industrial towns.",
+          "GATE (MT paper) is used for M.Tech admissions and by some steel and mineral PSUs; BARC and DRDO also recruit metallurgists.",
+          "Research and advanced-materials roles (aerospace, nuclear, defence labs) often expect an M.Tech or PhD.",
+          "UPSC ESE has no Metallurgy stream."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Metallurgical",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 8576
+              },
+              {
+                "label": "Female",
+                "value": 2668
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Metallurgical Engineer",
+            "href": "/roles/metallurgical-engineer"
+          },
+          {
+            "label": "Production Engineer",
+            "href": "/roles/production-engineer"
+          },
+          {
+            "label": "Quality Engineer",
+            "href": "/roles/quality-engineer"
+          },
+          {
+            "label": "Welding Engineer",
+            "href": "/roles/welding-engineer"
+          },
+          {
+            "label": "Materials Testing Engineer",
+            "href": "/roles/materials-testing-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

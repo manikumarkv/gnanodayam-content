@@ -1,0 +1,124 @@
+{
+  "title": "Mining Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Mining Engineering covers how coal, ores and stone are located, planned for, extracted and moved safely: surface and underground mining methods, rock mechanics, mine ventilation, drilling and blasting, mine surveying, mine planning, and mining law and safety. It leads to coal and metal mining companies, mining contractors, cement companies with captive mines, explosives firms and regulators."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in Mining",
+            "value": "~11,300",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~10%",
+            "note": "Computed from the same AISHE row (1,081 of 11,349)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "GATE Mining (MN) paper",
+            "value": "~8,900 registered",
+            "note": "~7,400 appeared; ~1,770 qualified",
+            "source": "GATE 2025 Statistical & Performance Report (IIT Roorkee)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Class 12 with Physics, Chemistry and Mathematics is required. The branch is offered at a limited number of IITs, NITs and state and private colleges, often in mining regions."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Supervisory mine posts are legally regulated: you need DGMS competency certificates (such as the Second and First Class Manager's Certificates), earned through exams after set mine experience.",
+          "Coal India has recruited Mining Management Trainees through GATE (MN paper) in several recent years.",
+          "Work is at mine sites, often remote, with shift duty.",
+          "Since a 2019 notification, women can be deployed in underground mine work under set conditions; they remain a small share of students in this branch."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Mining",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 10268
+              },
+              {
+                "label": "Female",
+                "value": 1081
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Mining Engineer",
+            "href": "/roles/mining-engineer"
+          },
+          {
+            "label": "Mine Planning Engineer",
+            "href": "/roles/mine-planning-engineer"
+          },
+          {
+            "label": "Blasting Engineer",
+            "href": "/roles/blasting-engineer"
+          },
+          {
+            "label": "EHS Executive",
+            "href": "/roles/ehs-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

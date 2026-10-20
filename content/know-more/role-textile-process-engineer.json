@@ -1,0 +1,82 @@
+{
+  "title": "Textile Process Engineer",
+  "kicker": "Role · Textile processing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A textile process engineer runs the wet-processing stages — pre-treatment, dyeing, printing and finishing — that turn grey fabric or yarn into finished material. Processing houses, composite mills and garment exporters with their own dye houses hire them. A day involves planning batches, checking shades and test results, and solving problems on the floor."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Textile Chemistry or Textile Technology"
+          },
+          {
+            "label": "Common tools",
+            "value": "Dyeing machines, colour-matching systems, test lab equipment"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Shift duty on the processing floor is common"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a processing house or composite mill as a trainee in the dyeing or finishing department, through campus placement or direct application."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Dye and chemical selection",
+          "Shade matching and colour measurement",
+          "Fastness and fabric testing",
+          "Effluent and resource-use awareness"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: dyeing master, processing manager, technical service for dye and chemical firms.",
+          "Effluent rules shape how plants operate, so environmental compliance is part of the job.",
+          "Work is plant-based, mostly in textile clusters."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Textile",
+            "href": "/explore/btech.textile.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

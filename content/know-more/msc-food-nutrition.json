@@ -1,0 +1,83 @@
+{
+  "title": "M.Sc Food & Nutrition / Dietetics",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in human nutrition. Programmes go by names such as Food & Nutrition, Clinical Nutrition, Dietetics or Food Science & Nutrition, and cover advanced nutrition, clinical and therapeutic diets, community and public-health nutrition, food science and research methods, often with a hospital or field internship. It is a common route to clinical dietitian, nutrition research and programme roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Some universities offer a one-year PG diploma in dietetics as an alternative"
+          },
+          {
+            "label": "PG students in Nutrition",
+            "value": "~4,700",
+            "note": "AISHE 'Home Science — Nutrition' row; a separate 'Food Science & Nutrition' row adds ~490",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's in nutrition, dietetics, home science, food science or a related life science (rules vary by university). Admission is through CUET-PG at participating universities, a university entrance test, or graduation merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Programme names vary, so the syllabus and internship matter more than the title.",
+          "A PG qualification plus a supervised internship is part of the route to the Indian Dietetic Association's Registered Dietitian exam (as reported).",
+          "Most students are women."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Dietitian",
+            "href": "/roles/dietitian"
+          },
+          {
+            "label": "Nutritionist",
+            "href": "/roles/nutritionist"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

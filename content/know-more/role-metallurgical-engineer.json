@@ -1,0 +1,83 @@
+{
+  "title": "Metallurgical Engineer",
+  "kicker": "Role · Metallurgy",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A metallurgical engineer makes sure metals come out with the right composition, structure and properties — in a steel plant, an aluminium or copper smelter, a foundry, a forging shop or a heat-treatment line. Steel and non-ferrous producers, foundries, forging and automotive component makers hire them. A day involves checking process data and test results, solving defects, and adjusting process settings with the production team."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Metallurgical or Materials Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "Spectrometer, optical microscope, hardness and tensile testers"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Plant-based; shift duty is common at entry"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as graduate or management trainees through campus placement at steel, non-ferrous and component companies. Steel and mineral PSUs recruit through GATE (Metallurgical paper) or their own exams, followed by interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Physical and mechanical metallurgy",
+          "Heat treatment and phase transformations",
+          "Defect and failure analysis",
+          "Reading material standards and specifications",
+          "Working with process data"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Large plants are often in mineral belts and industrial towns.",
+          "Common next roles: senior metallurgist, process or quality head, R&D or product development.",
+          "Research and advanced-materials roles often expect an M.Tech or PhD."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Metallurgy & Materials",
+            "href": "/explore/btech.metallurgy.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Mud Logger",
+  "kicker": "Role · Oil & gas field work",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Works at an oil or gas drilling site, examining rock cuttings and gas readings carried up in the drilling fluid to record which rock layers are being drilled. Oilfield service companies hire mud loggers for onshore and offshore rigs. Work is in a logging unit on the rig, in shifts, for set periods on site followed by time off."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc / M.Sc Geology, or B.Tech Petroleum Engineering"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Rotational — weeks on site, then weeks off"
+          },
+          {
+            "label": "Common tools",
+            "value": "Microscopes, gas detectors, sensors and logging software"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers are hired as trainee mud loggers by oilfield service companies, usually after a geology degree. Selection checks geology basics and fitness for remote and offshore work; offshore postings need safety and survival training, typically arranged by the employer."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Describing rock cuttings under a microscope",
+          "Reading gas and drilling sensor data",
+          "Maintaining field equipment",
+          "Preparing logs and daily reports",
+          "Following rig safety rules"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Remote rig life, shift work and long rotations are part of the job.",
+          "Experience can lead to wellsite geologist or data engineer roles.",
+          "Hiring follows oil and gas drilling activity, so it can rise and fall."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Geology",
+            "href": "/explore/bsc.geology.job"
+          },
+          {
+            "label": "B.Tech · Petroleum",
+            "href": "/explore/btech.petroleum.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

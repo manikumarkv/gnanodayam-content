@@ -1,0 +1,92 @@
+{
+  "title": "Mechatronics & Robotics",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Mechatronics combines mechanical engineering, electronics, control systems and programming to build machines that sense and act — robots, CNC machines, automated production lines and smart products. Programmes may be named Mechatronics, Robotics & Automation, or Automation & Robotics. It leads to automation, robotics, embedded and maintenance roles in manufacturing and product companies."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in Mechatronics",
+            "value": "~5,600",
+            "note": "AISHE row 'Mechatronics Engineering' (5,578)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG students in Automation & Robotics",
+            "value": "~3,100",
+            "note": "Listed separately by AISHE (3,105); 'Mechanical & Mechatronics' adds ~1,300 more",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. Mechatronics and robotics programmes are offered at some centrally funded institutes (allotted through JoSAA on JEE Main or Advanced rank) and at many private and state colleges, filled through state CETs or university tests. Class 12 with Physics, Chemistry and Mathematics is required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The course spans several fields, so depth in any one depends on electives and projects.",
+          "Many employers hire Mechanical, Electrical or Electronics graduates for the same automation roles.",
+          "GATE has no mechatronics paper; graduates choose the ME, EE, EC or IN paper, subject to eligibility.",
+          "Research robotics roles often expect an M.Tech or MS."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Robotics Engineer",
+            "href": "/roles/robotics-engineer"
+          },
+          {
+            "label": "Control & Automation Engineer",
+            "href": "/roles/control-automation-engineer"
+          },
+          {
+            "label": "Embedded Systems Engineer",
+            "href": "/roles/embedded-systems-engineer"
+          },
+          {
+            "label": "Maintenance Engineer",
+            "href": "/roles/maintenance-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
