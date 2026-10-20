@@ -1,0 +1,72 @@
+{
+  "title": "BBA",
+  "kicker": "Undergraduate business-administration degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year management degree covering marketing, finance, HR, operations and business analytics. It's the runway to an MBA and to early business, analyst and operations roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "6 semesters; some are BBM/BMS"
+          },
+          {
+            "label": "Typical next degree",
+            "value": "MBA / PGDM",
+            "note": "2 years; the usual step into management"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "10+2 on merit, or a management entrance test (e.g. CUET, IPMAT, SET, NPAT)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most value comes when paired with an MBA — plan for both.",
+          "The Business Analytics specialisation feeds analyst and product roles.",
+          "Internships matter a lot for early business and sales jobs."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          },
+          {
+            "label": "Product Manager",
+            "href": "/roles/product-manager"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-06",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-06"
+  }
+}

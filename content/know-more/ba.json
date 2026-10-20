@@ -1,0 +1,70 @@
+{
+  "title": "BA",
+  "kicker": "Undergraduate arts & humanities degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year arts degree in a subject such as Economics, Political Science, History, Psychology, English or Sociology. It builds reading, writing and analysis, and is a classic base for civil services, media, law, social work and management."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "General or Honours; 6 semesters"
+          },
+          {
+            "label": "Annual graduates",
+            "value": "~20 lakh+",
+            "source": "AISHE (BA is the largest stream), approx.",
+            "date": "2021–22",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "10+2 in any stream on merit, or a university entrance test (e.g. CUET)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The most common degree among UPSC Civil Services aspirants.",
+          "Economics and Psychology open analyst, research and HR routes.",
+          "A master's, LLB, journalism or an MBA are common next steps."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-06",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-06"
+  }
+}
