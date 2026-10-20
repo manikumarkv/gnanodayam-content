@@ -1,9 +1,0 @@
-{
-  "code": "btech.mechanical.higher-education",
-  "parent": "btech.mechanical",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "Specialise in design, thermal or manufacturing.",
-  "roleSlug": null,
-  "status": "published"
-}

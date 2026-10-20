@@ -1,9 +1,0 @@
-{
-  "code": "bba.marketing.job",
-  "parent": "bba.marketing",
-  "label": "Job",
-  "type": "fork",
-  "description": "Marketing and sales roles.",
-  "roleSlug": null,
-  "status": "published"
-}

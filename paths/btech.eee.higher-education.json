@@ -1,9 +1,0 @@
-{
-  "code": "btech.eee.higher-education",
-  "parent": "btech.eee",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "Master’s in power systems, control or electronics.",
-  "roleSlug": null,
-  "status": "published"
-}

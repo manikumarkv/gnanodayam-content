@@ -1,9 +1,0 @@
-{
-  "code": "bsc.computer-science.higher-education.mba-it",
-  "parent": "bsc.computer-science.higher-education",
-  "label": "MBA (IT)",
-  "type": "field",
-  "description": "Management degree; pivot into business and leadership.",
-  "roleSlug": null,
-  "status": "published"
-}

@@ -1,9 +1,0 @@
-{
-  "code": "btech.eee.job",
-  "parent": "btech.eee",
-  "label": "Job",
-  "type": "fork",
-  "description": "Electrical, power and embedded roles.",
-  "roleSlug": null,
-  "status": "published"
-}

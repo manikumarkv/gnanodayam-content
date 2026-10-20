@@ -1,9 +1,0 @@
-{
-  "code": "bba.business-analytics",
-  "parent": "bba",
-  "label": "Business Analytics",
-  "type": "branch",
-  "description": "Decisions from data — the analytics route.",
-  "roleSlug": null,
-  "status": "published"
-}

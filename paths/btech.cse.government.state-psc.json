@@ -1,9 +1,0 @@
-{
-  "code": "btech.cse.government.state-psc",
-  "parent": "btech.cse.government",
-  "label": "State PSC",
-  "type": "field",
-  "description": "State-government officer posts.",
-  "roleSlug": null,
-  "status": "published"
-}

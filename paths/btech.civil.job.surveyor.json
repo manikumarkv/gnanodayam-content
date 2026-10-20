@@ -1,9 +1,0 @@
-{
-  "code": "btech.civil.job.surveyor",
-  "parent": "btech.civil.job",
-  "label": "Surveyor",
-  "type": "role",
-  "description": "Measure and map land for projects.",
-  "roleSlug": null,
-  "status": "published"
-}

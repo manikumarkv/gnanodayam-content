@@ -1,9 +1,0 @@
-{
-  "code": "bca.job",
-  "parent": "bca",
-  "label": "Job",
-  "type": "fork",
-  "description": "Entry software, web and support roles.",
-  "roleSlug": null,
-  "status": "published"
-}

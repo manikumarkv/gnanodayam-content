@@ -1,9 +1,0 @@
-{
-  "code": "btech.mechanical.job.maintenance-engineer",
-  "parent": "btech.mechanical.job",
-  "label": "Maintenance Engineer",
-  "type": "role",
-  "description": "Keep plant and machinery running.",
-  "roleSlug": null,
-  "status": "published"
-}

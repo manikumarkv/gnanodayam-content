@@ -1,9 +1,0 @@
-{
-  "code": "bba.business-analytics.job.data-analyst",
-  "parent": "bba.business-analytics.job",
-  "label": "Data Analyst",
-  "type": "role",
-  "description": "Turn raw data into charts and decisions — SQL, Excel.",
-  "roleSlug": "data-analyst",
-  "status": "published"
-}

@@ -1,9 +1,0 @@
-{
-  "code": "btech.civil.higher-education",
-  "parent": "btech.civil",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "Specialise in structural, transport or environmental.",
-  "roleSlug": null,
-  "status": "published"
-}

@@ -1,9 +1,0 @@
-{
-  "code": "mbbs.study-abroad",
-  "parent": "mbbs",
-  "label": "Study Abroad",
-  "type": "fork",
-  "description": "Practise overseas via licensing exams.",
-  "roleSlug": null,
-  "status": "published"
-}

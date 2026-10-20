@@ -1,9 +1,0 @@
-{
-  "code": "btech.civil.job.estimation-engineer",
-  "parent": "btech.civil.job",
-  "label": "Estimation Engineer",
-  "type": "role",
-  "description": "Cost and quantify construction work.",
-  "roleSlug": null,
-  "status": "published"
-}

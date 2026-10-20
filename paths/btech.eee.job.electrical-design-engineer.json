@@ -1,9 +1,0 @@
-{
-  "code": "btech.eee.job.electrical-design-engineer",
-  "parent": "btech.eee.job",
-  "label": "Electrical Design Engineer",
-  "type": "role",
-  "description": "Design electrical systems and equipment.",
-  "roleSlug": null,
-  "status": "published"
-}

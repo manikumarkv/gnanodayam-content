@@ -1,9 +1,0 @@
-{
-  "code": "mbbs.non-clinical-alternative",
-  "parent": "mbbs",
-  "label": "Non-clinical / Alternative",
-  "type": "fork",
-  "description": "Careers beyond the clinic.",
-  "roleSlug": null,
-  "status": "published"
-}

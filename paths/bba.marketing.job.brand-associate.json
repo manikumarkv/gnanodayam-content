@@ -1,9 +1,0 @@
-{
-  "code": "bba.marketing.job.brand-associate",
-  "parent": "bba.marketing.job",
-  "label": "Brand Associate",
-  "type": "role",
-  "description": "Support a brand's image and campaigns.",
-  "roleSlug": null,
-  "status": "published"
-}

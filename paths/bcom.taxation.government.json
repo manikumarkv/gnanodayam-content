@@ -1,9 +1,0 @@
-{
-  "code": "bcom.taxation.government",
-  "parent": "bcom.taxation",
-  "label": "Government",
-  "type": "fork",
-  "description": "Income-tax and commercial-tax officer posts.",
-  "roleSlug": null,
-  "status": "published"
-}

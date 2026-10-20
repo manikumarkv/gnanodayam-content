@@ -1,9 +1,0 @@
-{
-  "code": "ba.english-literature.higher-education",
-  "parent": "ba.english-literature",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "Master’s, journalism, an MBA or B.Ed.",
-  "roleSlug": null,
-  "status": "published"
-}

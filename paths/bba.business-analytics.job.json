@@ -1,9 +1,0 @@
-{
-  "code": "bba.business-analytics.job",
-  "parent": "bba.business-analytics",
-  "label": "Job",
-  "type": "fork",
-  "description": "Analyst and product roles.",
-  "roleSlug": null,
-  "status": "published"
-}

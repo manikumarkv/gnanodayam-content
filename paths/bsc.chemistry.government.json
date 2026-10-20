@@ -1,9 +1,0 @@
-{
-  "code": "bsc.chemistry.government",
-  "parent": "bsc.chemistry",
-  "label": "Government",
-  "type": "fork",
-  "description": "Drug inspection, scientific posts, teaching.",
-  "roleSlug": null,
-  "status": "published"
-}

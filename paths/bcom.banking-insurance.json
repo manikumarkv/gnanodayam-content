@@ -1,9 +1,0 @@
-{
-  "code": "bcom.banking-insurance",
-  "parent": "bcom",
-  "label": "Banking & Insurance",
-  "type": "branch",
-  "description": "Customer-facing money services and risk.",
-  "roleSlug": null,
-  "status": "published"
-}

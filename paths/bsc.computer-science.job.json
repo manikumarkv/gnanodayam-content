@@ -1,9 +1,0 @@
-{
-  "code": "bsc.computer-science.job",
-  "parent": "bsc.computer-science",
-  "label": "Job",
-  "type": "fork",
-  "description": "Entry software and data roles.",
-  "roleSlug": null,
-  "status": "published"
-}

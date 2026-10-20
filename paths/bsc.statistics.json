@@ -1,9 +1,0 @@
-{
-  "code": "bsc.statistics",
-  "parent": "bsc",
-  "label": "Statistics",
-  "type": "branch",
-  "description": "Data and inference — analytics and research.",
-  "roleSlug": null,
-  "status": "published"
-}

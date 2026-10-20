@@ -1,9 +1,0 @@
-{
-  "code": "bba.operations.government",
-  "parent": "bba.operations",
-  "label": "Government",
-  "type": "fork",
-  "description": "Railways and PSU operations.",
-  "roleSlug": null,
-  "status": "published"
-}

@@ -1,9 +1,0 @@
-{
-  "code": "bba.human-resources",
-  "parent": "bba",
-  "label": "Human Resources",
-  "type": "branch",
-  "description": "People — hiring, culture, operations.",
-  "roleSlug": null,
-  "status": "published"
-}

@@ -1,9 +1,0 @@
-{
-  "code": "ba.psychology.job",
-  "parent": "ba.psychology",
-  "label": "Job",
-  "type": "fork",
-  "description": "HR, counselling-support and research roles.",
-  "roleSlug": null,
-  "status": "published"
-}

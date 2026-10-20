@@ -1,9 +1,0 @@
-{
-  "code": "btech.civil.job",
-  "parent": "btech.civil",
-  "label": "Job",
-  "type": "fork",
-  "description": "Design, site and project roles in construction.",
-  "roleSlug": null,
-  "status": "published"
-}

@@ -61,8 +61,3 @@ pnpm build
 3. **Protect `main`** (GitHub → Settings → Branches): require a pull request and the `CI` check before
    merging. Leave "Allow administrators to bypass" on so your own Keystatic saves can go to `main`.
 4. **Interns:** add them as collaborators with **Write** access (needed to create branches).
-
-## Legacy folders (being removed)
-
-`details/` and `paths/` are the old git-JSON content. The app stops reading them once it switches to
-this site (gnanodayam #117), and they are deleted in gnanodayam #119.

@@ -1,9 +1,0 @@
-{
-  "code": "ba.history.higher-education",
-  "parent": "ba.history",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "Master’s, B.Ed, museology or archaeology.",
-  "roleSlug": null,
-  "status": "published"
-}

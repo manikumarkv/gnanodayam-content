@@ -1,9 +1,0 @@
-{
-  "code": "ba.psychology.government",
-  "parent": "ba.psychology",
-  "label": "Government",
-  "type": "fork",
-  "description": "Civil services and govt-hospital psychology (post-PG).",
-  "roleSlug": null,
-  "status": "published"
-}

@@ -1,9 +1,0 @@
-{
-  "code": "btech.mechanical.job.manufacturing-production-engineer",
-  "parent": "btech.mechanical.job",
-  "label": "Manufacturing / Production Engineer",
-  "type": "role",
-  "description": "Run and improve how things are made.",
-  "roleSlug": null,
-  "status": "published"
-}

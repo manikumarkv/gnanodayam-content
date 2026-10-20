@@ -1,9 +1,0 @@
-{
-  "code": "bsc.statistics.government.rbi",
-  "parent": "bsc.statistics.government",
-  "label": "RBI",
-  "type": "field",
-  "description": "Officer role at India’s central bank.",
-  "roleSlug": null,
-  "status": "published"
-}

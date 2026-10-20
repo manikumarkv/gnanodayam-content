@@ -1,9 +1,0 @@
-{
-  "code": "bcom.banking-insurance.government",
-  "parent": "bcom.banking-insurance",
-  "label": "Government",
-  "type": "fork",
-  "description": "Public-sector bank and insurance exams.",
-  "roleSlug": null,
-  "status": "published"
-}

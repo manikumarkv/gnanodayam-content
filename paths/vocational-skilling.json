@@ -1,9 +1,0 @@
-{
-  "code": "vocational-skilling",
-  "parent": "after-12th",
-  "label": "Vocational / Skilling",
-  "type": "fork",
-  "description": "Learn a skilled trade — ITI, apprenticeships, diplomas.",
-  "roleSlug": null,
-  "status": "published"
-}

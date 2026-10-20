@@ -1,9 +1,0 @@
-{
-  "code": "bsc.biology-life-sciences.higher-education",
-  "parent": "bsc.biology-life-sciences",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "Master’s in a life-science field, or a PhD.",
-  "roleSlug": null,
-  "status": "published"
-}

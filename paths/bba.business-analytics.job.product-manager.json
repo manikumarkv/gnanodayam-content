@@ -1,9 +1,0 @@
-{
-  "code": "bba.business-analytics.job.product-manager",
-  "parent": "bba.business-analytics.job",
-  "label": "Product Manager",
-  "type": "role",
-  "description": "A path you can explore from here.",
-  "roleSlug": "product-manager",
-  "status": "published"
-}

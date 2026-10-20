@@ -1,9 +1,0 @@
-{
-  "code": "btech.eee.higher-education.mba",
-  "parent": "btech.eee.higher-education",
-  "label": "MBA",
-  "type": "field",
-  "description": "Management degree; pivot into business and leadership.",
-  "roleSlug": null,
-  "status": "published"
-}

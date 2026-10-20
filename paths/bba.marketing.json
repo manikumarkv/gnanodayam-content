@@ -1,9 +1,0 @@
-{
-  "code": "bba.marketing",
-  "parent": "bba",
-  "label": "Marketing",
-  "type": "branch",
-  "description": "Reaching customers — brand, digital, sales.",
-  "roleSlug": null,
-  "status": "published"
-}

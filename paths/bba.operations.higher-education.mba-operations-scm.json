@@ -1,9 +1,0 @@
-{
-  "code": "bba.operations.higher-education.mba-operations-scm",
-  "parent": "bba.operations.higher-education",
-  "label": "MBA (Operations / SCM)",
-  "type": "field",
-  "description": "Management degree; pivot into business and leadership.",
-  "roleSlug": null,
-  "status": "published"
-}

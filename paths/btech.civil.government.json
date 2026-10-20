@@ -1,9 +1,0 @@
-{
-  "code": "btech.civil.government",
-  "parent": "btech.civil",
-  "label": "Government",
-  "type": "fork",
-  "description": "PWD, railways, PSUs and engineering services.",
-  "roleSlug": null,
-  "status": "published"
-}

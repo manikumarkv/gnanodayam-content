@@ -1,9 +1,0 @@
-{
-  "code": "ba.english-literature.higher-education.bed",
-  "parent": "ba.english-literature.higher-education",
-  "label": "B.Ed",
-  "type": "field",
-  "description": "Teaching qualification for schools.",
-  "roleSlug": null,
-  "status": "published"
-}

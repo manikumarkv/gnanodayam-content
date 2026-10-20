@@ -1,9 +1,0 @@
-{
-  "code": "btech.ai-ml.government.isro-drdo",
-  "parent": "btech.ai-ml.government",
-  "label": "ISRO / DRDO",
-  "type": "field",
-  "description": "Scientist and technical posts at national space agency.",
-  "roleSlug": null,
-  "status": "published"
-}

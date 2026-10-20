@@ -1,9 +1,0 @@
-{
-  "code": "ba.english-literature.government",
-  "parent": "ba.english-literature",
-  "label": "Government",
-  "type": "fork",
-  "description": "Civil services, SSC and teaching.",
-  "roleSlug": null,
-  "status": "published"
-}

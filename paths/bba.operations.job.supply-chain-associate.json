@@ -1,9 +1,0 @@
-{
-  "code": "bba.operations.job.supply-chain-associate",
-  "parent": "bba.operations.job",
-  "label": "Supply Chain Associate",
-  "type": "role",
-  "description": "Coordinate sourcing and delivery.",
-  "roleSlug": null,
-  "status": "published"
-}

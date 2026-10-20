@@ -1,9 +1,0 @@
-{
-  "code": "btech.mechanical.government",
-  "parent": "btech.mechanical",
-  "label": "Government",
-  "type": "fork",
-  "description": "PSUs, railways, engineering services and defence.",
-  "roleSlug": null,
-  "status": "published"
-}
