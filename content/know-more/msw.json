@@ -1,0 +1,95 @@
+{
+  "title": "MSW (Master of Social Work)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree in social work that combines theory with supervised fieldwork in communities, hospitals, NGOs, schools and companies. Most programmes offer specialisations such as community development, medical and psychiatric social work, family and child welfare, and human resource management / labour welfare."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Usually 4 semesters with concurrent fieldwork and a block placement"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~1.02 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Women among students",
+            "value": "~54%",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any discipline (some universities prefer a BSW or social sciences). Admission is through CUET-PG at central and many state universities — TISS has used CUET-PG scores for its master's admissions — or through a university's own entrance test and interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Fieldwork is a large part of the course, so the institute's agency links matter for what you learn.",
+          "Common work: NGOs and development projects, CSR teams, hospitals, counselling and child protection services, and HR roles.",
+          "Starting pay in the voluntary sector is often modest; government social-welfare and project posts are another route."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Social Worker",
+            "href": "/roles/social-worker"
+          },
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "HR Executive",
+            "href": "/roles/hr-executive"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

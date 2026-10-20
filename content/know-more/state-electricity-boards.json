@@ -1,0 +1,85 @@
+{
+  "title": "State Electricity Boards",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Each state's power sector is run by state-owned companies. After the Electricity Act, 2003, most former State Electricity Boards were split into separate generation, transmission and distribution companies. They recruit engineering graduates as Assistant Engineers to run power plants, substations, transmission lines and local distribution networks."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Entry post",
+            "value": "Assistant Engineer (AE)",
+            "note": "Junior Engineer posts are for diploma holders"
+          },
+          {
+            "label": "Main discipline",
+            "value": "Electrical",
+            "note": "Civil, mechanical, electronics and others also recruited"
+          },
+          {
+            "label": "Restructuring law",
+            "value": "Electricity Act, 2003"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.E./B.Tech in the discipline named in the notification. Utilities recruit through their own written exams, through the state Public Service Commission, or on GATE scores in some states. Age limits, domicile and language requirements follow the state's rules."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Each utility recruits on its own timetable; gaps between notifications are common.",
+          "Work includes field duty, breakdown response and shift work at plants and substations.",
+          "Knowledge of the state language and domicile rules often apply.",
+          "Central power PSUs recruit separately, mostly through GATE."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Power Systems Engineer",
+            "href": "/roles/power-systems-engineer"
+          },
+          {
+            "label": "Electrical Design Engineer",
+            "href": "/roles/electrical-design-engineer"
+          },
+          {
+            "label": "Maintenance Engineer",
+            "href": "/roles/maintenance-engineer"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

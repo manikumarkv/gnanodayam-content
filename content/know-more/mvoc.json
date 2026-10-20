@@ -1,0 +1,87 @@
+{
+  "title": "M.Voc (Master of Vocation)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Master of Vocation (M.Voc) is a two-year, skills-based master's that continues the B.Voc model. It combines classroom study with a large share of practical training, internships and industry projects in one sector — for example IT, media, retail, healthcare, tourism or automobiles. Courses are aligned to the National Skills Qualifications Framework (NSQF)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~2,000",
+            "note": "All modes",
+            "source": "AISHE 2023-24, programme-wise enrolment, all modes (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "NSQF level",
+            "value": "Level 9 at some universities",
+            "note": "Entry usually expects a B.Voc at Level 7",
+            "source": "University M.Voc regulations (as reported)",
+            "date": "2022",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Voc in the same or a related sector; some institutions also admit other graduates under their own rules. Admission is usually on merit or through the university's entrance test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Few institutions offer it, so choices are limited and may mean moving cities.",
+          "Employers in the same sector may value the hands-on training; awareness of the degree is still limited elsewhere.",
+          "Staying in the same sector as your B.Voc makes the progression smoother."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Vocational Skilling",
+            "href": "/explore/vocational-skilling"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

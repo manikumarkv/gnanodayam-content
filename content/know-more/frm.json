@@ -1,0 +1,104 @@
+{
+  "title": "FRM (Financial Risk Manager)",
+  "kicker": "Professional certification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Financial Risk Manager (FRM) is a certification from GARP (Global Association of Risk Professionals), a US-based body. It covers market, credit, operational and liquidity risk, risk models and valuation, and is taken in two parts. In India it is seen mainly in banks, NBFCs, risk consultancies and the risk teams of global firms' Indian offices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Exams",
+            "value": "Part I and Part II",
+            "note": "Computer-based, held in set testing windows"
+          },
+          {
+            "label": "Enrolment fee",
+            "value": "USD 400",
+            "note": "One-time, paid with the first Part I registration",
+            "source": "GARP fee page (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Exam fee",
+            "value": "USD 600–800 per part",
+            "note": "Early vs standard registration",
+            "source": "GARP fee page (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Work experience",
+            "value": "2 years in a relevant field",
+            "note": "Needed to be awarded the FRM after passing both parts",
+            "source": "GARP (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "No degree is needed to register, so students can take Part I during or after college. Pass Part I, then Part II, then show two years of relevant full-time work experience to GARP to be certified."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Fees are in US dollars, so the cost in rupees moves with the exchange rate.",
+          "Employers usually read it alongside a degree (B.Com, MBA, CA or similar) and work experience, not in place of them.",
+          "Common roles: market risk, credit risk, model validation and treasury risk.",
+          "Many candidates take it while working, since certification needs experience anyway."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Credit Analyst",
+            "href": "/roles/credit-analyst"
+          },
+          {
+            "label": "Financial Analyst",
+            "href": "/roles/financial-analyst"
+          },
+          {
+            "label": "Quantitative Analyst",
+            "href": "/roles/quantitative-analyst"
+          },
+          {
+            "label": "Investment Analyst",
+            "href": "/roles/investment-analyst"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Post-graduate Medical Diplomas",
+  "kicker": "Postgraduate qualification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Two-year postgraduate diplomas after MBBS in a specialty such as anaesthesia (DA), obstetrics and gynaecology (DGO), paediatrics (DCH), ophthalmology (DO) or ENT (DLO). They give specialist training in less time than a three-year MD/MS, but with a narrower scope and fewer teaching-post options."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Versus 3 years for MD/MS or DNB"
+          },
+          {
+            "label": "NMC phase-out",
+            "value": "Medical-college PG diploma seats to convert to MD/MS seats from 2027-28",
+            "note": "NMC public notice dated 19 June 2026",
+            "source": "NMC public notice (as reported)",
+            "date": "Jun 2026",
+            "verified": false
+          },
+          {
+            "label": "NBEMS post-MBBS diplomas",
+            "value": "Continue",
+            "note": "8 broad specialties notified in 2020; NBEMS says the NMC notice does not apply to them",
+            "source": "NBEMS notice (as reported)",
+            "date": "Jul 2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS with internship and registration, then NEET-PG. Medical-college diploma seats are allotted through MCC and state counselling; NBEMS diploma seats at accredited hospitals go through NBEMS / MCC counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "With medical-college diplomas being converted to MD/MS, the diploma route is shrinking — check what is on offer in your counselling year.",
+          "Diploma holders can take a two-year post-diploma DNB (entry via DNB-PDCET, run by NBEMS) to reach degree level.",
+          "Diploma holders can practise as specialists, but faculty posts in medical colleges generally need an MD/MS/DNB."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "General Physician",
+            "href": "/roles/general-physician"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

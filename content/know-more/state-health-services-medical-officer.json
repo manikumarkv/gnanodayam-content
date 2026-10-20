@@ -1,0 +1,82 @@
+{
+  "title": "State Health Services (Medical Officer)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Medical Officers in a state health service run primary health centres, community health centres and district hospitals — treating patients, running national health programmes and managing staff. It is the main government career for MBBS doctors, with promotions up to senior administrative posts in the state health directorate."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Qualification",
+            "value": "MBBS + medical registration",
+            "note": "Some states add a local-language requirement"
+          },
+          {
+            "label": "Recruiting body",
+            "value": "State PSC or state health recruitment board",
+            "note": "Varies by state; National Health Mission also hires MOs on contract"
+          },
+          {
+            "label": "Central alternative",
+            "value": "UPSC Combined Medical Services (CMS) exam",
+            "note": "For central government health services and railways"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS with internship and registration with the state medical council or NMC. States recruit through their Public Service Commission or a dedicated medical / health recruitment board, through a written test, interview or merit list depending on the state."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Early postings are often in rural or remote centres.",
+          "Many states have service bonds for government-college graduates; bond terms and penalties differ by state.",
+          "Several states offer in-service quotas or incentive marks for NEET-PG to doctors with rural service.",
+          "Promotion titles differ by state (e.g. Senior MO, Civil Surgeon, CMO, Deputy / Joint Director)."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "General Physician",
+            "href": "/roles/general-physician"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

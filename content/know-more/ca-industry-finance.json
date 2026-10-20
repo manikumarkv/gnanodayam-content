@@ -1,0 +1,89 @@
+{
+  "title": "Industry Finance (for CAs)",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Many chartered accountants work inside companies rather than in practice — in financial reporting, accounts and controllership, taxation, internal audit, treasury, budgeting and business finance. A CA in employment does not need ICAI's Certificate of Practice and works as a salaried employee."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Certificate of Practice",
+            "value": "Not needed for employment",
+            "note": "Needed only to practise, such as signing audit reports"
+          },
+          {
+            "label": "Common functions",
+            "value": "Reporting, tax, audit, treasury, FP&A"
+          },
+          {
+            "label": "Typical first role",
+            "value": "Executive or assistant manager in finance",
+            "note": "Titles vary by company"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Qualify as a CA (Foundation, Intermediate, articleship, Final) and become an ICAI member. Companies hire through ICAI's campus placement programmes, direct applications and referrals; audit-firm experience is a common bridge into industry roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Industry roles bring a fixed salary and a defined ladder towards finance head or CFO; practice brings independence, with income tied to building clients.",
+          "The sector you start in (manufacturing, banking and financial services, IT and so on) shapes later options.",
+          "Ind AS, GST, ERP systems and spreadsheet modelling are widely asked for.",
+          "Some CAs move between practice and industry over their careers."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Chartered Accountant",
+            "href": "/roles/chartered-accountant"
+          },
+          {
+            "label": "Financial Analyst",
+            "href": "/roles/financial-analyst"
+          },
+          {
+            "label": "Tax Analyst",
+            "href": "/roles/tax-analyst"
+          },
+          {
+            "label": "Auditor",
+            "href": "/roles/auditor"
+          },
+          {
+            "label": "Accountant",
+            "href": "/roles/accountant"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Armed Forces Medical Services (AFMS)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Armed Forces Medical Services (AFMS) employ doctors as commissioned officers in the Army, Navy and Air Force. Civilian MBBS graduates usually join through a Short Service Commission (SSC) as medical officers, and permanent commission is offered in limited numbers. Medical officers treat service personnel and their families in military hospitals and field units, including remote and high-altitude postings."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Entry rank",
+            "value": "Captain (Army)",
+            "note": "Or equivalent: Lieutenant (Navy), Flight Lieutenant (Air Force)"
+          },
+          {
+            "label": "SSC tenure",
+            "value": "5 years initially",
+            "note": "Extendable in spells up to 14 years",
+            "source": "AFMS notification (as reported)",
+            "date": "2020",
+            "verified": false
+          },
+          {
+            "label": "Selection",
+            "value": "NEET-PG score + interview",
+            "note": "Followed by a medical examination",
+            "source": "AFMS SSC notices (as reported)",
+            "date": "2025–26",
+            "verified": false
+          },
+          {
+            "label": "Age limit",
+            "value": "Up to 30 (MBBS)",
+            "note": "Up to 35 for PG holders",
+            "source": "AFMS SSC notices (as reported)",
+            "date": "2025–26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An MBBS with completed internship and registration, and a NEET-PG score from the years the notice specifies. Apply when AFMS releases its SSC medical officer notice; shortlisted candidates face an interview and a medical board. Students of AFMC Pune join through a separate route linked to their MBBS admission."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Postings rotate across the country, including field and remote areas.",
+          "SSC officers can be considered for permanent commission, which is limited.",
+          "Service doctors can be sponsored for postgraduate training within the AFMS, subject to service rules.",
+          "Military discipline, uniform and physical standards apply alongside medical work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

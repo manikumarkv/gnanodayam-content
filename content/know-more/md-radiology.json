@@ -1,0 +1,87 @@
+{
+  "title": "MD Radiodiagnosis (Radiology)",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year MD in Radiodiagnosis after MBBS. Radiologists interpret X-ray, ultrasound, CT, MRI and mammography, and increasingly perform image-guided procedures. Training is a paid residency in a medical college or teaching hospital, regulated by the National Medical Commission (NMC)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Residency with a thesis; a DNB in Radiodiagnosis is a parallel route"
+          },
+          {
+            "label": "Entrance exam",
+            "value": "NEET-PG",
+            "note": "Conducted by NBEMS"
+          },
+          {
+            "label": "Ultrasound regulation",
+            "value": "PC-PNDT Act, 1994",
+            "note": "Ultrasound facilities and users must register under it"
+          },
+          {
+            "label": "Radiation safety",
+            "value": "AERB",
+            "note": "Atomic Energy Regulatory Board licenses X-ray and CT equipment"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An MBBS with completed internship and medical registration, then a NEET-PG rank. Seats are allotted through MCC counselling (all-India quota, central and deemed universities) and state counselling for state quota seats."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Radiodiagnosis seats are usually taken at high NEET-PG ranks in counselling.",
+          "Work is largely indoors and screen-based, with fewer emergencies at the bedside than many clinical specialties, but high reporting volumes.",
+          "Options after MD include private diagnostic centres, hospitals, teleradiology and teaching; fellowships in interventional, neuro or musculoskeletal imaging are common next steps.",
+          "Ultrasound work carries strict PC-PNDT paperwork and legal liability."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

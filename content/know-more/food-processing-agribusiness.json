@@ -1,0 +1,84 @@
+{
+  "title": "Food Processing & Agri-business",
+  "kicker": "Industry career",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Food processing and agri-business companies buy farm produce, process and package it, and sell it through supply chains. Agriculture graduates commonly work in procurement (sourcing from farmers and mandis), quality assurance, field operations, warehousing and supply chain, and agri-input or commodity sales."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Food safety regulator",
+            "value": "FSSAI",
+            "note": "Under the Food Safety and Standards Act, 2006"
+          },
+          {
+            "label": "Typical entry roles",
+            "value": "Procurement, quality assurance, field and supply-chain executive"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc Agriculture is usually enough for entry roles, through campus placements or direct applications. Food-technology training helps for quality posts. An MBA or PG diploma in agri-business management leads to management-trainee tracks; those programmes have their own admission tests."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many roles are field-based — plants, collection centres and rural areas — especially early on.",
+          "Procurement workload follows crop seasons.",
+          "Quality roles need working knowledge of FSSAI standards and food-safety systems.",
+          "Growth often leads to supply-chain, category or plant management."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Supply Chain Associate",
+            "href": "/roles/supply-chain-associate"
+          },
+          {
+            "label": "Quality Control Analyst",
+            "href": "/roles/quality-control-analyst"
+          },
+          {
+            "label": "Logistics Coordinator",
+            "href": "/roles/logistics-coordinator"
+          },
+          {
+            "label": "Sales Executive",
+            "href": "/roles/sales-executive"
+          },
+          {
+            "label": "Operations Executive",
+            "href": "/roles/operations-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

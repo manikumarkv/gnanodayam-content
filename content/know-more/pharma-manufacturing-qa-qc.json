@@ -1,0 +1,90 @@
+{
+  "title": "Pharma Manufacturing, QA & QC",
+  "kicker": "Industry career",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Pharmaceutical plants employ pharmacy graduates in three linked functions: production (running and documenting manufacturing batches), quality control (testing raw materials and finished products in the lab) and quality assurance (making sure processes, records and audits meet Good Manufacturing Practice). It is one of the largest entry points for B.Pharm graduates."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "GMP standard",
+            "value": "Revised Schedule M",
+            "note": "Drugs Rules, 1945; revised schedule notified December 2023"
+          },
+          {
+            "label": "Regulators",
+            "value": "CDSCO and State Drug Controllers",
+            "note": "Export plants are also inspected by foreign regulators"
+          },
+          {
+            "label": "Approved technical staff",
+            "value": "Required by licence",
+            "note": "Manufacturing and testing licences name qualified, approved staff; a pharmacy degree is one accepted qualification"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Pharm (or D.Pharm/M.Pharm, or a science degree for some QC roles). Hiring is direct — campus placement, walk-in drives or applications to plants. There is no entrance exam; companies may test basic pharmaceutics, analytical chemistry and GMP knowledge."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Plants are concentrated in industrial clusters, so relocation is common.",
+          "Production and QC often involve shift work and strict documentation.",
+          "Experience with audits, analytical instruments (HPLC, GC) and data-integrity practices helps movement into QA, regulatory affairs or validation.",
+          "Entry pay is modest; growth depends on the plant's scale and regulatory exposure."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Production Chemist",
+            "href": "/roles/production-chemist"
+          },
+          {
+            "label": "Pharma QC Analyst",
+            "href": "/roles/pharma-qc-analyst"
+          },
+          {
+            "label": "Quality Control Analyst",
+            "href": "/roles/quality-control-analyst"
+          },
+          {
+            "label": "Regulatory Affairs Associate",
+            "href": "/roles/regulatory-affairs-associate"
+          },
+          {
+            "label": "Lab Chemist",
+            "href": "/roles/lab-chemist"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

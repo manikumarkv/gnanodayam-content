@@ -1,0 +1,81 @@
+{
+  "title": "MD Paediatrics",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate degree in the medical care of children, from newborns to adolescents. Residents train in general paediatrics, neonatal care, paediatric intensive care, infections, growth and development, and immunisation, with heavy ward and emergency duty. DNB Paediatrics (NBEMS) is a parallel route of the same length."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Residency with a thesis"
+          },
+          {
+            "label": "Entrance exam",
+            "value": "NEET-PG",
+            "note": "Conducted by NBEMS"
+          },
+          {
+            "label": "Regulator",
+            "value": "National Medical Commission (NMC)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An MBBS with completed internship and registration, then NEET-PG. 50% of seats in government medical colleges, plus deemed and central university seats, are allotted through all-India counselling by the Medical Counselling Committee (MCC); the rest go through state counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Night duty and emergency work are frequent, especially in neonatal and paediatric intensive care.",
+          "Paediatricians work in government and private hospitals or run their own clinics.",
+          "Super-specialisation, such as DM Neonatology, is possible through NEET-SS.",
+          "Talking with worried parents is a large part of everyday work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "General Physician",
+            "href": "/roles/general-physician"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

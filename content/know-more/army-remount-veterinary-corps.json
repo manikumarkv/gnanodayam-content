@@ -1,0 +1,83 @@
+{
+  "title": "Army Remount & Veterinary Corps",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Remount and Veterinary Corps (RVC) is the Army's veterinary arm. It looks after the animals the Army uses — horses, mules and dogs — and runs breeding, training and veterinary hospitals. BVSc graduates can join as commissioned officers through a Short Service Commission in the RVC."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Entry",
+            "value": "Short Service Commission (RVC)",
+            "note": "Open to men and women"
+          },
+          {
+            "label": "Age",
+            "value": "21–32 years",
+            "source": "Indian Army RVC notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Posts in a recent notification",
+            "value": "20",
+            "note": "Split between men and women",
+            "source": "Indian Army 95th SSC RVC notification (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BVSc or BVSc & AH degree with internship completed, Indian citizenship and the age limit. Applications are screened by the Directorate General Remount Veterinary Services; shortlisted candidates attend an SSB interview and a medical examination. Notifications appear on the official Join Indian Army website."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Intake is small — usually a few dozen or fewer posts per notification.",
+          "Permanent commission is possible through a departmental test, with an age condition at the time of commission.",
+          "Service involves postings across the country, including field and remote areas.",
+          "Military service conditions — fixed tenure, transfers, discipline — differ from civilian veterinary work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Veterinarian",
+            "href": "/roles/veterinarian"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

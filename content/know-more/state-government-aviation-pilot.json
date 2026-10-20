@@ -1,0 +1,81 @@
+{
+  "title": "State Government Aviation Pilot",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Several state governments own or hire aircraft and helicopters to fly the Governor, Chief Minister and officials, and for emergencies. They employ pilots, often through the state civil aviation department, to fly and help manage these aircraft."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Licence",
+            "value": "DGCA CPL or ATPL",
+            "note": "Aeroplane or helicopter, matching the state’s fleet"
+          },
+          {
+            "label": "Experience",
+            "value": "Set number of total and pilot-in-command hours",
+            "note": "Exact hours and type rating are stated in each notice"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A DGCA pilot licence (CPL or ATPL) with a valid medical and the ratings the post requires, plus experience — usually a minimum of total and pilot-in-command hours and an endorsement on the aircraft type the state flies. States advertise posts through their aviation department; selection is by interview and sometimes a flying check. Many posts are on contract."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are rare; a state may have only a few pilot posts.",
+          "These are experienced-pilot posts; fresh CPL holders rarely meet the hour requirements.",
+          "Many posts are contractual and are often filled by former defence or airline pilots.",
+          "Flying follows official schedules, with short-notice duty."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Charter Pilot",
+            "href": "/roles/charter-pilot"
+          },
+          {
+            "label": "First Officer",
+            "href": "/roles/first-officer"
+          },
+          {
+            "label": "Flight Instructor",
+            "href": "/roles/flight-instructor"
+          },
+          {
+            "label": "Vocational / Skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

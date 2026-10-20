@@ -1,0 +1,87 @@
+{
+  "title": "MS General Surgery",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "MS General Surgery is a three-year postgraduate surgical degree after MBBS. Residents manage abdominal, trauma, hernia, breast, thyroid and other common surgical conditions, assist and then operate, and handle emergency admissions. It is the base for later super-specialisation (M.Ch) in fields such as surgical oncology, GI or plastic surgery."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Residency with a thesis; regulated by the National Medical Commission"
+          },
+          {
+            "label": "PG students in general surgery",
+            "value": "~11,600",
+            "note": "All PG courses in the subject",
+            "source": "AISHE 2023-24, Table 13, PG level, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "All MD/MS/PG diploma seats",
+            "value": "~52,000",
+            "note": "Across ~68 specialities",
+            "source": "NMC seat matrix for NEET-PG counselling (as reported)",
+            "date": "2025-26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS with a completed internship, then NEET-PG (conducted by NBEMS). Seats are allotted by rank through MCC counselling (All-India quota, central and deemed institutions) and state counselling; DNB General Surgery is a parallel route."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Long hours, night duties and emergency call are a normal part of residency.",
+          "After the MS: senior residency, hospital or government surgeon posts, or NEET-SS for an M.Ch.",
+          "Setting up independent surgical practice needs operating-theatre access, which often means working with a hospital."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

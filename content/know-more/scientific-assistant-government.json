@@ -1,0 +1,80 @@
+{
+  "title": "Scientific Assistant (Government Labs)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Scientific assistants support scientists in government laboratories: running experiments and instruments, collecting and analysing samples, maintaining records and equipment. Employers include forensic science labs, the India Meteorological Department, Department of Atomic Energy units and other research and testing labs. Posts are usually Group B or C."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical eligibility",
+            "value": "B.Sc in a specified subject (sometimes M.Sc or diploma)",
+            "note": "Each notice names the exact subjects"
+          },
+          {
+            "label": "Common recruiters",
+            "value": "SSC, DAE units, state PSCs / forensic labs",
+            "note": "Each recruits separately"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hold a science degree in the subjects named for the post (for example physics, chemistry or forensic science). Central posts come through SSC exams (including Selection Posts and IMD scientific assistant recruitment), DAE units' own trainee schemes for B.Sc graduates, and state PSC or department notices for forensic and state labs. Selection is usually a written test, sometimes with a skill test or interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Subject wording is strict — similar coursework may not count if the degree name doesn't match.",
+          "Openings are scattered across many employers, so tracking multiple notices helps.",
+          "The work is lab-based, often with shift or field duties (for example in weather or forensic work)."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          },
+          {
+            "label": "Lab Chemist",
+            "href": "/roles/lab-chemist"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "SSC exams",
+            "href": "/explore/government-competitive.ssc"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

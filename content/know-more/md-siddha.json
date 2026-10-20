@@ -1,0 +1,81 @@
+{
+  "title": "MD (Siddha)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate degree in Siddha medicine, taken after BSMS. Students specialise in one subject — such as Pothu Maruthuvam (general medicine), Noi Naadal (pathology and diagnosis), Gunapadam (pharmacology), Nanju Maruthuvam (toxicology), Kuzhandhai Maruthuvam (paediatrics) or Varma Maruthuvam — and complete a dissertation."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Includes a dissertation"
+          },
+          {
+            "label": "Entrance exam",
+            "value": "AIAPGET",
+            "note": "Conducted by the National Testing Agency (NTA)"
+          },
+          {
+            "label": "Regulator",
+            "value": "NCISM",
+            "note": "National Commission for Indian System of Medicine"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BSMS degree with internship completed and registration as a Siddha practitioner. Admission is through AIAPGET; all-India quota seats are allotted through Ayush central counselling and state-quota seats through state counselling (mainly Tamil Nadu)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Siddha PG seats are few and concentrated in Tamil Nadu — for example the National Institute of Siddha, Chennai, and the Government Siddha Medical College, Tirunelveli (Palayamkottai).",
+          "Each subject has only a handful of seats, so options narrow sharply by rank.",
+          "An MD opens teaching posts in Siddha colleges, research posts (such as at CCRS) and specialist practice."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Siddha Physician",
+            "href": "/roles/siddha-physician"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

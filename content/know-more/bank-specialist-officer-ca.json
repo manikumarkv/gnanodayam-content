@@ -1,0 +1,88 @@
+{
+  "title": "Bank Specialist Officer (CA)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Public-sector banks hire Chartered Accountants as specialist officers for credit appraisal, accounts, internal audit, taxation and financial reporting. Posts are typically at Scale I or Scale II, with experience needed for higher grades. Banks advertise these posts in their own notices, not through the common IBPS PO exam."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical grades",
+            "value": "JMGS-I or MMGS-II",
+            "note": "Depends on experience asked"
+          },
+          {
+            "label": "MMGS-II basic pay",
+            "value": "₹64,820–93,960",
+            "note": "Plus allowances",
+            "source": "Bank officer pay scale under the 12th Bipartite Settlement, per bank notices (as reported)",
+            "date": "2024–26",
+            "verified": false
+          },
+          {
+            "label": "Selection",
+            "value": "Shortlisting + interview; some banks add an online test",
+            "note": "Per SBI and other bank SO notices"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Be a qualified Chartered Accountant (ICAI member); many posts ask for post-qualification experience, for example in bank audit or credit. Watch SBI and other public-sector bank 'specialist cadre officer' notices, apply online, and go through shortlisting, an interview and sometimes a written or online test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Notices are irregular and post counts are usually small.",
+          "The work is within the bank's credit, audit, tax or finance teams, with transferable postings.",
+          "Pay is lower than many private-sector CA roles, in exchange for government-bank job security."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Chartered Accountant",
+            "href": "/roles/chartered-accountant"
+          },
+          {
+            "label": "Credit Analyst",
+            "href": "/roles/credit-analyst"
+          },
+          {
+            "label": "Auditor",
+            "href": "/roles/auditor"
+          },
+          {
+            "label": "Banking exams (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

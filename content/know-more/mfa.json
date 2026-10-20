@@ -1,0 +1,83 @@
+{
+  "title": "MFA (Master of Fine Arts)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The MFA is a two-year postgraduate degree in fine arts. Specialisations include painting, sculpture, applied art, printmaking, art history and visual communication, depending on the university. Most of the time goes to studio practice, with art history and a final display or dissertation."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~5,700",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Usually a BFA (or equivalent) in the relevant specialisation, with a minimum percentage. Admission is through a university entrance or practical test, portfolio review and/or interview; some universities use CUET-PG."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Independent practice — exhibitions, commissions, sales — can mean irregular income.",
+          "College teaching usually also needs UGC-NET or a PhD; school art teaching may need a B.Ed or a teacher-eligibility test, by state.",
+          "Industry routes include illustration, animation, design studios, galleries and art education.",
+          "Residencies and grants exist but are competitive."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Art Teacher",
+            "href": "/roles/art-teacher"
+          },
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

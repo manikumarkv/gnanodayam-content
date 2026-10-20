@@ -1,0 +1,88 @@
+{
+  "title": "HR Officer in PSUs",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Public sector undertakings recruit HR executive trainees and officers to handle recruitment, industrial relations, training, payroll and welfare. Several large PSUs, such as POWERGRID, have filled these posts using UGC-NET scores in Human Resource Management / Labour Welfare followed by an interview."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Usual qualification",
+            "value": "PG in HR / personnel management / IR",
+            "note": "Often a 2-year MBA or PG diploma with HR specialisation, or MSW with HR"
+          },
+          {
+            "label": "Common screening",
+            "value": "UGC-NET (HRM paper)",
+            "note": "Followed by interview / group discussion"
+          },
+          {
+            "label": "Upper age (example)",
+            "value": "28 years",
+            "note": "POWERGRID HR trainee notice; varies by PSU",
+            "source": "POWERGRID recruitment notice",
+            "date": "2022",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BBA alone is usually not enough — most PSU HR posts ask for a postgraduate degree with HR specialisation and minimum marks. Watch PSU notifications that name the UGC-NET cycle they will use, appear in that NET paper, and clear the interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are few and irregular, and each PSU sets its own eligibility and cut-offs.",
+          "The usual route from a BBA is an MBA (HR) or similar PG first.",
+          "PSU HR work includes labour-law compliance and union relations, especially in plant locations."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "HR Executive",
+            "href": "/roles/hr-executive"
+          },
+          {
+            "label": "Recruiter",
+            "href": "/roles/recruiter"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

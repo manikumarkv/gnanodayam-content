@@ -1,0 +1,85 @@
+{
+  "title": "M.Sc in Your Allied Health Specialisation",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Most allied health bachelor's fields — medical laboratory technology, medical imaging / radiology, operation theatre and anaesthesia technology, optometry, cardiac and perfusion technology and others — have a two-year M.Sc in the same area. It deepens technical skills and is usually needed for teaching, supervisory and research roles. These professions are being brought under the National Commission for Allied and Healthcare Professions Act, 2021."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters, with clinical or lab postings"
+          },
+          {
+            "label": "Regulation",
+            "value": "NCAHP Act, 2021",
+            "note": "National Commission for Allied and Healthcare Professions"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc in the same allied health field, usually with minimum marks. Admission is through university or institute entrance tests, CUET-PG at some universities, or merit in the bachelor's degree."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "An M.Sc is usually needed to teach allied health courses.",
+          "In hospital technical jobs, experience counts alongside the degree.",
+          "Specialisations are narrow, so the choice ties you to a particular lab, imaging or clinical area.",
+          "A PhD can follow for research or senior academic roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Medical Lab Technologist",
+            "href": "/roles/medical-lab-technologist"
+          },
+          {
+            "label": "Radiology Technologist",
+            "href": "/roles/radiology-technologist"
+          },
+          {
+            "label": "OT & Anaesthesia Technologist",
+            "href": "/roles/ot-anaesthesia-technologist"
+          },
+          {
+            "label": "Optometrist",
+            "href": "/roles/optometrist"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

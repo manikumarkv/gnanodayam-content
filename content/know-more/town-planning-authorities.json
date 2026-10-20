@@ -1,0 +1,77 @@
+{
+  "title": "Town Planning & Development Authorities",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State town and country planning departments, development authorities, municipal corporations and central bodies such as the Town and Country Planning Organisation (TCPO) employ planners and architects. The work includes master plans, zoning, building-plan and layout approvals, and design of public projects."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Architect posts",
+            "value": "B.Arch + Council of Architecture registration",
+            "note": "Assistant Architect and similar posts"
+          },
+          {
+            "label": "Planner posts",
+            "value": "B.Plan or M.Plan often required",
+            "note": "Assistant Town Planner and similar posts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For architect posts: a B.Arch with registration with the Council of Architecture. For planner posts: usually a B.Plan or a master's in planning (M.Plan), sometimes with membership of the Institute of Town Planners, India. Central posts are often recruited through UPSC; state posts through state PSCs or the authority's own notices, by written test and/or interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "With a B.Arch alone, architect posts are the main fit; planner posts often ask for an M.Plan.",
+          "Openings are few and irregular.",
+          "Some authorities hire on contract for specific projects, such as master-plan or urban-mission work.",
+          "Planning work involves government procedure, public consultation and regulation as much as design."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Architect",
+            "href": "/roles/architect"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

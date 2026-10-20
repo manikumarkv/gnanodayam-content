@@ -1,0 +1,95 @@
+{
+  "title": "NIC (National Informatics Centre)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The National Informatics Centre (NIC) is the central government's IT organisation under the Ministry of Electronics and Information Technology (MeitY). It builds and runs e-governance software, websites, data centres and networks for ministries, states and districts. Its regular technical posts are filled through occasional recruitment drives run by NIELIT."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Main entry posts",
+            "value": "Scientist-B; Scientific/Technical Assistant-A",
+            "note": "Recent drives also included Scientific Officer/Engineer posts",
+            "source": "NIELIT recruitment notices (as reported)",
+            "date": "2020, 2023",
+            "verified": false
+          },
+          {
+            "label": "Pay level",
+            "value": "Level 10 (Scientist-B); Level 6 (STA-A)",
+            "note": "7th CPC pay matrix",
+            "source": "NIELIT recruitment notice (as reported)",
+            "date": "2020",
+            "verified": false
+          },
+          {
+            "label": "Last large drive",
+            "value": "598 posts",
+            "note": "Advt. NIELIT/NIC/2023/1",
+            "source": "NIELIT notice (as reported)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Scientist-B has asked for a B.E./B.Tech or a relevant master's (such as M.Sc, MCA, M.E./M.Tech) in listed IT and electronics fields; Scientific/Technical Assistant-A has asked for an M.Sc, MS, MCA or B.E./B.Tech. A B.Sc or BCA alone has generally not been enough, so most B.Sc and BCA graduates apply after an MCA or M.Sc. Selection has been by a written test, plus an interview for Scientist-B, with an age limit set in each notice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Drives are not annual — the last two large rounds were in 2020 and 2023.",
+          "Work covers software development, hosting, networks and IT support for government departments, often from state or district units.",
+          "Many government IT project jobs are contractual and hired separately from these regular posts.",
+          "Eligibility, age limits and fields change with each notice, so the current advertisement is the rule that applies."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Software Developer",
+            "href": "/roles/software-developer"
+          },
+          {
+            "label": "Network Engineer",
+            "href": "/roles/network-engineer"
+          },
+          {
+            "label": "IT Support Engineer",
+            "href": "/roles/it-support-engineer"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

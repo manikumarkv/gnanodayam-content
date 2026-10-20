@@ -1,0 +1,83 @@
+{
+  "title": "Data Science after a BA Economics",
+  "kicker": "Upskilling path",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Economics already teaches statistics, econometrics and reasoning with data, which overlap with data science. Moving across usually means adding programming (Python or R, and SQL), machine-learning basics and project experience — through a master's degree or through certificates and self-study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Master’s routes",
+            "value": "M.Sc / MA in data science, statistics or economics with a quantitative focus"
+          },
+          {
+            "label": "Typical first roles",
+            "value": "Data analyst, business analyst, research analyst"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For a master's: a bachelor's degree, often with mathematics or statistics at some level, and admission through CUET-PG, a university or institute entrance test, or merit. Statistics-heavy programmes test mathematics closely. Certificates and online courses have no entrance — your own projects show your skill."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A master's takes two years and costs more but gives structured training and campus hiring; certificates cost less but rely on a self-built portfolio.",
+          "Entry roles are more often data analyst or business analyst than data scientist.",
+          "Economics knowledge is useful in analytics for policy, finance, market research and consulting.",
+          "Gaps in linear algebra, calculus and probability are the usual hurdle."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          },
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          },
+          {
+            "label": "Economic Analyst",
+            "href": "/roles/economic-analyst"
+          },
+          {
+            "label": "Market Research Analyst",
+            "href": "/roles/market-research-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

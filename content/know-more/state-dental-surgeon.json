@@ -1,0 +1,81 @@
+{
+  "title": "State Dental Surgeon",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Dental surgeon (or dental officer) posts in state health departments — district hospitals, community health centres and some primary health centres. States recruit through their Public Service Commission or a health recruitment board. Teaching posts in government dental colleges are filled separately and usually need an MDS."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Qualification",
+            "value": "BDS",
+            "note": "MDS for specialist and teaching posts"
+          },
+          {
+            "label": "Registration",
+            "value": "State Dental Council",
+            "note": "Degree from a DCI-recognised college"
+          },
+          {
+            "label": "Recruiting body",
+            "value": "State PSC or state health recruitment board",
+            "note": "Varies by state"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "BDS from a DCI-recognised college, a completed internship and State Dental Council registration. Apply when your state's PSC or health recruitment board notifies posts; selection is by written exam, sometimes with an interview, and a few states select on merit. Domicile, local-language and age rules usually apply."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Posts are limited and openings come irregularly, so many graduates also prepare for MDS (NEET-MDS) or work in private practice.",
+          "Some states hire contract dental surgeons under NHM, with different terms from regular posts.",
+          "Central posts, such as the Army Dental Corps and central health services, are recruited separately."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Dentist",
+            "href": "/roles/dentist"
+          },
+          {
+            "label": "Dental Lecturer",
+            "href": "/roles/dental-lecturer"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

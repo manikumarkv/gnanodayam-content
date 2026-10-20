@@ -1,0 +1,92 @@
+{
+  "title": "ICAR Scientist via ASRB",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Agricultural Scientists Recruitment Board (ASRB) recruits scientists for the Indian Council of Agricultural Research (ICAR) through the Agricultural Research Service (ARS) exam. Selected candidates join as Scientist at an ICAR institute and work on research, extension and training — in veterinary and animal sciences as well as crops, fisheries and other fields."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Minimum qualification",
+            "value": "Master’s degree in a relevant discipline",
+            "note": "A BVSc & AH alone is not enough"
+          },
+          {
+            "label": "ARS age limit",
+            "value": "21–32 years",
+            "note": "Relaxations for reserved categories and PhD holders",
+            "source": "ASRB notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Stages",
+            "value": "Preliminary, mains and interview",
+            "note": "Prelims is combined with NET, SMS and STO",
+            "source": "ASRB notification (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Complete a master's degree (for example an MVSc) in a discipline listed in the ASRB notification. ASRB holds a combined preliminary exam for NET, ARS, SMS and STO; ARS candidates who clear it take a descriptive mains exam and an interview. Discipline-wise qualifications and age limits are in each year's notification."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies are discipline-specific, so a given subject may have only a few posts in a year.",
+          "The same prelims also offers ASRB NET, used for lecturer / assistant professor eligibility in agricultural universities.",
+          "Postings can be at research stations in remote areas.",
+          "A PhD is not required to apply but gives age relaxation and supports later career growth."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Veterinarian",
+            "href": "/roles/veterinarian"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

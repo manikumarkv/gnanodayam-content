@@ -1,0 +1,84 @@
+{
+  "title": "AMC (Australia)",
+  "kicker": "Licence",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Australian Medical Council (AMC) assesses doctors trained outside Australia. On the Standard pathway, an Indian MBBS graduate passes the AMC computer-adaptive MCQ exam and then either the AMC Clinical Examination or a workplace-based assessment, followed by supervised practice, to reach general registration with the Medical Board of Australia."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Written exam",
+            "value": "AMC CAT MCQ",
+            "note": "Computer-adaptive; must be passed before applying for registration"
+          },
+          {
+            "label": "Clinical step",
+            "value": "AMC Clinical Exam or WBA",
+            "note": "Workplace-based assessment places are limited and need registration first"
+          },
+          {
+            "label": "Supervised practice",
+            "value": "12 months",
+            "note": "Minimum 47 weeks full-time equivalent",
+            "source": "Medical Board of Australia, Standard pathway",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A primary medical degree from a school listed in the World Directory of Medical Schools, a completed internship, primary-source verification of documents through the AMC (via ECFMG's EPIC), and meeting the Board's English language standard. Then the CAT MCQ, the clinical exam or WBA, and a supervised position approved by the Board."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The process usually takes years and involves significant exam, verification and visa costs.",
+          "Finding a first supervised job in Australia is often the hardest step.",
+          "Doctors with UK, US, Canadian, Irish or New Zealand qualifications/experience may use the separate Competent Authority pathway; specialists have their own pathways."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "General Physician",
+            "href": "/roles/general-physician"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

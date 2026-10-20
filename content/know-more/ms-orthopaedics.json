@@ -1,0 +1,88 @@
+{
+  "title": "MS Orthopaedics",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year surgical MS after MBBS covering bones, joints, muscles and the spine — fractures and trauma, joint replacement, sports injuries, paediatric orthopaedics and spine surgery. Training is hands-on, in operation theatres and emergency departments."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Includes a thesis"
+          },
+          {
+            "label": "PG enrolment in orthopaedics",
+            "value": "~6,000",
+            "note": "All PG years and courses combined, as reported to AISHE",
+            "source": "AISHE 2023-24, PG enrolment by subject, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Women among PG students",
+            "value": "~7%",
+            "note": "412 of 5,982 reported",
+            "source": "AISHE 2023-24, PG enrolment by subject, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Entrance exam",
+            "value": "NEET-PG",
+            "note": "Conducted by NBEMS"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS with a completed internship and NMC/State Medical Council registration. Admission is through NEET-PG; seats are filled by MCC counselling (All-India quota, central and deemed universities) and by state counselling. DNB Orthopaedics through NBEMS is a parallel route."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Trauma care means night emergencies and long theatre days, especially during residency.",
+          "Independent practice needs theatre access and equipment; many surgeons work in hospitals for years first.",
+          "Fellowships in joint replacement, arthroscopy/sports or spine surgery are common next steps."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

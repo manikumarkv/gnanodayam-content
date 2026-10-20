@@ -1,0 +1,81 @@
+{
+  "title": "Public Prosecutor",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Prosecutors conduct criminal cases on behalf of the State. Assistant Public Prosecutors (APPs) appear in magistrates' courts; Public Prosecutors and Additional Public Prosecutors appear in sessions courts. APP posts are filled by state governments, usually through the state Public Service Commission, under Section 19 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "APP appointment",
+            "value": "By the state government, for each district",
+            "note": "BNSS 2023, Section 19"
+          },
+          {
+            "label": "Public Prosecutor eligibility",
+            "value": "At least 7 years as an advocate",
+            "note": "BNSS 2023, Section 18(7); prosecuting service can count"
+          },
+          {
+            "label": "APP practice requirement",
+            "value": "Varies by state",
+            "note": "From none to several years at the Bar"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An LLB and enrolment with a State Bar Council; many states also ask for a minimum period of practice. Apply when the state PSC or prosecution department notifies APP posts. Selection is usually a written exam on criminal law and procedure, often followed by a main exam and interview, within the state's age limits."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Notifications are irregular and state-specific; your state's service rules set the details.",
+          "The work is criminal-law heavy — BNS, BNSS and BSA, which replaced the IPC, CrPC and Evidence Act in July 2024.",
+          "Central prosecutors, such as those for the CBI, are recruited separately."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Advocate (Litigation)",
+            "href": "/roles/advocate"
+          },
+          {
+            "label": "Legal Counsel",
+            "href": "/roles/legal-counsel"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "PhD via ICAR AICE-JRF/SRF",
+  "kicker": "Doctoral research",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The ICAR All India Competitive Examination for JRF/SRF (PhD) is the national entrance for doctoral admission in agricultural, veterinary and allied sciences. It fills PhD seats in ICAR deemed universities and part of the seats in agricultural and veterinary universities, and candidates high on the merit list receive an ICAR fellowship."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Conducted by",
+            "value": "National Testing Agency (NTA)",
+            "note": "On behalf of the Indian Council of Agricultural Research"
+          },
+          {
+            "label": "Test format",
+            "value": "Computer-based, 120 MCQs, 2 hours",
+            "note": "Subject-wise papers",
+            "source": "NTA ICAR bulletin (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Subjects covered",
+            "value": "~72",
+            "note": "Including veterinary and animal sciences",
+            "source": "NTA ICAR bulletin (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A master's degree in the relevant subject is needed — so after BVSc & AH the usual sequence is an MVSc first (through ICAR's PG entrance or a university test), then this exam for the PhD. Applications are online through NTA, usually around May–June."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The fellowship amount is set by ICAR and has been revised over time; check the current bulletin.",
+          "Universities also admit PhD students through their own tests, so this is not the only route.",
+          "A PhD leads mainly to research scientist posts (e.g. via ASRB), university teaching and R&D roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Veterinarian",
+            "href": "/roles/veterinarian"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

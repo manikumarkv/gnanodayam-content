@@ -1,0 +1,95 @@
+{
+  "title": "Research Officer at Ayush Research Councils",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Ministry of Ayush runs four autonomous research councils — CCRAS (Ayurveda), CCRH (Homoeopathy), CCRS (Siddha) and CCRUM (Unani Medicine). Research Officers in these councils run clinical studies, drug standardisation and literary research, and staff the councils' research institutes and units across India."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Councils",
+            "value": "CCRAS, CCRH, CCRS, CCRUM",
+            "note": "Autonomous bodies under the Ministry of Ayush"
+          },
+          {
+            "label": "Usual qualification",
+            "value": "PG degree (MD/MS) in the system + registration",
+            "note": "Registration with the central or state register for that system",
+            "source": "CCRAS recruitment notification (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Pay level",
+            "value": "Level 10, 7th CPC pay matrix (+ NPA as applicable)",
+            "note": "For Research Officer (Ayurveda)",
+            "source": "CCRAS Advt. 03/2022 (as reported)",
+            "date": "2022",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Each council issues its own recruitment notification when posts are open. Selection has typically been a written test followed by an interview. A postgraduate degree in the relevant system (for example MD Ayurveda for CCRAS) is usually essential, so a BAMS/BHMS/BSMS/BUMS graduate normally completes an MD first via AIAPGET."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Recruitment is irregular and the number of posts per system is small.",
+          "Age limits (around 40 years in recent CCRAS notices) and pay vary by notification — check the current one.",
+          "The work is research-oriented: protocols, data, publications — not mainly private clinical practice."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Ayurvedic Physician",
+            "href": "/roles/ayurvedic-physician"
+          },
+          {
+            "label": "Homoeopathic Physician",
+            "href": "/roles/homoeopathic-physician"
+          },
+          {
+            "label": "Siddha Physician",
+            "href": "/roles/siddha-physician"
+          },
+          {
+            "label": "Unani Physician",
+            "href": "/roles/unani-physician"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

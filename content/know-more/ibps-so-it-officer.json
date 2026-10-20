@@ -1,0 +1,100 @@
+{
+  "title": "IT Officer in Public-Sector Banks (IBPS SO)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "IT Officer (Scale I) is one of the specialist officer posts that public-sector banks fill through the IBPS Specialist Officers (SO) exam. IT officers look after a bank's core banking systems, networks, information security, data centres and digital channels. Some banks, such as SBI, also advertise their own specialist IT posts outside IBPS."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Grade",
+            "value": "Scale I (JMGS-I)",
+            "note": "Junior Management Grade Scale I officer"
+          },
+          {
+            "label": "Selection stages",
+            "value": "Prelims → Mains → Interview",
+            "note": "Mains (professional knowledge) and interview weighted 80:20",
+            "source": "IBPS SO notifications (as reported)",
+            "date": "2020–2026",
+            "verified": false
+          },
+          {
+            "label": "Basic pay scale",
+            "value": "₹48,480–85,920",
+            "note": "Plus DA, HRA and other allowances",
+            "source": "IBPS SO notification (as reported)",
+            "date": "2025–26",
+            "verified": false
+          },
+          {
+            "label": "Age limit",
+            "value": "20–30 years",
+            "note": "Relaxation for reserved categories",
+            "source": "IBPS SO notification (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A four-year engineering/technology degree in Computer Science, IT, Computer Applications, Electronics or related branches, or a postgraduate degree in these subjects (MCA, M.Sc CS/IT). A three-year B.Sc or BCA alone usually does not qualify unless paired with a postgraduate degree or a NIELIT (DOEACC) 'B' level qualification — check the current notice. IBPS notifies the SO exam about once a year: an online prelims, a mains professional-knowledge test and an interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies are shared across six specialist posts, are provisional, and the IT officer count changes every year.",
+          "Postings can be anywhere in the bank's network, and transfers are part of the job.",
+          "Much of the work is running and securing the bank's systems and managing vendor-built software, rather than building products from scratch.",
+          "Promotions follow the bank's internal promotion policy, as for other officers."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Banking exams (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Cybersecurity Analyst",
+            "href": "/roles/cybersecurity-analyst"
+          },
+          {
+            "label": "Network Engineer",
+            "href": "/roles/network-engineer"
+          },
+          {
+            "label": "IT Support Engineer",
+            "href": "/roles/it-support-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

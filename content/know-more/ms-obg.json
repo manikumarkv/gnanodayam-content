@@ -1,0 +1,81 @@
+{
+  "title": "MS Obstetrics & Gynaecology (OBG)",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate surgical degree covering pregnancy and childbirth, women's reproductive health, infertility and gynaecological surgery. Residents manage labour rooms, antenatal and gynaecology clinics, operations including caesarean sections, and complete a thesis."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Full-time paid residency"
+          },
+          {
+            "label": "Entrance",
+            "value": "NEET-PG",
+            "note": "Conducted by NBEMS; counselling by MCC and state authorities"
+          },
+          {
+            "label": "Regulator",
+            "value": "National Medical Commission",
+            "note": "DNB OBG (NBEMS) is a parallel route"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An MBBS with internship completed and medical registration, then a NEET-PG rank. Seats are allotted through all-India and state counselling; DNB seats in accredited hospitals are filled through the same exam."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The work is both medical and surgical, with frequent emergencies and night calls.",
+          "Obstetric care carries a notable medico-legal load, so documentation and consent matter a lot.",
+          "It leads to consultant and hospital posts, private practice, or further training in areas such as reproductive medicine and gynaecological oncology."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

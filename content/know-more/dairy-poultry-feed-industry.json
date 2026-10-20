@@ -1,0 +1,84 @@
+{
+  "title": "Dairy, Poultry & Feed Industry",
+  "kicker": "Industry career",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Dairy cooperatives and milk unions, poultry integrators, and animal-feed and animal-health companies employ veterinarians for herd and flock health, breeding and artificial insemination programmes, disease control, nutrition advice and technical sales. Much of the work is in the field, with farmers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Milk production",
+            "value": "~239 million tonnes",
+            "note": "India is the world's largest milk producer",
+            "source": "Basic Animal Husbandry Statistics 2024, Dept of Animal Husbandry & Dairying (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Egg production",
+            "value": "~143 billion eggs",
+            "note": "Second largest in the world",
+            "source": "Basic Animal Husbandry Statistics 2024, Dept of Animal Husbandry & Dairying (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Registration",
+            "value": "VCI / State Veterinary Council",
+            "note": "Needed to practise as a veterinarian"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BVSc & AH with completed internship and registration with the Veterinary Council of India or a State Veterinary Council. Cooperatives and companies hire through their own advertisements, campus visits and referrals; there is no common entrance exam."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Field roles involve regular travel to villages and farms.",
+          "Technical-sales roles combine animal-health advice with product sales targets.",
+          "An MVSc in animal nutrition, animal genetics and breeding, or poultry science suits specialist roles.",
+          "Work follows livestock regions — for example, Andhra Pradesh, Tamil Nadu and Telangana lead egg output (BAHS 2024)."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Veterinarian",
+            "href": "/roles/veterinarian"
+          },
+          {
+            "label": "Sales Executive",
+            "href": "/roles/sales-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

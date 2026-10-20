@@ -1,0 +1,88 @@
+{
+  "title": "MA English",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in English literature and language, covering British, American, Indian and world literatures in English, literary theory, and often linguistics, translation or cultural studies. It is offered by central, state and private universities, in regular and distance modes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "MA students (all subjects)",
+            "value": "~22.6 lakh",
+            "note": "All MA programmes combined, all modes — not English alone",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, often with English as a subject or minimum marks in English. Central and many other universities admit through CUET-PG (conducted by NTA); state universities use their own tests or merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Teaching is a common outcome: UGC-NET or a state SET for assistant professor posts, a B.Ed for school teaching.",
+          "Publishing, editing, content and communications employers look closely at writing samples, not only the degree.",
+          "Distance and open-university MAs are widely available at lower cost.",
+          "A PhD is needed for a long-term academic career."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Copywriter",
+            "href": "/roles/copywriter"
+          },
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

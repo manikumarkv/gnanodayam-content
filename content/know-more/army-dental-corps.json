@@ -1,0 +1,83 @@
+{
+  "title": "Army Dental Corps",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Army Dental Corps, part of the Armed Forces Medical Services (AFMS), commissions dental surgeons as officers to provide dental care to service personnel and their families. Entry for new dental graduates is by Short Service Commission, with selection run by the Directorate General of AFMS."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Entry type",
+            "value": "Short Service Commission (SSC)",
+            "note": "Permanent Commission is considered later for serving officers under AFMS rules"
+          },
+          {
+            "label": "Upper age limit",
+            "value": "45 years",
+            "note": "As on 31 December of the notification year",
+            "source": "AFMS Army Dental Corps SSC notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Posts notified",
+            "value": "30",
+            "note": "2025 cycle; no category reservation",
+            "source": "AFMS Army Dental Corps SSC notification (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "BDS with at least 55% in the final year (not required for MDS holders), a completed rotatory internship, dental registration, and an appearance in that year's NEET-MDS. Candidates are shortlisted on NEET-MDS scores, interviewed in New Delhi, and must pass an AFMS medical examination."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "This is a commissioned officer post with military rank, postings across India and service conditions to match.",
+          "Shortlisting depends on NEET-MDS performance even though the post is not an MDS seat.",
+          "Notifications usually appear once a year; check the official AFMS notice for current age and marks rules."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Dentist",
+            "href": "/roles/dentist"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

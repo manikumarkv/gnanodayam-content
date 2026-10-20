@@ -1,0 +1,87 @@
+{
+  "title": "Government Pharmacist",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Pharmacists in government service dispense medicines, manage drug stores and keep stock and records in hospitals and dispensaries. Posts exist in railway hospitals, ESIC, central and state health services, defence medical establishments and institutes such as AIIMS. Each employer runs its own recruitment, so eligibility and pay differ by notice."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Basic requirement",
+            "value": "Pharmacy qualification + registration",
+            "note": "Registration as a pharmacist under the Pharmacy Act, 1948 is standard"
+          },
+          {
+            "label": "Railway Pharmacist (Entry Grade)",
+            "value": "Level 5, 7th CPC pay matrix",
+            "note": "RRB Paramedical categories",
+            "source": "RRB Paramedical CEN notification (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Railway eligibility",
+            "value": "B.Pharm or Pharm.D",
+            "note": "Reported as no longer accepting D.Pharm alone in the 2026 cycle",
+            "source": "RRB Paramedical CEN 2026 (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Pharm or Pharm.D (D.Pharm is still accepted for some posts) plus registration with a State Pharmacy Council. Then apply to the recruitment for each employer: RRB Paramedical categories for railways, ESIC and AIIMS notices, and state health department or PSC/recruitment-board exams. Most use a computer-based test followed by document verification."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings come in irregular batches; a single railway cycle usually has posts in the low hundreds.",
+          "Eligibility wording changes between notices — check whether D.Pharm, B.Pharm or Pharm.D is listed for the specific post.",
+          "The work is mostly dispensing and store management, with fixed hours and transferable postings in many services."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Pharmacist",
+            "href": "/roles/pharmacist"
+          },
+          {
+            "label": "Clinical Pharmacist",
+            "href": "/roles/clinical-pharmacist"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

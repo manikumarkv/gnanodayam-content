@@ -1,0 +1,75 @@
+{
+  "title": "M.Des (Master of Design)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The M.Des is a postgraduate design degree offered by IITs, NID, NIFT and several universities, in areas such as product, communication, interaction, transportation and textile design. It mixes studio projects, design research and an industry or degree project. B.Des, BFA, architecture and engineering graduates all take it."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years (IITs, NIFT); 2.5 years at NID",
+            "note": "NID's M.Des runs five semesters"
+          },
+          {
+            "label": "Students enrolled (M.Des)",
+            "value": "~4,600",
+            "note": "All modes",
+            "source": "AISHE 2023-24, Table 11 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "IITs and some other institutes admit through CEED, run by IIT Bombay, followed by each institute's own test or interview. NID uses its own DAT Masters (prelims, then a mains studio test and interview); NIFT runs its own entrance for its M.Des. CEED broadly needs a 3-year degree/diploma after Class 12 (or a GD Arts diploma), but some IIT programmes ask for a 4-year degree — check each institute's brochure."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats are few (a few thousand nationally), so entry is competitive.",
+          "A portfolio and studio/interview rounds weigh heavily alongside the written test.",
+          "Common next steps: in-house design teams, design studios and agencies, UX roles, or teaching and research."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

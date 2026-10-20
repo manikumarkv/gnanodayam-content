@@ -1,0 +1,91 @@
+{
+  "title": "M.Sc Statistics",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's covering probability, statistical inference, regression, sampling, multivariate analysis, stochastic processes and statistical computing. It leads to analytics and data roles, government statistical services and research."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years"
+          },
+          {
+            "label": "PG enrolment in statistics",
+            "value": "~11,800",
+            "note": "All PG years, as reported to AISHE",
+            "source": "AISHE 2023-24, PG enrolment by subject, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Entrance routes",
+            "value": "IIT JAM, CUET-PG, institute tests",
+            "note": "JAM has a Mathematical Statistics paper"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc with statistics or mathematics, for most programmes. Admission is through IIT JAM's Mathematical Statistics paper (IITs and some other institutes), CUET-PG (central and many state universities), or university and institute entrance tests such as ISI's."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "UPSC's Indian Statistical Service and SSC statistics posts (such as Junior Statistical Officer) are common government targets.",
+          "Programming skills (R, Python, SQL) weigh heavily in analytics hiring.",
+          "Teaching and research usually need UGC-NET or CSIR-NET and a Ph.D."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Statistician",
+            "href": "/roles/statistician"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          },
+          {
+            "label": "Actuarial Analyst",
+            "href": "/roles/actuarial-analyst"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

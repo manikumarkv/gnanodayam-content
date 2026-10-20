@@ -1,0 +1,84 @@
+{
+  "title": "M.Sc Analytics",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A postgraduate degree in analytics or business analytics that combines statistics, programming (Python, R, SQL), machine learning and business problem-solving. Universities offer it as an M.Sc; similar content also appears as an MBA (Business Analytics) or a PG diploma."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "Usually 2 years",
+            "note": "Some programmes are shorter"
+          },
+          {
+            "label": "Core subjects",
+            "value": "Statistics, programming, machine learning, data visualisation, business applications"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, often with mathematics or statistics at Class 12 or degree level (rules vary). Admission is through CUET-PG, a university or institute entrance test, or merit and interview. BBA graduates usually show quantitative ability through the entrance test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Programme names vary — analytics, business analytics, data analytics — so the syllabus says more than the title.",
+          "Fees vary widely between public universities and private institutes.",
+          "Common first roles are data analyst, business analyst and reporting analyst.",
+          "Hiring weighs projects, internships and tool skills alongside the degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          },
+          {
+            "label": "Reporting Analyst",
+            "href": "/roles/reporting-analyst"
+          },
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          },
+          {
+            "label": "Market Research Analyst",
+            "href": "/roles/market-research-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

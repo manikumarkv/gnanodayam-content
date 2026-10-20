@@ -1,0 +1,85 @@
+{
+  "title": "ICMR Recruitment",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Council of Medical Research (ICMR), under the Department of Health Research, runs a network of research institutes across India. It recruits scientists, technical staff and administrative staff, and its institutes hire many project staff for funded studies."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Network",
+            "value": "26 national institutes, plus regional centres",
+            "source": "India Science & Technology portal (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Post types",
+            "value": "Scientist; technical assistant / technician; administrative; project staff"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Eligibility depends on the post. Scientist posts generally need a master's in a relevant science, or a medical, dental or veterinary degree, with a PhD or experience for higher grades. Technical assistant posts typically need a science bachelor's; technician posts need Class 12 or a diploma. ICMR headquarters and individual institutes advertise posts; selection is by written or computer-based test and/or interview, and project posts are often filled by walk-in interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Project posts are tied to a study's funding and end when the project ends.",
+          "Permanent recruitment happens in periodic rounds rather than every year.",
+          "Project experience helps with later PhD admissions and research jobs."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          },
+          {
+            "label": "Medical Lab Technologist",
+            "href": "/roles/medical-lab-technologist"
+          },
+          {
+            "label": "Biotech Associate",
+            "href": "/roles/biotech-associate"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

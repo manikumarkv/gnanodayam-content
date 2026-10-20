@@ -1,0 +1,87 @@
+{
+  "title": "Drug Inspector",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A Drug Inspector enforces the Drugs and Cosmetics Act, 1940: inspecting pharmacies, wholesalers and manufacturing units, drawing drug samples for testing, and acting against spurious or substandard medicines. Posts exist in each state's drug control department and, at the central level, in the Central Drugs Standard Control Organisation (CDSCO)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Governing law",
+            "value": "Drugs and Cosmetics Act, 1940 and Rules, 1945"
+          },
+          {
+            "label": "Minimum qualification",
+            "value": "Degree in pharmacy or pharmaceutical sciences, or medicine with clinical pharmacology or microbiology",
+            "note": "Rule 49",
+            "source": "Drugs and Cosmetics Rules, 1945, Rule 49 (as amended in 1993)",
+            "date": "1993",
+            "verified": false
+          },
+          {
+            "label": "Recruiting bodies",
+            "value": "UPSC for CDSCO; state PSCs or recruitment boards for state posts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Rule 49 of the Drugs and Cosmetics Rules sets the minimum qualification: a degree in pharmacy or pharmaceutical sciences, or in medicine with specialisation in clinical pharmacology or microbiology. A general B.Sc may not meet this rule, so check each notification. CDSCO posts are filled through UPSC; state posts through the state Public Service Commission or a state recruitment board, usually by written test and/or interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies are irregular — states recruit in occasional batches, and years can pass between notifications.",
+          "Inspecting units that make certain drugs (Schedule C) needs added hands-on experience under the proviso to Rule 49.",
+          "The work is field inspections, sampling, licensing checks and legal follow-up, including prosecutions.",
+          "Related regulatory work also exists in industry, such as regulatory affairs and quality control."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Pharmacist",
+            "href": "/roles/pharmacist"
+          },
+          {
+            "label": "Regulatory Affairs Associate",
+            "href": "/roles/regulatory-affairs-associate"
+          },
+          {
+            "label": "Pharma QC Analyst",
+            "href": "/roles/pharma-qc-analyst"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

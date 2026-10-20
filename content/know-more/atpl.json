@@ -1,0 +1,88 @@
+{
+  "title": "ATPL (Airline Transport Pilot Licence)",
+  "kicker": "Licence",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Airline Transport Pilot Licence (ATPL) is the highest pilot licence issued by India's DGCA. It is needed to act as pilot-in-command (captain) of multi-crew airline aircraft. First officers build flying hours on a CPL, clear the ATPL exams, and are then considered for command upgrade by their airline."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Total flight time",
+            "value": "1,500 hours",
+            "note": "With further minimums for specific kinds of flying (e.g. pilot-in-command time)",
+            "source": "DGCA ATPL rules (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Prerequisites",
+            "value": "CPL with instrument rating + Class 1 medical",
+            "note": "Plus type rating on the aircraft flown"
+          },
+          {
+            "label": "Written exams",
+            "value": "DGCA theory papers",
+            "note": "Navigation, meteorology, air regulations and others"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hold a CPL with instrument rating and a current Class 1 medical, build flight time (usually as a first officer), pass the DGCA ATPL theory exams, and meet the experience and skill-test requirements. Command upgrade also depends on the airline's own selection and training."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Reaching 1,500 hours typically takes several years of airline flying.",
+          "Holding an ATPL does not guarantee a command — airlines upgrade based on vacancies, seniority and assessments.",
+          "Captains can later move into training roles such as instructor or examiner."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "First Officer",
+            "href": "/roles/first-officer"
+          },
+          {
+            "label": "Charter Pilot",
+            "href": "/roles/charter-pilot"
+          },
+          {
+            "label": "Flight Instructor",
+            "href": "/roles/flight-instructor"
+          },
+          {
+            "label": "Vocational / Skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

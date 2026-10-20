@@ -1,0 +1,80 @@
+{
+  "title": "State Social Welfare & WCD Departments",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State social welfare and women & child development (WCD) departments run schemes for children, women, older persons, persons with disabilities and other vulnerable groups. Officer posts include district social welfare officer, child development project officer (CDPO, under the ICDS/anganwadi system), probation and protection officers, and supervisors. Recruitment and post names vary by state."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Who recruits",
+            "value": "State PSCs and department / district notices",
+            "note": "Some posts are filled on contract under central schemes"
+          },
+          {
+            "label": "Typical eligibility",
+            "value": "Graduation; some posts prefer or need an MSW, sociology or related degree",
+            "note": "Varies by state and post"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Officer-level posts are usually filled through the state PSC (a combined state services exam or a post-specific exam with a written test and interview). Supervisor and contractual posts — for example under child-protection or ICDS schemes — are often advertised directly by the department or district administration. Read each notice for the required degree."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies are irregular and depend on each state's recruitment calendar.",
+          "Field-heavy work: inspections, beneficiary verification, running homes and scheme delivery.",
+          "Contract posts can be an entry point but may not carry the security of regular cadre posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Social Worker",
+            "href": "/roles/social-worker"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

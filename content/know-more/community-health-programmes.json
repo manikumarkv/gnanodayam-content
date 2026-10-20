@@ -1,0 +1,81 @@
+{
+  "title": "Community Health Programmes",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Public-health programmes — run by the National Health Mission (NHM), state health societies, and NGOs — need people for outreach, community mobilisation, counselling and programme coordination. Typical work includes maternal and child health, nutrition, TB and HIV outreach, mental health and health awareness. For social work graduates these are field-based roles that combine people work with reporting."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Main government programme",
+            "value": "National Health Mission",
+            "note": "Combines the National Rural Health Mission (2005) and National Urban Health Mission (2013)"
+          },
+          {
+            "label": "Typical employment",
+            "value": "Contractual / project-based",
+            "note": "NHM state societies and NGO projects"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BSW (or MSW for many coordinator posts). NHM posts are advertised by state and district health societies with their own eligibility and selection, often a written test and/or interview. NGOs and project implementers hire directly."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most roles are fixed-term contracts tied to programme funding.",
+          "Field travel and work in villages or urban slums are common.",
+          "Local language skills and comfort with data entry and reporting help.",
+          "An MSW or a public-health master's opens programme-manager roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Social Worker",
+            "href": "/roles/social-worker"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

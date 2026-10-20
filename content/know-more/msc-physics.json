@@ -1,0 +1,83 @@
+{
+  "title": "M.Sc Physics",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree covering classical and quantum mechanics, electrodynamics, statistical physics, mathematical methods and a specialisation such as condensed matter, nuclear and particle physics, astrophysics or electronics. It usually includes lab work and often a project. It leads to research, teaching and some technical industry roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "PG students in physics",
+            "value": "~86,000",
+            "note": "All PG courses in the subject",
+            "source": "AISHE 2023-24, Table 13, PG level, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc with physics (and usually mathematics). IITs, IISc and some other institutes admit through IIT JAM; central and many state universities use CUET-PG; others run their own tests. JEST is used by several research institutes for integrated PhD programmes."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The research route usually runs through CSIR-UGC NET, GATE or JEST to a PhD.",
+          "College teaching usually needs NET and, for many posts, a PhD.",
+          "Industry roles (data, electronics, instrumentation) often value programming and lab skills alongside the degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

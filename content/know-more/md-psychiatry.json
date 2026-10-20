@@ -1,0 +1,88 @@
+{
+  "title": "MD Psychiatry",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate medical degree after MBBS in the diagnosis and treatment of mental illness — mood and anxiety disorders, psychosis, addiction, child and old-age psychiatry. Training combines in-patient and out-patient care, psychotherapy basics, emergency psychiatry and a thesis."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "MD; a DNB in Psychiatry is the NBEMS equivalent"
+          },
+          {
+            "label": "Adults with a current mental disorder",
+            "value": "~10.6%",
+            "note": "Excluding tobacco use disorder",
+            "source": "National Mental Health Survey, NIMHANS (as reported)",
+            "date": "2015-16",
+            "verified": false
+          },
+          {
+            "label": "Treatment gap",
+            "value": "~70–92%",
+            "note": "Varies by disorder",
+            "source": "National Mental Health Survey, NIMHANS (as reported)",
+            "date": "2015-16",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS with internship and registration, then NEET-PG (conducted by NBEMS). Seats are filled through MCC counselling for the all-India quota and through state counselling for state-quota seats."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The large treatment gap means psychiatrists are needed in government hospitals, district mental health programmes and private practice.",
+          "Work hours are often more regular than in surgical specialties, though emotionally demanding cases and emergencies are part of the job.",
+          "Practice is shaped by the Mental Healthcare Act, 2017, which sets patient-rights and admission rules.",
+          "Fellowships (child, addiction, geriatric psychiatry) or a DM are possible next steps."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

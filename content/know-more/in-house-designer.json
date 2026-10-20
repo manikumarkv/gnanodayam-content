@@ -1,0 +1,76 @@
+{
+  "title": "In-house Designer",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An in-house designer works inside one company — a product firm, retailer, fashion brand, publisher or manufacturer — designing for that company's own products and brand. Roles include UX/UI, product or industrial design, communication / graphic design and fashion design. In-house work gives depth on one brand; agency or studio work gives variety across many clients."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Hiring basis",
+            "value": "Portfolio + interview",
+            "note": "Often with a design task"
+          },
+          {
+            "label": "Common titles",
+            "value": "UX/UI, product, visual, fashion designer",
+            "note": "Titles vary by company and industry"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Des, or another degree or diploma in design, and a portfolio of real work. Companies hire through campus placements, job postings and referrals; internships often lead to full-time offers."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "In-house: one brand, longer projects, close work with engineering, marketing or merchandising teams.",
+          "Agency or studio: many clients, faster turnaround, more variety.",
+          "Hiring decisions lean heavily on the portfolio."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Product Manager",
+            "href": "/roles/product-manager"
+          },
+          {
+            "label": "Brand Associate",
+            "href": "/roles/brand-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "ICAI Post-Qualification Courses",
+  "kicker": "Professional certification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "ICAI runs post-qualification and certificate courses open only to its members (qualified chartered accountants). They add a specialisation on top of the CA — for example Information Systems Audit (ISA, earlier called DISA), forensic accounting and fraud detection, Ind AS, IFRS, concurrent audit of banks and valuation."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Who can join",
+            "value": "ICAI members",
+            "note": "Qualified CAs only"
+          },
+          {
+            "label": "ISA course format",
+            "value": "E-learning + 72 hours of classroom training",
+            "note": "Followed by an assessment test",
+            "source": "ICAI PQC portal (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "ISA assessment test fee",
+            "value": "₹2,000",
+            "source": "ICAI notice (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "ICAI membership. Register on ICAI's courses portal for an available batch, complete the classes or e-learning, and pass the course's assessment test to receive the certificate."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Courses are part-time and designed to fit around work.",
+          "Usefulness depends on your field: IS audit, forensic and bank-audit courses are used in audit work; Ind AS and IFRS in financial reporting roles.",
+          "The course list, format and fees change; ICAI's current listing is the reference."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Chartered Accountant",
+            "href": "/roles/chartered-accountant"
+          },
+          {
+            "label": "Auditor",
+            "href": "/roles/auditor"
+          },
+          {
+            "label": "Financial Analyst",
+            "href": "/roles/financial-analyst"
+          },
+          {
+            "label": "Tax Consultant",
+            "href": "/roles/tax-consultant"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

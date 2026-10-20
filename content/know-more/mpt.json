@@ -1,0 +1,91 @@
+{
+  "title": "MPT (Master of Physiotherapy)",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year Master of Physiotherapy (MPT) after a BPT. You specialise in one area — commonly musculoskeletal/orthopaedics, neurology, cardio-respiratory, sports, paediatrics or community physiotherapy — with supervised clinical work and a dissertation. Physiotherapy is a recognised profession under the National Commission for Allied and Healthcare Professions Act, 2021."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters with clinical postings and a dissertation"
+          },
+          {
+            "label": "Students enrolled in MPT",
+            "value": "~11,400",
+            "source": "AISHE 2023-24, Table 11, all modes, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "BPT enrolment, for scale",
+            "value": "~1.16 lakh",
+            "note": "So only a fraction of BPT graduates go on to an MPT",
+            "source": "AISHE 2023-24, Table 11, all modes, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BPT with internship completed, usually with a minimum percentage. Admission is through university or state entrance tests, institute tests, or merit, depending on the state and university."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "An MPT is the usual requirement for teaching posts in physiotherapy colleges.",
+          "Specialisation helps in hospitals, sports teams and rehabilitation centres, but many clinics value hands-on experience as much as the degree.",
+          "Private-college fees vary widely; government seats are limited.",
+          "Some graduates set up their own practice after a few years of experience."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Physiotherapist",
+            "href": "/roles/physiotherapist"
+          },
+          {
+            "label": "Sports Physiotherapist",
+            "href": "/roles/sports-physiotherapist"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

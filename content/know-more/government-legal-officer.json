@@ -1,0 +1,99 @@
+{
+  "title": "Government Legal Officer",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Law graduates can join government as legal officers in ministries and departments, public-sector undertakings (PSUs), public-sector banks and the armed forces' Judge Advocate General (JAG) branches. The work covers drafting, contracts, managing litigation, legal opinions and compliance."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "PSU law trainees",
+            "value": "CLAT-PG score",
+            "note": "Several PSUs shortlist on CLAT-PG, then interview",
+            "source": "PSU recruitment notices (as reported)",
+            "date": "2024–26",
+            "verified": false
+          },
+          {
+            "label": "Army JAG age limit",
+            "value": "21–27 years",
+            "note": "Unmarried; LLB with at least 55%",
+            "source": "Army JAG entry notices (as reported)",
+            "date": "2025–26",
+            "verified": false
+          },
+          {
+            "label": "JAG commission",
+            "value": "Up to 14 years (SSC)",
+            "note": "10 years, extendable by 4; permanent commission possible",
+            "source": "Army JAG entry notices (as reported)",
+            "date": "2025–26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An LLB (three-year or five-year integrated) with eligibility to enrol as an advocate. Routes: PSU law trainee posts (often CLAT-PG based); IBPS SO Law Officer in public-sector banks; UPSC and state PSC notices for legal advisers and prosecutors; and the Army JAG entry (CLAT-PG score, SSB interview and medical)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Some posts ask for years of practice at the Bar, so freshers have fewer options.",
+          "Each PSU recruits separately; minimum marks and age limits vary.",
+          "JAG vacancies are very few in each course.",
+          "Judicial service (civil judge) is a separate route through state PSC or High Court exams."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Legal Counsel",
+            "href": "/roles/legal-counsel"
+          },
+          {
+            "label": "Advocate (Litigation)",
+            "href": "/roles/advocate"
+          },
+          {
+            "label": "Corporate Lawyer",
+            "href": "/roles/corporate-lawyer"
+          },
+          {
+            "label": "Banking exams (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "title": "MS ENT (Otorhinolaryngology)",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year postgraduate surgical degree (MS) in Otorhinolaryngology after MBBS. ENT surgeons treat ear, nose, throat and head-and-neck conditions — hearing loss, sinus disease, voice problems, tonsils and head-and-neck tumours — using medicines, microscopic and endoscopic surgery."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years"
+          },
+          {
+            "label": "Entrance",
+            "value": "NEET-PG",
+            "note": "Conducted by NBEMS"
+          },
+          {
+            "label": "Regulator",
+            "value": "National Medical Commission (NMC)"
+          },
+          {
+            "label": "Equivalent route",
+            "value": "DNB ENT",
+            "note": "Through NBEMS-accredited hospitals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS with a completed internship and registration with NMC or a State Medical Council. Seats are allotted on NEET-PG rank: MCC counsels the All India Quota and central / deemed seats, and states counsel their own quota seats."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work is outpatient care and planned surgery, alongside emergencies such as airway problems and nosebleeds.",
+          "Private practice is possible but needs equipment such as endoscopes and microscopes, and access to an operation theatre.",
+          "Further training options include fellowships (otology, rhinology, head and neck) and MCh Head and Neck Surgery.",
+          "Government posts include specialist medical officer and teaching faculty in medical colleges."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

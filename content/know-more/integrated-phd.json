@@ -1,0 +1,83 @@
+{
+  "title": "Integrated PhD",
+  "kicker": "Doctoral research",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An Integrated PhD (also called Int-PhD or M.Sc–PhD) admits students straight after a B.Sc into a programme that combines master's-level coursework with doctoral research. It is offered by research institutes such as IISc, the IISERs, TIFR and some universities, mainly in the sciences."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Duration",
+            "value": "~5–6 years",
+            "note": "Varies by institute and research progress",
+            "source": "Institute admission brochures (as reported)",
+            "date": "2025-26",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~1,100",
+            "note": "Programmes reported under this name; some institutes record such students as PhD",
+            "source": "AISHE 2023-24, all modes (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc (some programmes also take other bachelor's degrees) with a minimum percentage. Selection uses national tests — JEST (physics, theoretical computer science), IIT JAM or GATE, depending on the subject — or an institute's own test such as the TIFR Graduate School admission test, followed by interviews. Each institute lists which scores it accepts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Students usually receive a scholarship during coursework and a research fellowship later, per institute norms.",
+          "Many programmes allow an exit with a master's degree after the coursework phase.",
+          "It is a long commitment aimed at a research career.",
+          "Outcomes include postdoctoral research, academic posts and research roles in labs and industry."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

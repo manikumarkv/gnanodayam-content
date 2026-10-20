@@ -1,0 +1,90 @@
+{
+  "title": "Ayush Pharma Industry",
+  "kicker": "Industry career",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Companies that make Ayurveda, Siddha, Unani and Homoeopathy (ASU&H) medicines, supplements and personal-care products hire Ayush graduates for product development, quality control, regulatory work, medical advisory and sales-support roles. The work uses your knowledge of classical formulations and drug standards rather than clinical practice. These are private-sector jobs and conditions vary by company size."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Governing law",
+            "value": "Drugs and Cosmetics Act, 1940",
+            "note": "Chapter IVA and related rules cover Ayurveda, Siddha and Unani drugs"
+          },
+          {
+            "label": "Manufacturing standard (ASU)",
+            "value": "Schedule T (GMP)",
+            "note": "Homoeopathic medicines follow Schedule M-I"
+          },
+          {
+            "label": "Licensing",
+            "value": "State drug licensing authorities",
+            "note": "Under the Ministry of Ayush framework; drug standards set by the Pharmacopoeia Commission for Indian Medicine & Homoeopathy"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BAMS, BHMS, BSMS or BUMS degree, usually with registration with the state board or council. Hiring is direct by companies; there is no common entrance test. Some technical roles under the drug rules require a specified qualification and experience, which varies by role and state."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Typical roles: product development, QA/QC, regulatory affairs, medical advisor, clinical research and medical representative.",
+          "Large manufacturers are concentrated in a few states; many small units offer limited structured training.",
+          "Regulatory and quality roles reward familiarity with pharmacopoeial standards and GMP documentation.",
+          "Some graduates combine industry work with part-time practice; check employer rules first."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Regulatory Affairs Associate",
+            "href": "/roles/regulatory-affairs-associate"
+          },
+          {
+            "label": "Quality Control Analyst",
+            "href": "/roles/quality-control-analyst"
+          },
+          {
+            "label": "Clinical Research Associate",
+            "href": "/roles/clinical-research-associate"
+          },
+          {
+            "label": "Medical Representative",
+            "href": "/roles/medical-representative"
+          },
+          {
+            "label": "Ayurvedic Physician",
+            "href": "/roles/ayurvedic-physician"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

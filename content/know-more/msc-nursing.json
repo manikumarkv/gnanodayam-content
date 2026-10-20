@@ -1,0 +1,84 @@
+{
+  "title": "M.Sc Nursing",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year postgraduate nursing degree regulated by the Indian Nursing Council. Students specialise in one area — commonly medical-surgical, child health (paediatric), obstetric and gynaecological, community health, or mental health (psychiatric) nursing — and study nursing education, administration and research."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Includes clinical practice in the speciality and a research project"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~17,300",
+            "note": "All modes; ~78% women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Regulator",
+            "value": "Indian Nursing Council (INC)",
+            "note": "Plus state nursing councils for registration"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc Nursing or Post Basic B.Sc Nursing (usually at least 55%), registration as a nurse (and midwife, for the OBG speciality) with a State Nursing Council, and normally at least one year of work experience. Admission is through entrance tests run by AIIMS, PGIMER, states or universities."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It is the usual qualification for teaching posts in nursing colleges (tutor, lecturer and above).",
+          "It also leads to nurse educator, clinical specialist and nursing administration roles in hospitals.",
+          "A Ph.D in Nursing is the next step for senior academic posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Staff Nurse",
+            "href": "/roles/staff-nurse"
+          },
+          {
+            "label": "Community Health Nurse",
+            "href": "/roles/community-health-nurse"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

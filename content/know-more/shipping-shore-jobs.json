@@ -1,0 +1,88 @@
+{
+  "title": "Shore Jobs in Shipping",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "After some years at sea, many officers and engineers move to shore-based work. Common routes are ship management companies (technical or marine superintendent, crewing, fleet operations), marine surveying and inspection (classification societies, cargo and insurance surveys, government surveyors), and port and terminal operations (marine pilots and harbour roles)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Usual requirement",
+            "value": "Sea time + a Certificate of Competency (CoC)",
+            "note": "Senior roles often ask for Master or Chief Engineer"
+          },
+          {
+            "label": "CoC issued by",
+            "value": "Directorate General of Shipping (DGS)"
+          },
+          {
+            "label": "Government surveyor posts",
+            "value": "Recruited through UPSC",
+            "note": "For DGS / Mercantile Marine Departments; senior CoC expected"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most shore roles build on sea experience. Superintendent and surveyor jobs usually ask for a Master's or Chief Engineer's CoC, or a senior officer's CoC with several years at sea. Crewing, chartering, operations and port roles may take junior officers or graduates, sometimes after extra courses."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Shore pay can start below senior sea pay, in exchange for regular hours and time at home.",
+          "Jobs cluster in port cities such as Mumbai, Chennai, Kolkata, Kochi and Visakhapatnam, and in hubs abroad.",
+          "A higher CoC widens shore options; ratings and junior officers have fewer direct openings."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Deck Officer",
+            "href": "/roles/deck-officer"
+          },
+          {
+            "label": "Marine Engineer",
+            "href": "/roles/marine-engineer"
+          },
+          {
+            "label": "Logistics Coordinator",
+            "href": "/roles/logistics-coordinator"
+          },
+          {
+            "label": "Supply Chain Associate",
+            "href": "/roles/supply-chain-associate"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

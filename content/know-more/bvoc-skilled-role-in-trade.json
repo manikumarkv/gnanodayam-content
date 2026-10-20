@@ -1,0 +1,84 @@
+{
+  "title": "Skilled Role in Your Trade (after B.Voc)",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.Voc combines general education with hands-on training in one sector — such as retail, healthcare, IT, hospitality, automobile, media or agriculture — aligned to the National Skills Qualifications Framework (NSQF). Graduates usually start as technicians, associates or executives in that sector and grow through experience and certifications."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Exit options: diploma after 1 year, advanced diploma after 2"
+          },
+          {
+            "label": "B.Voc students",
+            "value": "~73,700",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Voc in the sector (Class 12 is the entry requirement). Jobs come through campus placement, the college's industry partners, apprenticeships and direct applications; sector skill council certifications can add to the degree."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Starting roles are usually hands-on — technician, associate or executive — in the trained sector.",
+          "Growth comes through experience, added certifications and supervisory responsibility.",
+          "Employer familiarity with the B.Voc varies, so demonstrable practical skills help.",
+          "An M.Voc or other postgraduate study is possible later."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Vocational & skilling",
+            "href": "/explore/vocational-skilling"
+          },
+          {
+            "label": "Job / work",
+            "href": "/explore/job-work"
+          },
+          {
+            "label": "Operations Executive",
+            "href": "/roles/operations-executive"
+          },
+          {
+            "label": "Sales Executive",
+            "href": "/roles/sales-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

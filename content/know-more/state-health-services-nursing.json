@@ -1,0 +1,76 @@
+{
+  "title": "State Health Services (Nursing)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State governments recruit staff nurses (nursing officers in some states) for district hospitals, community health centres and medical college hospitals. The work covers ward and ICU care, medication, maternity and emergency nursing and, in rural postings, public-health programmes. Each state uses its own recruitment body."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Basic requirement",
+            "value": "B.Sc Nursing or GNM + registration",
+            "note": "Registered nurse and midwife with the State Nursing Council"
+          },
+          {
+            "label": "Who recruits",
+            "value": "State health recruitment boards, PSCs or the health department",
+            "note": "Varies by state; contract posts under the National Health Mission are also common"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Complete B.Sc Nursing (4 years) or GNM and register with the State Nursing Council. Apply to the state's staff-nurse recruitment — usually a written exam (sometimes with weight for experience), followed by document verification. Many states require the local language and domicile for some quotas."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Regular posts are filled in irregular batches; contract posts are more frequent.",
+          "Shift work, including nights, is standard.",
+          "Central routes such as AIIMS NORCET and railway or ESIC notices run alongside state recruitment."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Staff Nurse",
+            "href": "/roles/staff-nurse"
+          },
+          {
+            "label": "Community Health Nurse",
+            "href": "/roles/community-health-nurse"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

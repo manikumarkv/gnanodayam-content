@@ -1,0 +1,91 @@
+{
+  "title": "Child Protection (Mission Vatsalya)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Mission Vatsalya is the Ministry of Women and Child Development's child-protection scheme, which replaced the earlier ICPS. It funds District Child Protection Units (DCPUs) that implement the Juvenile Justice Act, 2015 — handling children in need of care, adoption and foster care, child-care institutions, and support to Child Welfare Committees and Juvenile Justice Boards."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical DCPU posts",
+            "value": "District Child Protection Officer, Protection Officer, Legal-cum-Probation Officer, Counsellor, Social Worker",
+            "note": "Plus accounts and outreach staff"
+          },
+          {
+            "label": "Usual qualification",
+            "value": "Graduate or PG in social work, sociology, psychology, child development or law",
+            "note": "LLB for Legal-cum-Probation Officer; experience often required",
+            "source": "State DCPU notifications (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "DCPO remuneration",
+            "value": "₹44,023 a month",
+            "note": "As notified in one state's DCPU advertisement",
+            "source": "Nagaland DCPU notice under Mission Vatsalya (as reported)",
+            "date": "Mar 2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Posts are filled by state and district authorities through their own advertisements, usually by application screening and interview. A BSW meets the requirement for some posts; senior posts typically ask for an MSW or other PG degree plus experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Posts are contractual and scheme-funded, not permanent government jobs.",
+          "The work involves home visits, court and committee work, and difficult child-protection cases.",
+          "The experience is relevant to NGOs, UN agencies and state social welfare departments."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Social Worker",
+            "href": "/roles/social-worker"
+          },
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

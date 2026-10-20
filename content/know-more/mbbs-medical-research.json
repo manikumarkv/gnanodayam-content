@@ -1,0 +1,96 @@
+{
+  "title": "Medical Research (for doctors)",
+  "kicker": "Non-clinical path",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Some MBBS graduates build careers in research — clinical trials, epidemiology, public-health studies or laboratory science — instead of full-time clinical practice. The main public employer is the Indian Council of Medical Research (ICMR) and its institutes; medical colleges, AIIMS-type institutes and other science agencies also run research groups. Most research careers need further study, such as an MD, a PhD or a research fellowship."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Apex body",
+            "value": "ICMR",
+            "note": "Founded in 1911 as the Indian Research Fund Association; renamed ICMR in 1949"
+          },
+          {
+            "label": "Student research grant",
+            "value": "ICMR Short Term Studentship (STS)",
+            "note": "For MBBS and BDS students; running since 1979",
+            "source": "ICMR STS (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "STS stipend",
+            "value": "₹60,000 for a project",
+            "note": "Paid in instalments",
+            "source": "ICMR STS listing (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "An MBBS with registration is the base. Common routes: ICMR scientist recruitment notices, an MD followed by research posts, a PhD (some institutes offer MD-PhD or PhD after MBBS), or research fellowships from government science agencies and charitable funders. Most scientist posts ask for a postgraduate degree or research experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Research posts are fewer than clinical posts and often begin as fixed-term project positions.",
+          "Early-career research income is usually lower than private clinical work, and grant funding can be uncertain.",
+          "Publications, a good mentor and a research degree matter more here than NEET-PG rank.",
+          "Many doctors combine part-time clinical work with research."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Clinical Research Associate",
+            "href": "/roles/clinical-research-associate"
+          },
+          {
+            "label": "Drug Safety Associate",
+            "href": "/roles/drug-safety-associate"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Medical Officer",
+            "href": "/roles/medical-officer"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

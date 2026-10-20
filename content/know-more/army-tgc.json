@@ -1,0 +1,85 @@
+{
+  "title": "Army Technical Graduate Course (TGC)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Technical Graduate Course (TGC) is the Indian Army's permanent-commission entry for engineering graduates. Selected candidates train for about a year at the Indian Military Academy (IMA), Dehradun and are commissioned as Lieutenants, usually into technical arms such as the Corps of Engineers, Signals or EME. Courses start twice a year."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Age",
+            "value": "20–27 years",
+            "source": "Join Indian Army TGC notification",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Training",
+            "value": "~12 months at IMA, Dehradun"
+          },
+          {
+            "label": "Stipend during training",
+            "value": "₹56,100 per month",
+            "note": "Equal to the start of Pay Level 10",
+            "source": "Join Indian Army TGC notification",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Vacancies per course",
+            "value": "~30",
+            "source": "TGC-142 notification (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Unmarried men with a B.E./B.Tech in a notified stream, or in the final year. Applications on the Join Indian Army website are shortlisted on engineering marks; shortlisted candidates attend a five-day SSB interview and a medical exam. Women engineers apply through the separate SSC (Tech) entry."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "No written exam — the cut-off is set by engineering percentage, then SSB performance decides merit.",
+          "Seats are few per course and divided across engineering branches.",
+          "It is a permanent commission, so it is a long-term career rather than a fixed term.",
+          "Military life means transfers, field postings and physical standards."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

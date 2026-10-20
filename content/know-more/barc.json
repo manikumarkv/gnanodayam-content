@@ -1,0 +1,99 @@
+{
+  "title": "BARC Recruitment (OCES / Scientific Officer)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Department of Atomic Energy recruits Scientific Officers through the BARC Training Schools. Under OCES, selected engineering graduates and science postgraduates do a one-year paid training course and are then posted as Scientific Officers in BARC or another DAE unit. DGFS is a parallel scheme that funds an M.Tech before placement."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "OCES training",
+            "value": "1 year",
+            "note": "At BARC Training Schools (Mumbai and AMD Hyderabad in the 2026 cycle)"
+          },
+          {
+            "label": "Post on completion",
+            "value": "Scientific Officer, Group A",
+            "note": "Level 10 of the 7th CPC pay matrix",
+            "source": "BARC OCES/DGFS-2026 advertisement",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Training stipend",
+            "value": "₹74,000 per month",
+            "note": "Plus a one-time ₹30,000 book allowance",
+            "source": "BARC OCES/DGFS-2026 advertisement",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Upper age limit",
+            "value": "26 years (General)",
+            "note": "29 OBC-NCL, 31 SC/ST; as on 1 August 2026",
+            "source": "BARC OCES/DGFS-2026 advertisement",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Engineering: B.E./B.Tech in an eligible branch with at least 60%. Science: an M.Sc or integrated M.Sc / BS-MS in an eligible subject (physics, chemistry, biosciences and others) with at least 60%; a B.Sc alone is not enough for OCES. Candidates are shortlisted through BARC's online exam or a valid GATE score, and final selection is by interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Taking both the BARC online test and GATE gives two chances to be shortlisted.",
+          "Selected trainees sign a bond to serve DAE for at least three years after training.",
+          "B.Sc graduates can look at separate BARC/DAE notices for Stipendiary Trainee and Scientific Assistant posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Lab Chemist",
+            "href": "/roles/lab-chemist"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

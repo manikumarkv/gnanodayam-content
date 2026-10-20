@@ -1,0 +1,89 @@
+{
+  "title": "M.Sc Hospitality Administration",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year M.Sc run by the National Council for Hotel Management and Catering Technology (NCHMCT) at a group of central Institutes of Hotel Management, with the degree awarded by JNU. It covers hospitality management, finance, human resources, research methods and teaching skills."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years"
+          },
+          {
+            "label": "Seats",
+            "value": "~550 at 17 central IHMs",
+            "source": "NCHMCT admission information (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "PG enrolment in hospitality administration",
+            "value": "~530",
+            "note": "All PG years, as reported to AISHE",
+            "source": "AISHE 2023-24, PG enrolment by subject, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree from a recognised university, as listed in NCHMCT's notice. Most candidates take NCHMCT's M.Sc entrance test; graduates with a full-time hospitality degree (55%) and two years' experience in hotels rated three-star or above can get direct admission."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It is often taken by those aiming for teaching posts at IHMs and hospitality colleges, as well as management roles.",
+          "For hotel operations jobs, employers often weigh experience as much as a master's degree.",
+          "Dates, fees and eligible degrees change each year, so the current NCHMCT notice is the rule that applies."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Hotel Management Trainee",
+            "href": "/roles/hotel-management-trainee"
+          },
+          {
+            "label": "Front Office Executive",
+            "href": "/roles/front-office-executive"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

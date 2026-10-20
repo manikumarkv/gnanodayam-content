@@ -1,0 +1,89 @@
+{
+  "title": "Science Teaching & Outreach",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Science graduates can teach in schools and colleges or work in science communication — museums, science centres, planetaria, outreach programmes, educational content and science journalism. Public bodies such as Vigyan Prasar and the National Council of Science Museums run outreach work alongside universities and research institutes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "School teaching",
+            "value": "B.Ed + CTET / state TET",
+            "note": "B.Ed is needed for most regular school teacher posts"
+          },
+          {
+            "label": "College teaching",
+            "value": "PG + UGC-NET / CSIR-NET / SET or Ph.D.",
+            "note": "As per UGC regulations for Assistant Professor"
+          },
+          {
+            "label": "Outreach employers",
+            "value": "Science museums and centres, planetaria, research-institute outreach cells, ed-tech and media",
+            "note": "Mostly small teams"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For schools: a B.Ed and a teacher eligibility test, then school or state recruitment. For colleges: a master's-level degree (a BS-MS counts) plus NET/SET or a Ph.D. For communication and outreach: a portfolio of writing, talks or videos; short courses help but are not mandatory."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Outreach roles are fewer and often project-based or on contract.",
+          "Teaching is the larger and steadier employer, but needs the extra teaching qualification.",
+          "Many people combine research or teaching with writing and public talks."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

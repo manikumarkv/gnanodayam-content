@@ -1,0 +1,82 @@
+{
+  "title": "PLAB (UK)",
+  "kicker": "Licence",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "PLAB (Professional and Linguistic Assessments Board) is the General Medical Council's test for doctors with medical degrees from outside the UK. Passing PLAB 1 (a written exam) and PLAB 2 (a clinical OSCE in the UK) is one route to GMC registration with a licence to practise. Registration lets you apply for UK jobs; it does not guarantee a training post."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Stages",
+            "value": "PLAB 1 (written) → PLAB 2 (clinical, in the UK)",
+            "note": "PLAB 1 must be passed before booking PLAB 2"
+          },
+          {
+            "label": "English requirement",
+            "value": "IELTS Academic 7.5 overall (7.0 each) or OET Medicine grade B",
+            "source": "GMC requirements (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Exam fees",
+            "value": "~£270 (PLAB 1), ~£980–1,000 (PLAB 2)",
+            "note": "Plus travel, visa and UK stay costs",
+            "source": "GMC fees (as reported)",
+            "date": "2026",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A primary medical qualification from a school listed in the World Directory of Medical Schools, a completed internship, and the GMC's English-language standard. Pass PLAB 1 (offered in India and other countries), then PLAB 2 in the UK, then apply for GMC registration with a licence to practise."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The UK's Medical Training (Prioritisation) Act 2026 gives UK graduates and certain other groups priority for foundation and specialty training places.",
+          "Many international graduates start in non-training (trust-grade) posts while applying for training.",
+          "Total costs — exams, English test, travel and a UK stay for PLAB 2 — add up to a substantial sum before any job offer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

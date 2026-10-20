@@ -1,0 +1,91 @@
+{
+  "title": "M.Stat / M.Math at ISI",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Statistical Institute (ISI), an Institute of National Importance under the Ministry of Statistics and Programme Implementation, runs two-year master's programmes in statistics (M.Stat) and mathematics (M.Math). Both are theory-heavy, with a large coursework load and project work."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years"
+          },
+          {
+            "label": "M.Stat stipend",
+            "value": "₹8,000 per month",
+            "note": "Subject to the institute's performance rules",
+            "source": "ISI Admission Notice (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Selection",
+            "value": "Written test + interview",
+            "note": "Direct admission for eligible ISI graduates"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Graduates of ISI's B.Stat or B.Math can move on directly if they meet the institute's conditions. Others need a bachelor's degree with the mathematics or statistics background set in the prospectus, then ISI's admission test and an interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common outcomes are quantitative finance, data science, actuarial work, government statistics and Ph.D. programmes in India and abroad.",
+          "Stipends are tied to academic performance under the institute's rules.",
+          "Rules on eligibility, campuses and stipends are set in each year's prospectus."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Statistician",
+            "href": "/roles/statistician"
+          },
+          {
+            "label": "Quantitative Analyst",
+            "href": "/roles/quantitative-analyst"
+          },
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          },
+          {
+            "label": "Actuarial Analyst",
+            "href": "/roles/actuarial-analyst"
+          },
+          {
+            "label": "Research Analyst",
+            "href": "/roles/research-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

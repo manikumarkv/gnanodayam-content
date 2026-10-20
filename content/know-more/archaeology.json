@@ -1,0 +1,87 @@
+{
+  "title": "Archaeology (Postgraduate Study)",
+  "kicker": "Postgraduate study",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Archaeology studies the human past through material remains — excavation, survey, artefacts, monuments and inscriptions. In India it is taught as an MA (in archaeology, or in ancient Indian history, culture and archaeology) at some universities, and through specialised postgraduate diplomas such as the one at the Archaeological Survey of India's Pandit Deendayal Upadhyaya Institute of Archaeology."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "MA length",
+            "value": "2 years",
+            "note": "Usually includes fieldwork or an excavation stint"
+          },
+          {
+            "label": "ASI institute PG Diploma",
+            "value": "2 years; needs a master's degree",
+            "note": "In a related subject, with an entrance test and interview",
+            "source": "Institute admission notice (as reported)",
+            "date": "2019",
+            "verified": false
+          },
+          {
+            "label": "ASI diploma seats",
+            "value": "15",
+            "source": "Institute admission notice (as reported)",
+            "date": "2019",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For an MA: a BA, often in history or a related subject; admission through CUET-PG at central universities or the university's own test. For the ASI institute's diploma: a master's in ancient or medieval Indian history, archaeology, anthropology or a classical language, then an entrance test and interview; past notices also set an age limit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Fieldwork — excavations and surveys, often in heat and remote places — is part of training.",
+          "Government jobs in the ASI, state archaeology departments and museums are few and come irregularly.",
+          "Teaching and research usually need UGC-NET and a Ph.D.",
+          "Related routes include museology, conservation and heritage management."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Archivist",
+            "href": "/roles/archivist"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

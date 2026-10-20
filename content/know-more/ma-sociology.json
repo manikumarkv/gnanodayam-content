@@ -1,0 +1,88 @@
+{
+  "title": "MA Sociology",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in sociology covering social theory, research methods, and fields such as caste, gender, family, urban and rural society, and development. Most programmes include a dissertation or fieldwork component."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "PG students in sociology",
+            "value": "~1.9 lakh",
+            "note": "Based on actual responses",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 13",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree — many universities accept any discipline, some prefer sociology at UG. Admission is through CUET-PG for central and many other universities, university entrance tests, or merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "UGC-NET qualification is needed for assistant professor posts; JRF adds a research fellowship for a PhD.",
+          "Research methods and fieldwork skills carry over to development-sector, survey and policy-research roles.",
+          "Sociology is a popular UPSC Civil Services optional subject.",
+          "Pay in NGOs and research projects is often modest and contract-based early on."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Social Worker",
+            "href": "/roles/social-worker"
+          },
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "MA / M.Sc Psychology",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in psychology, usually with a specialisation such as clinical, counselling, organisational (industrial) or social psychology. A general MA or M.Sc does not by itself make you a licensed clinical psychologist; that needs a professional programme recognised by the Rehabilitation Council of India (RCI)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Often includes a dissertation and fieldwork"
+          },
+          {
+            "label": "PG enrolment in psychology",
+            "value": "~54,500",
+            "note": "All PG years, as reported to AISHE",
+            "source": "AISHE 2023-24, PG enrolment by subject, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "RCI clinical route",
+            "value": "M.A. (Clinical Psychology), replacing the M.Phil",
+            "note": "Two-year RCI-regulated programme",
+            "source": "RCI guidelines (as reported)",
+            "date": "2025-26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BA or B.Sc, usually with psychology (some universities accept other graduates). Admission is through CUET-PG at central and many state universities, or a university or institute entrance test. To register with the RCI as a clinical psychologist, you need an RCI-recognised professional course with its own entrance."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Working as a clinical psychologist in hospitals requires RCI registration; many counselling, HR and research roles do not.",
+          "Supervised practice hours and further training shape counselling and clinical careers.",
+          "Teaching and research posts usually need UGC-NET and a Ph.D."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Counsellor",
+            "href": "/roles/counsellor"
+          },
+          {
+            "label": "Social Worker",
+            "href": "/roles/social-worker"
+          },
+          {
+            "label": "HR Executive",
+            "href": "/roles/hr-executive"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

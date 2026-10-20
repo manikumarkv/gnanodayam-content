@@ -1,0 +1,89 @@
+{
+  "title": "Animal Pharma & Diagnostics",
+  "kicker": "Industry career",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Veterinary pharmaceutical, vaccine, feed-additive and diagnostics companies hire vets for technical and field roles. Typical work includes advising farmers and clinics on products, supporting sales teams with technical knowledge, running field trials, handling product safety reports, and working in diagnostic or QC laboratories."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Usual entry degree",
+            "value": "BVSc & AH",
+            "note": "5.5 years including internship; MVSc helps for technical and R&D roles"
+          },
+          {
+            "label": "Common roles",
+            "value": "Technical / field vet, product executive, lab and QC, regulatory",
+            "note": "Titles vary by company"
+          },
+          {
+            "label": "Main segments",
+            "value": "Poultry, dairy, companion animals, aquaculture",
+            "note": "Each segment has its own product lines"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Usually through campus placements at veterinary colleges, company openings and referrals. A BVSc & AH with registration is the base; field roles value communication and travel, while lab and R&D roles often prefer an MVSc in pathology, microbiology, pharmacology or a related subject."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Field and technical-sales roles involve extensive travel to farms and clinics.",
+          "Many roles carry sales targets even when the job title is technical.",
+          "Experience here can lead to product management, regulatory affairs or diagnostics lab roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Veterinarian",
+            "href": "/roles/veterinarian"
+          },
+          {
+            "label": "Medical Representative",
+            "href": "/roles/medical-representative"
+          },
+          {
+            "label": "Regulatory Affairs Associate",
+            "href": "/roles/regulatory-affairs-associate"
+          },
+          {
+            "label": "Quality Control Analyst",
+            "href": "/roles/quality-control-analyst"
+          },
+          {
+            "label": "Jobs & work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

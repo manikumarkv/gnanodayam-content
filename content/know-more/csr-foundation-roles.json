@@ -1,0 +1,89 @@
+{
+  "title": "CSR Foundation Roles",
+  "kicker": "Career field",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Many companies run their social spending through their own foundations or by funding NGOs. CSR teams design programmes in areas such as education, health, livelihoods and environment, choose and monitor implementing partners, track budgets and report outcomes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Legal basis",
+            "value": "Section 135, Companies Act, 2013"
+          },
+          {
+            "label": "Companies covered",
+            "value": "Net worth ≥ ₹500 crore, turnover ≥ ₹1,000 crore, or net profit ≥ ₹5 crore",
+            "source": "Companies Act, 2013, Section 135",
+            "date": "2013 (as amended)",
+            "verified": false
+          },
+          {
+            "label": "Minimum spend",
+            "value": "2% of average net profit of the preceding three years",
+            "source": "Companies Act, 2013, Section 135",
+            "date": "2013 (as amended)",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "There is no entrance exam. Foundations and CSR teams hire BSW/MSW, development-studies and management graduates through direct applications, campus placements and fellowships. Field experience with NGOs, project management and report writing help at entry level."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry roles are often programme officer or field coordinator, with travel to project sites.",
+          "Partner monitoring, data and compliance reporting take as much time as fieldwork.",
+          "Budgets follow company profits and board decisions, so priorities can shift.",
+          "Growth leads to programme management and CSR head roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Social Worker",
+            "href": "/roles/social-worker"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

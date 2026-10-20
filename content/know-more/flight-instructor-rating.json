@@ -1,0 +1,85 @@
+{
+  "title": "Flight Instructor Rating",
+  "kicker": "Licence",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An instructor rating, issued by DGCA and endorsed on a pilot's licence, allows a pilot to teach student pilots at a flying training organisation. Pilots usually start with an Assistant Flight Instructor rating and move to a full Flight Instructor rating with experience. Many new commercial pilots instruct to build flying hours while waiting for airline jobs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Base licence",
+            "value": "Commercial Pilot Licence (CPL)",
+            "note": "With a valid Class 1 medical"
+          },
+          {
+            "label": "Ratings",
+            "value": "Assistant Flight Instructor → Flight Instructor",
+            "note": "Requirements are set in DGCA's rules for instructor ratings"
+          },
+          {
+            "label": "Issuing authority",
+            "value": "DGCA",
+            "note": "Ratings must be kept current through checks and recency"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hold a CPL, complete an instructor rating course with a DGCA-approved flying training organisation (ground and flight training on teaching), pass the DGCA knowledge requirements and a skill test, then apply for the rating. Check the current DGCA civil aviation requirements for hour and experience thresholds."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The course is an added cost beyond CPL training; fees vary by school and aircraft.",
+          "Instructing builds hours and teaching skills, but instructor jobs are limited to flying schools.",
+          "Some pilots instruct for a few years before joining an airline or charter operator."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Flight Instructor",
+            "href": "/roles/flight-instructor"
+          },
+          {
+            "label": "Charter Pilot",
+            "href": "/roles/charter-pilot"
+          },
+          {
+            "label": "First Officer",
+            "href": "/roles/first-officer"
+          },
+          {
+            "label": "Vocational & skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "State Agriculture Officer",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State agriculture departments recruit graduates as Agriculture Officers, Agricultural Extension Officers or Agriculture Development Officers (titles vary by state). They run farmer-facing schemes, advise on crops, seeds, fertilisers and pest management, and handle inspections, subsidies and data collection at block or district level."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Basic qualification",
+            "value": "B.Sc (Hons) Agriculture",
+            "note": "Some posts also accept horticulture or related degrees"
+          },
+          {
+            "label": "Recruiting body",
+            "value": "State PSC or subordinate services board",
+            "note": "Varies by state and post"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A four-year B.Sc (Hons) Agriculture from a recognised agricultural university; some states require knowledge of the state language, and some posts have domicile rules. Apply when the state PSC or subordinate services selection board notifies posts; selection is usually a written exam on agriculture and general studies, sometimes followed by an interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Recruitment is state-by-state and irregular; some years see no notification.",
+          "Postings are often rural, at block or district offices.",
+          "Senior posts are filled by promotion or through the state civil services exam.",
+          "Central options include ICAR's ASRB exams and the IBPS SO Agricultural Field Officer post in public-sector banks."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Banking exams (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

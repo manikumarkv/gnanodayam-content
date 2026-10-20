@@ -1,0 +1,76 @@
+{
+  "title": "Shipping Corporation of India",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Shipping Corporation of India (SCI) is a central public-sector company under the Ministry of Ports, Shipping and Waterways that owns and operates Indian-flagged ships — tankers, bulk carriers and other vessels. It employs deck and engine officers, ratings and cadets for its fleet."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Ownership",
+            "value": "Government of India (PSU)",
+            "note": "Ministry of Ports, Shipping and Waterways"
+          },
+          {
+            "label": "Licence needed",
+            "value": "DG Shipping Certificate of Competency",
+            "note": "For officer ranks, matched to the rank"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Officer posts need the DG Shipping Certificate of Competency (CoC) for the rank, valid STCW courses, a medical certificate and a CDC. SCI advertises sea-staff and cadet openings on its website; selection is by application, interview and document checks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Terms (permanent or contract) depend on the specific notice.",
+          "Pay, contract length and leave differ from private and foreign-flag companies, so comparing the actual offer terms is part of the decision.",
+          "Openings depend on the size of SCI's fleet, which changes as ships are bought and sold."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Deck Officer",
+            "href": "/roles/deck-officer"
+          },
+          {
+            "label": "Marine Engineer",
+            "href": "/roles/marine-engineer"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "MD Pathology",
+  "kicker": "Medical specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A three-year MD after MBBS in diagnosing disease through laboratory work — histopathology, cytology, haematology, clinical pathology and blood banking. Pathologists work in hospital labs, diagnostic chains, blood banks and medical colleges. Most of the work is lab-based, with limited direct patient contact."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "Includes a thesis"
+          },
+          {
+            "label": "PG enrolment in pathology",
+            "value": "~5,500",
+            "note": "All PG years and courses combined, as reported to AISHE",
+            "source": "AISHE 2023-24, PG enrolment by subject, based on actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Entrance exam",
+            "value": "NEET-PG",
+            "note": "Conducted by NBEMS"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "MBBS with a completed internship and NMC/State Medical Council registration. Admission is through NEET-PG; seats are filled by MCC counselling (All-India quota, central and deemed universities) and by state counselling. DNB Pathology through NBEMS is a parallel route."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The routine is usually more predictable than in emergency-based specialties, though large labs run shifts.",
+          "Setting up an independent lab needs capital and accreditation; many pathologists work in hospital or chain labs.",
+          "Common next steps are senior residency, medical-college teaching, or a fellowship in areas such as haematopathology or cytopathology."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Resident Doctor",
+            "href": "/roles/resident-doctor"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

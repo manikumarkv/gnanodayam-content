@@ -1,0 +1,86 @@
+{
+  "title": "Animation & VFX Studios",
+  "kicker": "Industry career",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Animation and VFX studios make animated films and series, visual effects for films, streaming and ads, and game art. Roles include concept art, storyboarding, character and environment design, modelling, texturing, rigging, animation, lighting, compositing and roto/paint. Much of the work in India is production for foreign films and shows."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Main hiring signal",
+            "value": "Portfolio or showreel",
+            "note": "Often with a test assignment"
+          },
+          {
+            "label": "Common software",
+            "value": "Maya, Blender, Houdini, Nuke, Photoshop",
+            "note": "Varies by department"
+          },
+          {
+            "label": "Typical entry",
+            "value": "Junior or trainee artist",
+            "note": "Often in roto, paint, matchmove or layout"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "There is no fixed exam. Studios hire on a portfolio or showreel and a test. A BFA or B.Des builds drawing and design fundamentals; many also take short software courses to learn production tools."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry-level pay is modest, work is project-based, and hours get long near delivery deadlines.",
+          "Studios are concentrated in a few cities, such as Mumbai, Bengaluru, Hyderabad, Chennai and Pune.",
+          "Hiring and layoffs follow project pipelines, including foreign productions.",
+          "Concept and storyboard roles lean on drawing; lighting, FX and compositing lean on software and problem-solving."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Graphic Designer",
+            "href": "/roles/graphic-designer"
+          },
+          {
+            "label": "Art Teacher",
+            "href": "/roles/art-teacher"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          },
+          {
+            "label": "Vocational Skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

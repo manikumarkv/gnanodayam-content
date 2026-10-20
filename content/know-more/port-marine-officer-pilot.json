@@ -1,0 +1,77 @@
+{
+  "title": "Port Marine Officer / Harbour Pilot",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Ports employ experienced mariners as pilots, who guide ships in and out of harbour, and as harbour masters, deputy conservators and marine officers, who manage vessel traffic, berthing and safety. Major port authorities recruit through their own advertisements; non-major ports come under state maritime boards."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Pilot qualification",
+            "value": "Master (Foreign-Going) certificate of competency",
+            "note": "Issued or endorsed by DG Shipping"
+          },
+          {
+            "label": "Experience",
+            "value": "Usually sea service after qualifying as Master or Chief Officer",
+            "note": "Exact rules set in each port's notice"
+          },
+          {
+            "label": "Employers",
+            "value": "Major port authorities and state maritime boards",
+            "note": "Under the Ministry of Ports, Shipping and Waterways for major ports"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A merchant navy deck career to Master (FG) level — or, for some junior marine posts, a lower certificate such as First Mate (FG) — then apply to port advertisements. Selection usually involves screening, interview and medical fitness; age limits differ by port."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "These posts come after many years at sea, so they suit mid-career deck officers.",
+          "Openings are few and appear port by port, often on contract.",
+          "Shore-based work brings regular home life, with round-the-clock duty rosters for pilots."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Deck Officer",
+            "href": "/roles/deck-officer"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

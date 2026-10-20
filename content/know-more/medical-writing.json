@@ -1,0 +1,88 @@
+{
+  "title": "Medical Writing",
+  "kicker": "Non-clinical path",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Medical writers prepare scientific and regulatory documents — clinical study reports, protocols, regulatory submissions, journal manuscripts, medical education material and patient information. Employers include pharma companies, contract research organisations (CROs), medical communication agencies and publishers. Doctors bring clinical understanding; the job itself is desk-based."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Licence needed",
+            "value": "None",
+            "note": "Medical, pharmacy and life-science graduates all enter"
+          },
+          {
+            "label": "Main streams",
+            "value": "Regulatory, publications, medical communications / education"
+          },
+          {
+            "label": "Typical employers",
+            "value": "Pharma, CROs, medical communication agencies, publishers"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "There is no entrance exam. People usually enter through a writing test and interview with a CRO, pharma company or agency, often at an associate level. Short courses in medical writing and good clinical practice (GCP) are optional; a few sample documents help show writing skill."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It is non-clinical: you stop seeing patients, which is a real trade-off for doctors.",
+          "Strong English, accurate referencing and following guidelines (such as ICH and journal rules) are central to the job.",
+          "Jobs cluster around pharma and CRO hubs; some roles are remote.",
+          "Growth comes through specialising (for example regulatory writing) and moving to lead or review roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Technical Writer",
+            "href": "/roles/technical-writer"
+          },
+          {
+            "label": "Clinical Research Associate",
+            "href": "/roles/clinical-research-associate"
+          },
+          {
+            "label": "Drug Safety Associate",
+            "href": "/roles/drug-safety-associate"
+          },
+          {
+            "label": "Regulatory Affairs Associate",
+            "href": "/roles/regulatory-affairs-associate"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

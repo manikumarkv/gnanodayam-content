@@ -1,0 +1,72 @@
+{
+  "title": "State Veterinary Officer",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State animal husbandry departments employ veterinary officers (also called veterinary assistant surgeons) to run veterinary hospitals and dispensaries. The work covers treating livestock and pets, vaccination drives, artificial insemination programmes, disease surveillance and delivering state and central livestock schemes, mostly in rural areas."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Basic requirement",
+            "value": "BVSc & AH + registration",
+            "note": "Registration with the State Veterinary Council / Veterinary Council of India"
+          },
+          {
+            "label": "Who recruits",
+            "value": "State PSCs or the animal husbandry department",
+            "note": "Some states also hire on contract"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Complete the BVSc & AH (5.5 years including internship) and register as a veterinary practitioner. Then apply for the state's veterinary officer recruitment — usually a PSC written exam and/or interview; some states recruit on merit plus interview. Knowledge of the state language is often required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Recruitment is state by state and irregular.",
+          "Postings are often in rural blocks, with field visits as a routine part of the job.",
+          "Promotion leads to senior and district-level animal husbandry posts; an MVSc can help for specialist and teaching roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Veterinarian",
+            "href": "/roles/veterinarian"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
