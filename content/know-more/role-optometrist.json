@@ -1,0 +1,85 @@
+{
+  "title": "Optometrist",
+  "kicker": "Role · Eye care",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An optometrist tests vision, checks the eyes for common problems, and prescribes and fits glasses and contact lenses. Employers include eye hospitals, ophthalmology clinics, optical retail stores and lens manufacturers. A day is mostly patient examinations: refraction, basic eye-health checks, lens fitting and referring patients to an ophthalmologist when needed."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Optom / B.Sc Optometry",
+            "note": "Usually 4 years including a 1-year internship"
+          },
+          {
+            "label": "Regulation",
+            "value": "National Commission for Allied and Healthcare Professions Act, 2021",
+            "note": "Optometry is listed as an allied health profession"
+          },
+          {
+            "label": "Common tools",
+            "value": "Retinoscope, autorefractor, slit lamp, trial lens set"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology (some colleges also accept Mathematics), then a B.Optom or B.Sc Optometry. After the internship, freshers usually start as optometrists in eye hospitals, clinics or optical stores."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Refraction and prescribing corrective lenses",
+          "Using a slit lamp and other eye-testing equipment",
+          "Fitting and following up contact lenses",
+          "Screening for conditions that need referral",
+          "Explaining eye care to patients clearly"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Specialisations include contact lenses, low vision, paediatric optometry and binocular vision.",
+          "Some optometrists open their own optical practice after a few years.",
+          "Surgery and most medical treatment are outside the role; those patients are referred to an ophthalmologist."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Allied Health · Job / Practice",
+            "href": "/explore/bsc-allied-health.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

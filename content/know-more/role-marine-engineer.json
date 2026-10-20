@@ -1,0 +1,88 @@
+{
+  "title": "Marine Engineer",
+  "kicker": "Role · Merchant navy · Engine",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A marine engineer runs and maintains a ship's main engines, generators, pumps and other machinery. Shipping companies and ship-management firms hire them for contracts at sea. A typical day involves engine room watches, planned maintenance, repairs and record-keeping."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech/B.E. Marine Engineering (4 years), or a 1-year Graduate Marine Engineering course after a Mechanical degree"
+          },
+          {
+            "label": "Rank ladder",
+            "value": "Engine cadet → Fourth Engineer → Third Engineer → Second Engineer → Chief Engineer",
+            "note": "Each step needs a DG Shipping MEO certificate (Class IV up to Class I)"
+          },
+          {
+            "label": "Indian seafarers (all ranks)",
+            "value": "~2.5–3 lakh",
+            "note": "Officers and ratings, deck and engine combined",
+            "source": "Ministry of Ports, Shipping and Waterways via PIB (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After Class 12 with Physics, Chemistry and Maths, join a DG Shipping-approved marine engineering course (entry often through IMU-CET), or take the Graduate Marine Engineering course after a Mechanical degree. You sail as an engine cadet to build sea time, then pass the MEO Class IV exams to become an officer."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Operating diesel engines, boilers and auxiliary machinery",
+          "Fault finding and repair",
+          "Planned maintenance and engine room records",
+          "Safety and pollution-prevention rules"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Getting a cadet berth with a company is a common hurdle after the course.",
+          "Long months at sea away from family are part of the job.",
+          "Later moves ashore include technical superintendent, surveyor and shipyard roles.",
+          "Engine rooms are hot and noisy; physical fitness matters."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Merchant Navy · Job at Sea / Ashore",
+            "href": "/explore/merchant-navy.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

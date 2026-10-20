@@ -1,0 +1,78 @@
+{
+  "title": "Chef",
+  "kicker": "Role · Hospitality",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A chef prepares food in a hotel, restaurant, catering or cruise kitchen, working within a section such as pastry, Indian or continental. Hotels, restaurants, caterers and cruise lines hire chefs. A typical shift is preparation, cooking during service and cleaning down, often on evenings, weekends and holidays."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BHM, a B.Sc in Hospitality, or a culinary diploma"
+          },
+          {
+            "label": "Starting position",
+            "value": "Commis chef"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join through campus placement or a kitchen trial as a commis chef, or through a hotel's culinary training programme. Food safety training such as FSSAI's FoSTaC certificate is commonly expected."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Cooking techniques and recipe standards",
+          "Food safety and hygiene",
+          "Kitchen organisation and prep",
+          "Working fast under pressure"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Typical path: commis, demi chef de partie, chef de partie, sous chef, executive chef.",
+          "Long hours and physical work are normal, especially early on.",
+          "Some later move into catering, food production or their own outlet."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BHM (Hotel Management) · Job / Industry",
+            "href": "/explore/bhm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

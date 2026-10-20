@@ -1,0 +1,84 @@
+{
+  "title": "Charter Pilot",
+  "kicker": "Role · Aviation · Charter",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A charter pilot flies aircraft that are hired for specific trips rather than scheduled routes. Non-scheduled operators, corporate flight departments and private owners hire them. A typical day can include flying business travellers, medical evacuation or survey flights, with schedules that change at short notice."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Licence needed",
+            "value": "DGCA Commercial Pilot Licence (CPL)",
+            "note": "A degree is not required"
+          },
+          {
+            "label": "Common aircraft",
+            "value": "Small business jets, turboprops and piston aircraft"
+          },
+          {
+            "label": "Employers",
+            "value": "Non-scheduled operators (NSOPs), corporate fleets, private owners"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A Commercial Pilot Licence (CPL) from DGCA is the requirement, not a degree. It needs Class 12 with Physics and Maths (these can be added later through NIOS), a DGCA Class 1 medical, passes in the DGCA ground exams (Air Navigation, Meteorology, Air Regulations, Technical) plus a radio telephony licence, and about 200 hours of flying at a DGCA-approved flying school. Charter operators often ask for extra hours or experience on their aircraft type, so many pilots build hours (for example as instructors) before joining."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Single-pilot or two-crew operations in small aircraft",
+          "Flight planning to smaller airports and airstrips",
+          "Handling passengers directly",
+          "Adapting to short-notice schedules"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work can be irregular and depends on client demand.",
+          "Flying varied routes and airports builds broad experience.",
+          "Some pilots later move to airlines; others stay in business aviation.",
+          "Helicopter charter needs a separate helicopter licence."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Commercial Pilot (CPL) · Job",
+            "href": "/explore/vocational-skilling.commercial-pilot-cpl.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

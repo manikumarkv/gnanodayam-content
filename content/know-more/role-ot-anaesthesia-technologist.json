@@ -1,0 +1,84 @@
+{
+  "title": "OT & Anaesthesia Technologist",
+  "kicker": "Role · Surgical support",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An OT and anaesthesia technologist gets operation theatres, instruments and anaesthesia machines ready, and supports surgeons and anaesthetists during procedures. Employers are hospitals, surgical centres and trauma care units. A shift involves checking equipment, setting up for each case, assisting during surgery and helping with recovery and sterilisation routines."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc in Operation Theatre & Anaesthesia Technology",
+            "note": "Diploma courses are a shorter route"
+          },
+          {
+            "label": "Regulation",
+            "value": "National Commission for Allied and Healthcare Professions Act, 2021"
+          },
+          {
+            "label": "Common tools",
+            "value": "Anaesthesia workstations, patient monitors, suction and sterilisation equipment"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, then a B.Sc in OT and Anaesthesia Technology with an internship. Freshers usually join hospitals as OT technicians; government hospitals recruit through state and central recruitment exams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Setting up and checking anaesthesia machines and monitors",
+          "Sterile technique and instrument handling",
+          "Preparing airway equipment",
+          "Patient positioning and safe transfers",
+          "Basic life support in emergencies"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work follows surgery schedules, including emergency and night calls.",
+          "Common next roles are senior OT technologist or OT in-charge.",
+          "Some move into application or service roles with medical equipment suppliers."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Allied Health · Job / Practice",
+            "href": "/explore/bsc-allied-health.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

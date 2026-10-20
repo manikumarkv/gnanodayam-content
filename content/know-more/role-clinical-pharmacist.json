@@ -1,0 +1,83 @@
+{
+  "title": "Clinical Pharmacist",
+  "kicker": "Role · Healthcare & pharmacy",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A clinical pharmacist works on hospital wards with doctors and nurses to make sure patients get the right medicines at the right doses. Hospitals, especially larger private and teaching hospitals, hire them. A typical day involves reviewing prescriptions, checking for drug interactions, counselling patients, and reporting side effects."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Pharm.D (6 years including internship), or Pharm.D (Post Baccalaureate) after B.Pharm"
+          },
+          {
+            "label": "Regulator",
+            "value": "Pharmacy Council of India; registration with a State Pharmacy Council"
+          },
+          {
+            "label": "Where the work is",
+            "value": "Hospital wards, ICUs, drug information centres"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Complete a Pharm.D (entry after Class 12 with Physics, Chemistry and Biology or Maths), including the hospital internship year, and register with your State Pharmacy Council. Freshers usually apply to hospitals with clinical pharmacy departments; internships at those hospitals often help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reviewing prescriptions and medication charts",
+          "Spotting drug interactions and dosing errors",
+          "Counselling patients on their medicines",
+          "Reporting adverse drug reactions",
+          "Reading and applying clinical evidence"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Dedicated clinical pharmacist posts are still limited in many Indian hospitals.",
+          "Many Pharm.D graduates also move into pharmacovigilance, clinical research or roles abroad.",
+          "Growth can lead to senior clinical pharmacist, drug information or teaching roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Pharm.D · Job / Practice",
+            "href": "/explore/pharm-d.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Medical Representative",
+  "kicker": "Role · Pharma sales",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A medical representative visits doctors, hospitals and chemists in an assigned territory to explain a pharmaceutical company's medicines and track prescriptions and stock. Employers are mainly pharma companies and their marketing divisions. A typical day is clinic and chemist calls in the morning and evening, with reporting and planning in between."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Pharm or a B.Sc in life sciences",
+            "note": "Some companies also hire other graduates"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Field-based, with monthly sales targets"
+          },
+          {
+            "label": "Rules on promotion",
+            "value": "Uniform Code for Pharmaceutical Marketing Practices (UCPMP), 2024",
+            "note": "Limits gifts, travel and sponsorship for doctors"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After graduation, freshers apply to pharma companies' field-force openings and usually join as trainee representatives after a short product and selling training. A two-wheeler, a driving licence and the local language are often expected."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Explaining a drug's uses, doses and side effects clearly",
+          "Planning daily doctor and chemist visits across a territory",
+          "Logging calls and orders in a field-reporting app",
+          "Tracking stock and sales at chemists in the area",
+          "Following up on objections and queries"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A common progression is Area Sales Manager, then Regional Manager; some move into product management or sales training.",
+          "Pay often includes target-linked incentives, so earnings can vary month to month.",
+          "Daily travel within the territory and occasional transfers are part of the job."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Pharm · Job / Practice",
+            "href": "/explore/bpharm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

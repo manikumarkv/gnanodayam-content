@@ -1,0 +1,89 @@
+{
+  "title": "Community Health Nurse",
+  "kicker": "Role · Community & public health",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A community health nurse provides nursing care and health education outside hospitals: in villages and urban wards, public health programmes, schools and patients' homes. Employers include state health departments under the National Health Mission, primary health facilities, NGOs and home-care services. Days involve health screening, immunisation and mother-and-child follow-up, chronic disease checks and home visits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Nursing",
+            "note": "Community health nursing is part of the course"
+          },
+          {
+            "label": "Government role",
+            "value": "Community Health Officer (CHO) at Ayushman Arogya Mandirs",
+            "note": "Usually B.Sc Nursing plus a certificate or bridge course in community health"
+          },
+          {
+            "label": "Ayushman Arogya Mandirs operational",
+            "value": "~1.7–1.75 lakh",
+            "note": "Health centres where CHOs are posted",
+            "source": "Ministry of Health & Family Welfare (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After a B.Sc Nursing and State Nursing Council registration, freshers apply to state National Health Mission recruitment for CHO and programme posts, or join NGOs and home-care services. CHO posts usually need the community health certificate, which some states provide after selection."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Health screening and first-level care in the community",
+          "Immunisation and mother-and-child health follow-up",
+          "Health education for families and groups",
+          "Record-keeping on health programme apps and registers",
+          "Home care such as wound care and post-discharge follow-up"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many National Health Mission posts are contractual, with terms set by each state.",
+          "Postings are often in rural or remote areas.",
+          "Next steps include public health supervisor roles, an M.Sc Nursing (Community Health) or an MPH."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Nursing · Job / Practice",
+            "href": "/explore/bsc-nursing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

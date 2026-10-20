@@ -1,0 +1,85 @@
+{
+  "title": "Veterinarian",
+  "kicker": "Role · Animal health",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A veterinarian diagnoses, treats and prevents disease in pets, livestock and poultry. Many run their own clinic for companion or farm animals; others work in state animal husbandry departments, dairy cooperatives, farms and animal health companies. A clinic day involves examinations, vaccinations, minor surgery, prescribing treatment and farm visits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BVSc & AH",
+            "note": "5.5 years including a 1-year internship"
+          },
+          {
+            "label": "Registration",
+            "value": "Veterinary Council of India or a State Veterinary Council",
+            "note": "Required to practise"
+          },
+          {
+            "label": "Common work",
+            "value": "Vaccination, deworming, surgery, artificial insemination, herd health"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, then a BVSc & AH: 15% of seats are filled through the Veterinary Council of India's all-India quota using NEET-UG, and the rest through state counselling. After registering, many new vets work at an established clinic or in a government post before opening their own practice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clinical examination and diagnosis across species",
+          "Vaccination and preventive care schedules",
+          "Minor surgery and anaesthesia for animals",
+          "Advising owners and farmers on feeding and care",
+          "Running a clinic: records, medicines stock, billing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Starting a clinic needs money for space, equipment and medicines.",
+          "Pet practice is concentrated in towns and cities; farm-animal practice is mostly rural.",
+          "Other routes include an MVSc specialisation or veterinary officer posts through state recruitment."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BVSc & AH · Job / Practice",
+            "href": "/explore/bvsc.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Art Teacher",
+  "kicker": "Role · Education & fine arts",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An art teacher teaches drawing, painting and craft to school students, or to learners at an art studio or hobby class. Private schools, government schools and art studios hire art teachers. A typical day is taking classes across grades, preparing materials and assessing student work."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BFA, or a diploma in fine arts or art education"
+          },
+          {
+            "label": "Common materials",
+            "value": "Pencil, charcoal, watercolour, acrylic, clay and craft materials"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Private schools and studios often hire BFA graduates directly after a demo class and portfolio review. Government school posts commonly ask for a teaching qualification such as a B.Ed or an art teacher diploma, and sometimes a teacher eligibility test; the exact requirement is in each recruitment notice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Drawing, painting and craft techniques",
+          "Lesson planning for different age groups",
+          "Classroom management",
+          "Assessing and displaying student work"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many schools have one or two art posts, so openings are limited.",
+          "Some teachers also run private classes or sell their own work.",
+          "An MFA or B.Ed widens options in teaching."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BFA (Fine Arts) · Job / Practice",
+            "href": "/explore/bfa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

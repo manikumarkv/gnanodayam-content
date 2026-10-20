@@ -1,0 +1,89 @@
+{
+  "title": "Flight Instructor",
+  "kicker": "Role · Aviation · Training",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A flight instructor teaches student pilots to fly at a flying school. DGCA-approved flying training organisations hire them. A typical day involves ground briefings, instructional flights with students, and debriefs and training records."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Licence needed",
+            "value": "DGCA CPL plus an instructor rating",
+            "note": "Usually an Assistant Flight Instructor rating first"
+          },
+          {
+            "label": "Where the work is",
+            "value": "DGCA-approved flying training organisations (FTOs)"
+          },
+          {
+            "label": "DGCA-approved FTOs",
+            "value": "~35–40",
+            "note": "Many run more than one base",
+            "source": "DGCA (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A Commercial Pilot Licence (CPL) from DGCA is the requirement, not a degree. It needs Class 12 with Physics and Maths (these can be added later through NIOS), a DGCA Class 1 medical, passes in the DGCA ground exams (Air Navigation, Meteorology, Air Regulations, Technical) plus a radio telephony licence, and about 200 hours of flying at a DGCA-approved flying school. After the CPL, extra instructor training and a DGCA flight test lead to an instructor rating."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Teaching flying skills step by step",
+          "Briefing and debriefing students",
+          "Judging when a student is ready to solo",
+          "Keeping training records",
+          "Staying calm and alert in the cockpit"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many pilots instruct to build flying hours before moving to airlines or charter work.",
+          "Experienced instructors can become chief flight instructors or examiners.",
+          "Work depends on weather and flying school schedules.",
+          "Most flying schools are in smaller towns with suitable airfields."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Commercial Pilot (CPL) · Job",
+            "href": "/explore/vocational-skilling.commercial-pilot-cpl.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

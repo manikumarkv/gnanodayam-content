@@ -1,0 +1,92 @@
+{
+  "title": "Cost & Management Accountant",
+  "kicker": "Role · Finance & accounting",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A cost and management accountant is a member of the Institute of Cost Accountants of India (ICMAI) who works on product costing, budgeting, cost control and cost audit. CMAs work in manufacturing and service companies, and in practice, where the Companies Act reserves cost audit for practising cost accountants. Work includes cost sheets, variance analysis, budgets, cost records and audit reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course stages",
+            "value": "Foundation → Intermediate → Final",
+            "note": "With practical training requirements"
+          },
+          {
+            "label": "Cost audit rules",
+            "value": "Companies (Cost Records and Audit) Rules, 2014",
+            "note": "Apply to specified industries above turnover limits"
+          },
+          {
+            "label": "ICMAI members",
+            "value": "~1 lakh",
+            "source": "ICMAI (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, ERP costing modules, Tally"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register with ICMAI for the Foundation after Class 12, or enter directly at Intermediate as a graduate. Clear Intermediate and Final and complete the practical training to become a member. Cost audit practice needs ICMAI's certificate of practice; others join companies as cost or management accountants."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Product and process costing",
+          "Budgeting, forecasting and variance analysis",
+          "Maintaining cost records under the cost audit rules",
+          "Pricing and cost-reduction analysis",
+          "Reporting numbers clearly to managers"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common roles include cost accountant, cost controller, FP&A analyst and finance manager.",
+          "Manufacturing-heavy regions tend to have more costing roles.",
+          "Cost audit work depends on which companies fall under the cost audit rules each year."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "CMA · Job / Practice",
+            "href": "/explore/cma.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

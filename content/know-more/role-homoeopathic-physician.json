@@ -1,0 +1,87 @@
+{
+  "title": "Homoeopathic Physician",
+  "kicker": "Role · AYUSH medicine",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A homoeopathic physician takes detailed case histories, selects remedies and follows patients over time. Employers include government homoeopathy hospitals and dispensaries, private clinics and clinic chains, and many physicians run their own registered practice. A typical day is a mix of new case-taking and follow-up consultations."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BHMS",
+            "note": "5.5 years including a one-year internship"
+          },
+          {
+            "label": "Registration",
+            "value": "State Board/Council of Homoeopathy or the central register",
+            "note": "Regulated by the National Commission for Homoeopathy (NCH)"
+          },
+          {
+            "label": "Registered homoeopathy practitioners",
+            "value": "~2.9–3.3 lakh",
+            "source": "Ministry of Ayush, registered practitioners (as reported in Parliament replies)",
+            "date": "2021",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Admission to BHMS is through NEET-UG, with AACCC counselling for the all-India quota and state counselling for state seats. After the internship, registration with the state homoeopathy board allows practice. Government medical officer posts come through state public service commissions, the National Health Mission and other recruitment notices."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Detailed case-taking and repertorisation",
+          "Remedy selection using the materia medica",
+          "Patient follow-up and counselling",
+          "Clinic management and record keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many start as associate doctors in a clinic before setting up their own practice.",
+          "An MD (Homoeopathy) through AIAPGET leads to specialist and teaching posts.",
+          "Income in private practice depends heavily on location and patient base."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BHMS · Job / Practice",
+            "href": "/explore/bhms.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

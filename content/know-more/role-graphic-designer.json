@@ -1,0 +1,78 @@
+{
+  "title": "Graphic Designer",
+  "kicker": "Role · Design & media",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A graphic designer creates illustrations, layouts, logos and other visual material for print and digital use. Advertising and design agencies, publishers, media houses and in-house brand teams hire designers, and many work freelance. A typical day is working on briefs, producing drafts and revising them on feedback."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BFA (Applied Art) or B.Des, plus a portfolio"
+          },
+          {
+            "label": "Common tools",
+            "value": "Illustrator, Photoshop, InDesign, Figma"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hiring is mostly portfolio-based. Freshers usually start as junior designers or interns at an agency, studio or in-house team, or take freelance projects to build a body of work."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Typography and layout",
+          "Illustration and image editing",
+          "Branding and visual identity",
+          "Working to a brief and taking feedback"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A strong portfolio often matters more than the degree.",
+          "Typical path: junior designer, designer, senior designer, art director.",
+          "Some move into UI/UX or motion design with extra skills."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BFA (Fine Arts) · Job / Practice",
+            "href": "/explore/bfa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Radiology Technologist",
+  "kicker": "Role · Medical imaging",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A radiology technologist positions patients and operates X-ray, CT, MRI and other imaging equipment to produce the images a radiologist reports on. Employers include hospitals, diagnostic imaging centres and diagnostic chains. A day involves preparing patients, choosing scan settings, taking images safely and managing them on the hospital's imaging systems."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Radiology & Imaging Technology",
+            "note": "Diploma courses are a shorter route"
+          },
+          {
+            "label": "Radiation safety",
+            "value": "AERB rules apply to X-ray and CT units",
+            "note": "Atomic Energy Regulatory Board"
+          },
+          {
+            "label": "Common tools",
+            "value": "X-ray, CT and MRI scanners; PACS image systems"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, then a B.Sc in Radiology and Imaging Technology with an internship. Freshers usually start as radiographers or X-ray technicians and rotate across scan types; government posts are filled through recruitment exams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Positioning patients for different scans",
+          "Operating X-ray, CT and MRI consoles",
+          "Radiation protection and MRI safety checks",
+          "Checking image quality and managing images on PACS",
+          "Supporting contrast procedures"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Specialising in CT, MRI or interventional radiology is a common next step.",
+          "Shift work, including nights, is common in hospital imaging units.",
+          "Some move into application specialist roles with imaging equipment makers."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Allied Health · Job / Practice",
+            "href": "/explore/bsc-allied-health.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

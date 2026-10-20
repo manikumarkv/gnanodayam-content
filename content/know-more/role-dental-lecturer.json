@@ -1,0 +1,85 @@
+{
+  "title": "Dental Lecturer",
+  "kicker": "Role · Dental education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A dental lecturer teaches BDS students in a dental college and supervises them in the college's clinics, while also treating patients. Private and government dental colleges hire lecturers. A typical day is lectures or practical classes, clinical supervision and patient work."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BDS for tutor/lecturer posts; MDS for senior lecturer and above"
+          },
+          {
+            "label": "Teaching norms",
+            "value": "Set by the Dental Council of India"
+          },
+          {
+            "label": "Dental colleges",
+            "value": "~315–325",
+            "source": "Dental Council of India (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "BDS graduates can join a dental college as a tutor or lecturer in some departments after registration. Promotion to senior lecturer, reader and professor generally requires an MDS (through NEET-MDS) and teaching experience as set out in Dental Council of India norms."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Teaching and explaining clinical procedures",
+          "Supervising students in clinics",
+          "Patient treatment",
+          "Preparing assessments and records"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Without an MDS, growth in teaching posts is limited.",
+          "Typical path: tutor/lecturer, senior lecturer, reader, professor.",
+          "Many combine college work with a private clinic, where college rules allow."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BDS · Job / Practice",
+            "href": "/explore/bds.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

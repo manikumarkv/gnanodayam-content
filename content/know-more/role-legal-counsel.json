@@ -1,0 +1,83 @@
+{
+  "title": "Legal Counsel",
+  "kicker": "Role · Law & in-house legal",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A Legal Counsel is a lawyer employed by one company rather than a law firm. Companies of many kinds hire them to keep business moving within the law. A typical day involves reviewing and negotiating contracts, answering legal questions from other teams, tracking compliance, and coordinating with outside lawyers on disputes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "LLB (3-year after graduation, or 5-year integrated after Class 12)"
+          },
+          {
+            "label": "Common work",
+            "value": "Contracts, regulatory compliance, employment matters, disputes"
+          },
+          {
+            "label": "Common tools",
+            "value": "Word processors with track changes, contract templates, legal research databases"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most in-house roles hire lawyers with some years at a law firm or in litigation, though some companies take freshers as legal associates or trainees. Internships during the LLB and drafting experience help. Under Bar Council of India rules, a full-time salaried employee generally cannot practise in court at the same time."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Drafting and reviewing commercial contracts",
+          "Explaining legal risk in plain terms to non-lawyers",
+          "Tracking the laws and regulations that apply to the business",
+          "Managing outside counsel and case timelines"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common path: legal associate → legal counsel → senior counsel → head of legal or general counsel.",
+          "Hours tend to be more regular than at a law firm or in litigation.",
+          "The work focuses on one business, so the range of matters can be narrower.",
+          "Many in-house lawyers move in after a few years at a firm."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "LLB (Law) · Job / Practice",
+            "href": "/explore/llb.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Ayurvedic Physician",
+  "kicker": "Role · AYUSH medicine",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An Ayurvedic physician examines patients, diagnoses using Ayurvedic principles and prescribes medicines, diet and therapies such as Panchakarma. Employers include government Ayush hospitals and dispensaries, private Ayurveda hospitals and wellness centres, and many physicians run their own registered clinic. A typical day is outpatient consultations, ward rounds or therapy supervision, and keeping patient records."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BAMS",
+            "note": "5.5 years including a one-year internship"
+          },
+          {
+            "label": "Registration",
+            "value": "State Board of Indian Medicine or the central register",
+            "note": "Regulated by the National Commission for Indian System of Medicine (NCISM)"
+          },
+          {
+            "label": "Registered Ayurveda practitioners",
+            "value": "~4.3–4.6 lakh",
+            "source": "Ministry of Ayush, registered practitioners (as reported in Parliament replies)",
+            "date": "2021",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Admission to BAMS is through NEET-UG, with counselling by AACCC for the all-India quota and by state bodies for state seats. After the internship, registration with the State Board of Indian Medicine allows practice. Government medical officer posts are filled through state public service commissions, the National Health Mission and other recruitment notices."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clinical examination, including Nadi (pulse) assessment",
+          "Prescribing classical formulations and diet plans",
+          "Planning and supervising Panchakarma procedures",
+          "Patient counselling and record keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Private practice takes time to build; many start in a hospital or wellness centre first.",
+          "An MD/MS (Ayurveda) through AIAPGET leads to specialist and teaching posts.",
+          "Allopathic prescribing rights for Ayush doctors vary by state and remain contested."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BAMS · Job / Practice",
+            "href": "/explore/bams.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

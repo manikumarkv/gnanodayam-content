@@ -1,0 +1,89 @@
+{
+  "title": "First Officer",
+  "kicker": "Role · Aviation · Airline",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A first officer is the co-pilot of an airliner, sharing flying and checklist duties with the captain. Airlines hire them for a specific aircraft type. A typical day involves flight planning, briefings, flying one or more sectors, and working within duty-time limits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Licence needed",
+            "value": "DGCA Commercial Pilot Licence (CPL) plus a type rating",
+            "note": "A degree is not required"
+          },
+          {
+            "label": "Common aircraft",
+            "value": "Narrow-body jets and turboprops on domestic routes"
+          },
+          {
+            "label": "CPLs issued in a year",
+            "value": "~1,600",
+            "note": "All CPLs, not only airline hires",
+            "source": "DGCA (as reported)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A Commercial Pilot Licence (CPL) from DGCA is the requirement, not a degree. It needs Class 12 with Physics and Maths (these can be added later through NIOS), a DGCA Class 1 medical, passes in the DGCA ground exams (Air Navigation, Meteorology, Air Regulations, Technical) plus a radio telephony licence, and about 200 hours of flying at a DGCA-approved flying school. Airlines then select pilots through tests and interviews, and a type rating on the aircraft (often paid for by the trainee) is needed before flying the line. Some airlines run cadet programmes that combine training and selection."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Aircraft handling and instrument flying",
+          "Crew coordination with the captain and cabin crew",
+          "Radio communication with air traffic control",
+          "Weather and flight planning",
+          "Following procedures and checklists precisely"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Training is expensive, and a CPL does not guarantee an airline job.",
+          "The usual next step is command (captain) after meeting hours and airline requirements.",
+          "Regular medicals and simulator checks continue throughout the career.",
+          "Schedules include early mornings, nights and holidays."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Commercial Pilot (CPL) · Job",
+            "href": "/explore/vocational-skilling.commercial-pilot-cpl.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

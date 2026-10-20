@@ -1,0 +1,84 @@
+{
+  "title": "Medical Lab Technologist",
+  "kicker": "Role · Diagnostics & labs",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A medical lab technologist collects and processes blood, urine and other samples and runs the tests doctors use for diagnosis. Employers are hospital laboratories, diagnostic chains, blood banks and research labs. A shift involves handling samples, running analysers, doing quality-control checks and recording results for a pathologist to review and sign."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc MLT (Medical Lab Technology)",
+            "note": "DMLT is a shorter diploma route"
+          },
+          {
+            "label": "Regulation",
+            "value": "National Commission for Allied and Healthcare Professions Act, 2021"
+          },
+          {
+            "label": "Common tools",
+            "value": "Haematology and biochemistry analysers, microscopes, lab information systems"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, then a B.Sc MLT or DMLT with an internship. Freshers usually join hospital or diagnostic labs as lab technicians, often on rotating shifts; government posts are filled through state and central recruitment exams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Sample collection (phlebotomy) and handling",
+          "Running and calibrating lab analysers",
+          "Quality-control and biosafety practices",
+          "Microscopy, staining and culture basics",
+          "Accurate result entry and reporting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles are senior technologist, lab supervisor or quality manager; an M.Sc MLT opens teaching and research.",
+          "Night and weekend shifts are common in hospital labs.",
+          "NABL-accredited labs expect strict documentation and quality routines."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Allied Health · Job / Practice",
+            "href": "/explore/bsc-allied-health.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

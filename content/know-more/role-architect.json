@@ -1,0 +1,92 @@
+{
+  "title": "Architect",
+  "kicker": "Role · Architecture & design",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An architect designs buildings and spaces, prepares drawings and coordinates with clients, engineers and contractors through construction. Architecture firms, real-estate developers, government public works departments and design consultancies hire architects, and many later set up their own practice. A typical day is design work, drawing revisions, client meetings and site visits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Arch",
+            "note": "5 years, including practical training"
+          },
+          {
+            "label": "Registration",
+            "value": "Council of Architecture",
+            "note": "Required to use the title \"architect\" under the Architects Act, 1972"
+          },
+          {
+            "label": "Common tools",
+            "value": "AutoCAD, Revit, SketchUp, hand sketching"
+          },
+          {
+            "label": "Registered architects",
+            "value": "~1.1–1.4 lakh",
+            "source": "Council of Architecture register (as reported)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Admission to B.Arch is through NATA or JEE Main Paper 2. After graduating, freshers register with the Council of Architecture and usually join a firm as a junior architect. A portfolio of design studio work matters in hiring."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Design and space planning",
+          "Working drawings and detailing",
+          "3D modelling and visualisation",
+          "Building codes and bye-laws",
+          "Coordinating with consultants and site teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Early-career pay is often modest; experience and a portfolio drive progression.",
+          "Typical path: junior architect, project architect, then associate or own practice.",
+          "An M.Arch or M.Plan is an option for specialisation or teaching."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Arch · Job / Practice",
+            "href": "/explore/barch.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
