@@ -25,6 +25,29 @@
           {
             "label": "Common job areas",
             "value": "RTL design, design verification, physical design, analog layout"
+          },
+          {
+            "label": "Approved semiconductor manufacturing projects (India Semiconductor Mission)",
+            "value": "10 projects, ~₹1.6 lakh crore",
+            "note": "Across six states; fabs and packaging units, not design firms. Later reports mention more approvals",
+            "source": "PIB backgrounder on ISM 2.0",
+            "date": "Dec 2025",
+            "verified": false
+          },
+          {
+            "label": "Chip design startups supported (Design Linked Incentive scheme)",
+            "value": "24",
+            "source": "PIB backgrounder on ISM 2.0",
+            "date": "Jan 2026",
+            "verified": false
+          },
+          {
+            "label": "Students using the national chip design (EDA) platform",
+            "value": "~67,000",
+            "note": "Plus 1,000+ startup engineers; EDA tools offered across 397 universities and startups",
+            "source": "PIB backgrounder on ISM 2.0",
+            "date": "Jan 2026",
+            "verified": false
           }
         ]
       }

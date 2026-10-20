@@ -25,6 +25,22 @@
           {
             "label": "Common starting titles",
             "value": "C&B analyst, total rewards associate, HR analyst"
+          },
+          {
+            "label": "MBA enrolment (all modes)",
+            "value": "~9.6 lakh students",
+            "note": "All specialisations; AISHE does not separate MBA (HR)",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "BBA enrolment (all modes)",
+            "value": "~8.8 lakh students",
+            "note": "All specialisations, including HR and Finance",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, actual responses",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -58,6 +74,35 @@
           "Common next steps: C&B manager, total rewards lead, or HR analytics.",
           "Fewer entry openings than general HR roles; payroll experience is a common bridge."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "MBA enrolment, regular mode",
+        "unit": "lakh students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "MBA (regular mode)",
+                "values": [4.54, 4.74, 5.26, 5.86, 6.32]
+              }
+            ]
+          }
+        },
+        "note": "Regular mode only; all MBA specialisations combined, so HR is a subset. Counts students enrolled, not graduates.",
+        "source": "AISHE 2023-24 (Ministry of Education), Box 15",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {

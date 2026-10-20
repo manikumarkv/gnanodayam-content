@@ -21,6 +21,22 @@
           {
             "label": "Work pattern",
             "value": "Long field rotations, onshore and offshore, sometimes abroad"
+          },
+          {
+            "label": "India's domestic crude oil production",
+            "value": "~28.4 million tonnes",
+            "note": "Down from ~34.2 million tonnes in 2018-19; ageing fields are one reason given",
+            "source": "PRS Legislative Research, citing PPAC / MoPNG data",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Share of crude oil requirement that India imports",
+            "value": "~85%",
+            "note": "Context for domestic exploration and production activity",
+            "source": "PRS Legislative Research (as reported)",
+            "date": "Feb 2026",
+            "verified": false
           }
         ]
       }

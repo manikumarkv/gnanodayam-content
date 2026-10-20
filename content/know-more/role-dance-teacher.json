@@ -21,6 +21,22 @@
           {
             "label": "Where you work",
             "value": "Schools, dance academies, private and online classes"
+          },
+          {
+            "label": "B.P.A. (Performing Arts) enrolment",
+            "value": "~9,600",
+            "note": "Covers dance, music and theatre together",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.Dance enrolment",
+            "value": "~60",
+            "note": "Students in degrees titled Bachelor of Dance; most dance degrees are listed under B.P.A. or B.A.",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,29 @@
           "College teaching usually needs a master's plus UGC-NET or a PhD.",
           "Income from private classes depends on location and student numbers."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.P.A. (Performing Arts) enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.P.A. enrolment",
+                "values": [6237, 6534, 9570]
+              }
+            ]
+          }
+        },
+        "note": "Includes music and theatre as well as dance; counts only institutions that responded to AISHE",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (programme-wise enrolment, actual responses)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

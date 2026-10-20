@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Excel, SQL, a BI tool, web analytics platforms"
+          },
+          {
+            "label": "BBA enrolment (all modes)",
+            "value": "~8.8 lakh students",
+            "note": "All specialisations; AISHE does not separate Business Analytics",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Advertising revenue in India",
+            "value": "~₹1.5 lakh crore",
+            "note": "Digital advertising ~₹94,700 crore, ~63% of the total (as reported)",
+            "source": "FICCI-EY M&E report 2026 (as reported, EY press release)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -55,6 +71,35 @@
           "Data privacy rules increasingly shape what customer data can be used.",
           "The skills overlap with data analyst roles, so moving between the two is common."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BBA enrolment, regular mode",
+        "unit": "lakh students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "BBA (regular mode)",
+                "values": [5.29, 5.84, 6.65, 7.39, 7.86]
+              }
+            ]
+          }
+        },
+        "note": "Regular mode only; all BBA specialisations combined. Counts students enrolled, not graduates.",
+        "source": "AISHE 2023-24 (Ministry of Education), Box 14",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {

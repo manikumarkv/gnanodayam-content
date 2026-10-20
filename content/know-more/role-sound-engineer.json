@@ -25,6 +25,29 @@
           {
             "label": "Work pattern",
             "value": "Project-based, often irregular hours"
+          },
+          {
+            "label": "Media & entertainment sector revenue",
+            "value": "~₹2.78 lakh crore",
+            "note": "Whole sector (TV, digital, film, music, live events…); music revenue grew ~10% in 2025 (as reported)",
+            "source": "FICCI-EY M&E report 2026 (as reported, EY press release)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "B.P.A. enrolment (all modes)",
+            "value": "~9,600 students",
+            "note": "Bachelor of Performing Arts, all streams",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.Mus enrolment (all modes)",
+            "value": "~1,700 students",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, actual responses",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -58,6 +81,33 @@
           "Much of the work is freelance or contract-based.",
           "Next roles: mixing or mastering engineer, live sound head, studio owner."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Performing arts and music degree enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.P.A.",
+                "values": [6237, 6534, 9570]
+              },
+              {
+                "label": "B.Mus",
+                "values": [1976, 2303, 1692]
+              }
+            ]
+          }
+        },
+        "note": "All modes; based on institutions that responded to AISHE. Covers all performing-arts and music students, not only sound engineering; most sound engineers train through diplomas not counted here.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 11, actual responses",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

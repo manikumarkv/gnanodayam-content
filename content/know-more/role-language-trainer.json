@@ -21,6 +21,14 @@
           {
             "label": "Common exams taught",
             "value": "CEFR levels (DELF, Goethe), JLPT, HSK, DELE"
+          },
+          {
+            "label": "UG enrolment, Foreign Language",
+            "value": "~2.25 lakh",
+            "note": "Undergraduates whose major discipline is a foreign language; not a count of trainers",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 12, actual responses",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +62,29 @@
           "Pay is often per batch or per hour at the start.",
           "Experienced trainers move into curriculum design or examiner roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Undergraduate enrolment in Foreign Language",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "UG enrolment",
+                "values": [206714, 217370, 224924]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE each year; AISHE groups all foreign languages together in this table.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 12",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

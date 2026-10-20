@@ -25,6 +25,22 @@
           {
             "label": "Regulation",
             "value": "Allied health professions fall under the NCAHP Act, 2021"
+          },
+          {
+            "label": "Occupations listed under the NCAHP Act, 2021",
+            "value": "56, in 10 categories",
+            "note": "Covers allied and healthcare professions as a whole",
+            "source": "Sattva policy brief on the NCAHP Act (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "UG enrolment in Paramedical Science",
+            "value": "~1.15 lakh",
+            "note": "Broad discipline count based on actual responses; respiratory therapy is not reported separately",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 12",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,29 @@
           "Night shifts and ICU pressure are part of the job.",
           "Next roles: senior therapist, respiratory care in-charge, educator."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in Paramedical Science",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "UG enrolment",
+                "values": [65282, 93781, 115270]
+              }
+            ]
+          }
+        },
+        "note": "Whole Paramedical Science discipline at undergraduate level, based on actual responses; not specific to respiratory therapy. Part of the rise may reflect more institutions responding.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 12 (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

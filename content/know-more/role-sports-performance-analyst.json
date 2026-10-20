@@ -25,6 +25,30 @@
           {
             "label": "Work settings",
             "value": "Teams, academies and sports-tech firms"
+          },
+          {
+            "label": "B.P.Ed. enrolment",
+            "value": "~56,000",
+            "note": "Physical education degree; most graduates teach or coach",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.P.E.S. enrolment",
+            "value": "~1,300",
+            "note": "Bachelor of Physical Education and Sports",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Khelo India recognised academies",
+            "value": "~320",
+            "note": "Academies recognised under Khelo India for training athletes",
+            "source": "New India Samachar (PIB)",
+            "date": "Apr 2026",
+            "verified": false
           }
         ]
       }
@@ -59,6 +83,29 @@
           "Openings are few and concentrated in professional sport.",
           "Travel with teams and match-day hours are common."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.P.Ed. enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.P.Ed. enrolment",
+                "values": [44224, 50411, 56072]
+              }
+            ]
+          }
+        },
+        "note": "Counts only institutions that responded to AISHE; performance analysis is one of several paths from this degree",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (programme-wise enrolment, actual responses)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

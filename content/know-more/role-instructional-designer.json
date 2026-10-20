@@ -21,6 +21,21 @@
           {
             "label": "Common tools",
             "value": "Word processors, presentation tools, e-learning authoring tools, LMS platforms"
+          },
+          {
+            "label": "M.Ed enrolment (all modes)",
+            "value": "~59,800 students",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 11, actual responses",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "SWAYAM online course enrolments (cumulative)",
+            "value": "4.8 crore+",
+            "note": "Government MOOC platform; 14,000+ courses offered so far (as reported)",
+            "source": "UGC notice on SWAYAM (as reported, Careers360)",
+            "date": "Jan 2025",
+            "verified": false
           }
         ]
       }
@@ -54,6 +69,29 @@
           "Corporate e-learning and K-12 content are the two main markets.",
           "Growth leads to senior designer, learning experience designer or curriculum lead."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.A. B.Ed. (integrated) enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.A. B.Ed.",
+                "values": [78465, 94205, 96811]
+              }
+            ]
+          }
+        },
+        "note": "All modes; based on institutions that responded to AISHE. B.A. B.Ed. is an integrated teacher-education programme; enrolment is not a count of instructional design jobs.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 11, actual responses",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

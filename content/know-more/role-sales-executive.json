@@ -25,6 +25,30 @@
           {
             "label": "Common titles",
             "value": "Sales officer, business development executive, field sales executive"
+          },
+          {
+            "label": "Indian retail market size",
+            "value": "~US$ 1.1 trillion",
+            "note": "Estimate; retail is one of many sectors that hire sales staff",
+            "source": "IBEF (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Retail share of employment",
+            "value": "~8%",
+            "note": "Approximate share of India's employment",
+            "source": "IBEF (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "B.Com. enrolment",
+            "value": "~39 lakh",
+            "note": "A common entry degree; most graduates go into other roles too",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

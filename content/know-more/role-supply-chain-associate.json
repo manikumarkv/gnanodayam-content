@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Excel, ERP systems (SAP and similar), warehouse management systems"
+          },
+          {
+            "label": "National logistics cost (DPIIT–NCAER estimate)",
+            "value": "~7.97% of GDP",
+            "note": "First official estimate; earlier figures of 13–14% were based on partial data",
+            "source": "DPIIT–NCAER, Assessment of Logistics Cost in India (via PIB)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Total logistics cost in India",
+            "value": "~₹24 lakh crore",
+            "note": "Shows the scale of spending on moving and storing goods",
+            "source": "DPIIT–NCAER, Assessment of Logistics Cost in India (via PIB)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

@@ -25,6 +25,22 @@
           {
             "label": "Common certification",
             "value": "Certified Professional Coder (CPC) or similar"
+          },
+          {
+            "label": "IT-BPM industry headcount (NASSCOM)",
+            "value": "~58 lakh",
+            "note": "All IT and BPM roles; healthcare coding is one small part",
+            "source": "NASSCOM Strategic Review 2025 (as reported)",
+            "date": "FY2025",
+            "verified": false
+          },
+          {
+            "label": "BPM segment revenue (NASSCOM)",
+            "value": "~US$ 55 billion",
+            "note": "All business-process work, of which healthcare and medical coding is a share",
+            "source": "NASSCOM Strategic Review 2025 (as reported)",
+            "date": "FY2025",
+            "verified": false
           }
         ]
       }

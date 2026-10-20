@@ -22,6 +22,29 @@
           {
             "label": "Common tools",
             "value": "QGIS, ArcGIS, GPS data, satellite imagery, spreadsheets"
+          },
+          {
+            "label": "Projected size of India's geospatial economy",
+            "value": "~₹63,000 crore by 2025",
+            "note": "A 2022 projection (~12.8% annual growth), not a measured figure",
+            "source": "Union Minister of Science & Technology, UN-WGIC Hyderabad (as reported)",
+            "date": "Oct 2022",
+            "verified": false
+          },
+          {
+            "label": "Geospatial startups in India",
+            "value": "~250",
+            "source": "Union Minister of Science & Technology, UN-WGIC Hyderabad (as reported)",
+            "date": "Oct 2022",
+            "verified": false
+          },
+          {
+            "label": "Postgraduate enrolment in Geography",
+            "value": "~78,000",
+            "note": "Based on actual responses; one of the subjects GIS analysts often come from",
+            "source": "AISHE 2023-24 (Ministry of Education), Table 13",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

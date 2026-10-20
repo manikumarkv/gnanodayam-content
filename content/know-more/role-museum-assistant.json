@@ -25,6 +25,14 @@
           {
             "label": "Often helpful",
             "value": "A diploma or master's in museology"
+          },
+          {
+            "label": "Museums set up by the Ministry of Culture (cumulative)",
+            "value": "~383",
+            "note": "Includes ~145 opened in the nine years to 2023; counts only Ministry-established museums, not every museum in India",
+            "source": "Ministry of Culture, Directory of Museums in India (as reported)",
+            "date": "2023",
+            "verified": false
           }
         ]
       }

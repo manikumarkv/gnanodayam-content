@@ -25,6 +25,22 @@
           {
             "label": "Common starting titles",
             "value": "L&D coordinator, training executive, HR associate (L&D)"
+          },
+          {
+            "label": "M.B.A. enrolment (all specialisations)",
+            "value": "~9.6 lakh",
+            "note": "HR is one of several MBA specialisations",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.B.A. enrolment (all specialisations)",
+            "value": "~8.8 lakh",
+            "note": "No separate count for BBA (HR)",
+            "source": "AISHE 2023-24, Table 11 (programme-wise enrolment, all modes, actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

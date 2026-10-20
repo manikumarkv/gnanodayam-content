@@ -25,6 +25,22 @@
           {
             "label": "Work setting",
             "value": "Calibration labs and on site at client plants"
+          },
+          {
+            "label": "NABL-accredited calibration laboratories",
+            "value": "~1,315",
+            "note": "Includes 6 overseas labs",
+            "source": "NABL (Quality Council of India), accredited bodies summary, data as on 30 Sep 2026",
+            "date": "2026-09",
+            "verified": false
+          },
+          {
+            "label": "All NABL-accredited conformity assessment bodies",
+            "value": "~10,818",
+            "note": "Testing, calibration and medical labs, PT providers, reference material producers and biobanks",
+            "source": "NABL (Quality Council of India), accredited bodies summary, data as on 30 Sep 2026",
+            "date": "2026-09",
+            "verified": false
           }
         ]
       }
@@ -58,6 +74,36 @@
           "On-site calibration involves travel to client plants.",
           "Next roles: senior calibration engineer, lab technical manager, quality manager."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "NABL-accredited bodies by type",
+        "unit": "accredited bodies",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Testing labs",
+              "Medical labs",
+              "Calibration labs",
+              "PT providers",
+              "Reference material producers",
+              "Biobanks"
+            ],
+            "series": [
+              {
+                "label": "Accredited bodies",
+                "values": [6813, 2568, 1315, 81, 38, 3]
+              }
+            ]
+          }
+        },
+        "note": "Counts change as accreditations are granted, suspended or withdrawn; a lab may employ several calibration staff or none.",
+        "source": "NABL (Quality Council of India), accredited bodies summary, data as on 30 Sep 2026",
+        "date": "2026-09",
+        "verified": false
       }
     },
     {

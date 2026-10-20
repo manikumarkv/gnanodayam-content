@@ -25,6 +25,22 @@
           {
             "label": "Licensing",
             "value": "Customs brokers hold a licence under the Customs Brokers Licensing Regulations; staff can work under a licensed broker"
+          },
+          {
+            "label": "India's merchandise exports",
+            "value": "~US$ 437 billion",
+            "note": "April–March; goods only",
+            "source": "Ministry of Commerce data, via All India Radio News (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "India's merchandise imports",
+            "value": "~US$ 720 billion",
+            "note": "The goods flows whose customs paperwork this role handles",
+            "source": "Ministry of Commerce data, via All India Radio News (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }
