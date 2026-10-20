@@ -1,0 +1,79 @@
+{
+  "title": "Fitness Trainer",
+  "kicker": "Role · Sport & fitness",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A fitness trainer plans exercise programmes and supervises clients at gyms, sports clubs, residential societies, corporate wellness centres or online. Some work as strength and conditioning staff for teams. Work is often in early-morning and evening shifts, with most time spent training clients."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.P.E.S. / B.P.Ed, or a fitness certification"
+          },
+          {
+            "label": "Common add-ons",
+            "value": "Personal-training and first-aid certifications"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start as floor trainers at gyms and build a client base, or join fitness chains with their own training programmes. A physical education or sport-science degree helps for strength and conditioning roles with teams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Exercise programming",
+          "Anatomy and exercise physiology basics",
+          "Coaching technique safely",
+          "Client communication",
+          "Basic nutrition guidance"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work is private and pay often depends on client numbers.",
+          "Certifications are common but not standardised.",
+          "Next roles: senior trainer, strength and conditioning coach, own studio."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPES / B.P.Ed",
+            "href": "/explore/bpes.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

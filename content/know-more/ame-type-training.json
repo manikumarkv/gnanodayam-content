@@ -1,0 +1,79 @@
+{
+  "title": "Aircraft Type Training (AME)",
+  "kicker": "Further training · Licence endorsement",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Once an aircraft maintenance engineer holds a basic DGCA licence, they still need training on a specific aircraft type — an Airbus A320 or an ATR 72, for example — before they can certify work on it. The type course covers that aircraft's systems, and the type is then endorsed on the licence."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Prerequisite",
+            "value": "A DGCA AME licence (B1 or B2)",
+            "note": "Plus the experience the endorsement asks for"
+          },
+          {
+            "label": "Training",
+            "value": "Theory and practical type course",
+            "note": "At a DGCA-approved type-training organisation"
+          },
+          {
+            "label": "DGCA-approved type-training organisations",
+            "value": "7",
+            "source": "Rajya Sabha reply, Ministry of Civil Aviation (as reported)",
+            "date": "2022-12",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Usually through an employer: airlines and maintenance firms send their engineers on type courses for the aircraft they operate, often with a service bond. Self-funded type courses are possible, but the endorsement still needs practical experience on that type."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A type endorsement ties you to operators that fly that aircraft.",
+          "Employer-sponsored training lowers cost but often comes with a bond period.",
+          "Engineers usually add further types over a career."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Aircraft Maintenance Engineer",
+            "href": "/roles/aircraft-maintenance-engineer"
+          },
+          {
+            "label": "Avionics Technician",
+            "href": "/roles/avionics-technician"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

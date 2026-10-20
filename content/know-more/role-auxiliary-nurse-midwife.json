@@ -1,0 +1,80 @@
+{
+  "title": "ANM / Health Worker (Female)",
+  "kicker": "Role · Healthcare",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An ANM (Auxiliary Nurse Midwife) is the frontline health worker for a group of villages or an urban ward. Most work at government sub-health centres and Ayushman Arogya Mandirs; private hospitals and NGOs also hire them. A day includes immunisation sessions, check-ups for pregnant women and new mothers, home visits with ASHA workers and entering records in health registers and apps."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "ANM diploma (2 years)",
+            "note": "Registration with the State Nursing Council is required"
+          },
+          {
+            "label": "Where the work is",
+            "value": "Sub-health centres, primary health centres, private hospitals and NGOs"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Complete the ANM diploma at an INC-recognised nursing school and register with the State Nursing Council. Then apply to state health department or National Health Mission recruitment, or to private hospitals and NGO health projects."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Immunisation and cold-chain handling",
+          "Antenatal and postnatal care",
+          "Health education for families",
+          "Record-keeping on registers and apps",
+          "Working with ASHA and Anganwadi workers"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many government posts are NHM contracts with rural postings.",
+          "Some states promote ANMs to Lady Health Visitor or health supervisor.",
+          "Many ANMs later study GNM or B.Sc Nursing to move into hospital nursing."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Vocational · GNM / ANM",
+            "href": "/explore/vocational-skilling.gnm-anm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

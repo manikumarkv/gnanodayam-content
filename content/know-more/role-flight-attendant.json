@@ -1,0 +1,79 @@
+{
+  "title": "Cabin Crew (Flight Attendant)",
+  "kicker": "Role · Aviation service",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Cabin crew keep passengers safe on board and look after them through the flight. Airlines hire them on domestic and international routes. A duty day includes a pre-flight briefing, safety checks, boarding, in-flight service and handling anything unexpected, from medical events to emergencies."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Class 12 pass, through an airline's own selection"
+          },
+          {
+            "label": "Training",
+            "value": "Airline initial training under DGCA rules",
+            "note": "Safety, emergency procedures, first aid and service"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Apply to airline openings and attend selection rounds — screening, grooming and communication assessment, interview and medical. Selected candidates go through the airline's initial training before flying. Each airline sets its own age, height and other standards."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Calm handling of emergencies",
+          "Clear spoken communication, including English",
+          "First aid and safety procedures",
+          "Customer service under pressure"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Irregular rosters, overnight stays and time away from home are part of the job.",
+          "Next roles: senior crew, cabin supervisor, trainer, or ground and hospitality roles.",
+          "Fitness and medical standards apply throughout the career."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Vocational · Cabin Crew",
+            "href": "/explore/vocational-skilling.cabin-crew.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

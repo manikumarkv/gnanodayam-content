@@ -1,0 +1,78 @@
+{
+  "title": "Airport Customer Service Agent",
+  "kicker": "Role · Aviation ground services",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An airport customer service agent handles passengers on the ground for an airline or a ground-handling company: check-in, baggage, boarding, and help during delays or cancellations. The work is at airport counters and gates, in shifts that follow the flight schedule."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Class 12 pass or a degree, plus an airport entry pass"
+          },
+          {
+            "label": "Common tools",
+            "value": "Airline departure control and reservation systems"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Airlines and ground-handling companies recruit through walk-ins and online applications; selection is usually an interview with a communication assessment. New hires are trained on the airline's systems and need a security background check for an airport entry pass."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Handling queries and complaints calmly",
+          "Using check-in and boarding systems",
+          "Clear communication in English and a local language",
+          "Working to tight departure times"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Shift work includes early mornings, nights and holidays.",
+          "Next roles: senior agent, duty officer, or station operations roles.",
+          "Some move from here into cabin crew or hospitality jobs."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Vocational · Cabin Crew",
+            "href": "/explore/vocational-skilling.cabin-crew.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

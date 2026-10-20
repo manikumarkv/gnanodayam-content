@@ -1,0 +1,78 @@
+{
+  "title": "Aquaculture Technician",
+  "kicker": "Role · Fisheries & aquaculture",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An aquaculture technician looks after fish or shrimp farms. They check water quality, plan feeding, watch for disease and help with harvests. Employers include fish and shrimp farms, feed and aqua-health companies, and government and NGO farming projects."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.F.Sc (some employers also take related science graduates)"
+          },
+          {
+            "label": "Where you work",
+            "value": "Fish and shrimp farms, mostly in coastal and rural districts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a farm, feed company or aqua-health company as a trainee or technical executive, often with field postings. Hatchery or farm internships during the degree help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Water-quality testing and pond management",
+          "Feed management and growth tracking",
+          "Spotting and reporting fish or shrimp disease",
+          "Explaining practices to farmers"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The job is field-based and often outside cities.",
+          "With experience it can lead to farm manager or technical service roles.",
+          "Some move into feed or health product sales, or start their own farm."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.F.Sc (Fisheries Science)",
+            "href": "/explore/bfsc.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

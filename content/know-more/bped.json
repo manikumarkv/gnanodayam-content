@@ -1,0 +1,72 @@
+{
+  "title": "B.P.Ed (2-year)",
+  "kicker": "Teacher-training degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Bachelor of Physical Education (B.P.Ed) is a two-year teacher-training course for people who already hold a degree. It prepares you to teach physical education in schools and covers teaching methods, sports training, officiating, health education and practice teaching. It is recognised by the National Council for Teacher Education (NCTE)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Lengthened from one year under the NCTE 2014 regulations"
+          },
+          {
+            "label": "Who can apply",
+            "value": "Graduates who meet NCTE conditions on marks and sports participation or physical education subjects",
+            "note": "Exact rules differ by university"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "University or state entrance tests, usually combined with a physical fitness test and sometimes a sports skill test. Many states run a common B.P.Ed entrance; check the university's prospectus for marks, age and sports-certificate rules."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It is the usual qualification asked for physical education teacher posts in schools.",
+          "An M.P.Ed is the next step for college teaching and coaching-education roles.",
+          "Check NCTE recognition of the college before joining."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Physical Education Teacher",
+            "href": "/roles/physical-education-teacher"
+          },
+          {
+            "label": "Higher education options",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

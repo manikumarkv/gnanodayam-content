@@ -1,0 +1,75 @@
+{
+  "title": "State Forest Service (ACF / RFO)",
+  "kicker": "Government · State forest departments",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State forest departments recruit Assistant Conservators of Forests (ACF) and Range Forest Officers (RFO) to protect forests and wildlife, run plantations and nurseries, handle forest offences and work with forest-dwelling communities. ACFs manage a sub-division; RFOs manage a forest range on the ground."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Recruited by",
+            "value": "State PSC (in some states a separate forest recruitment board)"
+          },
+          {
+            "label": "Typical eligibility",
+            "value": "A graduate degree in a listed science subject, often including Forestry, Agriculture, Botany, Zoology or Engineering"
+          },
+          {
+            "label": "Also required",
+            "value": "Physical standards and a walking test"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Apply when your state notifies ACF or RFO posts. Selection is usually a written exam (general studies plus optional or science papers), a physical/walking test, and an interview for some posts. Selected officers then go through institutional training."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Some states give preference to forestry graduates; the rules differ by state.",
+          "Vacancies are notified irregularly.",
+          "State Forest Service officers can later be promoted into the Indian Forest Service.",
+          "Postings are often in remote forest areas."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Plantation Officer",
+            "href": "/roles/plantation-officer"
+          },
+          {
+            "label": "Government / competitive paths",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

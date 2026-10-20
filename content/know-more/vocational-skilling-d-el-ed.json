@@ -1,0 +1,113 @@
+{
+  "title": "D.El.Ed",
+  "kicker": "Elementary teacher diploma · After Class 12",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year Diploma in Elementary Education that trains you to teach primary classes (1–5). It covers child development, teaching methods for languages, maths and environmental studies, and school internships. Courses must be recognised by the National Council for Teacher Education (NCTE); some states still call it D.Ed or BTC."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Includes school internship; run at government DIETs and private colleges"
+          },
+          {
+            "label": "Minimum marks to apply",
+            "value": "50% in Class 12",
+            "note": "Usually 45% for reserved categories; check the state's notice"
+          },
+          {
+            "label": "Students enrolled (D.El.Ed)",
+            "value": "~2.6 lakh",
+            "note": "All modes; about 2 lakh more are in courses listed as D.Ed",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Pass-outs in a year",
+            "value": "~89,000",
+            "note": "D.El.Ed only",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with the minimum marks (most states accept any stream). Admission is through a state entrance test, such as Telangana's DEECET, or a Class 12 merit list, run by the state's SCERT or education department. After the course, CTET or a state TET (Paper 1) is needed for most primary teaching posts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A 2023 Supreme Court ruling held that B.Ed alone does not qualify for primary posts, so D.El.Ed (or the four-year B.El.Ed) is the usual route to Classes 1–5.",
+          "The diploma is not a degree: teaching Classes 6–8 or starting a B.Ed needs graduation first.",
+          "Passing TET is only an eligibility condition; government posts come through separate drives that vary by state.",
+          "NEP 2020 envisages the four-year integrated B.Ed as the minimum teacher qualification by 2030, so the diploma route may change."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/vocational-skilling.d-el-ed.job"
+          },
+          {
+            "label": "Further Study",
+            "href": "/explore/vocational-skilling.d-el-ed.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/vocational-skilling.d-el-ed.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Pre-primary Teacher",
+            "href": "/roles/pre-primary-teacher"
+          },
+          {
+            "label": "Tutor",
+            "href": "/roles/tutor"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

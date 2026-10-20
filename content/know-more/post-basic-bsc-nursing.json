@@ -1,0 +1,86 @@
+{
+  "title": "Post Basic B.Sc Nursing",
+  "kicker": "Nursing degree for GNM nurses",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year bachelor's degree for nurses who already hold a GNM diploma and are registered with a State Nursing Council. It builds on GNM training with more nursing science, community health, research and management, and gives a B.Sc-level nursing qualification. Programmes are recognised by the Indian Nursing Council (INC)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Full-time"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~8,900",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Pass-outs in a year",
+            "value": "~2,200",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A GNM diploma and registration as a nurse and midwife with a State Nursing Council. Some institutions accept other diplomas, so check the notice. Admission is through university or state entrance tests or a merit list."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats are few compared with the number of GNM nurses each year.",
+          "It opens posts and courses that ask for a nursing degree, including M.Sc Nursing.",
+          "Post Basic B.Sc holders are reported to be exempt from the two-year experience rule for AIIMS NORCET."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Staff Nurse",
+            "href": "/roles/staff-nurse"
+          },
+          {
+            "label": "Community Health Nurse",
+            "href": "/roles/community-health-nurse"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

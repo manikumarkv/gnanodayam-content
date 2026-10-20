@@ -1,0 +1,96 @@
+{
+  "title": "Jan Aushadhi Kendra",
+  "kicker": "Government scheme",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Jan Aushadhi Kendras are medicine stores under the Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) that sell generic medicines supplied by the Pharmaceuticals & Medical Devices Bureau of India (PMBI). Individuals, NGOs, hospitals and others run them, and each must have a pharmacist with a D.Pharm or B.Pharm. For a pharmacist, it is a way to run a store with scheme support, or a job at an existing kendra."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Pharmacist requirement",
+            "value": "D.Pharm or B.Pharm holder",
+            "note": "As the applicant or as an employee at the store"
+          },
+          {
+            "label": "Kendras open",
+            "value": "~18,000",
+            "note": "17,990 as of 31 December 2025",
+            "source": "Lok Sabha reply (as reported)",
+            "date": "2025-12",
+            "verified": false
+          },
+          {
+            "label": "Government target",
+            "value": "25,000 kendras",
+            "note": "By March 2027",
+            "source": "Union government statement (as reported)",
+            "date": "2024-11",
+            "verified": false
+          },
+          {
+            "label": "Monthly incentive",
+            "value": "20% of monthly purchases, up to ₹20,000 a month",
+            "note": "Subject to conditions such as stocking specified medicines",
+            "source": "Lok Sabha reply (as reported)",
+            "date": "2025-02",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Apply online on the PMBI portal as an individual pharmacist or entrepreneur, with premises, a retail drug licence (or an application for one) and a D.Pharm or B.Pharm pharmacist. PMBI reviews the application and may inspect the site before onboarding the store. To work at an existing kendra, apply to its owner."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "This is self-employment under a government scheme, not a government job; income depends on sales.",
+          "Generic medicines are priced lower than branded ones, so earnings depend on footfall and steady stock.",
+          "A one-time incentive is offered in some regions and to women, ex-servicemen, divyang and SC/ST applicants.",
+          "Rules and incentives are revised from time to time; check the current PMBI guidelines."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Pharmacist",
+            "href": "/roles/pharmacist"
+          },
+          {
+            "label": "Pharmacy Owner (Retail Chemist)",
+            "href": "/roles/retail-pharmacy-owner"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

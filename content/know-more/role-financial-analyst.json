@@ -79,6 +79,10 @@
           {
             "label": "CMA (Cost & Management Acct.)",
             "href": "/explore/cma.job"
+          },
+          {
+            "label": "IPM (Integrated Management, 5-yr)",
+            "href": "/explore/ipm.job"
           }
         ]
       }

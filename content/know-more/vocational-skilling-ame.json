@@ -1,0 +1,105 @@
+{
+  "title": "AME (Aircraft Maintenance Engineering)",
+  "kicker": "Vocational / Skilling · Aviation maintenance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Aircraft Maintenance Engineering (AME) is training to inspect, service and repair aircraft and, once licensed, to certify them fit to fly. It is taught at maintenance training organisations approved by the Directorate General of Civil Aviation (DGCA). The course alone is not the licence: DGCA module exams and logged practical experience are needed before a licence is issued."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "About 2–3 years",
+            "note": "Approved basic training; practical experience for the licence is extra"
+          },
+          {
+            "label": "Licence categories",
+            "value": "A, B1, B2, C",
+            "note": "B1 covers mechanical systems, B2 avionics; issued by DGCA"
+          },
+          {
+            "label": "DGCA-approved maintenance training organisations",
+            "value": "62",
+            "note": "Government and private; check DGCA's current list",
+            "source": "Rajya Sabha reply, Ministry of Civil Aviation (as reported)",
+            "date": "2022-12",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Mathematics; institutes set their own minimum marks and an age limit. Admission is through each training organisation's own test or interview and a medical check. Before joining, confirm the institute and its course are on DGCA's list of approved maintenance training organisations."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Fees at private training organisations are high; the cost varies widely between institutes.",
+          "Licence holders certify work; before that, trainees work under supervision as technicians.",
+          "Hangar and ramp work is often in shifts, including nights.",
+          "Some institutes pair the course with a university degree; the DGCA licence is separate from it."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/vocational-skilling.ame.job"
+          },
+          {
+            "label": "Further Study / Licences",
+            "href": "/explore/vocational-skilling.ame.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/vocational-skilling.ame.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Aircraft Maintenance Engineer",
+            "href": "/roles/aircraft-maintenance-engineer"
+          },
+          {
+            "label": "Avionics Technician",
+            "href": "/roles/avionics-technician"
+          },
+          {
+            "label": "Aircraft Maintenance Planner",
+            "href": "/roles/aircraft-maintenance-planner"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

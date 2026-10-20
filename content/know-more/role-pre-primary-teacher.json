@@ -1,0 +1,80 @@
+{
+  "title": "Pre-primary Teacher",
+  "kicker": "Role · Education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A pre-primary teacher works with children aged about three to six in nursery, LKG and UKG classes. Private pre-schools, play schools and the pre-primary sections of schools hire them. A day involves circle time, play-based activities, early reading and number work, snacks and rest routines, and talking to parents at pick-up."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "An early childhood (ECCE / nursery teacher) diploma or D.El.Ed",
+            "note": "Requirements differ from school to school"
+          },
+          {
+            "label": "Where the work is",
+            "value": "Private pre-schools, play schools and school pre-primary sections"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Schools and play schools hire directly, often asking for an early childhood or nursery teacher training diploma, a D.El.Ed or a degree, along with spoken English and a short demo class. Government pre-primary teaching posts are few and follow state rules."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Planning play-based activities",
+          "Storytelling and early language",
+          "Patience and classroom routines",
+          "Observing and recording development",
+          "Talking with parents"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Pay at small play schools is often modest and varies widely.",
+          "NEP 2020 treats ages 3–8 as one foundational stage, which is adding pre-primary sections to schools.",
+          "Next roles: primary teacher, coordinator, or running a play school."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Vocational · D.El.Ed",
+            "href": "/explore/vocational-skilling.d-el-ed.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

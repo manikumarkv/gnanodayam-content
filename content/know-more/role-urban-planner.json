@@ -1,0 +1,79 @@
+{
+  "title": "Urban Planner",
+  "kicker": "Role · Urban planning",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An urban planner works out how land in a city or region is to be used: where housing, roads, parks, industry and services go, and how they connect. Employers include development authorities, municipal bodies, planning and infrastructure consultancies, and research organisations. A typical day mixes surveys and data work, GIS mapping, drafting plan documents and meetings with officials."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Plan, or an M.Plan after B.Arch / B.Tech Civil"
+          },
+          {
+            "label": "Common tools",
+            "value": "QGIS / ArcGIS, AutoCAD, Excel, survey forms"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join planning or infrastructure consultancies as planning associates on government projects such as master plans and smart-city work. Government planning posts are filled through state PSCs or development authorities, and some ask for ITPI membership or an M.Plan."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Land-use and master-plan preparation",
+          "GIS mapping and spatial analysis",
+          "Field and household surveys",
+          "Planning law and building bye-laws",
+          "Report writing and presentation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much consultancy work depends on government project cycles.",
+          "Many planners specialise later in transport, housing or environmental planning.",
+          "Next roles: senior planner, project manager, town planning officer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Plan",
+            "href": "/explore/b-plan.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

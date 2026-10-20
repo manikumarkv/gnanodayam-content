@@ -1,0 +1,78 @@
+{
+  "title": "Hatchery Technician",
+  "kicker": "Role · Fisheries & aquaculture",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A hatchery technician breeds fish or shrimp and raises the young (seed) until they can be stocked on farms. Work includes caring for broodstock, managing larval tanks and live feed, and keeping strict hygiene. Employers include private hatcheries and government fish seed farms."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.F.Sc (some hatcheries also train diploma holders)"
+          },
+          {
+            "label": "Where you work",
+            "value": "Shrimp and fish hatcheries, often near the coast or reservoirs"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Join a hatchery as a trainee or assistant; hatchery training during the B.F.Sc helps. Work runs in breeding seasons and can involve night shifts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Broodstock care and induced breeding",
+          "Larval rearing and live-feed culture",
+          "Water quality and biosecurity",
+          "Keeping production records"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Hours follow the breeding cycle, so shifts can be long in season.",
+          "Experience can lead to hatchery manager roles or your own hatchery.",
+          "Biosecurity skills carry over to farm and health roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.F.Sc (Fisheries Science)",
+            "href": "/explore/bfsc.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

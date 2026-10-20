@@ -1,0 +1,112 @@
+{
+  "title": "BPES / B.P.Ed",
+  "kicker": "Undergraduate physical education degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Degrees in physical education and sport. You study anatomy, physiology, sports training, coaching of particular sports, yoga, and teaching methods, with a large share of time on the field. After Class 12 the main options are a three-year B.P.E.S. / B.P.E. or a four-year B.P.Ed at some institutes; the better-known two-year B.P.Ed is a teacher-training course taken after a first degree."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3–4 years",
+            "note": "3-year B.P.E.S. / B.P.E.; 4-year B.P.Ed after Class 12 at some institutes; the 2-year B.P.Ed comes after a degree"
+          },
+          {
+            "label": "B.P.Ed enrolment",
+            "value": "~56,000",
+            "note": "Includes the 2-year post-degree B.P.Ed",
+            "source": "AISHE 2023-24, all modes (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.P.E. / B.P.E.S. enrolment",
+            "value": "~23,000 / ~1,300",
+            "source": "AISHE 2023-24, all modes (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Regulator for teacher-training versions",
+            "value": "NCTE",
+            "note": "B.P.Ed and M.P.Ed need NCTE recognition"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 pass, usually with a minimum aggregate. Most institutes add a physical fitness test and a sports skill test to a written test; some central institutes use CUET-UG for the written part. Sports achievements often count in the merit list, and some institutes set an upper age limit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Teaching physical education in schools usually needs the B.P.Ed, not only a B.P.E.S.",
+          "Coaching jobs depend heavily on your own sport and coaching certifications.",
+          "Fitness and sports-business jobs are mostly private and vary in pay and stability.",
+          "Check NCTE recognition before joining any B.P.Ed or M.P.Ed course."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bpes.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bpes.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bpes.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Physical Education Teacher",
+            "href": "/roles/physical-education-teacher"
+          },
+          {
+            "label": "Sports Coach",
+            "href": "/roles/sports-coach"
+          },
+          {
+            "label": "Fitness Trainer",
+            "href": "/roles/fitness-trainer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

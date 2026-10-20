@@ -1,0 +1,98 @@
+{
+  "title": "Agniveer (Agnipath scheme)",
+  "kicker": "Defence entry after 12th",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Under the Agnipath scheme, launched in 2022, the Army, Navy and Air Force recruit soldiers, sailors and airmen below officer rank as Agniveers for a fixed four-year term, including training. At the end of each batch's term, up to a quarter can be selected for regular service; the rest leave with a lump-sum Seva Nidhi package. It is the main route into the ranks of the armed forces after Class 10 or 12."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Term",
+            "value": "4 years",
+            "note": "Includes training"
+          },
+          {
+            "label": "Retention",
+            "value": "Up to 25% of each batch",
+            "note": "Selected on merit for regular service"
+          },
+          {
+            "label": "Age at entry",
+            "value": "17.5–21 years",
+            "note": "As set at launch; check each notification"
+          },
+          {
+            "label": "Seva Nidhi at exit",
+            "value": "~₹10.04 lakh plus interest",
+            "note": "Tax-free; about half is the Agniveer's own contribution",
+            "source": "Ministry of Defence, scheme launch (as reported)",
+            "date": "2022-06",
+            "verified": false
+          },
+          {
+            "label": "Ex-Agniveer quota, BSF constable posts",
+            "value": "50%",
+            "note": "Raised from 10%",
+            "source": "MHA gazette notification (as reported)",
+            "date": "2025-12",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Each service runs its own process. Army: an online Common Entrance Exam, then a recruitment rally with physical fitness and measurement tests and a medical; categories include General Duty (Class 10), Technical (Class 12 with Physics, Chemistry and Maths) and Clerk / Store Keeper (Class 12). Air Force (Agniveervayu): Class 12 with Maths, Physics and English for science subjects, or other streams for non-science posts; an online test, physical fitness and adaptability tests, and a medical. Navy: Agniveer SSR needs Class 12 with Maths and Physics; selection is an online test, a physical fitness test and a medical."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most Agniveers leave after four years, so it helps to plan the next step — a degree, CAPF or police recruitment, or a skilled job.",
+          "Physical and medical standards are strict and differ by service and category.",
+          "Notifications, eligibility and age limits change by year; read each one in full.",
+          "Officer entry is a separate route (for example NDA after Class 12)."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "SSC exams",
+            "href": "/explore/government-competitive.ssc"
+          },
+          {
+            "label": "Vocational & skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

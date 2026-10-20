@@ -1,0 +1,75 @@
+{
+  "title": "Aviation PSUs (HAL, AIESL, Pawan Hans)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Several government-owned companies maintain aircraft. Hindustan Aeronautics Ltd (HAL) builds and overhauls military aircraft and helicopters; AI Engineering Services Ltd (AIESL), which stayed with the Government after Air India's sale, maintains airliners; and Pawan Hans operates helicopters. They recruit technicians and aircraft maintenance engineers through their own notices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Employer type",
+            "value": "Central public sector undertakings"
+          },
+          {
+            "label": "Recruitment",
+            "value": "Each company's own notices",
+            "note": "Many technician posts are fixed-term contracts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Eligibility is set post by post: some posts accept an AME course or diploma, others need a DGCA licence with a type endorsement and experience. Selection is usually a written test and/or interview, then document checks and a medical."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are irregular and sometimes limited to particular bases or cities.",
+          "Contract posts may or may not lead to permanent positions.",
+          "HAL's work is mainly defence aircraft; AIESL's and Pawan Hans' is civil."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Aircraft Maintenance Engineer",
+            "href": "/roles/aircraft-maintenance-engineer"
+          },
+          {
+            "label": "Avionics Technician",
+            "href": "/roles/avionics-technician"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

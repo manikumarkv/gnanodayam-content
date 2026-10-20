@@ -1,0 +1,84 @@
+{
+  "title": "Police & CAPF (Constable / SI)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Police is a state subject, so each state's police recruitment board hires its own constables and sub-inspectors (SIs). The Central Armed Police Forces (CAPFs) — BSF, CRPF, CISF, ITBP and SSB — along with Assam Rifles recruit constables mainly through the Staff Selection Commission (SSC) GD exam. SSC also runs Delhi Police constable recruitment, and SI posts in Delhi Police and the CAPFs through SSC CPO."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Entry level after Class 12",
+            "value": "Constable",
+            "note": "Sub-Inspector posts usually need a graduate degree"
+          },
+          {
+            "label": "SSC GD Constable 2025 — vacancies",
+            "value": "53,690",
+            "note": "CAPFs, SSF, Assam Rifles and NCB",
+            "source": "SSC revised notice (as reported)",
+            "date": "2025-04",
+            "verified": false
+          },
+          {
+            "label": "UP Police constable drive — posts",
+            "value": "60,244",
+            "note": "About 48 lakh candidates applied",
+            "source": "UP Police Recruitment and Promotion Board (as reported)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "For constable posts, the minimum is Class 10 for SSC GD and Class 12 for many state police forces and Delhi Police. Selection is a written or computer-based test, a physical standards test (height, chest), a physical efficiency test (running and other events), a medical and document verification. Age limits are usually in the late teens to mid-twenties, with category relaxations. SI exams (SSC CPO and state SI exams) open after graduation."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Applications run into lakhs for each drive, so competition per post is high.",
+          "CAPF postings can be in border, remote or conflict areas, with transfers across India.",
+          "State police exams have their own domicile, language and physical rules.",
+          "Ex-Agniveers have a reserved share of CAPF constable posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "SSC exams",
+            "href": "/explore/government-competitive.ssc"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

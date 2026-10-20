@@ -1,0 +1,105 @@
+{
+  "title": "Cabin Crew / Flight Attendant",
+  "kicker": "Vocational / Skilling · Aviation service",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Cabin crew are responsible for passenger safety on board — evacuation drills, first aid, security checks — as well as in-flight service. Airlines hire them directly and run their own initial training under DGCA rules. Private academies offer preparation courses, but an academy certificate is not a requirement to be hired."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Minimum qualification",
+            "value": "Class 12 pass",
+            "note": "Some airlines ask for a degree or hotel-management qualification"
+          },
+          {
+            "label": "Airline training",
+            "value": "Initial safety and service training by the airline",
+            "note": "Followed by recurrent training through the career"
+          },
+          {
+            "label": "Domestic air passengers",
+            "value": "~16.1 crore",
+            "note": "A rough sense of the industry's scale",
+            "source": "DGCA domestic traffic data (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Airlines advertise cabin crew openings and hold walk-in or online selection rounds: grooming and communication assessment, group discussion or interview, and a medical check. Each airline sets its own age, height, vision and swimming requirements and asks for a valid passport. Private academy courses are optional preparation."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work includes early, late and overnight duties, time away from home, and standing for long hours.",
+          "Hiring rises and falls with airline expansion; openings can come in bursts.",
+          "Common next steps are senior crew, cabin supervisor, trainer, or ground roles in airports and hospitality.",
+          "Academy fees vary widely; airlines do not require a particular academy."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/vocational-skilling.cabin-crew.job"
+          },
+          {
+            "label": "Further Study",
+            "href": "/explore/vocational-skilling.cabin-crew.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/vocational-skilling.cabin-crew.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Cabin Crew (Flight Attendant)",
+            "href": "/roles/flight-attendant"
+          },
+          {
+            "label": "Airport Customer Service Agent",
+            "href": "/roles/airport-customer-service-agent"
+          },
+          {
+            "label": "Front Office Executive",
+            "href": "/roles/front-office-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

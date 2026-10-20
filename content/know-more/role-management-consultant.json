@@ -1,0 +1,79 @@
+{
+  "title": "Management Consultant",
+  "kicker": "Role · Business & strategy",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A management consultant works on a client's business problem for a few weeks or months: entering a market, cutting costs, reorganising a team or planning a government programme. Employers include consulting firms, the advisory arms of accounting firms, and in-house strategy teams. A day usually involves research, data analysis, building slides and client meetings."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "MBA or IPM, or a strong undergraduate degree for analyst roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, PowerPoint, survey and data tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers enter through campus placements at management institutes as associates or analysts. Undergraduates join as business analysts and move up, often after an MBA. Selection usually involves case interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Structured problem solving",
+          "Excel modelling and data analysis",
+          "Slide writing and presentation",
+          "Market and industry research",
+          "Working with client teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Hours are often long and travel can be frequent.",
+          "Entry is competitive and concentrated in campus hiring.",
+          "Next roles: consultant, engagement manager, or a move to corporate strategy."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "IPM (Integrated Management)",
+            "href": "/explore/ipm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

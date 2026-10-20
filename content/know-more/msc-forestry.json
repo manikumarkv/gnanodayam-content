@@ -1,0 +1,79 @@
+{
+  "title": "M.Sc Forestry",
+  "kicker": "Postgraduate forestry degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in one area of forestry, such as silviculture and agroforestry, tree improvement, forest products and utilisation, wildlife science or natural resource management. It combines coursework with a research thesis and leads to research, teaching, consultancy and scientist roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Coursework plus a research thesis"
+          },
+          {
+            "label": "Postgraduate students in forestry",
+            "value": "~1,300",
+            "note": "All master's-level programmes in the forestry discipline, from institutions that reported",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc Forestry (some programmes also accept agriculture or life-science graduates). Admission is through ICAR's all-India PG entrance (AICE-JRF/SRF) for agricultural universities, or a university or institute's own entrance test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A master's is required for the ICAR scientist exam (ARS) and is usual for research posts.",
+          "Forestry research institutes and environmental consultancies hire for project and research roles.",
+          "Many graduates go on to a PhD with a fellowship."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Environmental Consultant",
+            "href": "/roles/environmental-consultant"
+          },
+          {
+            "label": "All higher-education paths",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

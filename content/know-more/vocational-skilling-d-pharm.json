@@ -1,0 +1,107 @@
+{
+  "title": "D.Pharm",
+  "kicker": "Pharmacy diploma · After Class 12",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year Diploma in Pharmacy that trains you to dispense medicines and run a pharmacy. It covers pharmaceutics, pharmacology, pharmaceutical chemistry, and hospital and community pharmacy, followed by practical training. It is the minimum qualification to register as a pharmacist under the Pharmacy Act, 1948, and is regulated by the Pharmacy Council of India (PCI)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Plus practical training in a hospital or pharmacy (PCI Education Regulations, 2020)"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~2.6 lakh",
+            "note": "All modes; about two-thirds are men",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Pass-outs in a year",
+            "value": "~85,000",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics and Chemistry plus Biology or Mathematics, at a PCI-approved institution. Admission is through state counselling or entrance tests, or on Class 12 merit, depending on the state. After passing, you register with the State Pharmacy Council to work as a pharmacist."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "PCI's Diploma in Pharmacy Exit Examination Regulations, 2022 link registration to an exit exam, but the exam has been repeatedly deferred; check the current rule with your State Pharmacy Council.",
+          "Some government pharmacist notices now ask for a B.Pharm or Pharm.D, so eligibility differs post by post.",
+          "Every retail chemist shop needs a registered pharmacist, so D.Pharm holders can be hired by one or open their own.",
+          "Lateral entry to the second year of B.Pharm is a common next step."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/vocational-skilling.d-pharm.job"
+          },
+          {
+            "label": "Further Study",
+            "href": "/explore/vocational-skilling.d-pharm.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/vocational-skilling.d-pharm.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Pharmacist",
+            "href": "/roles/pharmacist"
+          },
+          {
+            "label": "Pharmacy Owner (Retail Chemist)",
+            "href": "/roles/retail-pharmacy-owner"
+          },
+          {
+            "label": "Medical Representative",
+            "href": "/roles/medical-representative"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

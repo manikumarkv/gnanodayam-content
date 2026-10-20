@@ -1,0 +1,120 @@
+{
+  "title": "BPA / B.Music",
+  "kicker": "Undergraduate performing arts degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A degree in performance: vocal or instrumental music, a dance form such as Kathak or Bharatanatyam, or theatre. The Bachelor of Performing Arts (BPA) and Bachelor of Music (B.Mus.) mix daily practice and performance with music or dance theory, history and appreciation. It leads to performing, teaching, music production and further study in the arts."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3–4 years",
+            "note": "Usually 3 years; some universities offer a 4-year honours version"
+          },
+          {
+            "label": "Students enrolled (B.P.A.)",
+            "value": "~9,600",
+            "note": "All modes of study",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled (B.Mus.)",
+            "value": "~1,700",
+            "note": "All modes of study",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Graduates in a year (B.P.A. + B.Mus.)",
+            "value": "~1,900",
+            "note": "Out-turn from institutions that reported",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Universities admit through their own entrance or aptitude test, CUET-UG at central universities, or Class 12 merit. Many programmes add a practical test or audition in your chosen art form, and some expect prior training in it."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "You usually pick one main area — vocal, an instrument, a dance form or theatre — and train in it for the whole course.",
+          "Performance income is often irregular; many graduates combine performing with teaching or studio work.",
+          "College teaching posts usually need a master's plus UGC-NET or a PhD.",
+          "School music and dance posts exist, but eligibility rules differ between KVS, NVS and each state."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/bpa.job"
+          },
+          {
+            "label": "Further Study",
+            "href": "/explore/bpa.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bpa.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Performing Artist",
+            "href": "/roles/performing-artist"
+          },
+          {
+            "label": "Music Teacher",
+            "href": "/roles/music-teacher"
+          },
+          {
+            "label": "Dance Teacher",
+            "href": "/roles/dance-teacher"
+          },
+          {
+            "label": "Music Producer",
+            "href": "/roles/music-producer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "M.F.Sc (Master of Fisheries Science)",
+  "kicker": "Postgraduate fisheries degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in one area of fisheries science, such as aquaculture, fish processing technology, fisheries resource management, aquatic animal health, fish nutrition, fish genetics or fisheries extension. It combines coursework with a research thesis, and leads to research, technical and scientist roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Coursework plus a research thesis"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~1,600",
+            "note": "All modes of study",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.F.Sc (some specialisations also accept related science graduates). Admission is through ICAR's all-India PG entrance (AICE-JRF/SRF), which also awards fellowships, or the university's own entrance test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Offered by state fisheries, veterinary and agricultural universities and ICAR's deemed university for fisheries.",
+          "A master's is required for the ICAR scientist exam (ARS) and is usual for research posts.",
+          "Many graduates go on to a PhD with an ICAR or university fellowship."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Aquaculture Technician",
+            "href": "/roles/aquaculture-technician"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "All higher-education paths",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
