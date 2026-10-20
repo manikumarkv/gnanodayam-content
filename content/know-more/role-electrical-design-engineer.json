@@ -27,6 +27,14 @@
             "label": "Codes used",
             "value": "National Electrical Code, National Building Code and relevant IS standards",
             "note": "Published by BIS"
+          },
+          {
+            "label": "Installed power generation capacity",
+            "value": "~475 GW",
+            "note": "Utility capacity at the end of March 2025, of which coal was about 222 GW",
+            "source": "Central Electricity Authority data, as reported (IEEFA, PIB)",
+            "date": "2025-03",
+            "verified": false
           }
         ]
       }

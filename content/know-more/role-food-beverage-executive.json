@@ -25,6 +25,14 @@
           {
             "label": "Common starting titles",
             "value": "F&B associate, steward, captain"
+          },
+          {
+            "label": "BHM students",
+            "value": "~43,000",
+            "note": "Bachelor of Hotel Management only; B.H.M.C.T. and B.Sc. Hospitality are listed separately",
+            "source": "AISHE (Ministry of Education) 2023-24, programme-wise enrolment",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -58,6 +66,29 @@
           "Common next steps: F&B supervisor, outlet manager, banquet manager.",
           "Experience abroad (cruise lines, Gulf hotels) is a common route for some."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Bachelor of Hotel Management (BHM) enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "BHM students",
+                "values": [54588, 51692, 42975]
+              }
+            ]
+          }
+        },
+        "note": "Counts only the B.H.M. programme name. Pool of hospitality graduates, not F&B jobs.",
+        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment table — B.H.M., all modes",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

@@ -25,6 +25,14 @@
           {
             "label": "Certifications",
             "value": "Entry-level security certifications are widely asked for"
+          },
+          {
+            "label": "Cyber security incidents handled by CERT-In",
+            "value": "~20.4 lakh",
+            "note": "Incidents tracked and handled in the calendar year",
+            "source": "Ministry of Electronics & IT, reply in Rajya Sabha (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }
@@ -59,6 +67,29 @@
           "Next roles: L2/L3 analyst, incident responder, penetration tester, security engineer.",
           "Continuous learning is needed as threats change."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Cyber security incidents handled by CERT-In",
+        "unit": "incidents (lakh)",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2020", "2021", "2022", "2023", "2024"],
+            "series": [
+              {
+                "label": "Incidents",
+                "values": [11.58, 14.03, 13.91, 15.93, 20.41]
+              }
+            ]
+          }
+        },
+        "note": "Counts incidents reported to and handled by CERT-In, not job openings. A CERT-In annual report figure for 2024 cited elsewhere (~16 lakh) differs from the parliamentary figure.",
+        "source": "MeitY reply in Rajya Sabha, Feb 2025 (as reported)",
+        "date": "2020-2024",
+        "verified": false
       }
     },
     {

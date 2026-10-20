@@ -22,6 +22,14 @@
           {
             "label": "Where the work is",
             "value": "Private pre-schools, play schools and school pre-primary sections"
+          },
+          {
+            "label": "Anganwadi centres",
+            "value": "~14 lakh",
+            "note": "Operational centres; they also provide pre-school education for children aged 3–6",
+            "source": "Poshan Tracker, Ministry of Women and Child Development (as reported)",
+            "date": "2024-12",
+            "verified": false
           }
         ]
       }

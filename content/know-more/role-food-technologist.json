@@ -21,6 +21,22 @@
           {
             "label": "Rules you work with",
             "value": "FSSAI food standards and labelling regulations"
+          },
+          {
+            "label": "UG students in Food Technology",
+            "value": "~18,500",
+            "note": "Engineering-stream (B.Tech-level) count; B.Sc programmes may be reported elsewhere. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 12, UG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Food Technology",
+            "value": "~2,700",
+            "note": "~1,465 under engineering plus ~1,223 under home science; all years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

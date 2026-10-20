@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Python, R, C++, SQL, Excel"
+          },
+          {
+            "label": "BFSI-focused global capability centres",
+            "value": "~190",
+            "note": "Employing ~5.4 lakh people across all roles; quant teams are a small part",
+            "source": "Industry estimate (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

@@ -25,6 +25,21 @@
           {
             "label": "Common starting titles",
             "value": "Housekeeping associate, floor supervisor, desk executive"
+          },
+          {
+            "label": "BHM students enrolled",
+            "value": "~43,000",
+            "note": "All years, all modes; related degrees such as BHMCT are counted separately",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "BHM pass-outs a year",
+            "value": "~10,600",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

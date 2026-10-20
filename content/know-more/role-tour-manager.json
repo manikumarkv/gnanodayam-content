@@ -26,6 +26,22 @@
           {
             "label": "Related role",
             "value": "Licensed tourist guide (licensed separately by government)"
+          },
+          {
+            "label": "Indian nationals' departures abroad",
+            "value": "~3.3 crore",
+            "note": "Up ~6% on 2024; counts trips, not people, and includes non-tourism travel",
+            "source": "Ministry of Tourism, Annual Tourism Snapshot 2025",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Foreign tourist arrivals",
+            "value": "~91.5 lakh",
+            "note": "Down ~8% on 2024 (~96.6 lakh)",
+            "source": "Ministry of Tourism, Annual Tourism Snapshot 2025",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

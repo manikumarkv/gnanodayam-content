@@ -26,6 +26,30 @@
             "label": "Rules that apply",
             "value": "Drone Rules, 2021 (DGCA)",
             "note": "Cover drone certification, registration and remote pilot certificates"
+          },
+          {
+            "label": "Registered drones (UINs issued)",
+            "value": "~29,500",
+            "note": "Issued on the Digital Sky platform",
+            "source": "Ministry of Civil Aviation, Rajya Sabha reply (as reported)",
+            "date": "29 Jan 2025",
+            "verified": false
+          },
+          {
+            "label": "Remote Pilot Certificates issued",
+            "value": "~22,500",
+            "note": "Up from ~16,000 reported in July 2024",
+            "source": "Ministry of Civil Aviation, Rajya Sabha reply (as reported)",
+            "date": "Jan 2025",
+            "verified": false
+          },
+          {
+            "label": "Drone models with DGCA type certificates",
+            "value": "96",
+            "note": "65 of them agriculture drones",
+            "source": "Ministry of Civil Aviation, Rajya Sabha reply (as reported)",
+            "date": "Jan 2025",
+            "verified": false
           }
         ]
       }

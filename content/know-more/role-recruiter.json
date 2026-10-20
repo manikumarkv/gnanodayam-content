@@ -25,6 +25,14 @@
           {
             "label": "Common starting titles",
             "value": "Talent acquisition executive, HR recruiter, sourcing associate"
+          },
+          {
+            "label": "Formal flexi staff at ISF member firms",
+            "value": "~18 lakh",
+            "note": "Covers only members of the federation, not all staffing work in India",
+            "source": "Indian Staffing Federation (as reported)",
+            "date": "2025-03",
+            "verified": false
           }
         ]
       }

@@ -28,6 +28,21 @@
             "label": "Core skills",
             "value": "Writing, short video, platform analytics, basic design",
             "note": "Tools change often"
+          },
+          {
+            "label": "Journalism & mass communication UG students",
+            "value": "~31,000",
+            "note": "Undergraduate enrolment in this subject; many people in digital content come from other degrees",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Journalism & mass communication UG pass-outs",
+            "value": "~8,800 a year",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

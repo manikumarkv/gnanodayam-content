@@ -25,6 +25,14 @@
           {
             "label": "Work pattern",
             "value": "Workshop or project-site based"
+          },
+          {
+            "label": "Crude steel production",
+            "value": "~152 million tonnes",
+            "note": "Up ~5% over 2023-24",
+            "source": "Ministry of Steel, Annual Report 2025-26",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }
@@ -59,6 +67,29 @@
           "Common next roles: senior welding engineer, QA/QC lead, third-party inspector.",
           "Many international projects use the same codes, so the skills travel across countries."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "India's crude steel production",
+        "unit": "million tonnes",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2022-23", "2023-24", "2024-25"],
+            "series": [
+              {
+                "label": "Crude steel",
+                "values": [127.2, 144.3, 152.2]
+              }
+            ]
+          }
+        },
+        "note": "Steel output is one indicator of fabrication and welding activity; it is not a count of welding jobs.",
+        "source": "Ministry of Steel Annual Reports 2024-25 and 2025-26",
+        "date": "2022-23 to 2024-25",
+        "verified": false
       }
     },
     {

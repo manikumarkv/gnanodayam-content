@@ -21,6 +21,30 @@
           {
             "label": "Common tools",
             "value": "GIS software, field instruments, water-quality test kits"
+          },
+          {
+            "label": "Annual extractable groundwater",
+            "value": "~406 bcm",
+            "note": "Billion cubic metres",
+            "source": "CGWB Dynamic Ground Water Resource Assessment 2024 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Stage of groundwater extraction",
+            "value": "~60.5%",
+            "note": "Extraction as a share of extractable resource; ~59.2% in 2023",
+            "source": "CGWB Dynamic Ground Water Resource Assessment 2024 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Over-exploited assessment units",
+            "value": "~11%",
+            "note": "Units where extraction exceeds recharge",
+            "source": "CGWB Dynamic Ground Water Resource Assessment 2024 (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

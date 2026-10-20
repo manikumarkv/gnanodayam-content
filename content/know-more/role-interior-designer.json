@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "AutoCAD, SketchUp, rendering software, material samples"
+          },
+          {
+            "label": "UG students in Design",
+            "value": "~58,600",
+            "note": "All design fields, not only interiors. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 12, UG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Interior Design",
+            "value": "~840",
+            "note": "All years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,29 @@
           "Own practice usually follows several years of site and client experience.",
           "Next steps: senior or project designer, design lead, or own studio."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG students in Design",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "UG Design enrolment",
+                "values": [45313, 50622, 58552]
+              }
+            ]
+          }
+        },
+        "note": "All design fields, of which interior design is one; all years of the course. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 12, UG enrolment by subject)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

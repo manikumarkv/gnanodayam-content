@@ -25,6 +25,21 @@
           {
             "label": "Common tools",
             "value": "Word processors with track changes, contract templates, legal research databases"
+          },
+          {
+            "label": "Students enrolled in LL.B",
+            "value": "~5.1 lakh",
+            "note": "Programmes recorded as LL.B; integrated programmes (B.A. LL.B etc.) are listed separately",
+            "source": "AISHE 2023-24, Ministry of Education (Table 11, all modes)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled in LL.M",
+            "value": "~48,000",
+            "source": "AISHE 2023-24, Ministry of Education (Table 11, all modes)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

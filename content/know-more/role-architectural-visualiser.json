@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "SketchUp, 3ds Max, real-time rendering engines, Photoshop"
+          },
+          {
+            "label": "Students in B.Arch (all years)",
+            "value": "~64,600",
+            "note": "Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students in B.Des (all years)",
+            "value": "~56,700",
+            "note": "Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,29 @@
           "Freelance work is common once a portfolio is established.",
           "Next steps: senior visualiser, visualisation lead, or real-time / VR work."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in B.Arch",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Arch enrolment",
+                "values": [73125, 70764, 64596]
+              }
+            ]
+          }
+        },
+        "note": "All years of the course, all modes. Not all B.Arch students go into visualisation. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 11, programme-wise enrolment)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

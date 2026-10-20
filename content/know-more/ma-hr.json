@@ -23,6 +23,22 @@
             "label": "Usual comparison",
             "value": "MBA / PGDM with HR specialisation",
             "note": "Broader management curriculum; admissions via CAT, MAT, XAT and similar"
+          },
+          {
+            "label": "PG students in Human Resource Management",
+            "value": "~2,800",
+            "note": "Listed under Management; MBA-HR students are often reported under Business Administration instead. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students in M.H.R.D. (Master of HR Development)",
+            "value": "~2,300",
+            "note": "One related programme title; all years, all modes. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

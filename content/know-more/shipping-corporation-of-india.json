@@ -23,6 +23,22 @@
             "label": "Licence needed",
             "value": "DG Shipping Certificate of Competency",
             "note": "For officer ranks, matched to the rank"
+          },
+          {
+            "label": "Ships owned by SCI",
+            "value": "63 (~2.97 million GT)",
+            "note": "54 in overseas trade, 9 in coastal trade",
+            "source": "Indian Shipping Statistics 2024, M/o Ports, Shipping & Waterways (D.G. Shipping data)",
+            "date": "Dec 2024",
+            "verified": false
+          },
+          {
+            "label": "Oil tankers in SCI fleet",
+            "value": "31 of 63",
+            "note": "Includes acid, gas and LPG carriers; dry bulk carriers are the next largest group (14)",
+            "source": "Indian Shipping Statistics 2024, M/o Ports, Shipping & Waterways",
+            "date": "Dec 2024",
+            "verified": false
           }
         ]
       }
@@ -44,6 +60,29 @@
           "Pay, contract length and leave differ from private and foreign-flag companies, so comparing the actual offer terms is part of the decision.",
           "Openings depend on the size of SCI's fleet, which changes as ships are bought and sold."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Ships owned by SCI",
+        "unit": "ships",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2020", "2021", "2022", "2023", "2024"],
+            "series": [
+              {
+                "label": "Vessels owned (as on 31 Dec)",
+                "values": [66, 66, 66, 64, 63]
+              }
+            ]
+          }
+        },
+        "note": "Owned fleet only, coastal plus overseas; chartered ships are not included. Fleet size says little directly about hiring, which also depends on crewing contracts.",
+        "source": "Indian Shipping Statistics 2024 (Table 4.1), M/o Ports, Shipping & Waterways",
+        "date": "2020–2024",
+        "verified": false
       }
     },
     {

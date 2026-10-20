@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "STAAD.Pro, ETABS, AutoCAD, Indian Standard codes (IS 456, IS 800, IS 1893)"
+          },
+          {
+            "label": "GATE Civil Engineering paper",
+            "value": "~1.02 lakh registered; ~80,000 appeared",
+            "note": "The usual route to an M.Tech in structural engineering",
+            "source": "GATE 2025 statistics (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

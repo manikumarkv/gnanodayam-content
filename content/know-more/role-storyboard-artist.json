@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Studio staff roles and project-based freelance work"
+          },
+          {
+            "label": "People working in AVGC (animation, VFX, gaming, comics)",
+            "value": "~2.6 lakh",
+            "note": "Covers the whole sector; storyboard artists are a small part of it",
+            "source": "AVGC-XR Promotion Task Force / IICT (as reported)",
+            "date": "2022-2024",
+            "verified": false
+          },
+          {
+            "label": "Animation & VFX revenue change",
+            "value": "~9% fall",
+            "note": "Linked to the Hollywood strikes and less outsourced work; the 2026 report noted ~2% growth in 2025",
+            "source": "FICCI-EY Media & Entertainment report 2025",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

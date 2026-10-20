@@ -22,6 +22,21 @@
             "label": "Recruitment",
             "value": "Each company's own notices",
             "note": "Many technician posts are fixed-term contracts"
+          },
+          {
+            "label": "HAL regular employees",
+            "value": "~23,800",
+            "note": "As on 31 March 2024: ~7,500 executives and ~16,300 non-executives; HAL only, not AIESL or Pawan Hans",
+            "source": "HAL BRSR 2023-24; PESB (as reported)",
+            "date": "2024-03",
+            "verified": false
+          },
+          {
+            "label": "HAL employees, a year later",
+            "value": "~24,000",
+            "source": "HAL BRSR 2024-25 (as reported)",
+            "date": "2025-03",
+            "verified": false
           }
         ]
       }

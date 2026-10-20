@@ -25,6 +25,14 @@
           {
             "label": "Common starting titles",
             "value": "Lab dip executive, colour matching trainee, dyeing lab assistant"
+          },
+          {
+            "label": "Textile sector direct employment",
+            "value": "45 million+",
+            "note": "Whole textile and apparel sector; an estimate, not tracked year by year",
+            "source": "Ministry of Textiles Annual Report 2023-24",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

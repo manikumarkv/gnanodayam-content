@@ -26,6 +26,14 @@
             "label": "Work pattern",
             "value": "Regular travel within an assigned territory",
             "note": "Two-wheeler and driving licence are often asked for"
+          },
+          {
+            "label": "Electronics production in India",
+            "value": "~₹11.3 lakh crore",
+            "note": "Estimate for 2024-25, up from about ₹5.5 lakh crore in 2020-21; mobile phones are about half",
+            "source": "Government of India release, as reported",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

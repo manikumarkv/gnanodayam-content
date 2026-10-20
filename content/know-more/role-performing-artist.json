@@ -21,6 +21,30 @@
           {
             "label": "Work pattern",
             "value": "Mostly freelance or project-based; some posts in ensembles and broadcasters"
+          },
+          {
+            "label": "Students in BPA (Bachelor of Performing Arts)",
+            "value": "~9,600",
+            "note": "Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students in B.Mus (Bachelor of Music)",
+            "value": "~1,700",
+            "note": "Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students in MPA (Master of Performing Arts)",
+            "value": "~3,000",
+            "note": "Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +78,29 @@
           "Many artists combine performing with teaching or studio work.",
           "Graded artist status with broadcasters and cultural scholarships can bring steady opportunities."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in BPA",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "BPA enrolment",
+                "values": [6237, 6534, 9570]
+              }
+            ]
+          }
+        },
+        "note": "All years, all modes. Much performing-arts training happens outside degrees, under a guru or in academies. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 11, programme-wise enrolment)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

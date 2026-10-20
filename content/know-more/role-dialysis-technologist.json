@@ -25,6 +25,22 @@
           {
             "label": "Regulation",
             "value": "Allied health professions fall under the NCAHP Act, 2021"
+          },
+          {
+            "label": "Free dialysis centres under PMNDP",
+            "value": "~1,670",
+            "note": "~11,800 haemodialysis machines across ~750 districts",
+            "source": "PIB, New India Samachar (Sep 2025)",
+            "date": "As on 3 Jun 2025",
+            "verified": false
+          },
+          {
+            "label": "Patients served under PMNDP",
+            "value": "~28 lakh",
+            "note": "~3.4 crore dialysis sessions in total since launch",
+            "source": "PIB, New India Samachar (Sep 2025)",
+            "date": "Cumulative to 3 Jun 2025",
+            "verified": false
           }
         ]
       }

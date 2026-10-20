@@ -25,6 +25,21 @@
           {
             "label": "Work pattern",
             "value": "Site office at the mine, or a corporate planning office"
+          },
+          {
+            "label": "UG enrolment, Mining Engineering",
+            "value": "~11,300",
+            "note": "About 10% women",
+            "source": "AISHE 2023-24, Ministry of Education (UG enrolment by discipline)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG pass-outs, Mining Engineering",
+            "value": "~2,500",
+            "source": "AISHE 2023-24, Ministry of Education (UG out-turn by discipline)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +74,29 @@
           "Common next roles: senior planner, planning head, mining consultant.",
           "Mining plans and their approvals are regulated, so documentation is a large part of the work."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in Mining Engineering",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [10030, 9963, 11349]
+              }
+            ]
+          }
+        },
+        "note": "Counts only institutions that responded to AISHE; includes all years of study.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (UG enrolment by discipline, based on actual responses)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

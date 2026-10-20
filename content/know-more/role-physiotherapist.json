@@ -27,6 +27,21 @@
           {
             "label": "Work settings",
             "value": "Wards, ICUs, outpatient rehab, clinics and home visits"
+          },
+          {
+            "label": "BPT students enrolled",
+            "value": "~1.16 lakh",
+            "note": "All modes; about 63% are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "MPT students enrolled",
+            "value": "~11,400",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -61,6 +76,29 @@
           "Many experienced physiotherapists open a clinic or offer home visits.",
           "Income in private practice depends on patient numbers and location."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BPT enrolment by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [92586, 104297, 116439]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

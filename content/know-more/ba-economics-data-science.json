@@ -21,6 +21,30 @@
           {
             "label": "Typical first roles",
             "value": "Data analyst, business analyst, research analyst"
+          },
+          {
+            "label": "PG students in Economics",
+            "value": "~1.19 lakh",
+            "note": "All years of MA / M.Sc Economics. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Statistics",
+            "value": "~11,800",
+            "note": "Listed under Science; all years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG students in Data Science (engineering)",
+            "value": "~17,900",
+            "note": "B.Tech-level Data Science only; a separate 'AI & Data Science' branch had ~51,600. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 12, UG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -43,6 +67,29 @@
           "Economics knowledge is useful in analytics for policy, finance, market research and consulting.",
           "Gaps in linear algebra, calculus and probability are the usual hurdle."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in Economics",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG Economics enrolment",
+                "values": [122884, 129184, 119131]
+              }
+            ]
+          }
+        },
+        "note": "All years of the course. Not all of these students move into data work. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 13, PG enrolment by subject)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

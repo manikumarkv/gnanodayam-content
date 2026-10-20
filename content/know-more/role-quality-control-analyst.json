@@ -21,6 +21,21 @@
           {
             "label": "Common standards",
             "value": "BIS, ISO 9001, ISO/IEC 17025 for labs"
+          },
+          {
+            "label": "BIS product certification licences",
+            "value": "~51,500",
+            "note": "~9,700 new licences were granted in 2025",
+            "source": "Bureau of Indian Standards year-end statement (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Indian Standards in force",
+            "value": "~23,300",
+            "source": "Bureau of Indian Standards year-end statement (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

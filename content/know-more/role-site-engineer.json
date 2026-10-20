@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "AutoCAD, MS Excel, total station / levelling instrument, project schedules"
+          },
+          {
+            "label": "Civil engineering UG students",
+            "value": "~3.2 lakh",
+            "note": "About 89,000 pass out each year",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "National highways built",
+            "value": "~10,660 km",
+            "note": "About 12,350 km in 2023-24",
+            "source": "Ministry of Road Transport and Highways (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }
@@ -55,6 +71,29 @@
           "Common next steps: project engineer, project manager, planning or quantity surveying roles.",
           "Some graduates later take GATE for PSU or M.Tech routes."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "National highway construction",
+        "unit": "km",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2022-23", "2023-24", "2024-25"],
+            "series": [
+              {
+                "label": "Km built",
+                "values": [10331, 12349, 10660]
+              }
+            ]
+          }
+        },
+        "note": "National highways only; state roads, buildings and private projects employ many more site engineers.",
+        "source": "Ministry of Road Transport and Highways (as reported)",
+        "date": "2022-25",
+        "verified": false
       }
     },
     {

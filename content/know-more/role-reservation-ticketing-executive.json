@@ -26,6 +26,30 @@
           {
             "label": "Work pattern",
             "value": "Office or call-centre shifts; travel desks may run 24x7"
+          },
+          {
+            "label": "Indian nationals' departures abroad",
+            "value": "~3.3 crore",
+            "note": "Up ~6% on 2024",
+            "source": "Ministry of Tourism, Annual Tourism Snapshot 2025",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Foreign tourist arrivals",
+            "value": "~91.5 lakh",
+            "note": "Down ~8% on 2024",
+            "source": "Ministry of Tourism, Annual Tourism Snapshot 2025",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Domestic air passengers",
+            "value": "~16.1 crore",
+            "note": "Calendar year",
+            "source": "DGCA annual domestic traffic data (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

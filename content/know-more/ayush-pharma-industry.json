@@ -28,6 +28,14 @@
             "label": "Licensing",
             "value": "State drug licensing authorities",
             "note": "Under the Ministry of Ayush framework; drug standards set by the Pharmacopoeia Commission for Indian Medicine & Homoeopathy"
+          },
+          {
+            "label": "Licensed Ayush manufacturing units",
+            "value": "~8,400",
+            "note": "Ayurveda, Siddha, Unani and Homoeopathy units together; a 2017 reply gave ~8,700",
+            "source": "Ministry of Ayush reply in Lok Sabha (as reported)",
+            "date": "Data as on 1 April 2019; reply Dec 2021",
+            "verified": false
           }
         ]
       }
@@ -50,6 +58,40 @@
           "Regulatory and quality roles reward familiarity with pharmacopoeial standards and GMP documentation.",
           "Some graduates combine industry work with part-time practice; check employer rules first."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Licensed Ayush manufacturing units by system",
+        "unit": "units",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Ayurveda",
+                "value": 7345
+              },
+              {
+                "label": "Unani",
+                "value": 566
+              },
+              {
+                "label": "Homoeopathy",
+                "value": 345
+              },
+              {
+                "label": "Siddha",
+                "value": 151
+              }
+            ]
+          }
+        },
+        "note": "Counts licensed manufacturing units, not companies or jobs; the figure is several years old.",
+        "source": "Ministry of Ayush reply in Lok Sabha (as reported)",
+        "date": "Data as on 1 April 2019",
+        "verified": false
       }
     },
     {

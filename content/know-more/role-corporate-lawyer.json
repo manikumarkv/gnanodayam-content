@@ -25,6 +25,22 @@
           {
             "label": "Common tools",
             "value": "Word processors, virtual data rooms, legal research databases"
+          },
+          {
+            "label": "Enrolled advocates",
+            "value": "~20 lakh",
+            "note": "On State Bar Council rolls; includes inactive members still listed. Corporate lawyers are a small share",
+            "source": "Ministry of Law and Justice, Rajya Sabha reply (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "LL.B. students (regular mode)",
+            "value": "~5.1 lakh",
+            "note": "3-year LL.B. only; integrated 5-year degrees are counted separately",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,35 @@
           "Experience here often leads to in-house legal roles later.",
           "Hiring is concentrated in large cities."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "LL.B. enrolment, regular mode",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [395985, 409725, 455718, 484002, 511824]
+              }
+            ]
+          }
+        },
+        "note": "Regular mode only; 3-year LL.B. programme. Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
+        "source": "AISHE 2023-24, Box 14 (Ministry of Education)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {

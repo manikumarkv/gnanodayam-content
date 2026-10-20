@@ -25,6 +25,14 @@
           {
             "label": "Workplace",
             "value": "Hospital medical records department (MRD)"
+          },
+          {
+            "label": "Health records linked to ABHA",
+            "value": "~104 crore",
+            "note": "Linked to ~93 crore ABHA accounts",
+            "source": "PIB factsheet (Ayushman Bharat Digital Mission)",
+            "date": "Jul 2026",
+            "verified": false
           }
         ]
       }
@@ -59,6 +67,29 @@
           "As hospitals move to electronic records, the work shifts toward digital systems.",
           "Hospital-based work, with shift duties in larger hospitals."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Health records linked to ABHA",
+        "unit": "crore records",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["Feb 2024", "Nov 2024", "Jul 2026"],
+            "series": [
+              {
+                "label": "Linked records",
+                "values": [34.89, 45.37, 104]
+              }
+            ]
+          }
+        },
+        "note": "Dates are not evenly spaced. Counts are records linked digitally, not patients; shows the shift to digital records that MRD staff handle.",
+        "source": "PIB documents on Ayushman Bharat Digital Mission (Feb 2024, Nov 2024, Jul 2026)",
+        "date": "Feb 2024 to Jul 2026",
+        "verified": false
       }
     },
     {

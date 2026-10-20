@@ -26,6 +26,29 @@
           {
             "label": "Common tools",
             "value": "Excel, MIS dashboards, survey tools, report templates"
+          },
+          {
+            "label": "Total CSR spending by companies",
+            "value": "~₹30,000 crore",
+            "note": "Up from ~₹26,580 crore in 2021-22",
+            "source": "National CSR Portal, Ministry of Corporate Affairs data (as reported)",
+            "date": "2022-23",
+            "verified": false
+          },
+          {
+            "label": "CSR projects",
+            "value": "~52,000",
+            "note": "Up from ~44,400 in 2021-22",
+            "source": "National CSR Portal data (as reported)",
+            "date": "2022-23",
+            "verified": false
+          },
+          {
+            "label": "Share going to education",
+            "value": "~₹10,000 crore (about a third)",
+            "source": "National CSR Portal data (as reported)",
+            "date": "2022-23",
+            "verified": false
           }
         ]
       }

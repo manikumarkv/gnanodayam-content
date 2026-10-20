@@ -26,6 +26,22 @@
             "label": "Qualification",
             "value": "Science degree (often a master's) in Environmental Science, Chemistry or related subjects",
             "note": "Engineering posts need a B.E./B.Tech"
+          },
+          {
+            "label": "CPCB posts in one recent notice",
+            "value": "69 posts across 18 post types",
+            "note": "Direct recruitment at CPCB only; State Boards recruit separately",
+            "source": "CPCB Advt. No. 01/2025-Admin.(R)",
+            "date": "2025-04",
+            "verified": false
+          },
+          {
+            "label": "Scientist 'B' at CPCB",
+            "value": "22 posts, Pay Level 10",
+            "note": "7th CPC pay matrix; upper age limit 35 years",
+            "source": "CPCB Advt. No. 01/2025-Admin.(R)",
+            "date": "2025-04",
+            "verified": false
           }
         ]
       }
@@ -47,6 +63,36 @@
           "Work includes sampling, lab analysis, industry inspections and consent processing.",
           "Contract and project posts also appear, alongside regular posts."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "CPCB 2025 notice: posts by pay level",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Level 10",
+              "Level 7",
+              "Level 6",
+              "Level 4",
+              "Level 2",
+              "Level 1"
+            ],
+            "series": [
+              {
+                "label": "Posts",
+                "values": [22, 3, 17, 16, 7, 4]
+              }
+            ]
+          }
+        },
+        "note": "One CPCB notice only (applications April 2025); vacancies vary a lot from year to year, and State Pollution Control Boards use their own notices and pay scales.",
+        "source": "CPCB Advt. No. 01/2025-Admin.(R)",
+        "date": "2025-04",
+        "verified": false
       }
     },
     {

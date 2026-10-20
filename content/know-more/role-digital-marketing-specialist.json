@@ -25,6 +25,21 @@
           {
             "label": "Key areas",
             "value": "SEO, paid ads, social media, email, analytics"
+          },
+          {
+            "label": "Digital advertising in India",
+            "value": "~₹94,700 crore",
+            "note": "About 63% of all advertising revenue that year",
+            "source": "FICCI-EY Media & Entertainment report 2026",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Digital share of ad revenue (2024)",
+            "value": "~55%",
+            "source": "FICCI-EY Media & Entertainment report 2025",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

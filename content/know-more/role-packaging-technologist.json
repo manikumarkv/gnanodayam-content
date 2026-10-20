@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Material testing equipment, shelf-life studies, specification sheets"
+          },
+          {
+            "label": "Packaging industry size",
+            "value": "~US$84 billion",
+            "note": "Estimates differ by source",
+            "source": "Industry estimates cited by IMAP (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Projected size",
+            "value": "~US$92 billion by FY30",
+            "note": "A projection, not a measured figure",
+            "source": "Avendus Capital report via IBEF (as reported)",
+            "date": "FY 2029-30",
+            "verified": false
           }
         ]
       }

@@ -28,6 +28,22 @@
             "label": "Business registration",
             "value": "Udyam (MSME) registration",
             "note": "Free and online; optional but useful for some schemes and clients"
+          },
+          {
+            "label": "B.Des students enrolled",
+            "value": "~57,000",
+            "note": "All years of the B.Des programme, all modes; design degrees recorded under other names are not included",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women in B.Des",
+            "value": "~72%",
+            "note": "About 40,700 of ~56,700 B.Des students",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,29 @@
           "Written agreements typically cover scope, number of revisions, payment schedule and who owns the final files and rights.",
           "Pricing per project rather than per hour is common, and late payments are a frequent problem."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Des enrolment in India",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [44526, 51460, 56720]
+              }
+            ]
+          }
+        },
+        "note": "Counts students across all years of the B.Des programme, not new admissions or freelance designers. Based on institutions that reported to AISHE; specialised design degrees with other names are counted separately.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

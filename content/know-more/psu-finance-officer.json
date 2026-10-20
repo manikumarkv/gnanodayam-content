@@ -27,6 +27,21 @@
           {
             "label": "Recruitment",
             "value": "Company-by-company; no single common exam"
+          },
+          {
+            "label": "Operating central PSUs (CPSEs)",
+            "value": "272",
+            "note": "Out of 448 CPSEs reported; state PSUs are counted separately",
+            "source": "Public Enterprises Survey 2023-24, DPE",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Profit-making / loss-making CPSEs",
+            "value": "~212 / ~58",
+            "source": "Public Enterprises Survey 2023-24 (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

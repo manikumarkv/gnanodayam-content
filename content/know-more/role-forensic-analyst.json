@@ -26,6 +26,21 @@
           {
             "label": "Common work areas",
             "value": "Documents, fingerprints, chemistry / toxicology, biology / DNA, ballistics, digital evidence"
+          },
+          {
+            "label": "State forensic science laboratories",
+            "value": "32",
+            "note": "Plus ~106 regional labs and several hundred mobile units",
+            "source": "BPR&D Data on Police Organisations, cited in a Lok Sabha reply (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Central forensic science laboratories",
+            "value": "7",
+            "source": "Ministry of Home Affairs, Lok Sabha reply (as reported)",
+            "date": "2019",
+            "verified": false
           }
         ]
       }

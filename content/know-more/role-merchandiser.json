@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Spreadsheets, ERP systems, email, costing sheets"
+          },
+          {
+            "label": "UG students in Fashion Technology",
+            "value": "~17,800",
+            "note": "All years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 12, UG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Fashion Technology",
+            "value": "~2,300",
+            "note": "All years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

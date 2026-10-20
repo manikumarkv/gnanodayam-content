@@ -22,6 +22,30 @@
             "label": "Recruitment",
             "value": "Airline's own notices",
             "note": "Posts are often fixed-term contracts"
+          },
+          {
+            "label": "Fleet",
+            "value": "21 aircraft",
+            "note": "18 ATR 72-600, 2 ATR 42-600 and 1 Dornier 228, as on 31 March 2025",
+            "source": "Alliance Air Aviation Ltd, Annual Report 2024-25",
+            "date": "2025-03",
+            "verified": false
+          },
+          {
+            "label": "Staff strength",
+            "value": "~850",
+            "note": "852 employees as on 31 March 2025, all on fixed-term employment agreements; about 31% women",
+            "source": "Alliance Air Aviation Ltd, Annual Report 2024-25",
+            "date": "2025-03",
+            "verified": false
+          },
+          {
+            "label": "Average departures",
+            "value": "~73 a day",
+            "note": "Across 53 stations during FY 2024-25; about 12.8 lakh revenue passengers in the year",
+            "source": "Alliance Air Aviation Ltd, Annual Report 2024-25",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

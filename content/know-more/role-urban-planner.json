@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "QGIS / ArcGIS, AutoCAD, Excel, survey forms"
+          },
+          {
+            "label": "Urban population",
+            "value": "~37.7 crore (~31%)",
+            "note": "Latest completed census",
+            "source": "Census of India 2011",
+            "date": "2011",
+            "verified": false
+          },
+          {
+            "label": "Towns",
+            "value": "~7,900",
+            "note": "4,041 statutory towns plus ~3,900 census towns",
+            "source": "Census of India 2011",
+            "date": "2011",
+            "verified": false
           }
         ]
       }

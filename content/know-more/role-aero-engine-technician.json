@@ -25,6 +25,14 @@
           {
             "label": "Common tools",
             "value": "Borescopes, torque tools, engine manuals"
+          },
+          {
+            "label": "Aircraft with Indian scheduled airlines",
+            "value": "~770",
+            "note": "Aircraft endorsed on airline operator certificates; ~110 were inducted during 2023. Aircraft actually flying can be fewer",
+            "source": "MoCA reply in Rajya Sabha (as reported)",
+            "date": "As on 31 Dec 2023",
+            "verified": false
           }
         ]
       }

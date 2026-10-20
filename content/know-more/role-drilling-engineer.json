@@ -26,6 +26,14 @@
           {
             "label": "Work pattern",
             "value": "Rotational field duty on onshore or offshore rigs"
+          },
+          {
+            "label": "Wells drilled by ONGC",
+            "value": "578",
+            "note": "109 exploratory and 469 development wells; 544 in FY2023-24",
+            "source": "ONGC results / Ministry of Petroleum (as reported)",
+            "date": "FY2024-25",
+            "verified": false
           }
         ]
       }

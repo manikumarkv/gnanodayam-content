@@ -21,6 +21,22 @@
           {
             "label": "Employers",
             "value": "Ed-tech firms, school groups, publishers, education NGOs"
+          },
+          {
+            "label": "School teachers in India",
+            "value": "~1.01 crore",
+            "note": "First year above 1 crore; women are ~54% of teachers",
+            "source": "UDISE+ 2024-25, Ministry of Education (PIB release, 28 Aug 2025)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Schools",
+            "value": "~14.7 lakh",
+            "note": "All managements: government, aided and private",
+            "source": "UDISE+ 2024-25 report, Ministry of Education",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }
@@ -42,6 +58,29 @@
           "Some ed-tech 'counsellor' roles are mainly sales with targets — read the job description carefully.",
           "Content and curriculum skills transfer to publishing and instructional design in corporate training."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "School teachers in India",
+        "unit": "lakh teachers",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2022-23", "2023-24", "2024-25"],
+            "series": [
+              {
+                "label": "Teachers",
+                "values": [94.8, 98.1, 101.2]
+              }
+            ]
+          }
+        },
+        "note": "All school teachers across managements; a sense of the audience for teacher training and school content, not of ed-tech jobs.",
+        "source": "UDISE+, Ministry of Education (PIB release, 28 Aug 2025)",
+        "date": "2022-23 to 2024-25",
+        "verified": false
       }
     },
     {

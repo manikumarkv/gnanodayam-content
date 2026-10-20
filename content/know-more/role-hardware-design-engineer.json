@@ -26,6 +26,22 @@
           {
             "label": "Design areas",
             "value": "Power supplies, analog and digital circuits, high-speed boards"
+          },
+          {
+            "label": "Electronics production in India",
+            "value": "~₹9.5 lakh crore",
+            "note": "Up from ~₹5.3 lakh crore in 2019-20; most of this is manufacturing and assembly",
+            "source": "MeitY reply in Lok Sabha, Dec 2024 (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Jobs linked to electronics manufacturing",
+            "value": "~25 lakh",
+            "note": "Direct and indirect; design roles are a small share",
+            "source": "Industry estimate cited in Lok Sabha, Dec 2024 (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

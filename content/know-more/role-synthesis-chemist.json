@@ -21,6 +21,22 @@
           {
             "label": "Common techniques",
             "value": "Reflux and work-up, column chromatography, TLC, reading NMR/HPLC data"
+          },
+          {
+            "label": "PG students in chemistry",
+            "value": "~1.8 lakh",
+            "note": "All years of PG programmes; about 68,000 pass out each year",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Pharma exports",
+            "value": "~US$30.5 billion",
+            "note": "Pharma companies and CROs are major employers of synthesis chemists",
+            "source": "Pharmexcil (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

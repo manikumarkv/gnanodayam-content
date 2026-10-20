@@ -21,6 +21,14 @@
           {
             "label": "Common sources",
             "value": "Gazette notifications, parliamentary records, ministry consultations"
+          },
+          {
+            "label": "Postgraduate students in political science",
+            "value": "~2.6 lakh",
+            "note": "PG enrolment; one common background for policy work",
+            "source": "AISHE (Ministry of Education) 2023-24, Table 13 (based on actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

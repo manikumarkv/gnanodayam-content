@@ -25,6 +25,22 @@
           {
             "label": "Where you work",
             "value": "District fisheries offices, fish seed farms, harbours and reservoirs"
+          },
+          {
+            "label": "Fish production in India",
+            "value": "~184 lakh tonnes",
+            "note": "Up from ~95 lakh tonnes in 2013-14; India produces about 8% of the world's fish",
+            "source": "Ministry of Fisheries, as reported (All India Radio)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.F.Sc students enrolled",
+            "value": "~5,000",
+            "note": "5,010 across all years of the degree in 2023-24, about half of them women",
+            "source": "AISHE 2023-24",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -46,6 +62,29 @@
           "Coastal states and states with large reservoirs tend to have more fisheries posts.",
           "Promotion leads to district and state-level fisheries administration."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in B.F.Sc",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.F.Sc enrolment",
+                "values": [4727, 5195, 5010]
+              }
+            ]
+          }
+        },
+        "note": "Total across all years of the course, not annual intake. B.F.Sc is the usual, but not the only, qualification accepted for these posts.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (programme-wise enrolment)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

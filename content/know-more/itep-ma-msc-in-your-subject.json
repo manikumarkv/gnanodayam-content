@@ -28,6 +28,29 @@
             "label": "PGT requirement",
             "value": "Master's in subject + B.Ed",
             "note": "As per common recruitment rules, e.g. KVS and NVS"
+          },
+          {
+            "label": "M.A. enrolment (all modes)",
+            "value": "~22.6 lakh",
+            "note": "Includes distance and private mode students",
+            "source": "AISHE (Ministry of Education), programme-wise enrolment, all modes",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "M.Sc enrolment (all modes)",
+            "value": "~9.9 lakh",
+            "source": "AISHE (Ministry of Education), programme-wise enrolment, all modes",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "M.A. / M.Sc pass-outs in a year",
+            "value": "~7.5 lakh M.A.; ~3.6 lakh M.Sc",
+            "note": "Based on institutions that responded to the survey",
+            "source": "AISHE (Ministry of Education), programme-wise out-turn",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -50,6 +73,39 @@
           "Teacher recruitment exams (state TETs, CTET for lower classes, PGT exams) run alongside.",
           "A master's plus NET also opens research and JRF routes."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Regular-mode enrolment in M.A. and M.Sc",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "M.A.",
+                "values": [945895, 1014562, 1140462, 1266537, 1254230]
+              },
+              {
+                "label": "M.Sc",
+                "values": [675217, 760394, 834501, 879520, 861950]
+              }
+            ]
+          }
+        },
+        "note": "Regular mode only; covers all subjects and all students, not only ITEP graduates.",
+        "source": "AISHE 2023-24 report (Ministry of Education), enrolment in major PG programmes, regular mode",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {

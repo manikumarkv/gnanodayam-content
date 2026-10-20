@@ -25,6 +25,21 @@
           {
             "label": "Typical work",
             "value": "Forecasting, recommendations, risk scoring, experimentation"
+          },
+          {
+            "label": "AI talent demand",
+            "value": "~6–6.5 lakh; projected 12.5 lakh+ by 2027",
+            "note": "Covers AI roles broadly, not only data scientists",
+            "source": "Deloitte–NASSCOM report, as reported",
+            "date": "Aug 2024",
+            "verified": false
+          },
+          {
+            "label": "Data science & AI demand vs talent",
+            "value": "~6.3 lakh demand vs ~4.2 lakh talent",
+            "source": "NASSCOM–Salesforce–Draup report, as reported",
+            "date": "Aug 2022",
+            "verified": false
           }
         ]
       }

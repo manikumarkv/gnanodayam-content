@@ -25,6 +25,22 @@
           {
             "label": "Common tools",
             "value": "An ERP system, Excel, ticketing tools"
+          },
+          {
+            "label": "Tech and BPM industry employment",
+            "value": "~58 lakh",
+            "note": "Covers IT services, BPM, global capability centres and more",
+            "source": "NASSCOM Strategic Review (as reported)",
+            "date": "FY2025",
+            "verified": false
+          },
+          {
+            "label": "Global capability centres in India",
+            "value": "1,750+",
+            "note": "Many run finance and accounting operations",
+            "source": "NASSCOM Strategic Review 2025 (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

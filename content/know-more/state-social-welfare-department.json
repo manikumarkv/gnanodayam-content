@@ -23,6 +23,22 @@
             "label": "Typical eligibility",
             "value": "Graduation; some posts prefer or need an MSW, sociology or related degree",
             "note": "Varies by state and post"
+          },
+          {
+            "label": "Anganwadi centres (ICDS)",
+            "value": "~14 lakh",
+            "note": "~13.99 lakh operational as on 31 Dec 2024 per a Rajya Sabha reply, as reported",
+            "source": "M/o Women & Child Development, Poshan Tracker data (PIB), as reported",
+            "date": "Sep 2025",
+            "verified": false
+          },
+          {
+            "label": "Students in MSW (Master of Social Work)",
+            "value": "~1.02 lakh",
+            "note": "All years, all modes; a common qualification for welfare posts. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -44,6 +60,29 @@
           "Field-heavy work: inspections, beneficiary verification, running homes and scheme delivery.",
           "Contract posts can be an entry point but may not carry the security of regular cadre posts."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in MSW",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "MSW enrolment",
+                "values": [70144, 81233, 102085]
+              }
+            ]
+          }
+        },
+        "note": "All years of the course, all modes. Shows the pool of social work graduates, not the number of government posts. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 11, programme-wise enrolment)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

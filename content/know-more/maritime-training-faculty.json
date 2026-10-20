@@ -28,6 +28,14 @@
             "label": "Typical requirement",
             "value": "Master / Chief Engineer CoC + years of sea service",
             "note": "Exact certificate and sea-time depend on the course taught"
+          },
+          {
+            "label": "DGS-approved maritime training institutes",
+            "value": "~171–176",
+            "note": "Counts differ slightly by source and date",
+            "source": "Lok Sabha reply, July 2026; DG Shipping inspection programme report, July 2025 (as reported)",
+            "date": "2025–26",
+            "verified": false
           }
         ]
       }

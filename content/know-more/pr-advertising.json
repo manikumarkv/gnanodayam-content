@@ -27,6 +27,29 @@
             "label": "Ad self-regulator",
             "value": "Advertising Standards Council of India (ASCI)",
             "note": "Sets the advertising code"
+          },
+          {
+            "label": "Ad revenue growth (2024)",
+            "value": "~8%",
+            "note": "Total Indian advertising, all media",
+            "source": "FICCI-EY Media & Entertainment report (March 2025)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Digital share of ad spend",
+            "value": "~55% (2024) → ~63% (2025)",
+            "source": "FICCI-EY Media & Entertainment reports (2025 and 2026), as reported",
+            "date": "2024–2025",
+            "verified": false
+          },
+          {
+            "label": "Digital advertising",
+            "value": "~₹94,700 crore",
+            "note": "Grew ~26% over 2024",
+            "source": "FICCI-EY Media & Entertainment report (March 2026), as reported",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

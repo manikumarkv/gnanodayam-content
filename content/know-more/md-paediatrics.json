@@ -27,6 +27,14 @@
           {
             "label": "Regulator",
             "value": "National Medical Commission (NMC)"
+          },
+          {
+            "label": "MD Paediatrics seats",
+            "value": "~4,200",
+            "note": "4,203 seats listed across Indian medical colleges for 2026-27; excludes pending applications for new or increased seats; DNB seats are separate",
+            "source": "NMC seat matrix 2026-27, as reported (Medical Dialogues)",
+            "date": "2026-10",
+            "verified": false
           }
         ]
       }

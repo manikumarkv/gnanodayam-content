@@ -31,6 +31,14 @@
           {
             "label": "Common tools",
             "value": "GST portal, accounting software, Excel"
+          },
+          {
+            "label": "GST-registered taxpayers",
+            "value": "~1.5 crore",
+            "note": "Approximate active registrations; no official count of enrolled GST practitioners is published",
+            "source": "GSTN / Ministry of Finance data (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

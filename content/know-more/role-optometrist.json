@@ -27,6 +27,30 @@
           {
             "label": "Common tools",
             "value": "Retinoscope, autorefractor, slit lamp, trial lens set"
+          },
+          {
+            "label": "Optometrists at secondary and tertiary eye-care centres",
+            "value": "~17,800",
+            "note": "Excludes optical stores and primary-level practice",
+            "source": "AIIMS Delhi national survey (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "B.Optom enrolment",
+            "value": "~9,500 students",
+            "note": "Based on actual institutional responses",
+            "source": "AISHE 2023-24, Table 11 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.Optom graduates (out-turn)",
+            "value": "~1,900",
+            "note": "Based on actual institutional responses; B.Sc Optometry graduates are counted separately",
+            "source": "AISHE 2023-24, Table 34 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -61,6 +85,29 @@
           "Some optometrists open their own optical practice after a few years.",
           "Surgery and most medical treatment are outside the role; those patients are referred to an ophthalmologist."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Optom enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Optom enrolment",
+                "values": [8377, 8802, 9526]
+              }
+            ]
+          }
+        },
+        "note": "B.Optom (Bachelor of Clinical Optometry) only. Based on actual responses from institutions that reported data; the true national figure is likely somewhat higher.",
+        "source": "AISHE 2021-22, 2022-23, 2023-24 (Ministry of Education), Table 11",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

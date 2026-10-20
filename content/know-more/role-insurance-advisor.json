@@ -26,6 +26,21 @@
           {
             "label": "Pay structure",
             "value": "Commission for agents; salary plus incentives for employees"
+          },
+          {
+            "label": "Individual insurance agents",
+            "value": "~31 lakh",
+            "note": "As on 31 March 2025; up about 8% in a year",
+            "source": "IRDAI Annual Report 2024-25 (as reported)",
+            "date": "2025-03",
+            "verified": false
+          },
+          {
+            "label": "Agents' share of life individual new-business premium",
+            "value": "~51% (2023-24), ~49% (2024-25)",
+            "source": "IRDAI Annual Report 2024-25 (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

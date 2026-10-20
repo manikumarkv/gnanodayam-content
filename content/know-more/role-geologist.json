@@ -27,6 +27,22 @@
             "label": "Government route",
             "value": "UPSC Combined Geo-Scientist Examination",
             "note": "For Geological Survey of India and groundwater posts; needs a master's"
+          },
+          {
+            "label": "Geo-Scientist exam vacancies",
+            "value": "127 (tentative)",
+            "note": "Geological Survey of India and Central Ground Water Board posts; numbers vary each year",
+            "source": "UPSC notice for CGSE 2027 (as reported)",
+            "date": "2026-09",
+            "verified": false
+          },
+          {
+            "label": "PG students in geology",
+            "value": "~8,700",
+            "note": "All years of PG programmes; about 4,100 pass out each year",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

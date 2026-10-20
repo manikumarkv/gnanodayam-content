@@ -25,6 +25,22 @@
           {
             "label": "Government route",
             "value": "Indian Statistical Service via the UPSC ISS exam; SSC Statistical Investigator posts"
+          },
+          {
+            "label": "Indian Statistical Service posts (2024 exam)",
+            "value": "30",
+            "note": "Out of 48 posts across IES and ISS",
+            "source": "UPSC IES/ISS 2024 notification (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "PG students in statistics",
+            "value": "~11,800",
+            "note": "Subject-level count across postgraduate programmes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

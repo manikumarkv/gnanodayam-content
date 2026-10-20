@@ -25,6 +25,22 @@
           {
             "label": "Output",
             "value": "Ad lines, scripts, social posts, campaign concepts"
+          },
+          {
+            "label": "Advertising revenue in India",
+            "value": "~₹1.5 lakh crore",
+            "note": "Up ~13% over 2024",
+            "source": "FICCI-EY media & entertainment report (as reported in EY press release)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Digital share of ad revenue",
+            "value": "~63%",
+            "note": "Digital ad revenue ~₹94,700 crore",
+            "source": "FICCI-EY media & entertainment report (as reported in EY press release)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

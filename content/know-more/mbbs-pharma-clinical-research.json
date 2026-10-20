@@ -28,6 +28,22 @@
             "label": "National drug-safety system",
             "value": "Pharmacovigilance Programme of India",
             "note": "Run by the Indian Pharmacopoeia Commission"
+          },
+          {
+            "label": "ADR monitoring centres under PvPI",
+            "value": "~1,075",
+            "note": "Started with 22 centres in 2010",
+            "source": "Indian Pharmacopoeia Commission, PvPI profile",
+            "date": "Sept 2025",
+            "verified": false
+          },
+          {
+            "label": "Trials registered with CTRI",
+            "value": "~70,000 (cumulative)",
+            "note": "Running total since 2007; includes academic studies, not only industry trials",
+            "source": "Frontiers in Medicine paper citing CTRI (as reported)",
+            "date": "July 2024",
+            "verified": false
           }
         ]
       }

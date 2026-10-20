@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Project-based and largely freelance"
+          },
+          {
+            "label": "Students in B.P.A. (Bachelor of Performing Arts)",
+            "value": "~9,600",
+            "note": "All performing arts (dance, music, theatre); all years, all modes. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students in M.P.A. (Master of Performing Arts)",
+            "value": "~3,000",
+            "note": "All years, all modes. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 11, programme-wise enrolment)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

@@ -21,6 +21,22 @@
           {
             "label": "Work pattern",
             "value": "Contract-based, peaking around elections; travel and long hours common"
+          },
+          {
+            "label": "Registered electors",
+            "value": "~98 crore",
+            "note": "About 47.6 crore women electors",
+            "source": "Election Commission of India, Atlas 2024",
+            "date": "Lok Sabha 2024",
+            "verified": false
+          },
+          {
+            "label": "Polling stations",
+            "value": "~10.5 lakh",
+            "note": "Up from ~10.4 lakh in 2019",
+            "source": "Election Commission data (as reported)",
+            "date": "Lok Sabha 2024",
+            "verified": false
           }
         ]
       }

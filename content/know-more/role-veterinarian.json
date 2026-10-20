@@ -27,6 +27,22 @@
           {
             "label": "Common work",
             "value": "Vaccination, deworming, surgery, artificial insemination, herd health"
+          },
+          {
+            "label": "Registered veterinary practitioners",
+            "value": "~81,900",
+            "note": "As on 31 March 2023; ~73,100 in 2020",
+            "source": "Lok Sabha reply citing Veterinary Council of India (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Livestock population",
+            "value": "~536 million",
+            "note": "Plus ~852 million poultry",
+            "source": "20th Livestock Census, DAHD",
+            "date": "2019",
+            "verified": false
           }
         ]
       }
@@ -61,6 +77,29 @@
           "Pet practice is concentrated in towns and cities; farm-animal practice is mostly rural.",
           "Other routes include an MVSc specialisation or veterinary officer posts through state recruitment."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.V.Sc. & A.H. enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [20690, 20749, 22394]
+              }
+            ]
+          }
+        },
+        "note": "B.V.Sc. & A.H. programme only, all modes, across all years of the course; the separate B.V.Sc. rows (~4,300–5,400) are not included.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Ministry of Education",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

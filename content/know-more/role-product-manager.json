@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Jira, analytics dashboards, SQL, Excel, wireframing tools"
+          },
+          {
+            "label": "DPIIT-recognised startups",
+            "value": "~1.98 lakh",
+            "note": "Many are not software product companies",
+            "source": "Ministry of Commerce & Industry reply in Lok Sabha (as reported)",
+            "date": "Oct 2025",
+            "verified": false
+          },
+          {
+            "label": "Direct jobs reported by recognised startups",
+            "value": "~21 lakh",
+            "note": "Self-reported by startups",
+            "source": "Ministry of Commerce & Industry reply in Lok Sabha (as reported)",
+            "date": "Oct 2025",
+            "verified": false
           }
         ]
       }

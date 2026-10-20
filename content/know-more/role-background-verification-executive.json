@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Case management systems, verification databases, email and phone"
+          },
+          {
+            "label": "Hires with a flagged discrepancy",
+            "value": "~4–6%",
+            "note": "One screening firm's own data: ~4.3% for white-collar and ~5.6% for gig hires; not an industry-wide figure",
+            "source": "AuthBridge Workforce Fraud Files, H1 FY26 (as reported)",
+            "date": "2025-26",
+            "verified": false
           }
         ]
       }

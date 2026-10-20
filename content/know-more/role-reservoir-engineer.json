@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Mostly office-based, with occasional field visits"
+          },
+          {
+            "label": "Domestic crude oil production",
+            "value": "~28.7 million tonnes",
+            "note": "Down ~2% from ~29.4 million tonnes in 2023-24",
+            "source": "DGH Annual Report 2024-25",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Domestic natural gas production",
+            "value": "~36.1 BCM",
+            "note": "~36.4 BCM in 2023-24",
+            "source": "DGH Annual Report 2024-25",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

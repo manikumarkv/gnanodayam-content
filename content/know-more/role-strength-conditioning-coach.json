@@ -25,6 +25,22 @@
           {
             "label": "Certification",
             "value": "S&C certifications are often asked for alongside the degree"
+          },
+          {
+            "label": "UG students in Physical Education",
+            "value": "~80,600",
+            "note": "All years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 12, UG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Physical Education",
+            "value": "~13,700",
+            "note": "All years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,29 @@
           "Early-morning and evening sessions and team travel are common.",
           "Overlaps with fitness training, but focused on athletes rather than general clients."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG students in Physical Education",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "UG Physical Education enrolment",
+                "values": [68911, 76621, 80578]
+              }
+            ]
+          }
+        },
+        "note": "All years of the course; most graduates go into teaching or coaching broadly, not only S&C. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 12, UG enrolment by subject)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

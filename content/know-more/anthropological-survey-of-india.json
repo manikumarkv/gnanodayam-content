@@ -27,6 +27,22 @@
             "label": "Typical eligibility",
             "value": "Master's in anthropology for research posts",
             "note": "Some posts and fellowships also ask for NET or research experience"
+          },
+          {
+            "label": "Regional centres",
+            "value": "7, plus the Kolkata head office",
+            "note": "Dehradun, Mysuru, Udaipur, Shillong, Nagpur, Port Blair and an Eastern Regional Centre in Kolkata; a sub-regional centre at Jagdalpur",
+            "source": "AnSI official website (organisation page)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Postgraduate students in anthropology",
+            "value": "~4,500",
+            "note": "Enrolment at PG level; ~430 more at Ph.D. level",
+            "source": "AISHE (Ministry of Education) 2023-24, Table 13 (based on actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -48,6 +64,29 @@
           "State tribal research institutes and museums also employ anthropology postgraduates, usually through their own notices.",
           "A Ph.D. or fieldwork experience helps for research posts."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate enrolment in anthropology",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG students",
+                "values": [4647, 4344, 4513]
+              }
+            ]
+          }
+        },
+        "note": "Counts only institutions that responded to AISHE, so totals are approximate. This is the pool of anthropology postgraduates, not AnSI posts.",
+        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 13 — Anthropology, PG level",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

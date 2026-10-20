@@ -22,6 +22,30 @@
           {
             "label": "Who runs them",
             "value": "SAI NSNIS Patiala, sports universities, national sports federations"
+          },
+          {
+            "label": "Trainees admitted to the NSNIS Patiala coaching diploma",
+            "value": "~330",
+            "note": "Admitted count, not a fixed seat cap",
+            "source": "Sports Authority of India, NSNIS page (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.P.Ed. enrolment",
+            "value": "~56,000 students",
+            "note": "A physical-education degree, often the base for coaching courses; based on actual institutional responses",
+            "source": "AISHE 2023-24, Table 11 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "M.P.Ed. enrolment",
+            "value": "~11,900 students",
+            "note": "Based on actual institutional responses",
+            "source": "AISHE 2023-24, Table 11 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -43,6 +67,29 @@
           "Government coach posts often ask for a recognised coaching diploma.",
           "Course names, lengths and entry rules change; check the current prospectus."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.P.Ed. enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.P.Ed. enrolment",
+                "values": [44224, 50411, 56072]
+              }
+            ]
+          }
+        },
+        "note": "B.P.Ed. is a physical-education degree, not a coaching course itself. Based on actual responses from institutions that reported data; the true national figure is likely somewhat higher.",
+        "source": "AISHE 2021-22, 2022-23, 2023-24 (Ministry of Education), Table 11",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

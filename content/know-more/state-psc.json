@@ -28,6 +28,14 @@
             "label": "Who you serve",
             "value": "One state government",
             "note": "UPSC recruits for all-India and central services (IAS, IPS, IFS etc.)"
+          },
+          {
+            "label": "Example: posts in one state exam",
+            "value": "~2,035",
+            "note": "BPSC 70th Combined Competitive Exam; the count was revised from 1,957 in the first notice. Posts differ widely by state and year",
+            "source": "Bihar Public Service Commission notices (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

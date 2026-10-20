@@ -21,6 +21,21 @@
           {
             "label": "Systems you work with",
             "value": "HACCP, FSSAI licensing rules, FSSC 22000 / ISO 22000"
+          },
+          {
+            "label": "FSSAI licences and registrations in force",
+            "value": "~73,500 central; ~10.8 lakh state licences; ~51 lakh registrations",
+            "source": "FSSAI Food Authority meeting minutes (FoSCoS data)",
+            "date": "As on 28 Feb 2025",
+            "verified": false
+          },
+          {
+            "label": "Food safety supervisors trained (FoSTaC)",
+            "value": "21 lakh+",
+            "note": "Cumulative since 2017, across ~56,000 training sessions",
+            "source": "FSSAI FoSTaC training partner notice",
+            "date": "Dec 2024",
+            "verified": false
           }
         ]
       }

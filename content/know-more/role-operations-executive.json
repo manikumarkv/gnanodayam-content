@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Excel, ERP systems, ticketing or order-management tools"
+          },
+          {
+            "label": "Logistics sector employment",
+            "value": "22 million+",
+            "note": "One of several sectors that hire operations staff",
+            "source": "PIB backgrounder (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

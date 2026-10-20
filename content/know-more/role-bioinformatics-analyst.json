@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Linux, Python or R, sequence databases and aligners"
+          },
+          {
+            "label": "India's bioeconomy",
+            "value": "~$165.7 billion",
+            "note": "About 4.2% of GDP",
+            "source": "India BioEconomy Report 2025, ABLE (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Biotech startups in India",
+            "value": "~10,000",
+            "note": "10,075 in 2024, up from 4,237 in 2020",
+            "source": "India BioEconomy Report 2025, ABLE (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

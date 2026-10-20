@@ -21,6 +21,22 @@
           {
             "label": "Work pattern",
             "value": "Rotational shifts at remote onshore or offshore sites"
+          },
+          {
+            "label": "Oil and gas wells drilled in India",
+            "value": "~132 exploratory, ~609 development",
+            "note": "All operators",
+            "source": "DGH Annual Report 2023-24 (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in geology",
+            "value": "~8,700",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +71,29 @@
           "Hiring follows oil and gas exploration activity, which can be cyclical.",
           "Rotational life means weeks away from home at a stretch."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG enrolment in geology by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [9090, 9134, 8657]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

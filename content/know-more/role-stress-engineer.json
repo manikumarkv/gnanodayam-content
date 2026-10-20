@@ -25,6 +25,14 @@
           {
             "label": "Common starting titles",
             "value": "Stress engineer, structural analyst, FEA engineer"
+          },
+          {
+            "label": "Engineering R&D services revenue",
+            "value": "~US$63 billion",
+            "note": "All engineering verticals, of which aerospace is one",
+            "source": "NASSCOM estimate (as reported)",
+            "date": "FY2026",
+            "verified": false
           }
         ]
       }

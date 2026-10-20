@@ -26,6 +26,14 @@
           {
             "label": "Languages",
             "value": "English and Indian-language media both hire"
+          },
+          {
+            "label": "Periodicals in PRGI database",
+            "value": "~1.54 lakh",
+            "note": "Registered newspapers and periodicals; many registered titles are inactive",
+            "source": "Press Registrar General of India (as reported)",
+            "date": "Dec 2024",
+            "verified": false
           }
         ]
       }
@@ -60,6 +68,29 @@
           "Growth path: reporter → senior correspondent → editor, or moves into data, video or investigative journalism.",
           "Media hiring is uneven; many journalists also freelance or move into communications work."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.J.M.C. enrolment in India",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [23333, 21059, 19825]
+              }
+            ]
+          }
+        },
+        "note": "Counts students across all years of the B.J.M.C. programme only; B.J., BA-JMC and other media degrees are counted separately. Based on institutions that reported to AISHE.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

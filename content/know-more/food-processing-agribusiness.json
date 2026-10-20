@@ -22,6 +22,30 @@
           {
             "label": "Typical entry roles",
             "value": "Procurement, quality assurance, field and supply-chain executive"
+          },
+          {
+            "label": "Share of registered-sector jobs",
+            "value": "~12.8%",
+            "note": "Food processing's share of total employment in registered (organised) manufacturing",
+            "source": "Annual Survey of Industries 2023-24, as reported by MoFPI",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Workers in registered food processing units",
+            "value": "~20.7 lakh",
+            "note": "Up from ~17.7 lakh in 2014-15; excludes the large unregistered sector",
+            "source": "Annual Survey of Industries 2021-22, as reported by MoFPI",
+            "date": "2021-22",
+            "verified": false
+          },
+          {
+            "label": "Sector GVA",
+            "value": "~₹2.2 lakh crore",
+            "note": "Up from ~₹1.3 lakh crore in 2014-15",
+            "source": "MoFPI, as reported (first revised estimates)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

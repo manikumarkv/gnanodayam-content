@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Office-based, with occasional site visits"
+          },
+          {
+            "label": "Refining capacity in India",
+            "value": "~257 MMTPA",
+            "note": "As on 1 April 2024; later reports put it near 267 MMTPA",
+            "source": "PPAC, as reported",
+            "date": "2024-04",
+            "verified": false
+          },
+          {
+            "label": "Refineries",
+            "value": "23",
+            "note": "18 public sector, 3 private and 2 joint venture",
+            "source": "Ministry of Petroleum and Natural Gas, refining capacity page",
+            "date": "2026-10 (accessed)",
+            "verified": false
           }
         ]
       }

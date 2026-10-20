@@ -25,6 +25,14 @@
           {
             "label": "Work pattern",
             "value": "Mine, quarry or tunnel sites"
+          },
+          {
+            "label": "Coal production in India",
+            "value": "~1,048 million tonnes",
+            "note": "First year above 1 billion tonnes; most comes from opencast mines, where drilling and blasting are routine",
+            "source": "Ministry of Coal (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

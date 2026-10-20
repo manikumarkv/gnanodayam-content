@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Document review platforms, contract management systems, legal databases"
+          },
+          {
+            "label": "Students in LL.B.",
+            "value": "~5.1 lakh",
+            "note": "All years; integrated BA/BBA LL.B. are counted separately. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (enrolment in major UG programmes, regular mode)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Law",
+            "value": "~50,600",
+            "note": "All years. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Table 13, PG enrolment by subject)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,35 @@
           "Next steps: senior associate, team lead, or a move to in-house legal.",
           "The role builds contract skills but not courtroom experience."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in LL.B.",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "LL.B. enrolment (regular mode)",
+                "values": [395985, 409725, 455718, 484002, 511824]
+              }
+            ]
+          }
+        },
+        "note": "Three-year LL.B. only, all years of the course. Shows the pool of law graduates, not LPO hiring. Counts only institutions that responded to AISHE, so national totals may be higher.",
+        "source": "AISHE 2023-24 (Box 14, major UG programmes in regular mode)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {

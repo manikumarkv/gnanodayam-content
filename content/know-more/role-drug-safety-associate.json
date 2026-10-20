@@ -25,6 +25,14 @@
           {
             "label": "India's programme",
             "value": "Pharmacovigilance Programme of India (PvPI), run by the Indian Pharmacopoeia Commission"
+          },
+          {
+            "label": "B.Pharm enrolment (regular mode)",
+            "value": "~5.9 lakh",
+            "note": "About double the 2019-20 figure",
+            "source": "AISHE 2023-24, Ministry of Education (Box 14)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +67,35 @@
           "Some roles involve shifts to match overseas clients.",
           "Jobs are concentrated in cities with pharma and service hubs."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Pharm enrolment, regular mode",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "B.Pharm enrolment",
+                "values": [293822, 374695, 451975, 529029, 590760]
+              }
+            ]
+          }
+        },
+        "note": "Regular mode only; based on institutions that responded to AISHE. Shows the size of one entry pool, not pharmacovigilance hiring.",
+        "source": "AISHE 2023-24, Ministry of Education (Box 14, regular mode)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {

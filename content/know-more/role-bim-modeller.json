@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Revit and similar BIM software, clash-detection tools, AutoCAD"
+          },
+          {
+            "label": "B.Arch enrolment",
+            "value": "~64,600 students",
+            "note": "All years of the course; based on actual institutional responses",
+            "source": "AISHE 2023-24, Table 11 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "B.Arch graduates (out-turn)",
+            "value": "~13,500",
+            "note": "Based on actual institutional responses; civil engineering and diploma holders also enter BIM roles",
+            "source": "AISHE 2023-24, Table 34 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +70,29 @@
           "Next steps: BIM coordinator, BIM manager or a return to design roles.",
           "The work is screen-based and can become repetitive without design responsibility."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Arch enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Arch enrolment",
+                "values": [73125, 70764, 64596]
+              }
+            ]
+          }
+        },
+        "note": "One of several routes into BIM work. Based on actual responses from institutions that reported data; the true national figure is likely somewhat higher.",
+        "source": "AISHE 2021-22, 2022-23, 2023-24 (Ministry of Education), Table 11",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

@@ -25,6 +25,22 @@
           {
             "label": "Government route",
             "value": "Indian Economic Service via the UPSC IES/ISS exam"
+          },
+          {
+            "label": "Indian Economic Service vacancies",
+            "value": "16",
+            "note": "12 IES vacancies were notified in the 2025 exam; numbers are provisional",
+            "source": "UPSC IES/ISS Examination 2026 notice (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "IES entry pay level",
+            "value": "Level 10 (7th CPC)",
+            "note": "Junior Time Scale; allowances are extra",
+            "source": "UPSC IES/ISS Examination notice (as reported)",
+            "date": "2026",
+            "verified": false
           }
         ]
       }

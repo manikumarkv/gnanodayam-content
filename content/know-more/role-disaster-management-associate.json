@@ -26,6 +26,22 @@
             "label": "Policy framework",
             "value": "Disaster Management Act, 2005",
             "note": "Sets up national, state and district disaster management authorities"
+          },
+          {
+            "label": "NDRF battalions",
+            "value": "16",
+            "note": "Drawn from central armed police forces; sanctioned strength ~18,500",
+            "source": "NDRF / PIB",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Aapda Mitra volunteers trained",
+            "value": "~1 lakh",
+            "note": "Community volunteers in ~350 disaster-prone districts",
+            "source": "NDMA via PIB, as reported",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

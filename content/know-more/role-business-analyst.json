@@ -25,6 +25,14 @@
           {
             "label": "Two common flavours",
             "value": "IT/requirements analyst and data/business-insights analyst"
+          },
+          {
+            "label": "Tech industry workforce",
+            "value": "~59.5 lakh",
+            "note": "Direct employees, FY2026 estimate; ~58 lakh in FY2025",
+            "source": "Nasscom Strategic Review (as reported)",
+            "date": "2026",
+            "verified": false
           }
         ]
       }

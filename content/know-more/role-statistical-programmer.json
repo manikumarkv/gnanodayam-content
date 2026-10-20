@@ -25,6 +25,21 @@
           {
             "label": "Works with",
             "value": "Biostatisticians and data managers"
+          },
+          {
+            "label": "GATE Statistics (ST) paper",
+            "value": "~3,100 registered · ~410 qualified",
+            "source": "GATE 2025 Statistical and Performance Report, IIT Roorkee",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Postgraduate students in statistics",
+            "value": "~11,800",
+            "note": "PG enrolment under 'Statistics' (science stream)",
+            "source": "AISHE (Ministry of Education) 2023-24, Table 13 (based on actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

@@ -28,6 +28,30 @@
             "label": "Issuing authority",
             "value": "DGCA",
             "note": "Ratings must be kept current through checks and recency"
+          },
+          {
+            "label": "Flying Training Organisations",
+            "value": "~41, at 63 bases",
+            "note": "DGCA-approved FTOs; a Lok Sabha reply in December 2024 listed 38 FTOs at 56 bases",
+            "source": "Ministry of Civil Aviation, as reported",
+            "date": "2026-08",
+            "verified": false
+          },
+          {
+            "label": "Commercial Pilot Licences issued",
+            "value": "~1,650 in 2025",
+            "note": "Up from ~1,350 in 2024; an instructor rating is endorsed on a CPL",
+            "source": "DGCA data, as reported",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Training aircraft at FTOs",
+            "value": "~385",
+            "note": "Up from ~324 about two years earlier",
+            "source": "Ministry of Civil Aviation, as reported",
+            "date": "2026-08",
+            "verified": false
           }
         ]
       }
@@ -49,6 +73,29 @@
           "Instructing builds hours and teaching skills, but instructor jobs are limited to flying schools.",
           "Some pilots instruct for a few years before joining an airline or charter operator."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Commercial Pilot Licences issued by DGCA",
+        "unit": "licences",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021", "2022", "2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "CPLs issued",
+                "values": [862, 1165, 1622, 1347, 1652]
+              }
+            ]
+          }
+        },
+        "note": "Calendar years. A December 2024 Lok Sabha reply gave 1,213 for 2024 up to 30 November; the full-year 2024 figure here is from a later statement. Counts are of licences, not of instructor ratings.",
+        "source": "DGCA data via Lok Sabha reply (December 2024) for 2021–2023 and Ministry of Civil Aviation (August 2026) for 2024–2025, as reported",
+        "date": "2021–2025",
+        "verified": false
       }
     },
     {

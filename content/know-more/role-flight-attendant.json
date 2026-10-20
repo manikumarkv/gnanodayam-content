@@ -22,6 +22,14 @@
             "label": "Training",
             "value": "Airline initial training under DGCA rules",
             "note": "Safety, emergency procedures, first aid and service"
+          },
+          {
+            "label": "Domestic air passengers",
+            "value": "~16.1 crore",
+            "note": "Calendar year; up ~6% on 2023",
+            "source": "DGCA annual domestic traffic data (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }
@@ -55,6 +63,29 @@
           "Next roles: senior crew, cabin supervisor, trainer, or ground and hospitality roles.",
           "Fitness and medical standards apply throughout the career."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Domestic air passengers",
+        "unit": "crore passengers",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021", "2022", "2023", "2024"],
+            "series": [
+              {
+                "label": "Passengers carried",
+                "values": [8.38, 12.32, 15.2, 16.13]
+              }
+            ]
+          }
+        },
+        "note": "Calendar-year passengers on domestic flights; 2021 was still affected by Covid-19. Passenger growth is one driver of airline hiring, not a count of cabin crew jobs.",
+        "source": "DGCA annual domestic traffic data (as reported)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

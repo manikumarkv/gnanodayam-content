@@ -28,6 +28,30 @@
             "label": "Typical entry",
             "value": "Junior or trainee artist",
             "note": "Often in roto, paint, matchmove or layout"
+          },
+          {
+            "label": "Animation & VFX segment revenue",
+            "value": "~₹10,300 crore",
+            "note": "Industry estimate (₹103 billion) for the Indian segment",
+            "source": "FICCI-EY M&E report 2025, as cited in a PIB backgrounder (Feb 2026)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Change in 2024",
+            "value": "Down ~9% on 2023",
+            "note": "Linked in the report to the Hollywood writers' strike and fewer outsourced projects",
+            "source": "FICCI-EY M&E report press release (Mar 2025)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Students in B.F.A. programmes",
+            "value": "~30,000",
+            "note": "All Bachelor of Fine Arts enrolment, not only animation",
+            "source": "AISHE 2023-24, Ministry of Education (Table 11, all modes)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

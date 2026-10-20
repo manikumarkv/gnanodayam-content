@@ -21,6 +21,22 @@
           {
             "label": "Common settings",
             "value": "Wellness and fitness, food companies, NGOs, public-health programmes"
+          },
+          {
+            "label": "PG students in nutrition",
+            "value": "~4,700",
+            "note": "All modes; about 90% are women; plus ~500 in food science & nutrition",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG students in home science",
+            "value": "~87,000",
+            "note": "Includes food & nutrition and other home-science streams",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +71,29 @@
           "Next roles: senior nutritionist, programme coordinator, or a move to dietetics after an M.Sc and internship.",
           "Freelance and online counselling are common but income varies."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG enrolment in nutrition by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [3663, 4363, 4727]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
+        "source": "AISHE 2021-22 to 2023-24, postgraduate level (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

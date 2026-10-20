@@ -25,6 +25,22 @@
           {
             "label": "Professional exams",
             "value": "Insurance Institute of India (Licentiate / Associate)"
+          },
+          {
+            "label": "Insurers registered with IRDAI",
+            "value": "26 life; 25 general; 8 standalone health",
+            "note": "Reinsurers and specialised insurers are counted separately",
+            "source": "IRDAI Annual Report 2023-24 (as reported)",
+            "date": "As on 31 March 2024",
+            "verified": false
+          },
+          {
+            "label": "Insurance penetration",
+            "value": "~3.7% of GDP",
+            "note": "Insurance premiums as a share of GDP",
+            "source": "IRDAI Annual Report 2023-24 (as reported)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

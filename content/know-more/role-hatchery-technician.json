@@ -21,6 +21,29 @@
           {
             "label": "Where you work",
             "value": "Shrimp and fish hatcheries, often near the coast or reservoirs"
+          },
+          {
+            "label": "Registered coastal aquaculture farms",
+            "value": "~43,000",
+            "note": "Across 12 states/UTs; farms, not hatcheries",
+            "source": "Coastal Aquaculture Authority data, cited in PRS brief on the CAA (Amendment) Bill, 2023",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Total fish production",
+            "value": "~198 lakh tonnes",
+            "note": "Projected / provisional",
+            "source": "Handbook of Fisheries Statistics, Department of Fisheries (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "B.F.Sc students",
+            "value": "~5,000",
+            "source": "AISHE (Ministry of Education) 2023-24, programme-wise enrolment",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +77,29 @@
           "Experience can lead to hatchery manager roles or your own hatchery.",
           "Biosecurity skills carry over to farm and health roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.F.Sc enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.F.Sc students",
+                "values": [4727, 5195, 5010]
+              }
+            ]
+          }
+        },
+        "note": "Bachelor of Fisheries Science, all years of the course. Pool of graduates, not hatchery jobs.",
+        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment table — B.F.Sc., all modes",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

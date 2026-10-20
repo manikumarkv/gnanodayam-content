@@ -25,6 +25,22 @@
           {
             "label": "Work pattern",
             "value": "Shift duty and on-call for breakdowns is common"
+          },
+          {
+            "label": "Registered factories",
+            "value": "~2.67 lakh",
+            "note": "About 2.19 lakh in operation",
+            "source": "Annual Survey of Industries 2024-25 (MoSPI)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Persons engaged in factories",
+            "value": "~2.1 crore",
+            "note": "Up from ~1.96 crore in 2023-24",
+            "source": "Annual Survey of Industries 2024-25 (MoSPI)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

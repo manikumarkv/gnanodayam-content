@@ -25,6 +25,21 @@
           {
             "label": "Key concepts",
             "value": "MRP, capacity planning, inventory control"
+          },
+          {
+            "label": "UG enrolment, Mechanical Engineering",
+            "value": "~4.17 lakh",
+            "note": "About 10% women",
+            "source": "AISHE 2023-24, Ministry of Education (UG enrolment by discipline)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG pass-outs, Mechanical Engineering",
+            "value": "~1.13 lakh",
+            "source": "AISHE 2023-24, Ministry of Education (UG out-turn by discipline)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -59,6 +74,29 @@
           "The role sits between production, purchase and sales; coordination is most of the job.",
           "Plant-based, often in industrial areas outside city centres."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in Mechanical Engineering",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [543641, 471588, 417166]
+              }
+            ]
+          }
+        },
+        "note": "Counts only institutions that responded to AISHE; production and industrial engineering are counted separately and are much smaller.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (UG enrolment by discipline, based on actual responses)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

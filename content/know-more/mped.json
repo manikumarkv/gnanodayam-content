@@ -22,6 +22,22 @@
           {
             "label": "Usual entry qualification",
             "value": "B.P.Ed (or an equivalent recognised degree)"
+          },
+          {
+            "label": "Students enrolled in M.P.Ed",
+            "value": "~11,900",
+            "note": "All modes of study",
+            "source": "AISHE 2023-24, Ministry of Education (Table 11, all modes)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~33%",
+            "note": "~3,900 of ~11,900 M.P.Ed students",
+            "source": "AISHE 2023-24, Ministry of Education (Table 11, all modes)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -43,6 +59,29 @@
           "Some state teacher-recruitment rules count it for senior physical education posts.",
           "A PhD in physical education usually follows an M.P.Ed."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "M.P.Ed enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [10872, 11052, 11921]
+              }
+            ]
+          }
+        },
+        "note": "Counts only programmes recorded as M.P.Ed; M.P.E. and M.P.E.S. are listed separately in AISHE. Based on institutions that responded to the survey.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Ministry of Education (programme-wise enrolment)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

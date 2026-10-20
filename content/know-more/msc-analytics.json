@@ -22,6 +22,14 @@
           {
             "label": "Core subjects",
             "value": "Statistics, programming, machine learning, data visualisation, business applications"
+          },
+          {
+            "label": "Research & insights industry workforce",
+            "value": "~1.45 lakh full-time professionals",
+            "note": "One of several sectors that hire analytics graduates; industry size ~USD 3.2 billion",
+            "source": "Market Research Society of India (MRSI) industry report (as reported)",
+            "date": "FY2024",
+            "verified": false
           }
         ]
       }

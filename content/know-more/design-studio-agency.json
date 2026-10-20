@@ -23,6 +23,22 @@
             "label": "What hiring looks at",
             "value": "Portfolio, plus a design task or interview",
             "note": "Degree matters less than the work shown"
+          },
+          {
+            "label": "B.Des students enrolled",
+            "value": "~57,000",
+            "note": "All years of the programme, all modes; the main graduate pool studios hire from",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "M.Des students enrolled",
+            "value": "~4,600",
+            "note": "All years of the M.Des programme, all modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -44,6 +60,29 @@
           "Studio work builds range quickly; in-house teams offer more depth on one product or brand.",
           "Growth runs from designer to senior designer, art or design director, or starting your own studio."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "M.Des enrolment in India",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [4162, 4494, 4601]
+              }
+            ]
+          }
+        },
+        "note": "Counts students across both years of the M.Des programme, not jobs at studios or agencies. Based on institutions that reported to AISHE.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

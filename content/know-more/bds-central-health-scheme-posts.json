@@ -27,6 +27,22 @@
             "label": "Basic qualification",
             "value": "BDS + State Dental Council registration",
             "note": "Some posts ask for an MDS or experience"
+          },
+          {
+            "label": "BDS pass-outs a year",
+            "value": "~20,000",
+            "note": "Roughly steady from 2021-22 to 2023-24",
+            "source": "AISHE 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "BDS students enrolled",
+            "value": "~1 lakh",
+            "note": "All five years of the course; about 74% are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

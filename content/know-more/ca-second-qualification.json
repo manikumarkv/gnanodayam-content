@@ -28,6 +28,22 @@
             "label": "Bodies",
             "value": "ICSI (CS) · ICMAI (CMA)",
             "note": "Both are statutory bodies under Acts of Parliament"
+          },
+          {
+            "label": "ICSI members",
+            "value": "~75,000",
+            "note": "Approximate; not an official ICSI count",
+            "source": "Business Standard, citing ICSI (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "ICMAI members",
+            "value": "~1 lakh",
+            "note": "Approximate",
+            "source": "Business Standard, citing ICMAI (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

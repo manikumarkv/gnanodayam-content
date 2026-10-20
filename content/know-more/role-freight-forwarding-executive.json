@@ -25,6 +25,22 @@
           {
             "label": "Common tools",
             "value": "Forwarding software, carrier booking portals, Excel, email"
+          },
+          {
+            "label": "Cargo handled at major ports",
+            "value": "~855 million tonnes",
+            "note": "~1,597 million tonnes across all Indian ports",
+            "source": "Ministry of Ports, Shipping & Waterways data (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Container cargo at major ports",
+            "value": "~194 million tonnes (~23%)",
+            "note": "Sea freight is only part of forwarding work; air cargo is separate",
+            "source": "Ministry of Ports, Shipping & Waterways data (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

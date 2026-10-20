@@ -21,6 +21,22 @@
           {
             "label": "Common work areas",
             "value": "RF planning, network operations (NOC), fibre / transmission, installation and testing"
+          },
+          {
+            "label": "GATE EC paper (2024)",
+            "value": "~63,100 appeared; ~13,300 qualified",
+            "note": "78,157 registered",
+            "source": "GATE 2024 Statistical and Performance Report (IISc Bengaluru)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Students in Electronics & Communication Engineering",
+            "value": "~79,000",
+            "note": "All levels; AISHE lists ~5.7 lakh more under 'Electronics Engineering' separately. Counts only institutions that responded to AISHE, so national totals may be higher.",
+            "source": "AISHE 2023-24 (Engineering & Technology sub-stream enrolment)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

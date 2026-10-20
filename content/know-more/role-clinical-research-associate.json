@@ -25,6 +25,22 @@
           {
             "label": "Common tools",
             "value": "Electronic data capture (EDC) and trial management systems"
+          },
+          {
+            "label": "Clinical trials starting in India",
+            "value": "~580",
+            "note": "Phase I–IV trials started in the year; counts from other registries differ widely",
+            "source": "Citeline white paper (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Trial registration",
+            "value": "Mandatory in CTRI",
+            "note": "Registration has been mandatory since 15 June 2009",
+            "source": "Drugs Controller General (India); Clinical Trials Registry - India",
+            "date": "since 2009",
+            "verified": false
           }
         ]
       }

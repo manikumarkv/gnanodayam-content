@@ -27,6 +27,21 @@
           {
             "label": "Common tools",
             "value": "X-ray, CT and MRI scanners; PACS image systems"
+          },
+          {
+            "label": "UG enrolment, Paramedical Science",
+            "value": "~1.15 lakh",
+            "note": "All paramedical disciplines together, up from ~65,000 in 2021-22",
+            "source": "AISHE 2023-24, Ministry of Education (UG enrolment by discipline)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG pass-outs, Paramedical Science",
+            "value": "~17,800",
+            "source": "AISHE 2023-24, Ministry of Education (UG out-turn by discipline)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

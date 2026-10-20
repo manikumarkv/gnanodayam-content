@@ -22,6 +22,21 @@
           {
             "label": "Recruitment",
             "value": "Each institute advertises its own posts"
+          },
+          {
+            "label": "NIFT campuses",
+            "value": "20",
+            "source": "NIFT official website (campus list)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "M.Des enrolment",
+            "value": "~4,600",
+            "note": "About 60% women; one pool from which design faculty are drawn",
+            "source": "AISHE 2023-24, Ministry of Education (programme-wise enrolment, all modes)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -44,6 +59,29 @@
           "A PhD increasingly matters for permanent and senior posts.",
           "Teaching can run alongside your own practice, within institute rules."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "M.Des enrolment in India",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "M.Des enrolment",
+                "values": [4162, 4494, 4601]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE. Master's enrolment is a pipeline indicator, not a count of faculty openings.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (programme-wise enrolment, all modes)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

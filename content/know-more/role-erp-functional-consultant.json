@@ -25,6 +25,22 @@
           {
             "label": "Common tools",
             "value": "ERP software, Excel, ticketing tools"
+          },
+          {
+            "label": "India tech industry workforce",
+            "value": "~58 lakh",
+            "note": "Direct employees across all IT and tech roles, not only ERP",
+            "source": "Nasscom Strategic Review 2026 (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "B.Com students (regular mode)",
+            "value": "~34 lakh",
+            "note": "Down from ~38.7 lakh in 2021-22 (AISHE, regular mode)",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

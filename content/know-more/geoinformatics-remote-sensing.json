@@ -23,6 +23,29 @@
             "label": "Degree names",
             "value": "M.Sc./M.Tech Geoinformatics, M.Sc. Remote Sensing & GIS, PG diplomas",
             "note": "Content and eligibility differ by institution"
+          },
+          {
+            "label": "Geospatial economy (Government projection)",
+            "value": "~₹63,000 crore by 2025",
+            "note": "A forecast made in 2022 at ~12.8% annual growth, not a measured figure",
+            "source": "Ministry of Science & Technology statement, PIB (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Projected jobs in the geospatial sector",
+            "value": "~10 lakh+ by 2025",
+            "note": "Forecast; mainly through geospatial startups",
+            "source": "Ministry of Science & Technology statement, PIB (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Geospatial startups",
+            "value": "~250",
+            "source": "Ministry of Science & Technology statement (as reported)",
+            "date": "2022",
+            "verified": false
           }
         ]
       }

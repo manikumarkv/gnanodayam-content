@@ -25,6 +25,22 @@
           {
             "label": "Certifications",
             "value": "Cloud provider associate-level certifications are widely used"
+          },
+          {
+            "label": "Tech industry workforce",
+            "value": "~59.5 lakh",
+            "note": "Direct employees across IT services, BPM, products and engineering R&D; ~58 lakh in FY2025",
+            "source": "NASSCOM Strategic Review 2026 (as reported)",
+            "date": "FY2026",
+            "verified": false
+          },
+          {
+            "label": "Tech industry revenue",
+            "value": "~US$315 billion",
+            "note": "Estimate, including hardware",
+            "source": "NASSCOM Strategic Review 2026 (as reported)",
+            "date": "FY2026",
+            "verified": false
           }
         ]
       }

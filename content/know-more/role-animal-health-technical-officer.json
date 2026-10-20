@@ -21,6 +21,28 @@
           {
             "label": "Work setting",
             "value": "Field-based, with travel to dairy, poultry and other livestock units"
+          },
+          {
+            "label": "Livestock population",
+            "value": "~53.6 crore",
+            "note": "Includes ~19.2 crore cattle and ~11 crore buffaloes; the 21st census was under way in 2025",
+            "source": "20th Livestock Census, DAHD",
+            "date": "2019",
+            "verified": false
+          },
+          {
+            "label": "Milk production",
+            "value": "~248 million tonnes",
+            "source": "Basic Animal Husbandry Statistics 2025, DAHD (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Egg production",
+            "value": "~149 billion",
+            "source": "Basic Animal Husbandry Statistics 2025, DAHD (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

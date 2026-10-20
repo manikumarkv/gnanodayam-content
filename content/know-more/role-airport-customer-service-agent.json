@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Airline departure control and reservation systems"
+          },
+          {
+            "label": "Air passengers at Indian airports",
+            "value": "~376 million",
+            "note": "Domestic and international passengers handled across Indian airports",
+            "source": "Airport traffic for FY 2023-24, ICRA (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Operational airports",
+            "value": "~164",
+            "note": "Count given by the AAI Chairman in October 2025",
+            "source": "Airports Authority of India (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

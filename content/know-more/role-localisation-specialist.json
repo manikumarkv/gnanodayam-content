@@ -21,6 +21,21 @@
           {
             "label": "Common tools",
             "value": "CAT tools, localisation platforms, spreadsheets, bug trackers"
+          },
+          {
+            "label": "UG students in foreign languages",
+            "value": "~2.25 lakh",
+            "note": "All modes; about 59% are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG students in linguistics",
+            "value": "~7,100",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -54,6 +69,29 @@
           "Machine translation is common in this work; review and quality checking are core tasks.",
           "Growth leads to localisation project management or language lead roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in foreign languages by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [206714, 217370, 224924]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
+        "source": "AISHE 2021-22 to 2023-24, all modes (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

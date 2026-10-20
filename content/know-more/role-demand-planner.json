@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "Excel, ERP and planning systems, dashboards"
+          },
+          {
+            "label": "India's logistics cost",
+            "value": "~7.8–8.9% of GDP",
+            "note": "Estimate for 2021-22; earlier private estimates were higher",
+            "source": "NCAER study for DPIIT (as reported)",
+            "date": "2023",
+            "verified": false
           }
         ]
       }

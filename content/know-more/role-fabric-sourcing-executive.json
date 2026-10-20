@@ -25,6 +25,14 @@
           {
             "label": "Common starting titles",
             "value": "Sourcing executive, sourcing trainee, fabric coordinator"
+          },
+          {
+            "label": "Direct employment in the textile sector",
+            "value": "~4.5–5.6 crore",
+            "note": "Figures differ by source and by whether informal work is counted",
+            "source": "PIB / Ministry of Textiles statements (as reported)",
+            "date": "2024-25",
+            "verified": false
           }
         ]
       }

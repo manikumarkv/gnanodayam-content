@@ -21,6 +21,21 @@
           {
             "label": "Where you work",
             "value": "Nurseries, plantation sites and villages, mostly in rural areas"
+          },
+          {
+            "label": "Forest cover",
+            "value": "~7.15 lakh sq km (~21.8% of India)",
+            "source": "India State of Forest Report 2023, Forest Survey of India (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Tree cover outside forests",
+            "value": "~1.12 lakh sq km (~3.4% of India)",
+            "note": "Tree patches outside recorded forest areas, including on farms",
+            "source": "India State of Forest Report 2023, Forest Survey of India (as reported)",
+            "date": "2023",
+            "verified": false
           }
         ]
       }

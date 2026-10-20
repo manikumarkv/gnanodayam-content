@@ -23,6 +23,14 @@
             "label": "Typical qualification",
             "value": "Degree with journalism, mass communication or PR",
             "note": "Varies by state and post"
+          },
+          {
+            "label": "B.J.M.C. students",
+            "value": "~19,800",
+            "note": "Bachelor of Journalism and Mass Communication only; mass communication is also taught under other degree names",
+            "source": "AISHE (Ministry of Education) 2023-24, programme-wise enrolment",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -45,6 +53,29 @@
           "Work follows government events and deadlines, including evenings and holidays.",
           "The central counterpart, the Indian Information Service, recruits through UPSC and SSC."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.J.M.C. enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.J.M.C. students",
+                "values": [23333, 21059, 19825]
+              }
+            ]
+          }
+        },
+        "note": "Counts only the B.J.M.C. programme name; B.J., B.A. (Journalism) and similar degrees are listed separately. Pool of graduates, not government posts.",
+        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment table — B.J.M.C., all modes",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

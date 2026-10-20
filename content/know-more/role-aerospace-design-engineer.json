@@ -21,6 +21,21 @@
           {
             "label": "Common tools",
             "value": "CATIA, NX, ANSYS / NASTRAN, MATLAB"
+          },
+          {
+            "label": "Aeronautical engineering undergraduates",
+            "value": "~19,000",
+            "note": "UG enrolment in aeronautical engineering",
+            "source": "AISHE (Ministry of Education) 2023-24, Table 12 (based on actual responses)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "GATE Aerospace Engineering (AE) paper",
+            "value": "~7,600 registered · ~1,070 qualified",
+            "source": "GATE 2025 Statistical and Performance Report, IIT Roorkee",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -55,6 +70,29 @@
           "Core aerospace hiring in India is smaller than in mechanical or software fields.",
           "Next roles: stress engineer, design lead, systems engineer."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Undergraduate enrolment in aeronautical engineering",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "UG students",
+                "values": [20259, 18427, 18988]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE; aerospace-named branches may be counted elsewhere. Shows the size of the graduate pool, not job openings.",
+        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 12 — Aeronautical Engineering, UG",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

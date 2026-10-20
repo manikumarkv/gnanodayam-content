@@ -28,6 +28,30 @@
             "label": "Interior design",
             "value": "Not restricted to architects",
             "note": "Designers from other backgrounds also practise"
+          },
+          {
+            "label": "M.Arch enrolment",
+            "value": "~2,700 students",
+            "note": "All modes; based on actual institutional responses",
+            "source": "AISHE 2023-24, Table 11 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Master of Urban Planning (M.U.P.) enrolment",
+            "value": "~120 students",
+            "note": "Urban design is also offered under other M.Arch / M.Plan titles, so this covers only part of the field",
+            "source": "AISHE 2023-24, Table 11 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Registered architects",
+            "value": "~1.06 lakh",
+            "note": "Older figure; the register grows every year",
+            "source": "Council of Architecture data (as reported, INHAF webinar, Jan 2021)",
+            "date": "2020",
+            "verified": false
           }
         ]
       }
@@ -50,6 +74,29 @@
           "Interior design work is plentiful but competitive, and income depends heavily on clients and portfolio.",
           "A strong portfolio matters more than the specialisation's title."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "M.Arch enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "M.Arch enrolment",
+                "values": [3637, 3179, 2701]
+              }
+            ]
+          }
+        },
+        "note": "All specialisations of M.Arch, not urban design alone. Based on actual responses from institutions that reported data; the true national figure is likely somewhat higher.",
+        "source": "AISHE 2021-22, 2022-23, 2023-24 (Ministry of Education), Table 11",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

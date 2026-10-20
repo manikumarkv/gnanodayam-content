@@ -28,6 +28,28 @@
             "label": "State recruitment",
             "value": "State PSCs / recruitment boards",
             "note": "Post names and rules vary by state"
+          },
+          {
+            "label": "UPSC Assistant Architect (CPWD) vacancies",
+            "value": "13",
+            "note": "Degree in Architecture plus Council of Architecture registration required",
+            "source": "UPSC Advertisement No. 19/2022 (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "Earlier UPSC CPWD Assistant Architect recruitment",
+            "value": "22 posts",
+            "source": "UPSC Advertisement SPL/51/2016 (exam 2015)",
+            "date": "2016",
+            "verified": false
+          },
+          {
+            "label": "B.Arch students",
+            "value": "~65,000",
+            "source": "AISHE (Ministry of Education) 2023-24, programme-wise enrolment",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -49,6 +71,29 @@
           "Work leans towards public buildings, standards and project coordination rather than independent design.",
           "Other public employers of architects include development authorities and municipal bodies."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.Arch enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.Arch students",
+                "values": [73125, 70764, 64596]
+              }
+            ]
+          }
+        },
+        "note": "All years of the five-year course combined; this is the pool of architecture graduates, not PWD posts.",
+        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment table — B.Arch, all modes",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

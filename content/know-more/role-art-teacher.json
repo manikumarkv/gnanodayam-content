@@ -21,6 +21,14 @@
           {
             "label": "Common materials",
             "value": "Pencil, charcoal, watercolour, acrylic, clay and craft materials"
+          },
+          {
+            "label": "Students in BFA programmes",
+            "value": "~30,000",
+            "note": "Roughly flat at ~30,000 from 2021-22 to 2023-24; not all become teachers",
+            "source": "AISHE 2023-24 (programme-wise enrolment, actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

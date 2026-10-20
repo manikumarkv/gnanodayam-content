@@ -25,6 +25,22 @@
           {
             "label": "Common starting titles",
             "value": "Fund accounting associate, NAV analyst, reconciliation analyst"
+          },
+          {
+            "label": "Mutual fund industry AUM",
+            "value": "~₹83 lakh crore",
+            "note": "Assets that fund accountants value and reconcile; changes month to month",
+            "source": "AMFI monthly data (as reported)",
+            "date": "Sep 2026",
+            "verified": false
+          },
+          {
+            "label": "SEBI-registered AIFs",
+            "value": "1,700+",
+            "note": "Alternative investment funds, another major employer of fund accountants",
+            "source": "SEBI Chairman's remarks (as reported)",
+            "date": "Mar 2026",
+            "verified": false
           }
         ]
       }

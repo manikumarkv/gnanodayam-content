@@ -25,6 +25,22 @@
           {
             "label": "Key rules",
             "value": "Good Manufacturing Practice (GMP) and Good Laboratory Practice (GLP)"
+          },
+          {
+            "label": "India's bioeconomy",
+            "value": "~US$195 billion",
+            "note": "Estimate; up from ~US$166 billion in 2024",
+            "source": "India Bioeconomy Report 2026, DBT–BIRAC (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Biopharma segment",
+            "value": "~US$64.5 billion",
+            "note": "Vaccines, biologics, diagnostics and related products",
+            "source": "India Bioeconomy Report 2026, DBT–BIRAC (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -59,6 +75,40 @@
           "An M.Sc or Ph.D. opens research-focused roles.",
           "Next roles: senior associate, QA/QC officer, scientist, regulatory affairs."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "India's bioeconomy by segment",
+        "unit": "US$ billion",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Bio-industrial",
+                "value": 90.2
+              },
+              {
+                "label": "Biopharma",
+                "value": 64.5
+              },
+              {
+                "label": "Bio-services",
+                "value": 26
+              },
+              {
+                "label": "Bio-agri",
+                "value": 14.6
+              }
+            ]
+          }
+        },
+        "note": "Estimated value of economic activity, not jobs. Segment definitions are the report's own; bio-services include contract research and testing.",
+        "source": "India Bioeconomy Report 2026, DBT–BIRAC (as reported)",
+        "date": "2025",
+        "verified": false
       }
     },
     {

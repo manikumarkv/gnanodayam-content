@@ -25,6 +25,21 @@
           {
             "label": "Work pattern",
             "value": "Shift duty on the processing floor is common"
+          },
+          {
+            "label": "Direct employment in textiles",
+            "value": "45 million+",
+            "note": "Whole sector, from fibre to garments; an estimate, not a yearly count",
+            "source": "Ministry of Textiles, PIB",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Textiles & apparel share of India's exports",
+            "value": "~8%",
+            "source": "Ministry of Textiles Annual Report 2023-24",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

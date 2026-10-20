@@ -26,6 +26,22 @@
           {
             "label": "Workplace",
             "value": "Forwarder offices and airport cargo terminals"
+          },
+          {
+            "label": "Air cargo handled at Indian airports",
+            "value": "~33.7 lakh tonnes",
+            "note": "About 7% higher than the year before",
+            "source": "Ministry of Civil Aviation, as reported",
+            "date": "FY 2023-24",
+            "verified": false
+          },
+          {
+            "label": "Airport cargo handling capacity",
+            "value": "~8 million tonnes a year",
+            "note": "Capacity, not actual cargo handled",
+            "source": "Ministry of Civil Aviation (PIB), as reported",
+            "date": "FY 2023-24",
+            "verified": false
           }
         ]
       }

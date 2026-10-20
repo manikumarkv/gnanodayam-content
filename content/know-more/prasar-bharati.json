@@ -27,6 +27,30 @@
             "label": "Common hiring mode",
             "value": "Fixed-term contract posts",
             "note": "Advertised through Prasar Bharati notices"
+          },
+          {
+            "label": "Akashvani broadcasting centres",
+            "value": "591",
+            "note": "As on 31 March 2025; includes 361 relay centres",
+            "source": "Prasar Bharati Annual Report 2024-25",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Akashvani transmitters",
+            "value": "755",
+            "note": "626 FM, 122 medium wave, 7 short wave",
+            "source": "Prasar Bharati Annual Report 2024-25",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Doordarshan satellite channels",
+            "value": "35",
+            "note": "7 national/international and 28 regional/state channels",
+            "source": "Prasar Bharati Annual Report 2024-25",
+            "date": "2025",
+            "verified": false
           }
         ]
       }
@@ -49,6 +73,29 @@
           "Experience in public broadcasting is valued by other newsrooms and communication roles.",
           "Notices are irregular, so applicants track them over time."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Akashvani stations",
+        "unit": "stations",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2020", "2021", "2022", "2023", "2024"],
+            "series": [
+              {
+                "label": "Stations",
+                "values": [485, 485, 501, 580, 591]
+              }
+            ]
+          }
+        },
+        "note": "Station count as listed in the report's year-wise growth table; it includes relay centres. More stations does not mean more hiring.",
+        "source": "Prasar Bharati Annual Report 2024-25 (growth table)",
+        "date": "2020–2024",
+        "verified": false
       }
     },
     {

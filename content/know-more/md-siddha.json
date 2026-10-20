@@ -28,6 +28,22 @@
             "label": "Regulator",
             "value": "NCISM",
             "note": "National Commission for Indian System of Medicine"
+          },
+          {
+            "label": "AIAPGET Siddha candidates",
+            "value": "872 registered, 819 appeared",
+            "note": "~760 appeared in 2025 (as reported)",
+            "source": "NTA AIAPGET 2024 result press release",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Women among Siddha registrants",
+            "value": "~75%",
+            "note": "703 of 931 registered candidates",
+            "source": "NTA AIAPGET 2023 result press release",
+            "date": "2023",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,29 @@
           "Each subject has only a handful of seats, so options narrow sharply by rank.",
           "An MD opens teaching posts in Siddha colleges, research posts (such as at CCRS) and specialist practice."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Candidates who appeared for AIAPGET (Siddha)",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "Appeared",
+                "values": [904, 819, 763]
+              }
+            ]
+          }
+        },
+        "note": "Counts for the Siddha paper only; MD (Siddha) seats are far fewer than candidates. The 2025 figure is from news reports of the NTA release.",
+        "source": "NTA AIAPGET result press releases (2025 figure as reported)",
+        "date": "2023–2025",
+        "verified": false
       }
     },
     {

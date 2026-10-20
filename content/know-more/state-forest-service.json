@@ -25,6 +25,22 @@
           {
             "label": "Also required",
             "value": "Physical standards and a walking test"
+          },
+          {
+            "label": "Promotion quota into Indian Forest Service",
+            "value": "Up to ~33% of a state's IFS cadre",
+            "note": "Filled by promoting State Forest Service officers; the rest is direct recruitment through UPSC",
+            "source": "IFS (Recruitment) Rules, 1966, as summarised by UPSC",
+            "date": "1966 rules",
+            "verified": false
+          },
+          {
+            "label": "Posts in recent state notices",
+            "value": "~8–46 per notice",
+            "note": "Examples: HPPSC 8 ACF posts (2025); GPSC 26 ACF/RFO posts (2026); MPPSC 36 ACF and Forest Ranger posts (2025–26); UKPSC 46 posts including Logging Officer (2025)",
+            "source": "State PSC notices, as reported",
+            "date": "2025–26",
+            "verified": false
           }
         ]
       }

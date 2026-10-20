@@ -21,6 +21,22 @@
           {
             "label": "Subjects taught",
             "value": "Air Navigation, Meteorology, Air Regulations, Technical General/Specific"
+          },
+          {
+            "label": "Commercial pilot licences issued",
+            "value": "1,622 (2023)",
+            "note": "Up from 1,165 in 2022",
+            "source": "DGCA data (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Flying training organisations",
+            "value": "38, at 56 bases",
+            "note": "DGCA-approved, December 2024",
+            "source": "Lok Sabha reply, Ministry of Civil Aviation (as reported)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }

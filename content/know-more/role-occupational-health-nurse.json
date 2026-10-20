@@ -25,6 +25,22 @@
           {
             "label": "Works with",
             "value": "Factory medical officer and safety (EHS) team"
+          },
+          {
+            "label": "Registered nursing personnel",
+            "value": "~42.9 lakh",
+            "note": "Includes ANMs, registered nurses and midwives, and LHVs",
+            "source": "Indian Nursing Council Annual Report 2024-25 / Rajya Sabha reply (as reported)",
+            "date": "As on 31 March 2025",
+            "verified": false
+          },
+          {
+            "label": "Workers in registered factories",
+            "value": "~1.84 crore",
+            "note": "Factories covered by the Factories Act; one main setting for this role",
+            "source": "Annual Survey of Industries 2022-23, MoSPI (as reported)",
+            "date": "2022-23",
+            "verified": false
           }
         ]
       }

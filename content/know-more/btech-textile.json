@@ -28,6 +28,22 @@
             "label": "Related GATE paper",
             "value": "Textile Engineering and Fibre Science (TF)",
             "note": "Used mainly for M.Tech admissions"
+          },
+          {
+            "label": "GATE TF candidates registered",
+            "value": "~1,770",
+            "note": "Textile Engineering and Fibre Science paper; ~1,420 appeared",
+            "source": "GATE 2024 Statistical and Performance Report (IISc)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "GATE TF candidates qualified",
+            "value": "278",
+            "note": "Out of ~1,420 who appeared",
+            "source": "GATE 2024 Statistical and Performance Report (IISc)",
+            "date": "2024",
+            "verified": false
           }
         ]
       }
@@ -50,6 +66,32 @@
           "Merchandising and sourcing roles with garment exporters are buyer-facing rather than plant-based.",
           "Technical textiles (medical, geotextiles, protective wear) is a distinct sub-field with its own government mission."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "GATE Textile (TF) registrations by gender",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 1138
+              },
+              {
+                "label": "Female",
+                "value": 626
+              }
+            ]
+          }
+        },
+        "note": "Registered candidates for the TF paper in GATE 2024 (one 'Other' registration not shown). GATE takers are a subset of textile graduates.",
+        "source": "GATE 2024 Statistical and Performance Report (IISc)",
+        "date": "2024",
+        "verified": false
       }
     },
     {

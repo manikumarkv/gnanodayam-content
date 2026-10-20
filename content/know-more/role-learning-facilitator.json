@@ -25,6 +25,14 @@
           {
             "label": "Focus area",
             "value": "Foundational literacy and numeracy (FLN)"
+          },
+          {
+            "label": "Std III children (govt schools) who can read a Std II text",
+            "value": "~23%",
+            "note": "Up from ~16% in 2022; shows the scale of FLN work",
+            "source": "ASER 2024 (rural), ASER Centre",
+            "date": "2024",
+            "verified": false
           }
         ]
       }
@@ -58,6 +66,29 @@
           "Next steps: cluster coordinator, trainer, or programme roles.",
           "Experience here is relevant for later school teaching posts."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Std III children in government schools who can read a Std II text",
+        "unit": "%",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2018", "2022", "2024"],
+            "series": [
+              {
+                "label": "Can read Std II text",
+                "values": [20.9, 16.3, 23.4]
+              }
+            ]
+          }
+        },
+        "note": "Household survey of rural districts; government-school children only. Not an official government statistic.",
+        "source": "ASER 2024 national findings (rural), ASER Centre",
+        "date": "2018–2024",
+        "verified": false
       }
     },
     {

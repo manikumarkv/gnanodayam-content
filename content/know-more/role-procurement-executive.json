@@ -21,6 +21,14 @@
           {
             "label": "Common tools",
             "value": "ERP purchasing modules (SAP and similar), Excel, e-procurement portals"
+          },
+          {
+            "label": "Government e-Marketplace (GeM) orders",
+            "value": "~₹5.4 lakh crore",
+            "note": "Gross merchandise value, 2024-25",
+            "source": "GeM / AIR News (as reported)",
+            "date": "2025",
+            "verified": false
           }
         ]
       }

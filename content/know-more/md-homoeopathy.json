@@ -28,6 +28,22 @@
             "label": "Counselling",
             "value": "AACCC (All-India quota) + state authorities",
             "note": "AYUSH Admissions Central Counselling Committee"
+          },
+          {
+            "label": "AIAPGET 2025 — Homoeopathy stream",
+            "value": "~9,750 registered; ~9,300 appeared",
+            "note": "All four AYUSH streams together: ~43,800 registered, ~42,100 appeared",
+            "source": "NTA AIAPGET 2025 result data (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "PG students in homoeopathy",
+            "value": "~3,400–3,600",
+            "note": "All years of PG homoeopathy programmes; about 70% are women",
+            "source": "AISHE 2022-23 and 2023-24 (Ministry of Education), institutions that reported",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,29 @@
           "Fees and stipends differ a lot between government and private colleges.",
           "It leads to teaching posts in homoeopathy colleges, specialist practice and some government roles."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate enrolment in homoeopathy",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG students",
+                "values": [3170, 3556, 3448]
+              }
+            ]
+          }
+        },
+        "note": "Based on institutions that responded to AISHE, so the national total may be higher. Counts students across all PG years, not seats.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 (Ministry of Education)",
+        "date": "2021-24",
+        "verified": false
       }
     },
     {

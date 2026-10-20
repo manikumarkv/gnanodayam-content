@@ -21,6 +21,21 @@
           {
             "label": "Common tools",
             "value": "Hotel property management system (PMS), reservation software"
+          },
+          {
+            "label": "BHM enrolment",
+            "value": "~43,000",
+            "note": "Plus ~20,800 in BHMCT; the same course can be recorded under different names",
+            "source": "AISHE 2023-24, Ministry of Education (programme-wise enrolment, all modes)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG pass-outs, Hospitality and Tourism",
+            "value": "~5,900",
+            "source": "AISHE 2023-24, Ministry of Education (UG out-turn by discipline)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

@@ -23,6 +23,22 @@
             "label": "Recruitment",
             "value": "Each PSU's own notice",
             "note": "Written test, group discussion and/or interview"
+          },
+          {
+            "label": "Operating central PSUs (CPSEs)",
+            "value": "272",
+            "note": "Out of 448 CPSEs reported by ministries/departments",
+            "source": "Public Enterprises Survey 2023-24, Department of Public Enterprises (as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "BBA enrolment (regular mode)",
+            "value": "~7.86 lakh",
+            "note": "All BBA students in India, not only those aiming for PSU jobs",
+            "source": "AISHE 2023-24, Ministry of Education (Box 14)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -45,6 +61,35 @@
           "Public-sector bank and insurance officer exams are open to any graduate.",
           "PSU jobs come with job security and transfers across the company's locations."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "BBA enrolment, regular mode",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "B.B.A. enrolment",
+                "values": [528740, 583952, 664621, 738886, 785735]
+              }
+            ]
+          }
+        },
+        "note": "Regular mode only; based on institutions that responded to AISHE. Shows the size of the BBA pool, not PSU hiring.",
+        "source": "AISHE 2023-24, Ministry of Education (Box 14, regular mode)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
       }
     },
     {

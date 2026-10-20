@@ -21,6 +21,22 @@
           {
             "label": "Common documents",
             "value": "Bills of lading, port clearance papers, voyage instructions"
+          },
+          {
+            "label": "Cargo at major ports",
+            "value": "~855 million tonnes",
+            "note": "Up from ~819 MT in 2023-24",
+            "source": "Ministry of Ports, Shipping & Waterways (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Non-major ports' share of cargo",
+            "value": "~47%",
+            "note": "Major and non-major ports together handled ~778 MT in these six months",
+            "source": "Ministry of Ports, Shipping & Waterways, Update on Indian Port Sector",
+            "date": "Apr–Sep 2024",
+            "verified": false
           }
         ]
       }

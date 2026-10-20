@@ -21,6 +21,14 @@
           {
             "label": "Government posts",
             "value": "PET / PGT Physical Education through state and central teacher recruitment"
+          },
+          {
+            "label": "B.P.Ed students",
+            "value": "~56,000",
+            "note": "Bachelor of Physical Education, the usual qualification for PET posts",
+            "source": "AISHE (Ministry of Education) 2023-24, programme-wise enrolment",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }
@@ -55,6 +63,29 @@
           "Recruitment rules for government posts differ by state.",
           "Next roles: senior PE teacher, sports coordinator, or college teaching after an M.P.Ed."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.P.Ed enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "B.P.Ed students",
+                "values": [44224, 50411, 56072]
+              }
+            ]
+          }
+        },
+        "note": "Pool of trained PE teachers, not school vacancies.",
+        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment table — B.P.Ed., all modes",
+        "date": "2021-22 to 2023-24",
+        "verified": false
       }
     },
     {

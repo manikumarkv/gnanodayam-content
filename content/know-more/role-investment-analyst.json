@@ -26,6 +26,14 @@
           {
             "label": "Common tools",
             "value": "Excel, financial databases, PowerPoint"
+          },
+          {
+            "label": "SEBI-registered research analysts",
+            "value": "~1,580",
+            "note": "Up from ~620 in 2018-19; many analysts work inside registered firms rather than registering individually",
+            "source": "SEBI data (as reported by Business Standard)",
+            "date": "June 2025",
+            "verified": false
           }
         ]
       }

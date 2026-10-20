@@ -25,6 +25,22 @@
           {
             "label": "Work settings",
             "value": "Field offices, district programmes, head offices"
+          },
+          {
+            "label": "Total CSR spending by companies",
+            "value": "~₹34,900 crore",
+            "note": "Up from ~₹25,000 crore in 2019-20; CSR funds many NGO programmes",
+            "source": "Ministry of Corporate Affairs reply in Lok Sabha (MCA21 filings)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students in MSW programmes",
+            "value": "~1.02 lakh",
+            "note": "Up from ~81,000 in 2022-23",
+            "source": "AISHE 2023-24 (programme-wise enrolment, actual responses)",
+            "date": "2023-24",
+            "verified": false
           }
         ]
       }

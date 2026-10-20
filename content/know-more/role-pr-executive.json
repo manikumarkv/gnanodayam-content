@@ -21,6 +21,22 @@
           {
             "label": "Common tools",
             "value": "Media lists, coverage trackers, social media, email"
+          },
+          {
+            "label": "PR industry size",
+            "value": "~₹3,230 crore",
+            "note": "Estimate; up ~11% from ~₹2,910 crore a year earlier",
+            "source": "PRCAI SPRINT 2026 report (as reported)",
+            "date": "FY 2025-26",
+            "verified": false
+          },
+          {
+            "label": "Projected size",
+            "value": "~₹4,500 crore by 2030",
+            "note": "A projection, not a measured figure",
+            "source": "PRCAI SPRINT 2026 report (as reported)",
+            "date": "2030",
+            "verified": false
           }
         ]
       }

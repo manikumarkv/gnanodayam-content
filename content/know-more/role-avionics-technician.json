@@ -22,6 +22,22 @@
             "label": "Licence",
             "value": "DGCA B2 licence",
             "note": "Needs DGCA module exams and logged practical experience"
+          },
+          {
+            "label": "Estimated new AME supply",
+            "value": "~3,500 a year",
+            "note": "All AME streams, not only avionics",
+            "source": "Government reply in Parliament, citing DGCA-approved AME training institutes (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "AME licences issued by DGCA (cumulative)",
+            "value": "~14,400",
+            "note": "Older cumulative figure; all licence categories",
+            "source": "Lok Sabha reply, Ministry of Civil Aviation (as reported)",
+            "date": "to Mar 2015",
+            "verified": false
           }
         ]
       }

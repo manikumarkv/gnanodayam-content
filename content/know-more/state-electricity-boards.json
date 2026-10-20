@@ -27,6 +27,22 @@
           {
             "label": "Restructuring law",
             "value": "Electricity Act, 2003"
+          },
+          {
+            "label": "State-sector generating capacity",
+            "value": "~1.1 lakh MW",
+            "note": "About 24% of India's ~4.68 lakh MW",
+            "source": "CEA installed-capacity report (as on 31 Mar 2025)",
+            "date": "2025-03",
+            "verified": false
+          },
+          {
+            "label": "State-sector coal-based capacity",
+            "value": "~72,000 MW",
+            "note": "About a third of India's coal-based capacity",
+            "source": "CEA installed-capacity report (as on 31 Mar 2025)",
+            "date": "2025-03",
+            "verified": false
           }
         ]
       }
@@ -49,6 +65,36 @@
           "Knowledge of the state language and domicile rules often apply.",
           "Central power PSUs recruit separately, mostly through GATE."
         ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Installed generating capacity by owner",
+        "unit": "MW",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "State sector",
+                "value": 110416
+              },
+              {
+                "label": "Central sector",
+                "value": 106063
+              },
+              {
+                "label": "Private sector",
+                "value": 251407
+              }
+            ]
+          }
+        },
+        "note": "Generation capacity only, all sources including renewables; it does not show transmission or distribution, where state companies also operate.",
+        "source": "CEA installed-capacity report (as on 31 Mar 2025)",
+        "date": "2025-03",
+        "verified": false
       }
     },
     {
