@@ -1,0 +1,130 @@
+{
+  "title": "ECE — Electronics & Communication Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Electronics & Communication Engineering covers circuits, analog and digital electronics, signals and systems, microprocessors, communication systems, electromagnetics and VLSI. Graduates work on chips, embedded systems and telecom — and many also move into software jobs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in electronics branches",
+            "value": "~6.3 lakh",
+            "note": "AISHE 'Electronics Engineering' (~5.46 lakh) plus 'Electronics and Communication Engineering' (~0.79 lakh); colleges report the branch under either name",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~38%",
+            "note": "Computed from the same two AISHE rows combined",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Class 12 with Physics, Chemistry and Mathematics is required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Core electronics jobs (VLSI, embedded, telecom) often expect strong fundamentals and, for chip design, frequently an M.Tech.",
+          "A large share of ECE graduates take software jobs; colleges usually allow this in placements.",
+          "GATE (EC paper) leads to M.Tech and some PSU / research-organisation jobs; UPSC ESE has an Electronics & Telecom stream.",
+          "Common next steps: a job, GATE → M.Tech / PSU, or an MS abroad."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — electronics branches",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 390387
+              },
+              {
+                "label": "Female",
+                "value": 235095
+              }
+            ]
+          }
+        },
+        "note": "'Electronics Engineering' and 'Electronics and Communication Engineering' rows combined.",
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/btech.ece.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/btech.ece.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/btech.ece.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Embedded Systems Engineer",
+            "href": "/roles/embedded-systems-engineer"
+          },
+          {
+            "label": "VLSI Design Engineer",
+            "href": "/roles/vlsi-design-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

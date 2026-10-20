@@ -1,0 +1,96 @@
+{
+  "title": "Vocational / Skilling",
+  "kicker": "After Class 12 · Learn a trade",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Learning a specific, job-ready skill instead of — or before — a general degree. After Class 12 the main routes are ITI trade courses, apprenticeships with a stipend at a real workplace, and polytechnic diplomas. They are shorter and more hands-on than most degrees and lead to technician, trade and skilled-worker jobs, or to self-employment."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "1–3 years",
+            "note": "ITI trades 1–2 years; polytechnic diploma 3 years (2 with lateral entry); apprenticeships vary by trade"
+          },
+          {
+            "label": "ITIs in India",
+            "value": "~14,600+",
+            "note": "~3,300 government, ~11,300 private",
+            "source": "Govt statement on ITI disaffiliation (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Polytechnics registered",
+            "value": "5,194",
+            "note": "4,209 reported data",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Apprentices engaged (NAPS)",
+            "value": "~8.2 lakh",
+            "note": "FY 2024-25, up to 31 Jan 2025",
+            "source": "Lok Sabha reply, MSDE (as reported)",
+            "date": "2024-25",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Suits students who prefer hands-on learning, want to earn sooner, or aim for technician, trade or shop-floor roles. Class 12 pass students meet the minimum qualification for ITI trades; many states admit Class 12 Science or vocational students directly to the second year of a polytechnic diploma; apprenticeships need registration on the national Apprenticeship India portal."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Usually quicker to finish and cheaper than a degree, especially at government institutes.",
+          "Recognition matters: check that an ITI is NCVT/SCVT-affiliated and a polytechnic is AICTE-approved.",
+          "Many seats go unfilled, and placement quality varies widely by institute and region.",
+          "Diploma holders can join B.Tech/B.E. in the second year through lateral entry."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Apprenticeship (NAPS)",
+            "href": "/explore/vocational-skilling.apprenticeship-naps"
+          },
+          {
+            "label": "ITI (Industrial Training Institute)",
+            "href": "/explore/vocational-skilling.iti-industrial-training-institute"
+          },
+          {
+            "label": "Polytechnic Diploma",
+            "href": "/explore/vocational-skilling.polytechnic-diploma"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

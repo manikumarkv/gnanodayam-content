@@ -1,0 +1,95 @@
+{
+  "title": "B.Sc Chemistry",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree in matter and its reactions: organic, inorganic, physical and analytical chemistry, with substantial lab work and supporting Physics, Mathematics or Biology. It leads to pharmaceutical, chemical and materials industries, quality-control and testing labs, teaching and research."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "B.Sc enrolment (all majors)",
+            "value": "~44.7 lakh",
+            "note": "Regular mode; down from ~47.3 lakh in 2020-21",
+            "source": "AISHE 2023-24, Box 14 regular mode (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Chemistry",
+            "value": "~1.8 lakh",
+            "note": "M.Sc and other PG programmes, AISHE 'Science — Chemistry' row",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. scholars in Chemistry",
+            "value": "~14,400",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream, usually with Chemistry and either Mathematics or Biology, plus Physics. Central universities (Delhi University, BHU and others) admit through CUET-UG scores in the relevant subjects; many state universities and their colleges admit on Class 12 merit or a state test. You usually choose the major — or a combination of two or three subjects — at admission."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry jobs are often in quality control, production or analytical labs in pharma and chemical companies.",
+          "Research and R&D roles commonly expect an M.Sc or PhD.",
+          "IIT JAM (Chemistry paper) and CUET-PG lead to M.Sc seats.",
+          "Government routes include general-graduate exams and, after a master's, scientific and teaching posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bsc.chemistry.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc.chemistry.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc.chemistry.government"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

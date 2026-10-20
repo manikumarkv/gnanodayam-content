@@ -1,0 +1,122 @@
+{
+  "title": "Job / Work",
+  "kicker": "After Class 12 · Start earning",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Starting work right after Class 12, instead of — or alongside — a degree. There are two broad routes: a salaried entry-level job in the private sector, or working for yourself through a trade, a family business or a small venture. It brings an earlier income and real work experience, while some higher-paying and government posts later ask for a degree or a formal skill certificate."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Minimum qualification",
+            "value": "Class 12",
+            "note": "Many entry roles accept Class 10"
+          },
+          {
+            "label": "Workers who are self-employed",
+            "value": "58.4%",
+            "note": "All ages, usual status",
+            "source": "PLFS Annual Report July 2023–June 2024 (MoSPI, as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Workers in regular wage / salaried jobs",
+            "value": "21.7%",
+            "note": "The rest are casual labour (~19.8%)",
+            "source": "PLFS Annual Report July 2023–June 2024 (MoSPI, as reported)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Worker-population ratio, age 15–29",
+            "value": "41.7%",
+            "note": "Share of 15–29-year-olds who are working",
+            "source": "PLFS Annual Report July 2023–June 2024 (MoSPI, as reported)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Suits students who need or want to earn early, who have a family business or trade to join, or who prefer learning on the job. There is no entrance exam: private employers hire through interviews, walk-in drives, job fairs, staffing agencies and job portals, and self-employment needs a skill or idea, some capital and basic registrations."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Earning early can matter a lot for family finances and builds work experience before peers.",
+          "Entry-level pay is often modest, and many roles are contractual or informal, without PF or ESI cover.",
+          "Distance or open-university degrees allow studying while working, which keeps later options open.",
+          "Short skill courses — ITI, apprenticeships, polytechnic diplomas — are covered under Vocational / Skilling and can change which jobs are open."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "How India's workers are employed",
+        "unit": "%",
+        "data": {
+          "discriminant": "pie",
+          "value": {
+            "slices": [
+              {
+                "label": "Self-employed",
+                "value": 58.4
+              },
+              {
+                "label": "Regular wage / salaried",
+                "value": 21.7
+              },
+              {
+                "label": "Casual labour",
+                "value": 19.8
+              }
+            ]
+          }
+        },
+        "note": "All workers, all ages (usual status) — not specific to Class 12 pass-outs.",
+        "source": "PLFS Annual Report July 2023–June 2024 (MoSPI, as reported)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Private-sector entry roles",
+            "href": "/explore/job-work.private-sector-entry-roles"
+          },
+          {
+            "label": "Self-employment / Entrepreneurship",
+            "href": "/explore/job-work.self-employment-entrepreneurship"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "B.Sc Mathematics",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree centred on mathematics: calculus, real and complex analysis, algebra, linear algebra, differential equations, probability and numerical methods, often with Physics, Statistics or Computer Science as other subjects. It leads to analytics, finance, teaching, research and actuarial work."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "B.Sc enrolment (all majors)",
+            "value": "~44.7 lakh",
+            "note": "Regular mode; down from ~47.3 lakh in 2020-21",
+            "source": "AISHE 2023-24, Box 14 regular mode (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG students in Mathematics",
+            "value": "~1.6 lakh",
+            "note": "M.Sc and other PG programmes, AISHE 'Science — Mathematics' row",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. scholars in Mathematics",
+            "value": "~9,600",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream, usually with Mathematics (required) and Physics or Chemistry. Central universities (Delhi University, BHU and others) admit through CUET-UG scores in the relevant subjects; many state universities and their colleges admit on Class 12 merit or a state test. You usually choose the major — or a combination of two or three subjects — at admission."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Analytics, data and finance roles hire maths graduates, usually alongside skills such as Excel, SQL or Python.",
+          "IIT JAM (Mathematics paper) and CUET-PG lead to M.Sc seats; an actuarial route starts with the IAI's entrance exam (ACET).",
+          "Teaching in schools needs a B.Ed; college teaching needs a master's plus NET/SET or a PhD.",
+          "Government routes include SSC, banking and state PSC exams, where the maths background helps with quantitative sections."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bsc.mathematics.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc.mathematics.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc.mathematics.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

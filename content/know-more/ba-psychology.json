@@ -1,0 +1,113 @@
+{
+  "title": "Psychology",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Psychology as a major studies how people think, feel and behave — cognitive, developmental, social and abnormal psychology, plus research methods and statistics, with lab practicals. It is offered as a B.A. or a B.Sc., depending on the university."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in Psychology",
+            "value": "~54,500",
+            "note": "Excludes ~2,500 in Forensic Psychology",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in Psychology",
+            "value": "~2,700",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG, where the subject itself can be one of the tests counted; others admit on Class 12 marks or their own test. Some universities fix the major at admission; others, under the NEP four-year programme, let students settle it after the first year. Some B.Sc. Psychology programmes expect science subjects in Class 12."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A bachelor's degree alone does not qualify you to practise as a psychologist or therapist; that needs postgraduate training.",
+          "Practising as a clinical psychologist requires registration with the Rehabilitation Council of India (RCI) after an RCI-recognised programme; the qualifying route has been changing, so check current RCI rules.",
+          "Graduate-level work is often in HR, research assistance, NGOs, user research and support roles.",
+          "Statistics and research methods are a substantial part of the course."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate Psychology students by gender",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Women",
+                "value": 39500
+              },
+              {
+                "label": "Men",
+                "value": 14984
+              }
+            ]
+          }
+        },
+        "note": "Excludes Forensic Psychology.",
+        "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/ba.psychology.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/ba.psychology.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/ba.psychology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

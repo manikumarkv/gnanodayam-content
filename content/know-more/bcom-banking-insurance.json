@@ -1,0 +1,96 @@
+{
+  "title": "Banking & Insurance",
+  "kicker": "B.Com specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.Com focused on financial services — run as a separate programme (B.Com in Banking & Insurance, often called BBI) at the University of Mumbai and some other universities, and as elective papers elsewhere. You study banking law and operations, financial services, insurance principles and risk management, alongside core accounting, economics and business law."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "IBPS PO vacancies",
+            "value": "~5,200",
+            "note": "Public-sector bank probationary officers; tentative count at notification",
+            "source": "IBPS PO 2025 notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "IBPS Clerk vacancies",
+            "value": "~15,700",
+            "note": "After upward revisions from ~10,300 at notification",
+            "source": "IBPS CRP CSA-XV (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "LIC AAO posts",
+            "value": "~760",
+            "note": "Plus 81 Assistant Engineer posts in the same notification",
+            "source": "LIC AAO 2025 notification (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 (commerce preferred, not always required). Central and many other universities admit through CUET-UG; others admit on Class 12 marks or their own process. Where Banking & Insurance is a separate programme it has its own admission list, usually on Class 12 marks; elsewhere you choose banking and insurance papers as electives."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Bank and insurer recruitment exams (IBPS, SBI, RBI, LIC) are open to graduates of any discipline; this degree helps with the syllabus but is not required.",
+          "Private banks and insurers hire mostly into sales-linked roles — relationship, branch and policy sales — where targets are common.",
+          "Selling insurance needs an IRDAI-mandated exam; bank employees later take JAIIB and CAIIB for career progression.",
+          "Common next steps: an MBA (Finance or Banking), an M.Com, or a bank or insurer recruitment exam."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/bcom.banking-insurance.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bcom.banking-insurance.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/bcom.banking-insurance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

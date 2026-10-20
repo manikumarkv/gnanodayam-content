@@ -1,0 +1,68 @@
+{
+  "title": "ITI (Industrial Training Institute)",
+  "kicker": "Vocational / Skilling · Trade certification",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "ITIs teach trade skills — electrician, fitter, welder, mechanic, COPA (computer operator) and dozens more — in courses of 1 or 2 years. They run under the Directorate General of Training (DGT), Ministry of Skill Development and Entrepreneurship. Passing the All India Trade Test leads to a National Trade Certificate (NTC)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "1–2 years",
+            "note": "Depends on the trade"
+          },
+          {
+            "label": "ITIs in India",
+            "value": "~14,600+",
+            "note": "~3,300 government, ~11,300 private",
+            "source": "Govt statement on ITI disaffiliation (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Seats available",
+            "value": "~20 lakh",
+            "note": "Against average annual enrolment of ~14 lakh trainees",
+            "source": "Govt statement on ITI disaffiliation (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Admission is usually merit-based on Class 10 or Class 12 marks, through online counselling run by each state's directorate of employment and training; a few states also hold entrance tests. Minimum qualification depends on the trade (Class 8, 10 or 12), so Class 12 pass students qualify for most trades."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Government ITIs charge low fees; private ITI fees vary widely.",
+          "Affiliation matters: NCVT certification is recognised nationally, so check an institute's status before enrolling.",
+          "Common next steps: an apprenticeship, a technician job, self-employment, or lateral entry into a polytechnic diploma in many states.",
+          "Seats in some trades go unfilled while others are in high demand."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

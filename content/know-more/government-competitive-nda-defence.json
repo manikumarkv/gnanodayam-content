@@ -1,0 +1,65 @@
+{
+  "title": "NDA (Defence)",
+  "kicker": "Government / Competitive · Armed forces officer entry",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The National Defence Academy (NDA) at Khadakwasla, Pune trains future officers of the Army, Navy and Air Force. Cadets complete a 3-year joint course that includes a degree, then about a year at their own service academy, before being commissioned as officers. The NDA & NA exam, held by UPSC, is one of the few officer routes open straight after Class 12."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Exams per year",
+            "value": "2",
+            "note": "NDA & NA (I) and (II)"
+          },
+          {
+            "label": "Age limit",
+            "value": "16.5–19.5 years",
+            "note": "Unmarried candidates; women eligible since 2021"
+          },
+          {
+            "label": "Vacancies per exam",
+            "value": "~400",
+            "note": "406 in NDA & NA (I) 2025, including the Naval Academy",
+            "source": "UPSC notification (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 or equivalent — any stream for the Army wing, and Physics and Mathematics for the Air Force, Navy and Naval Academy; Class 12 students can apply while awaiting results. Selection: a UPSC written exam (Mathematics and a General Ability Test), then a multi-day SSB interview, then a medical examination."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Strict physical and medical standards apply, including eyesight; it helps to check them before preparing.",
+          "Clearing the written exam is only the first step — the SSB interview has its own separate assessment.",
+          "It is a long-term commitment: officers serve under a service contract with the armed forces.",
+          "Later routes also exist: the 10+2 Technical Entry Scheme (Army) for PCM students, and CDS after graduation."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

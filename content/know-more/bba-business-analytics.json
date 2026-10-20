@@ -1,0 +1,96 @@
+{
+  "title": "Business Analytics",
+  "kicker": "BBA specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A BBA track that adds data skills to management — statistics, spreadsheets, SQL and databases, data visualisation, often Python or R, and an introduction to predictive models — applied to marketing, finance and operations decisions."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Regulator",
+            "value": "AICTE approval since 2024-25",
+            "note": "Alongside the affiliating university; BBA, BCA and BMS were brought under AICTE from 2024-25",
+            "source": "AICTE Approval Process Handbook 2024-27 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "BBA students (all specialisations)",
+            "value": "~8.8 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Admission is by Class 12 marks, CUET-UG, or a university's own test. Most students pick the specialisation in the second or third year; some institutes admit directly to a named programme. Mathematics in Class 12 is expected by some institutes for this track."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Expect more maths, statistics and tool practice than in other BBA tracks.",
+          "Entry roles include data analyst, MIS executive, reporting or business analyst, and analytics trainee.",
+          "Hiring usually tests practical skills — Excel, SQL, a BI tool — and a portfolio of projects helps.",
+          "Common next steps: an MBA (often after work experience), or a master's or PG diploma in analytics or data science."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/bba.business-analytics.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bba.business-analytics.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/bba.business-analytics.job"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

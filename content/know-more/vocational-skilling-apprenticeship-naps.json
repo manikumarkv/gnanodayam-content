@@ -1,0 +1,71 @@
+{
+  "title": "Apprenticeship (NAPS)",
+  "kicker": "Vocational / Skilling · Earn while you train",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An apprenticeship is paid, structured training at a real workplace — a factory, hospital, bank, retailer or service firm — under the Apprentices Act, 1961. The National Apprenticeship Promotion Scheme (NAPS), launched in 2016, encourages employers to take on apprentices by sharing part of the stipend. Training combines basic classroom learning with on-the-job work."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Government share of stipend",
+            "value": "25%, up to ₹1,500/month",
+            "note": "Paid to the apprentice by DBT; the employer pays the rest",
+            "source": "NAPS-2 guidelines, MSDE (as reported)",
+            "date": "2024-25",
+            "verified": false
+          },
+          {
+            "label": "Minimum monthly stipend",
+            "value": "₹5,000–9,000",
+            "note": "Depends on qualification; an upward revision was proposed in 2025",
+            "source": "Apprenticeship rules (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Apprentices engaged",
+            "value": "~8.2 lakh",
+            "note": "FY 2024-25, up to 31 Jan 2025",
+            "source": "Lok Sabha reply, MSDE (as reported)",
+            "date": "2024-25",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register on the national Apprenticeship India portal, browse openings by trade and location, and apply; the employer shortlists and signs an apprenticeship contract. Each trade sets its own minimum age and education. Class 12 pass students — as well as ITI and diploma holders — can apply for fresher and optional-trade apprenticeships."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "You earn a stipend while training — it is a stipend, not a salary.",
+          "Apprentices take an assessment at the end and receive a certificate; a permanent job with the same employer is not guaranteed.",
+          "Openings cluster in industrial states and cities, so relocation may be needed.",
+          "Graduates and diploma holders also have a parallel scheme, NATS, run by the Ministry of Education."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Banking (IBPS / SBI)",
+  "kicker": "Government / Competitive · Public-sector banks",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Public-sector banks recruit clerks and probationary officers (POs) through national exams. IBPS (Institute of Banking Personnel Selection) runs common exams for most public-sector banks and for Regional Rural Banks, while the State Bank of India (SBI) runs its own. Clerks handle customer and branch operations; POs start as junior managers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Minimum qualification",
+            "value": "Graduate degree",
+            "note": "Any discipline"
+          },
+          {
+            "label": "IBPS PO 2024 — posts notified",
+            "value": "4,455",
+            "note": "Revised after notification",
+            "source": "IBPS notification (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "IBPS Clerk 2024 — posts notified",
+            "value": "~6,128",
+            "note": "Revised upward later",
+            "source": "IBPS notification (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A graduate degree in any discipline is required, so after Class 12 students complete a degree first, and many start preparing during it. Age limits are typically 20–28 for clerk and 20–30 for PO, with category relaxations — the notification for each cycle is the reference. Selection runs through an online preliminary exam and a main exam, plus an interview for PO posts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Exams test reasoning, quantitative aptitude and English, with banking and general awareness in the mains.",
+          "PO postings can be anywhere in India; clerk recruitment is state-wise and often requires the local language.",
+          "Vacancy numbers change every year and are often revised after the notification.",
+          "IBPS RRB exams are a separate entry, for Officer Scale-I and Office Assistant posts in Regional Rural Banks."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

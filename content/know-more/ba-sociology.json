@@ -1,0 +1,87 @@
+{
+  "title": "Sociology",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Sociology as a major studies society and social groups — caste, class, gender, family, religion, rural and urban life — along with classical and Indian sociological thought and social research methods such as surveys and fieldwork."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in Sociology",
+            "value": "~1.9 lakh",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in Sociology",
+            "value": "~3,300",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG, where the subject itself can be one of the tests counted; others admit on Class 12 marks or their own test. Some universities fix the major at admission; others, under the NEP four-year programme, let students settle it after the first year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Fieldwork and survey methods are part of many courses.",
+          "Graduates work in NGOs and development projects, CSR, social and market research, HR and journalism.",
+          "Sociology is offered as an optional subject in the UPSC civil-services exam.",
+          "Common next steps: an M.A. Sociology, an MSW, development studies, or an MBA in HR."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/ba.sociology.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/ba.sociology.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/ba.sociology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

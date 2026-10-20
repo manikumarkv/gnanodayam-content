@@ -1,0 +1,96 @@
+{
+  "title": "Economics",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Economics as a major studies how people, firms and governments make choices. Core papers cover microeconomics, macroeconomics, statistics and econometrics, Indian economy, development, public finance and international trade. The mathematical content rises in Honours and postgraduate years; some institutions offer it as a B.Sc."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in Economics",
+            "value": "~1.2 lakh",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Indian Economic Service vacancies",
+            "value": "12",
+            "note": "Via the UPSC IES/ISS exam, which needs a postgraduate degree in economics or a related field",
+            "source": "UPSC IES/ISS 2025 notification (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG, where the subject itself can be one of the tests counted; others admit on Class 12 marks or their own test. Some universities fix the major at admission; others, under the NEP four-year programme, let students settle it after the first year. Some universities, such as Delhi University for B.A. (Hons) Economics, require Mathematics in Class 12 and in CUET-UG."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Comfort with maths and statistics matters more here than in most B.A. subjects.",
+          "Research and policy roles (RBI, think tanks, the Indian Economic Service) usually need a master's degree.",
+          "With a bachelor's, graduates often work in analytics, banking, consulting support, journalism and sales.",
+          "Common next steps: an M.A. or M.Sc. Economics, an MBA, or civil-services preparation."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/ba.economics.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/ba.economics.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/ba.economics.job"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

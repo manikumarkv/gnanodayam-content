@@ -1,0 +1,88 @@
+{
+  "title": "Operations",
+  "kicker": "BBA specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A BBA track focused on making the business run — operations management, supply chain and logistics, procurement and inventory, quality management (lean, Six Sigma), project management and basic operations research."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Regulator",
+            "value": "AICTE approval since 2024-25",
+            "note": "Alongside the affiliating university; BBA, BCA and BMS were brought under AICTE from 2024-25",
+            "source": "AICTE Approval Process Handbook 2024-27 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "BBA students (all specialisations)",
+            "value": "~8.8 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Admission is by Class 12 marks, CUET-UG, or a university's own test. Most students pick the specialisation in the second or third year; some institutes admit directly to a named programme. "
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is close to the ground — warehouses, plants, e-commerce fulfilment and procurement desks — and can involve shifts or site postings.",
+          "Entry roles include operations executive, supply-chain or logistics coordinator, and procurement or inventory analyst.",
+          "Spreadsheet and ERP skills (for example SAP) are commonly expected.",
+          "Common next steps: an MBA (Operations or Supply Chain), or certifications such as Six Sigma."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/bba.operations.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bba.operations.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/bba.operations.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

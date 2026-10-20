@@ -1,0 +1,126 @@
+{
+  "title": "EEE — Electrical & Electronics Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Electrical & Electronics Engineering (also offered as Electrical Engineering) covers circuits, electrical machines, power systems, power electronics, control systems and measurements, with some electronics and programming. It leads to the power, energy, manufacturing and electric-vehicle sectors, and to government utilities."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in electrical branches",
+            "value": "~3.4 lakh",
+            "note": "AISHE 'Electrical Engineering' (~3.16 lakh) plus 'Electrical and Electronics Engineering' (~0.21 lakh)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~27%",
+            "note": "Computed from the same two AISHE rows combined",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Class 12 with Physics, Chemistry and Mathematics is required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Power utilities and electricity-sector PSUs are a common employer; several recruit through GATE (EE paper).",
+          "UPSC Engineering Services (ESE) has an Electrical Engineering stream.",
+          "Overlap with electronics means some graduates move into embedded or software roles.",
+          "Common next steps: a core job, GATE → PSU / M.Tech, or state electricity board exams."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — electrical branches",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 247935
+              },
+              {
+                "label": "Female",
+                "value": 89393
+              }
+            ]
+          }
+        },
+        "note": "'Electrical Engineering' and 'Electrical and Electronics Engineering' rows combined.",
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/btech.eee.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/btech.eee.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/btech.eee.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Embedded Systems Engineer",
+            "href": "/roles/embedded-systems-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

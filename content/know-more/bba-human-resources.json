@@ -1,0 +1,88 @@
+{
+  "title": "Human Resources",
+  "kicker": "BBA specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A BBA track focused on people at work — recruitment, training and development, compensation, performance management, organisational behaviour, industrial relations and labour law."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Regulator",
+            "value": "AICTE approval since 2024-25",
+            "note": "Alongside the affiliating university; BBA, BCA and BMS were brought under AICTE from 2024-25",
+            "source": "AICTE Approval Process Handbook 2024-27 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Labour law framework",
+            "value": "4 Labour Codes",
+            "note": "In force from 21 November 2025, replacing 29 central labour laws",
+            "source": "Ministry of Labour & Employment notifications (as reported)",
+            "date": "2025-11",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Admission is by Class 12 marks, CUET-UG, or a university's own test. Most students pick the specialisation in the second or third year; some institutes admit directly to a named programme. "
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry roles are usually HR executive, recruiter or talent acquisition, HR operations and payroll.",
+          "Recruitment roles, especially at staffing firms, are often target-driven.",
+          "The new Labour Codes mean labour-law syllabi and HR compliance practice are being updated.",
+          "Many HR careers move forward through an MBA in HR or a PG diploma in HR or industrial relations."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/bba.human-resources.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bba.human-resources.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/bba.human-resources.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

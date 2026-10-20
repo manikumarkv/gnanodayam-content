@@ -1,0 +1,96 @@
+{
+  "title": "Taxation",
+  "kicker": "B.Com specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.Com with a tax focus — offered as B.Com (Taxation) at some universities and as tax electives within a general or Honours B.Com at others. You study income tax, GST and customs, tax procedure and return filing, alongside accounting, auditing and business law. The subject is applied and changes with every Union Budget; the Income-tax Act, 2025 replaced the 1961 Act from 1 April 2026."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Active GST registrations",
+            "value": "~1.5 crore",
+            "note": "Normal and composition taxpayers",
+            "source": "PIB / SBI Research (as reported)",
+            "date": "Apr–May 2025",
+            "verified": false
+          },
+          {
+            "label": "Income-tax returns filed",
+            "value": "~7.3 crore",
+            "note": "Filed by the 31 July 2024 due date, AY 2024-25",
+            "source": "Income Tax Department (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "SSC CGL vacancies",
+            "value": "~14,600",
+            "note": "All posts; includes Inspector posts in Income Tax and CBIC (GST and Customs). Tentative",
+            "source": "SSC CGL 2025 notification (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 (commerce preferred, not always required). Central and many other universities admit through CUET-UG; others admit on Class 12 marks or their own process. Where Taxation is a named programme you choose it at admission; elsewhere you pick tax papers as electives in later semesters."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is seasonal, peaking around return-filing and tax-audit deadlines.",
+          "Commerce graduates can enrol as GST practitioners; much advisory and litigation work is done by chartered accountants and lawyers.",
+          "The new Income-tax Act, 2025 means study material and practice are being rewritten.",
+          "Common next steps: CA, CMA or CS, an LL.B for tax law, an M.Com, or SSC and state tax-department exams."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Government",
+            "href": "/explore/bcom.taxation.government"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bcom.taxation.higher-education"
+          },
+          {
+            "label": "Job",
+            "href": "/explore/bcom.taxation.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

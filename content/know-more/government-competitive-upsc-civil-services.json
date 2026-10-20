@@ -1,0 +1,78 @@
+{
+  "title": "UPSC Civil Services",
+  "kicker": "Government / Competitive · IAS, IPS, IFS and more",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Civil Services Examination (CSE), conducted by UPSC, recruits for the IAS, IPS, Indian Foreign Service and other Group A and Group B central services. It has three stages — Preliminary (objective), Main (written, essay-type) and a Personality Test (interview) — and one full cycle takes about a year."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Vacancies, CSE 2024",
+            "value": "~1,056",
+            "note": "At notification",
+            "source": "UPSC notification (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Candidates appeared in Prelims",
+            "value": "~5.8 lakh",
+            "note": "Out of ~9.9 lakh applications",
+            "source": "UPSC data (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Qualified for Mains",
+            "value": "14,627",
+            "source": "UPSC Prelims result (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Recommended for appointment",
+            "value": "1,009",
+            "note": "Final result, April 2025; 114 more later from the reserve list",
+            "source": "UPSC final result (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any discipline is required (final-year students can sit the Prelims). The general-category age range is 21–32, with relaxations for reserved categories and a limit on the number of attempts for some categories. After Class 12, students first complete a degree, and many begin reading for the exam during it."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Very few candidates are selected relative to the number who apply, and many take several attempts.",
+          "The graduation subject does not restrict you; an optional subject is chosen for the Main exam.",
+          "Service and cadre allocation depend on final rank and stated preferences.",
+          "Preparation can take years, so a parallel career or fallback plan is common."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
