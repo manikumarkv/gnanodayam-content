@@ -1,0 +1,83 @@
+{
+  "title": "Drug Safety Associate",
+  "kicker": "Role · Pharma & pharmacovigilance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A drug safety associate records and assesses reports of side effects from medicines. Pharmaceutical companies and the service firms that run safety work for them are the main employers. A typical day involves reading case reports, entering them into a safety database, coding them, and checking them against reporting timelines."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Pharm, M.Pharm or Pharm.D; some employers also take life sciences or nursing graduates"
+          },
+          {
+            "label": "Common tools",
+            "value": "Safety databases, MedDRA coding dictionary"
+          },
+          {
+            "label": "India's programme",
+            "value": "Pharmacovigilance Programme of India (PvPI), run by the Indian Pharmacopoeia Commission"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers are usually hired straight after a pharmacy degree into case processing roles, often through campus drives or walk-ins. A short course in pharmacovigilance can help but is not always required. Attention to detail and clear English writing matter in the selection tests."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Case intake and data entry",
+          "Medical coding with MedDRA",
+          "Writing case narratives",
+          "Meeting regulatory reporting timelines"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common path: drug safety associate → senior associate → safety scientist or aggregate reports roles.",
+          "Early work is repetitive and target-driven.",
+          "Some roles involve shifts to match overseas clients.",
+          "Jobs are concentrated in cities with pharma and service hubs."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Pharm.D · Job / Practice",
+            "href": "/explore/pharm-d.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Unani Physician",
+  "kicker": "Role · AYUSH medicine",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A Unani physician diagnoses patients using Unani principles, such as pulse and temperament assessment, and treats them with medicines, diet and regimental therapies like cupping (hijama). Employers include government Unani hospitals and dispensaries, private clinics and therapy centres, and many physicians run their own registered practice. A typical day is outpatient consultations, therapy sessions and prescribing."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BUMS",
+            "note": "5.5 years including a one-year internship"
+          },
+          {
+            "label": "Registration",
+            "value": "State Board of Unani/Indian Medicine or the central register",
+            "note": "Regulated by the National Commission for Indian System of Medicine (NCISM)"
+          },
+          {
+            "label": "Registered Unani practitioners",
+            "value": "~50,000–55,000",
+            "source": "Ministry of Ayush, registered practitioners (as reported in Parliament replies)",
+            "date": "2021",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Admission to BUMS is through NEET-UG, with AACCC counselling for the all-India quota and state counselling for state seats. Many colleges require Urdu at school level or teach it in the first year. After the internship, registration with the state board allows practice; government posts come through state public service commissions and health department notices."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clinical examination, including pulse (nabz) and temperament assessment",
+          "Prescribing Unani formulations and diet",
+          "Regimental therapies such as cupping and massage",
+          "Reading Unani texts, often in Urdu"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Colleges and jobs are concentrated in a few states, including Uttar Pradesh, Telangana, Karnataka, Maharashtra and Delhi.",
+          "An MD/MS (Unani) through AIAPGET leads to specialist and teaching posts.",
+          "Building a private practice usually takes several years."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BUMS · Job / Practice",
+            "href": "/explore/bums.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Sports Physiotherapist",
+  "kicker": "Role · Sports & rehabilitation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A sports physiotherapist works with athletes to prevent injuries, treat them when they happen and guide the return to play. Employers include sports teams, academies, fitness centres, sports-medicine clinics and sports bodies. Days mix injury screening and taping at training with treatment sessions, rehab plans and match-day cover."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPT, often followed by an MPT (Sports)"
+          },
+          {
+            "label": "Work settings",
+            "value": "Teams, academies, gyms and sports-medicine clinics"
+          },
+          {
+            "label": "Common tools",
+            "value": "Taping, exercise equipment, strength and movement testing"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Finish a BPT and internship, then build sports exposure; volunteering at tournaments, academies or clubs is a common start. Many add an MPT (Sports) or sports-physiotherapy certifications before getting team roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Injury assessment on the field and in the clinic",
+          "Taping, strapping and first-response care",
+          "Strength, conditioning and return-to-play planning",
+          "Injury-prevention screening",
+          "Working alongside coaches, trainers and doctors"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Team roles are few and competitive; many work in clinics or gyms alongside event work.",
+          "Work follows the sports calendar, with travel and weekend matches.",
+          "Later roles include lead physiotherapist for a team or academy, or running a sports-injury clinic."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPT · Job / Practice",
+            "href": "/explore/bpt.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

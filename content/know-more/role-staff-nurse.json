@@ -1,0 +1,88 @@
+{
+  "title": "Staff Nurse",
+  "kicker": "Role · Nursing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A staff nurse is a registered nurse who gives direct care to patients in hospital wards, ICUs, operation theatres and clinics. Employers include government and private hospitals, nursing homes and clinics. A shift involves assessing patients, giving medicines and treatments as prescribed, monitoring vital signs, keeping records and handing over to the next shift."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Nursing or GNM",
+            "note": "Registration with a State Nursing Council is required"
+          },
+          {
+            "label": "Registered nursing personnel in India",
+            "value": "~33–36 lakh",
+            "note": "All categories, including ANMs and GNMs",
+            "source": "Indian Nursing Council figures in Parliament replies (as reported)",
+            "date": "2022–24",
+            "verified": false
+          },
+          {
+            "label": "Common tools",
+            "value": "Patient monitors, infusion pumps, medication charts, hospital record systems"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, then a 4-year B.Sc Nursing through state or institution entrance tests, or the GNM diploma. After registering with the State Nursing Council, freshers join hospitals as staff nurses; government posts are filled through recruitment exams such as AIIMS NORCET and state nursing recruitment."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Patient assessment and vital-sign monitoring",
+          "Safe medication administration",
+          "Infection control and aseptic technique",
+          "Clear charting and shift handovers",
+          "Basic and advanced life support"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Growth paths include senior nurse, ward in-charge and nursing supervisor; an M.Sc Nursing opens teaching and specialist roles.",
+          "Rotating shifts, including nights and weekends, are standard.",
+          "Some nurses later work abroad after clearing that country's licensing exams."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Nursing · Job / Practice",
+            "href": "/explore/bsc-nursing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

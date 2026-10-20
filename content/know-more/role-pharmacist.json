@@ -1,0 +1,86 @@
+{
+  "title": "Pharmacist",
+  "kicker": "Role · Healthcare",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A pharmacist dispenses prescribed medicines, checks prescriptions for errors and advises patients on correct use. Hospitals, retail and chain pharmacies, and government health services hire pharmacists. A typical day is dispensing, stock and expiry checks, and patient counselling."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "D.Pharm, B.Pharm or Pharm.D"
+          },
+          {
+            "label": "Registration",
+            "value": "State Pharmacy Council",
+            "note": "Under the Pharmacy Act, 1948; overseen by the Pharmacy Council of India"
+          },
+          {
+            "label": "Registered pharmacists",
+            "value": "~12–14 lakh",
+            "source": "Pharmacy Council of India (as reported)",
+            "date": "2021",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After the course, register with the State Pharmacy Council. Freshers join hospital or retail pharmacies as pharmacists; government pharmacist posts come through state health department and staff selection notices."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading and checking prescriptions",
+          "Knowledge of drug interactions and dosing",
+          "Patient counselling",
+          "Inventory and record keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Retail pharmacy pay is often modest; hospital and clinical roles may offer more growth.",
+          "A registered pharmacist is required to run a licensed pharmacy, which allows opening one's own.",
+          "An M.Pharm or Pharm.D opens clinical, industry and teaching roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Pharm · Job / Practice",
+            "href": "/explore/bpharm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Corporate Lawyer",
+  "kicker": "Role · Law & transactions",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A corporate lawyer works at a law firm advising companies on deals and business matters. Clients include companies, investors and founders. A typical day involves drafting and reviewing transaction documents, running due diligence on companies, researching regulations, and working to deadlines set by deals."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "LLB (3-year after graduation, or 5-year integrated after Class 12)"
+          },
+          {
+            "label": "Common work",
+            "value": "Mergers and acquisitions, fundraising, joint ventures, securities and regulatory advice"
+          },
+          {
+            "label": "Common tools",
+            "value": "Word processors, virtual data rooms, legal research databases"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Firms usually hire freshers as associates, often from law school campus placements or after internships at the firm. Good academic records and drafting skills matter. Enrolling with a State Bar Council is common but is not always needed for advisory (non-court) work."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Drafting share purchase, investment and shareholder agreements",
+          "Due diligence on companies and their records",
+          "Legal research on company, securities and foreign investment law",
+          "Working in teams under tight deal deadlines"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common path: associate → senior associate → principal associate → partner.",
+          "Hours can be long, especially near deal closings.",
+          "Experience here often leads to in-house legal roles later.",
+          "Hiring is concentrated in large cities."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "LLB (Law) · Job / Practice",
+            "href": "/explore/llb.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

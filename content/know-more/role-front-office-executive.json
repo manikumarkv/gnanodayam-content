@@ -1,0 +1,78 @@
+{
+  "title": "Front Office Executive",
+  "kicker": "Role · Hospitality",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A front office executive works at a hotel's front desk, handling check-in and check-out, reservations, billing and guest requests. Hotels and resorts hire for this role. Work is in shifts, including nights and weekends."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BHM or a hospitality diploma"
+          },
+          {
+            "label": "Common tools",
+            "value": "Hotel property management system (PMS), reservation software"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join through campus placement or hotel walk-ins as a front office associate or executive. Good spoken English and, where relevant, a regional or foreign language help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Guest communication",
+          "Reservations and room allocation",
+          "Billing and cash handling",
+          "Handling complaints calmly"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Typical path: front office supervisor, duty manager, front office manager.",
+          "Shift work and standing for long hours are part of the role.",
+          "Experience here can lead to guest relations or sales roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BHM (Hotel Management) · Job / Industry",
+            "href": "/explore/bhm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

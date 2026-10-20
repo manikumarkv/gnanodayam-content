@@ -1,0 +1,87 @@
+{
+  "title": "Siddha Physician",
+  "kicker": "Role · AYUSH medicine",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A Siddha physician diagnoses patients using the Siddha system, including pulse reading, and treats them with herbal and mineral medicines, diet and therapies such as varmam. Most work is in Tamil Nadu and nearby regions, in government Siddha wings of hospitals, private clinics, varmam centres or the physician's own registered practice. A typical day is outpatient consultations, therapy sessions and preparing or prescribing medicines."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BSMS",
+            "note": "5.5 years including a one-year internship"
+          },
+          {
+            "label": "Registration",
+            "value": "Tamil Nadu Board of Indian Medicine or another state board",
+            "note": "Regulated by the National Commission for Indian System of Medicine (NCISM)"
+          },
+          {
+            "label": "Registered Siddha practitioners",
+            "value": "~8,000–10,000",
+            "source": "Ministry of Ayush, registered practitioners (as reported in Parliament replies)",
+            "date": "2021",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Admission to BSMS is through NEET-UG, with AACCC counselling for all-India quota seats and state counselling (mainly Tamil Nadu) for the rest. Classical Siddha texts are in Tamil, so Tamil is a practical requirement. After the internship, registration with the state board allows practice; government posts come through state health department and public service commission notices."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Pulse diagnosis (naadi) and clinical examination",
+          "Prescribing herbal and herbo-mineral formulations",
+          "Varmam and external therapies",
+          "Reading classical Tamil texts"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The field is small and largely based in Tamil Nadu, which limits job locations.",
+          "An MD (Siddha) through AIAPGET leads to specialist and teaching posts.",
+          "Some physicians combine practice with teaching or medicine manufacturing."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BSMS · Job / Practice",
+            "href": "/explore/bsms.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

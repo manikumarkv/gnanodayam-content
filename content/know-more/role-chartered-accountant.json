@@ -1,0 +1,95 @@
+{
+  "title": "Chartered Accountant",
+  "kicker": "Role · Finance & accounting",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A chartered accountant is a member of the Institute of Chartered Accountants of India (ICAI) who handles audit, taxation, accounting and advisory work. CAs work in audit and tax firms, in company finance teams, or in their own practice after taking ICAI's certificate of practice. Work includes statutory and tax audits, GST and income-tax filings, financial statements and advising clients."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course stages",
+            "value": "Foundation → Intermediate → Final",
+            "note": "With 2 years of articleship under a practising CA (current scheme)"
+          },
+          {
+            "label": "ICAI members",
+            "value": "~4 lakh+",
+            "source": "ICAI (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "CA Final pass rate (both groups)",
+            "value": "~10–20% per sitting",
+            "note": "Varies by attempt",
+            "source": "ICAI result announcements (as reported)",
+            "date": "2023–24",
+            "verified": false
+          },
+          {
+            "label": "Common tools",
+            "value": "Tally, Excel, GST portal, income-tax e-filing portal"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register with ICAI for the Foundation after Class 12, or enter directly at Intermediate as a graduate who meets ICAI's marks criteria. Clear Intermediate, complete articleship and the required training, then pass the Final to become a member. Practising in one's own name needs ICAI's certificate of practice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Auditing and checking financial records",
+          "Direct and indirect tax (income tax, GST) compliance",
+          "Preparing financial statements under Ind AS",
+          "Reading and applying the Companies Act and tax law",
+          "Client communication and report writing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many CAs spend a few years in a firm or in industry before starting their own practice.",
+          "The course is long and exam-heavy; more than one attempt per level is common.",
+          "Building a practice takes time; early income depends on the client base."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "CA · Job / Practice",
+            "href": "/explore/ca.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

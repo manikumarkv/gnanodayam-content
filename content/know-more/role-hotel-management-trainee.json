@@ -1,0 +1,79 @@
+{
+  "title": "Hotel Management Trainee",
+  "kicker": "Role · Hospitality",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A hotel management trainee follows a structured programme, rotating through departments such as front office, food and beverage, housekeeping and kitchen before taking a supervisory role in one of them. Hotel groups run these programmes and hire mostly from hotel management campuses. A typical day is working shifts in the current department under a manager."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BHM or a B.Sc in Hospitality"
+          },
+          {
+            "label": "Departments you rotate through",
+            "value": "Front office, food & beverage, housekeeping and kitchen",
+            "note": "Varies by hotel and programme"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Selection is usually through campus placement, with group discussions and interviews. Seats are limited and competitive, and trainees are often expected to relocate."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Operations across hotel departments",
+          "Team supervision",
+          "Guest service",
+          "Basic cost and revenue reporting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "After the programme, trainees usually become assistant managers or supervisors in one department.",
+          "Willingness to relocate is often a condition.",
+          "Hours are long and include weekends and holidays."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BHM (Hotel Management) · Job / Industry",
+            "href": "/explore/bhm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

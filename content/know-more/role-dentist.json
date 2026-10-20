@@ -1,0 +1,88 @@
+{
+  "title": "Dentist",
+  "kicker": "Role · Healthcare",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A dentist examines, diagnoses and treats problems of the teeth, gums and mouth, from fillings and extractions to root canals and cleanings. Dentists work in private clinics, hospitals, dental chains and government health services, and many eventually open their own clinic. A typical day is a schedule of patient appointments and procedures."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BDS",
+            "note": "5 years including a one-year internship"
+          },
+          {
+            "label": "Registration",
+            "value": "State Dental Council",
+            "note": "Regulated by the Dental Council of India"
+          },
+          {
+            "label": "Registered dentists",
+            "value": "~2.7–3.3 lakh",
+            "source": "Dental Council of India (as reported)",
+            "date": "2021",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Admission to BDS is through NEET-UG, with MCC counselling for all-India quota seats and state counselling for the rest. After the internship and registration with a State Dental Council, freshers usually join a clinic or chain as an associate dentist. Government dental surgeon posts come through state public service commissions and health department notices."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Oral examination and diagnosis",
+          "Restorative procedures such as fillings and root canals",
+          "Extractions and minor oral surgery",
+          "Infection control and sterilisation",
+          "Patient communication"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Cities have many dentists; early pay as an associate is often modest.",
+          "Opening a clinic needs significant investment in equipment.",
+          "An MDS through NEET-MDS leads to specialities such as orthodontics or oral surgery."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BDS · Job / Practice",
+            "href": "/explore/bds.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

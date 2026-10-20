@@ -1,0 +1,88 @@
+{
+  "title": "Web Developer",
+  "kicker": "Role · Software & IT",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A web developer builds and maintains websites and web apps. IT service firms, product companies, agencies and many non-tech businesses hire them, and some work as freelancers. A typical day involves writing and testing code, fixing bugs, and working with designers and other developers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BCA, B.Tech/B.E. or B.Sc (Computer Science/IT); a strong portfolio can also count"
+          },
+          {
+            "label": "Common tools",
+            "value": "HTML, CSS, JavaScript, a web framework, Git"
+          },
+          {
+            "label": "Tech industry workforce",
+            "value": "~54 lakh",
+            "note": "All tech roles, not only web developers",
+            "source": "NASSCOM Strategic Review (as reported)",
+            "date": "FY2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter through campus placements, off-campus hiring tests or internships. Projects you can show, such as live websites or code on a public repository, often matter as much as the degree. Small firms and agencies are common first employers."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Building page layouts with HTML and CSS",
+          "Writing JavaScript for interactive features",
+          "Working with databases and server-side code",
+          "Using Git and debugging tools",
+          "Making sites fast and accessible"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: frontend, backend or full-stack developer, then senior or lead roles.",
+          "Tools change often, so continuous learning is part of the job.",
+          "Entry-level competition is high; a portfolio helps you stand out.",
+          "Freelance and remote work are possible."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BCA · Job",
+            "href": "/explore/bca.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

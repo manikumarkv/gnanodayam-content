@@ -1,0 +1,89 @@
+{
+  "title": "Deck Officer",
+  "kicker": "Role · Merchant navy · Deck",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A deck officer keeps watch on the bridge of a merchant ship, navigating it safely and overseeing cargo operations and safety equipment. Shipping companies and ship-management firms hire them for contracts at sea that often last several months. A typical day is split into watches, with navigation, cargo duties and drills in between."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Nautical Science (3 years) or Diploma in Nautical Science (1 year), followed by sea time"
+          },
+          {
+            "label": "Rank ladder",
+            "value": "Deck cadet → Third Officer → Second Officer → Chief Officer → Master",
+            "note": "Each step needs a DG Shipping Certificate of Competency"
+          },
+          {
+            "label": "Indian seafarers (all ranks)",
+            "value": "~2.5–3 lakh",
+            "note": "Officers and ratings, deck and engine combined",
+            "source": "Ministry of Ports, Shipping and Waterways via PIB (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After Class 12 with Physics, Chemistry and Maths, join a DG Shipping-approved course (entry often through IMU-CET or a sponsoring company's test) and meet the medical and eyesight standards. You then sail as a deck cadet to build sea time, and pass the Second Mate exams to get your first officer certificate."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Navigation and bridge watchkeeping",
+          "Cargo planning and handling",
+          "Safety drills, firefighting and lifesaving equipment",
+          "Collision regulations and maritime law",
+          "Working in a small crew far from shore"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Getting a cadet berth with a company is a common hurdle after the course.",
+          "Long months at sea away from family are part of the job.",
+          "Later moves ashore include marine superintendent, port and surveyor roles.",
+          "Pay and benefits depend heavily on the company and the type of ship."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Merchant Navy · Job at Sea / Ashore",
+            "href": "/explore/merchant-navy.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

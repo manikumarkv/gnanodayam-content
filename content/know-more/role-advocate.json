@@ -1,0 +1,83 @@
+{
+  "title": "Advocate (Litigation)",
+  "kicker": "Role · Law & courts",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An advocate represents clients in courts and tribunals. Most start in the chambers of a senior advocate and later build their own practice; some work for government departments or legal aid. A typical day involves court appearances, drafting petitions and replies, meeting clients, and preparing for hearings."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "LLB (3-year after graduation, or 5-year integrated after Class 12)"
+          },
+          {
+            "label": "To practise",
+            "value": "Enrol with a State Bar Council and pass the All India Bar Examination (AIBE)"
+          },
+          {
+            "label": "Where the work is",
+            "value": "District courts, High Courts, tribunals and the Supreme Court"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Complete an LLB from a BCI-recognised college (entry through CLAT, AILET, state law CETs or university tests), enrol with your State Bar Council, and pass AIBE to get a Certificate of Practice. Most freshers then join a senior advocate's chambers as a junior to learn court practice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Drafting petitions, plaints, written statements and applications",
+          "Arguing matters before a judge",
+          "Legal research on statutes and case law",
+          "Handling clients and court procedure"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Early years in litigation often pay little; income tends to build slowly with a client base.",
+          "Common paths: own practice, government counsel posts, or judicial service exams.",
+          "Advocates can specialise in areas such as civil, criminal, tax or family law.",
+          "Building a practice usually takes years of steady work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "LLB (Law) · Job / Practice",
+            "href": "/explore/llb.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Regulatory Affairs Associate",
+  "kicker": "Role · Pharma regulation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A regulatory affairs associate prepares, compiles and tracks the documents a pharma company needs to get its medicines approved and keep them compliant after launch. Employers include pharma and generic-drug manufacturers, contract research organisations and regulatory service firms. Most days are desk work: drafting dossier sections, checking labels, answering regulator queries and tracking submission deadlines."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Pharm, M.Pharm or Pharm.D",
+            "note": "An M.Pharm in Regulatory Affairs is a common add-on"
+          },
+          {
+            "label": "Indian regulator",
+            "value": "CDSCO, under the Drugs and Cosmetics Act, 1940"
+          },
+          {
+            "label": "Common formats and tools",
+            "value": "CTD / eCTD dossiers, the SUGAM portal, Word and Excel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join regulatory teams as trainee or junior associates after a B.Pharm, M.Pharm or Pharm.D. A short regulatory affairs certificate can help but is not required, and some people start in quality assurance or documentation and move across later."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Writing and formatting dossier sections in CTD format",
+          "Reading regulatory guidelines from CDSCO, US FDA, EMA and WHO",
+          "Reviewing labels, leaflets and packaging text for compliance",
+          "Tracking submissions, regulator queries and licence renewals",
+          "Careful document control and version tracking"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A common progression is associate, senior associate, then regulatory affairs manager.",
+          "Export-focused companies need knowledge of rules in overseas markets such as the US, EU and emerging markets.",
+          "The work is desk-based and deadline-driven, with little patient or field contact."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Pharm · Job / Practice",
+            "href": "/explore/bpharm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Physiotherapist",
+  "kicker": "Role · Healthcare & rehabilitation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A physiotherapist assesses people with pain, injury or movement problems and treats them with exercise, manual therapy and electrotherapy. Employers include hospitals, rehabilitation centres, private clinics and home-care services, and many physiotherapists run their own practice. A typical day is a series of patient sessions: assessment, treatment, home exercise plans and progress notes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPT (Bachelor of Physiotherapy)",
+            "note": "4.5 years including a 6-month internship"
+          },
+          {
+            "label": "Regulation",
+            "value": "National Commission for Allied and Healthcare Professions Act, 2021",
+            "note": "Physiotherapy is listed as an allied health profession"
+          },
+          {
+            "label": "Work settings",
+            "value": "Wards, ICUs, outpatient rehab, clinics and home visits"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology, then a BPT through state counselling, university tests or merit. After the internship, freshers usually join hospitals, rehab centres or clinics as junior physiotherapists, and register with the state council where one exists."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Musculoskeletal, neurological and cardiorespiratory assessment",
+          "Planning and progressing exercise programmes",
+          "Manual therapy and electrotherapy techniques",
+          "Teaching home exercises to patients and families",
+          "Clinical record-keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "An MPT in a speciality such as orthopaedics, neurology, cardiorespiratory or sports is a common next step.",
+          "Many experienced physiotherapists open a clinic or offer home visits.",
+          "Income in private practice depends on patient numbers and location."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPT · Job / Practice",
+            "href": "/explore/bpt.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
