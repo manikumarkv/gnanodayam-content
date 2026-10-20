@@ -1,0 +1,79 @@
+{
+  "title": "Avionics Technician",
+  "kicker": "Role · Aviation maintenance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An avionics technician works on an aircraft's electrical, radio, navigation and instrument systems. Employers include airlines, maintenance, repair and overhaul (MRO) firms and helicopter operators. The work is fault-finding and component replacement in hangars and on the ramp, under the supervision of a licensed engineer until you hold a licence yourself."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "DGCA-approved AME training (avionics / B2 stream)"
+          },
+          {
+            "label": "Licence",
+            "value": "DGCA B2 licence",
+            "note": "Needs DGCA module exams and logged practical experience"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Complete an approved AME course in the avionics (B2) stream, then join an airline or MRO as a trainee or technician. Clearing DGCA module exams and logging the required experience leads to a B2 licence and certifying responsibility."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading wiring diagrams and manuals",
+          "Using test equipment such as multimeters",
+          "Fault isolation in electrical systems",
+          "Accurate record-keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Shift and night work is common.",
+          "Next roles: licensed B2 engineer, then type-endorsed and supervisory roles.",
+          "Without a licence, work must be signed off by a certifying engineer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Vocational · AME",
+            "href": "/explore/vocational-skilling.ame.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

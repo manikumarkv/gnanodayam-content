@@ -1,0 +1,80 @@
+{
+  "title": "Home Care Nurse",
+  "kicker": "Role · Healthcare",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A home care nurse looks after patients in their own homes: older people, bedridden patients, people recovering from surgery and those with long-term illness. Home healthcare companies, nursing agencies and hospital home-care units hire them, and some families hire nurses directly. A shift involves medicines, injections and dressings, monitoring vital signs, preventing bed sores and keeping the doctor and family informed."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "GNM or B.Sc Nursing",
+            "note": "Registration with the State Nursing Council is required"
+          },
+          {
+            "label": "Shift pattern",
+            "value": "Day, night or 24-hour live-in duties, depending on the patient"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After the diploma or degree and State Nursing Council registration, nurses apply to home healthcare companies or nursing agencies. Most employers prefer some hospital experience first, especially in ICU or post-operative care."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Wound care and dressings",
+          "Giving injections and IV care",
+          "Monitoring vital signs",
+          "Bed-sore prevention and patient handling",
+          "Explaining care to families"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Pay and terms depend on the agency and the patient's needs.",
+          "The work is often alone, without a ward team on hand.",
+          "Hospital experience makes it easier to move into hospital or overseas nursing later."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Vocational · GNM / ANM",
+            "href": "/explore/vocational-skilling.gnm-anm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Dance Teacher",
+  "kicker": "Role · Dance education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A dance teacher teaches classical, folk or contemporary dance to children or adults. Schools hire dance teachers for classes and events; academies and private classes train students for exams, competitions and stage performances. Days mix teaching, choreography and rehearsals."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPA in dance, or long training in a dance form"
+          },
+          {
+            "label": "Where you work",
+            "value": "Schools, dance academies, private and online classes"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Start by assisting at a dance academy, teaching at a school or running your own classes. Government school posts have their own eligibility rules and recruitment exams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Teaching technique, rhythm and expression",
+          "Choreographing group and solo pieces",
+          "Planning classes for different ages",
+          "Organising recitals and shows"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many teachers also perform or run their own academy.",
+          "College teaching usually needs a master's plus UGC-NET or a PhD.",
+          "Income from private classes depends on location and student numbers."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPA / B.Music",
+            "href": "/explore/bpa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Plantation Officer",
+  "kicker": "Role · Forestry",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A plantation officer raises tree seedlings and manages plantations. Many work for paper and wood-based companies that grow trees with farmers, or for carbon, agroforestry and restoration projects. Days are spent in nurseries, on plantation sites and visiting farmers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Forestry (some employers also take agriculture graduates)"
+          },
+          {
+            "label": "Where you work",
+            "value": "Nurseries, plantation sites and villages, mostly in rural areas"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a paper or wood-based company, an agroforestry project or an NGO as a field or plantation trainee. Nursery and field training from the degree is directly useful."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Nursery management and clonal propagation",
+          "Plantation planning and site preparation",
+          "Working with farmers and field staff",
+          "Survival and growth monitoring"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The work is outdoors and travel-heavy.",
+          "It can lead to plantation manager or raw-material manager roles.",
+          "Experience overlaps with agroforestry, carbon-project and NGO work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Forestry",
+            "href": "/explore/bsc-forestry.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "IPM",
+  "kicker": "Five-year integrated management programme",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Integrated Programme in Management (IPM) is a five-year course that you join straight after Class 12. The first three years cover a broad base of mathematics, economics, humanities and business; the last two follow an MBA-style curriculum. Several IIMs run it, and many universities offer their own integrated BBA-MBA programmes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "5 years",
+            "note": "Several IIMs allow an exit after 3 years with a bachelor's degree; rules vary"
+          },
+          {
+            "label": "Integrated MBA enrolment",
+            "value": "~28,500",
+            "note": "All integrated MBA programmes, not only IIM IPMs",
+            "source": "AISHE 2023-24, all modes (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Degrees awarded",
+            "value": "Bachelor's + master's in management",
+            "note": "Exact titles differ by institute"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "IPMAT (conducted by IIM Indore, with IIM Rohtak running its own version) or JIPMAT (conducted by NTA for IIM Bodh Gaya and IIM Jammu), followed by an interview at some institutes. The tests cover quantitative ability and verbal ability. Age limits and Class 10/12 mark cut-offs apply. Other universities admit through their own tests or CUET-UG."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "You commit to a management career at 17 or 18; the exit option gives some flexibility.",
+          "Final placements happen alongside the institute's MBA batch at most IIMs.",
+          "Fees at IIMs are high; check each institute's fee and aid details.",
+          "Integrated BBA-MBA programmes outside the IIMs vary widely in what they offer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/ipm.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/ipm.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/ipm.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          },
+          {
+            "label": "Management Consultant",
+            "href": "/roles/management-consultant"
+          },
+          {
+            "label": "Financial Analyst",
+            "href": "/roles/financial-analyst"
+          },
+          {
+            "label": "Product Manager",
+            "href": "/roles/product-manager"
+          },
+          {
+            "label": "Brand Associate",
+            "href": "/roles/brand-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

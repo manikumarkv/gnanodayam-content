@@ -1,0 +1,79 @@
+{
+  "title": "Physical Education Teacher",
+  "kicker": "Role · Education & sport",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A physical education teacher runs PE classes, games periods and fitness activities in a school, and trains school teams for competitions. Employers are government and private schools, and residential and sports schools. A day mixes outdoor classes, team practice, event organising and some record keeping."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.P.Ed (often after a B.P.E.S. or other degree)"
+          },
+          {
+            "label": "Government posts",
+            "value": "PET / PGT Physical Education through state and central teacher recruitment"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Private schools hire directly, usually asking for a B.P.Ed. Government school posts are filled through state teacher-recruitment exams or boards, which set their own qualification rules; some also need a teacher eligibility test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Teaching games and fitness to groups",
+          "Coaching school teams",
+          "First aid and injury basics",
+          "Event and tournament organising",
+          "Classroom management outdoors"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most schools have only one or two PE posts.",
+          "Recruitment rules for government posts differ by state.",
+          "Next roles: senior PE teacher, sports coordinator, or college teaching after an M.P.Ed."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPES / B.P.Ed",
+            "href": "/explore/bpes.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "State Fisheries Officer",
+  "kicker": "Government · State fisheries departments",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State fisheries departments recruit graduates to run fish seed farms, support fish farmers and fishers, implement central and state schemes, and enforce fishing rules. Post names vary by state — for example Fisheries Development Officer, Fisheries Extension Officer, Inspector of Fisheries or Assistant Director of Fisheries."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Recruited by",
+            "value": "State PSC or a state subordinate services board"
+          },
+          {
+            "label": "Typical eligibility",
+            "value": "B.F.Sc; some posts also accept a science master's such as M.Sc Zoology"
+          },
+          {
+            "label": "Where you work",
+            "value": "District fisheries offices, fish seed farms, harbours and reservoirs"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Apply when your state's PSC or recruitment board notifies fisheries posts. Selection is usually a written exam (general studies plus fisheries subjects) and, for some posts, an interview. Domicile and local-language rules often apply."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies are notified irregularly and the number varies widely by state.",
+          "Coastal states and states with large reservoirs tend to have more fisheries posts.",
+          "Promotion leads to district and state-level fisheries administration."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Aquaculture Technician",
+            "href": "/roles/aquaculture-technician"
+          },
+          {
+            "label": "Government / competitive paths",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

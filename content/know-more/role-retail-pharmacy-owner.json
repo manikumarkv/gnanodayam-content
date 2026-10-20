@@ -1,0 +1,80 @@
+{
+  "title": "Pharmacy Owner (Retail Chemist)",
+  "kicker": "Role · Healthcare",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A pharmacy owner runs a licensed chemist shop that sells medicines to the public. The owner is often the registered pharmacist on the counter, or employs one. A typical day is dispensing, ordering stock from distributors, checking expiry dates, billing and keeping the records that the drug licence requires."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "D.Pharm or B.Pharm + State Pharmacy Council registration"
+          },
+          {
+            "label": "Licence",
+            "value": "Retail drug licence from the State Drugs Control department",
+            "note": "Under the Drugs and Cosmetics Rules, 1945; a registered pharmacist must be in charge"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register with the State Pharmacy Council and usually gain experience at an existing pharmacy first. Then arrange premises and capital, and apply for retail sale drug licences from the state drug controller. Opening a Jan Aushadhi Kendra under the government scheme is another route."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Checking prescriptions and dispensing",
+          "Stock and expiry management",
+          "Drug licence record-keeping",
+          "Billing and basic accounts",
+          "Customer service"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Starting needs money for premises and stock, and income depends on location and footfall.",
+          "Chain pharmacies and online pharmacies add competition.",
+          "Some owners add services such as home delivery or tie-ups with nearby clinics."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Vocational · D.Pharm",
+            "href": "/explore/vocational-skilling.d-pharm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

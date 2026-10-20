@@ -1,0 +1,119 @@
+{
+  "title": "GNM / ANM",
+  "kicker": "Nursing diplomas · After Class 12",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Two nursing diplomas recognised by the Indian Nursing Council (INC). GNM (General Nursing and Midwifery) prepares you to work as a staff nurse in hospitals. ANM (Auxiliary Nurse Midwife) prepares you to work as a community health worker, mainly in mother-and-child care and immunisation. Both lead to registration with the State Nursing Council."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "GNM course length",
+            "value": "3 years",
+            "note": "Some institutions list a longer period including internship"
+          },
+          {
+            "label": "ANM course length",
+            "value": "2 years"
+          },
+          {
+            "label": "GNM students enrolled",
+            "value": "~4.5 lakh",
+            "note": "All modes; about 79% are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "ANM students enrolled",
+            "value": "~1.1 lakh",
+            "note": "All modes; almost all are women",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "GNM pass-outs in a year",
+            "value": "~1 lakh",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with English and the minimum marks set by INC (40% for GNM); science is preferred for GNM, but other streams are accepted under INC norms, so check your state's rules. Admission is through state nursing entrance tests or merit lists at government and private nursing schools. Age limits apply, so check the admission notice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A 2019 INC plan to phase out GNM was challenged in court, and GNM admissions were still going on in 2025; check the current status in your state.",
+          "GNM nurses can upgrade to a degree through the two-year Post Basic B.Sc Nursing.",
+          "For AIIMS NORCET, GNM holders need two years' experience after registration; B.Sc Nursing holders do not.",
+          "Many ANM posts are under the National Health Mission, are contractual and are in rural areas."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job / Practice",
+            "href": "/explore/vocational-skilling.gnm-anm.job"
+          },
+          {
+            "label": "Further Study",
+            "href": "/explore/vocational-skilling.gnm-anm.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/vocational-skilling.gnm-anm.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Staff Nurse",
+            "href": "/roles/staff-nurse"
+          },
+          {
+            "label": "ANM / Health Worker (Female)",
+            "href": "/roles/auxiliary-nurse-midwife"
+          },
+          {
+            "label": "Home Care Nurse",
+            "href": "/roles/home-care-nurse"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

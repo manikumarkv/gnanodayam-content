@@ -1,0 +1,116 @@
+{
+  "title": "B.F.Sc (Fisheries Science)",
+  "kicker": "Undergraduate fisheries degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A four-year degree on how fish and shellfish are farmed, caught, processed and managed. You study aquaculture, fish biology, fish nutrition and health, fish processing technology, fisheries resource management and extension, with hands-on work in hatcheries, farms and processing plants. It leads to work in aquaculture, seafood processing, feed and health companies, fisheries departments and further study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; includes field and in-plant training"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~5,000",
+            "note": "All modes of study",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Graduates in a year",
+            "value": "~1,200",
+            "note": "Out-turn from institutions that reported",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology (some universities also accept Mathematics). Most seats are filled through a state CET, a university test or Class 12 merit, depending on the state. ICAR fills an all-India share of seats in state agricultural universities through CUET-UG counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Colleges are mostly part of state agricultural, veterinary or fisheries universities.",
+          "Much of the work is in coastal districts, hatcheries, reservoirs and processing plants rather than big cities.",
+          "The 4-year degree is accepted for bank Agriculture Field Officer posts and many state fisheries posts.",
+          "An M.F.Sc is the usual next degree for research and scientist posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bfsc.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bfsc.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bfsc.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Aquaculture Technician",
+            "href": "/roles/aquaculture-technician"
+          },
+          {
+            "label": "Hatchery Technician",
+            "href": "/roles/hatchery-technician"
+          },
+          {
+            "label": "Food Safety Executive",
+            "href": "/roles/food-safety-executive"
+          },
+          {
+            "label": "Sales Executive",
+            "href": "/roles/sales-executive"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

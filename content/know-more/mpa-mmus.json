@@ -1,0 +1,87 @@
+{
+  "title": "M.P.A. / M.Mus.",
+  "kicker": "Postgraduate performing arts degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in performing arts (M.P.A.) or music (M.Mus.). It deepens training in one art form — vocal or instrumental music, dance or theatre — alongside theory, history, research methods and teaching practice. It is the usual step towards UGC-NET, a PhD and college teaching."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "Students enrolled (M.P.A.)",
+            "value": "~3,000",
+            "note": "All modes of study",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Students enrolled (M.Mus.)",
+            "value": "~2,000",
+            "note": "All modes of study",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, usually in music or performing arts; some universities also take other graduates with recognised training in the art form. Admission is through the university's own entrance and practical test, or CUET-PG at central universities."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most programmes include a practical or performance component in every semester.",
+          "Graduates can sit UGC-NET in Music or Performing Arts for assistant professor posts and JRF.",
+          "Many students continue to perform or teach privately while studying."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Music Teacher",
+            "href": "/roles/music-teacher"
+          },
+          {
+            "label": "Performing Artist",
+            "href": "/roles/performing-artist"
+          },
+          {
+            "label": "All higher-education paths",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

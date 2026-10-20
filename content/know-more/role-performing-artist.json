@@ -1,0 +1,78 @@
+{
+  "title": "Performing Artist",
+  "kicker": "Role · Performing arts",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A performing artist sings, plays an instrument, dances or acts in front of an audience or for recordings. Work comes from concerts, festivals, cultural programmes, private and corporate events, theatre productions, recordings and online platforms. Days mix practice, rehearsal, travel and performance."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPA, B.Mus. or long training under a guru or in an academy"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Mostly freelance or project-based; some posts in ensembles and broadcasters"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Build a repertoire and perform wherever you can — college festivals, local events, accompanying senior artists, competitions and online. Auditions for broadcasters, cultural bodies and production companies open further work."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Daily practice and technique in your art form",
+          "Stage presence and working with other performers",
+          "Recording yourself and sharing work online",
+          "Managing bookings, fees and travel"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Income is often irregular, especially in the early years.",
+          "Many artists combine performing with teaching or studio work.",
+          "Graded artist status with broadcasters and cultural scholarships can bring steady opportunities."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPA / B.Music",
+            "href": "/explore/bpa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

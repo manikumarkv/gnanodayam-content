@@ -1,0 +1,76 @@
+{
+  "title": "ANM / Health Worker Posts",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "State health departments recruit ANMs, also called Multi-Purpose Health Workers (Female), for sub-health centres, Ayushman Arogya Mandirs and primary health centres. The work covers antenatal and postnatal care, immunisation, family planning and keeping health records for a village or ward population. Posts are either regular state posts or contractual posts under the National Health Mission (NHM)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Basic requirement",
+            "value": "ANM diploma + registration",
+            "note": "Registered with the State Nursing Council; some states also accept GNM"
+          },
+          {
+            "label": "Who recruits",
+            "value": "State recruitment boards, health departments or NHM district health societies",
+            "note": "Varies by state"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Complete the ANM diploma and register with the State Nursing Council. Apply to the state's ANM or MPHW (Female) recruitment, usually a written test and document verification, or to NHM contract notices from the state or district health society. Many states require the local language and give weight to domicile."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Contract posts under NHM are more frequent than regular posts; terms differ by state.",
+          "Postings are usually rural, with field visits to homes and outreach sessions.",
+          "Promotion in some states is to Lady Health Visitor or health supervisor."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "ANM / Health Worker (Female)",
+            "href": "/roles/auxiliary-nurse-midwife"
+          },
+          {
+            "label": "Community Health Nurse",
+            "href": "/roles/community-health-nurse"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "M.P.Ed",
+  "kicker": "Master's in physical education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Master of Physical Education (M.P.Ed) is a two-year master's taken after a B.P.Ed. It goes deeper into exercise physiology, sports training, biomechanics, research methods and teacher education, and is the usual base for college teaching and research in physical education."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters, NCTE-recognised"
+          },
+          {
+            "label": "Usual entry qualification",
+            "value": "B.P.Ed (or an equivalent recognised degree)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "University entrance tests, CUET-PG at some central universities, or merit in the B.P.Ed. Many institutes also hold a physical fitness test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "UGC-NET in Physical Education is commonly taken after the M.P.Ed for lecturer posts.",
+          "Some state teacher-recruitment rules count it for senior physical education posts.",
+          "A PhD in physical education usually follows an M.P.Ed."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Physical Education Teacher",
+            "href": "/roles/physical-education-teacher"
+          },
+          {
+            "label": "Higher education options",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

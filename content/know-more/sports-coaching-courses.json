@@ -1,0 +1,71 @@
+{
+  "title": "Sports coaching courses",
+  "kicker": "Coaching qualifications",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Specialised courses that train you to coach one sport, such as athletics, football, wrestling or swimming. The Sports Authority of India's National Institute of Sports at Patiala and some universities run diploma and master's-level coaching programmes, and national sports federations run their own graded coaching licences."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical length",
+            "value": "1–2 years",
+            "note": "Diploma courses are shorter; federation licences are taken in levels"
+          },
+          {
+            "label": "Who runs them",
+            "value": "SAI NSNIS Patiala, sports universities, national sports federations"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Usually a graduate degree (often in physical education) plus a record of playing the sport at a set level, followed by a written test, a skill test and a fitness test. Federation licences have their own entry rules."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Your playing record in the chosen sport matters for admission.",
+          "Government coach posts often ask for a recognised coaching diploma.",
+          "Course names, lengths and entry rules change; check the current prospectus."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Sports Coach",
+            "href": "/roles/sports-coach"
+          },
+          {
+            "label": "Higher education options",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Music Producer",
+  "kicker": "Role · Music & audio",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A music producer turns musical ideas into finished tracks. They arrange songs, program instruments, record singers and players, and edit and mix the result. Work comes from independent artists, music labels, film and ad projects, games and online creators."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Music training (BPA, B.Mus. or similar) plus a course or self-learning in audio production"
+          },
+          {
+            "label": "Common tools",
+            "value": "A digital audio workstation (DAW), MIDI keyboard, microphones, plugins"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Learn a DAW, build a portfolio of tracks and work as an assistant in a studio or with an established producer or composer. Small paid projects for independent artists and creators often come first."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Music theory and arranging",
+          "Recording and editing audio",
+          "Mixing and basic mastering",
+          "Working to a client brief and deadline"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most producers work freelance or in small studios.",
+          "A body of released work matters more than a degree for most clients.",
+          "Related paths include sound engineering, composing and audio post-production."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPA / B.Music",
+            "href": "/explore/bpa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

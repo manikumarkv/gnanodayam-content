@@ -1,0 +1,72 @@
+{
+  "title": "State Government Aviation (AME)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Several state governments own aircraft and helicopters for official travel and emergencies, usually run by a state civil aviation department. They employ licensed aircraft maintenance engineers to keep these aircraft airworthy."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Licence",
+            "value": "DGCA AME licence",
+            "note": "With endorsement on the state's aircraft type"
+          },
+          {
+            "label": "Experience",
+            "value": "Usually required",
+            "note": "Hours and years are stated in each notice"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "States advertise through their civil aviation department. Posts generally need a DGCA licence endorsed for the state's aircraft type and prior maintenance experience; selection is by interview. Many posts are on contract."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are rare; a state may have only a handful of posts.",
+          "These are experienced-engineer posts, not fresher roles.",
+          "Work follows official flying schedules, often at short notice."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Aircraft Maintenance Engineer",
+            "href": "/roles/aircraft-maintenance-engineer"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

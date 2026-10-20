@@ -1,0 +1,87 @@
+{
+  "title": "Tutor",
+  "kicker": "Role · Education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A tutor helps school students with their subjects outside school hours, at the student's home, in a local tuition centre or online. Parents, coaching centres and online tutoring platforms hire tutors. A typical day is a few afternoon and evening batches: going over the day's lessons, practice work, and revision before tests."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Subject knowledge; a teaching qualification such as D.El.Ed helps"
+          },
+          {
+            "label": "Where the work is",
+            "value": "Home tuition, local tuition centres, online tutoring platforms"
+          },
+          {
+            "label": "Students taking private coaching",
+            "value": "~27%",
+            "note": "Taking or had taken coaching in the current academic year; higher in cities",
+            "source": "NSO Comprehensive Modular Survey: Education (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many start by tutoring neighbourhood children or joining a local tuition centre; online platforms usually take a subject test and a demo class. No licence is needed, but a teaching qualification and clear explanations help win parents' trust."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Explaining concepts simply",
+          "Planning short lessons and practice",
+          "Tracking each student's progress",
+          "Talking with parents",
+          "Managing time across batches"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Income depends on the number of students and is often seasonal, rising before exams.",
+          "Many tutors teach alongside a school job or while preparing for TET and recruitment exams.",
+          "Some go on to run their own tuition centre."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Vocational · D.El.Ed",
+            "href": "/explore/vocational-skilling.d-el-ed.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

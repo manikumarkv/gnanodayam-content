@@ -1,0 +1,78 @@
+{
+  "title": "Music Teacher",
+  "kicker": "Role · Music education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A music teacher teaches singing or an instrument to children or adults. Schools hire music teachers for classes, choirs and events; music academies and private classes teach students for graded exams and performances. Days are spent planning lessons, teaching, and preparing students for shows."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPA or B.Mus. (or a diploma from a recognised music body)"
+          },
+          {
+            "label": "Where you work",
+            "value": "Schools, music academies, private and online classes"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Start by teaching at a music academy, school or through private and online classes. Government school posts (KVS, NVS, state schools) have their own eligibility rules and recruitment exams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Teaching technique in vocal or instrumental music",
+          "Planning lessons for different ages and levels",
+          "Preparing students for graded exams",
+          "Organising performances and events"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many teachers also perform or run their own classes.",
+          "College teaching usually needs a master's plus UGC-NET or a PhD.",
+          "Online classes have widened the student base beyond your own city."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPA / B.Music",
+            "href": "/explore/bpa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

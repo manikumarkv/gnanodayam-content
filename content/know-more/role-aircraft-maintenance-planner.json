@@ -1,0 +1,78 @@
+{
+  "title": "Aircraft Maintenance Planner",
+  "kicker": "Role · Aviation maintenance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A maintenance planner works out what maintenance each aircraft needs and when, based on flying hours, cycles and calendar limits. They prepare work packages for hangar teams, track parts and keep technical records ready for audits. Airlines and MRO firms hire planners, mostly in office settings at bases."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "AME training or an engineering diploma / degree"
+          },
+          {
+            "label": "Common tools",
+            "value": "Maintenance tracking software, spreadsheets, aircraft maintenance programmes"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers with AME training often start in technical records or planning support at an airline or MRO, sometimes after time on the hangar floor. Knowledge of the aircraft maintenance programme and DGCA record-keeping rules is built on the job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading maintenance programmes and task cards",
+          "Scheduling and tracking deadlines",
+          "Spreadsheet and database work",
+          "Attention to detail in records"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "More office-based than hangar work, with fewer night shifts.",
+          "Next roles: senior planner, technical services, or quality and reliability roles.",
+          "Errors in records have regulatory consequences, so accuracy matters."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Vocational · AME",
+            "href": "/explore/vocational-skilling.ame.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

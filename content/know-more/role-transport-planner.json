@@ -1,0 +1,79 @@
+{
+  "title": "Transport Planner",
+  "kicker": "Role · Urban planning",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A transport planner studies how people and goods move through a city or region and plans the roads, public transport, walking and cycling networks that serve them. Employers include transport and infrastructure consultancies, metro and city transport bodies, and research groups. Work involves traffic surveys, data analysis, modelling and writing project reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Plan, or B.Tech Civil followed by an M.Plan / M.Tech in transport"
+          },
+          {
+            "label": "Common tools",
+            "value": "GIS, Excel, travel-demand modelling software"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join transport or infrastructure consultancies as junior planners or analysts working on mobility plans, metro and bus studies, and road projects. A master's in transport planning or engineering is common for modelling-heavy roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Traffic and travel surveys",
+          "Data analysis in Excel and GIS",
+          "Travel-demand modelling",
+          "Public transport and road-safety planning",
+          "Technical report writing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much work comes from metro, bus and city mobility projects.",
+          "Modelling and data skills are increasingly asked for.",
+          "Next roles: senior transport planner, project lead, mobility specialist."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Plan",
+            "href": "/explore/b-plan.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

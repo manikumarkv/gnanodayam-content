@@ -1,0 +1,71 @@
+{
+  "title": "Government sports coach posts",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Coach posts with the Sports Authority of India (SAI), state sports departments, and sports schools and hostels run by states. Coaches train athletes in one sport at training centres, academies and hostels. Some posts are regular; many are contract positions."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Who recruits",
+            "value": "SAI, state sports departments, state PSCs or staff boards"
+          },
+          {
+            "label": "Typical requirement",
+            "value": "Coaching diploma or physical education degree, plus a playing record in the sport",
+            "note": "Exact rules differ by recruiter and post"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Apply when SAI or a state notifies coach posts. Selection usually looks at your coaching qualification and sports record, and may include a written test, skill test or interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Recruitment is irregular and the number of posts is small.",
+          "Contract posts are common, and renewal depends on the scheme.",
+          "A recognised coaching qualification is usually required."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Sports Coach",
+            "href": "/roles/sports-coach"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

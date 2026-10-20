@@ -1,0 +1,109 @@
+{
+  "title": "B.Plan",
+  "kicker": "Undergraduate planning degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A four-year degree in town and country planning. You study how land, housing, transport, infrastructure and the environment fit together in cities and regions, through planning studios, surveys, GIS and planning law. Graduates work with development authorities, planning and infrastructure consultancies, and research groups, or go on to an M.Plan."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters, with studios and site surveys"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~1,300",
+            "note": "As recorded under 'B.Plan.'; some planning programmes may be listed under other names",
+            "source": "AISHE 2023-24, all modes (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Professional body",
+            "value": "Institute of Town Planners, India (ITPI)",
+            "note": "Membership is asked for in some government planning posts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "JEE Main Paper 2B (B.Planning) for the Schools of Planning and Architecture, NITs and other centrally funded seats through JoSAA. A few institutes and state universities hold their own tests or admit on Class 12 marks. You need Class 12 with Mathematics."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Only a small number of colleges offer it, so seats are limited.",
+          "Much of the work is with government bodies or consultancies doing government projects.",
+          "An M.Plan is common for specialised planning roles.",
+          "GIS, surveys and report writing are everyday skills in this field."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/b-plan.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/b-plan.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/b-plan.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Urban Planner",
+            "href": "/roles/urban-planner"
+          },
+          {
+            "label": "Transport Planner",
+            "href": "/roles/transport-planner"
+          },
+          {
+            "label": "GIS Analyst",
+            "href": "/roles/gis-analyst"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Railways (RRB NTPC / Group D)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Indian Railways recruits non-officer staff through 21 Railway Recruitment Boards (RRBs). After Class 12, the two main openings are the undergraduate-level NTPC posts — Commercial cum Ticket Clerk, Accounts Clerk cum Typist, Junior Clerk cum Typist and Trains Clerk — and Level-1 posts (formerly Group D), such as track maintainer and helper, which need Class 10 or an ITI certificate."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Recruitment boards",
+            "value": "21 RRBs",
+            "note": "You apply to one RRB / zone per notice"
+          },
+          {
+            "label": "NTPC undergraduate-level posts (2024)",
+            "value": "3,445",
+            "source": "RRB CEN 06/2024 (as reported)",
+            "date": "2024-09",
+            "verified": false
+          },
+          {
+            "label": "Level-1 posts (2024)",
+            "value": "32,438",
+            "note": "About 1.08 crore applications",
+            "source": "RRB CEN 08/2024 (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "NTPC undergraduate posts need Class 12; typing posts also need a typing skill test. Level-1 posts need Class 10, ITI or equivalent. Selection is one or two computer-based tests, then a typing test (for typist posts) or a physical efficiency test (for Level-1), followed by document verification and a medical exam. Age limits and relaxations are stated in each notice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Application volumes are very large — Level-1 drives have drawn over a crore applicants.",
+          "Medical standards differ by post; check them before applying.",
+          "RRB exams now follow an annual calendar, but results and joining can take more than a year.",
+          "Posts carry central-government pay scales and railway benefits, with postings anywhere in the chosen zone."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "NTPC undergraduate-level posts, 2024",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Commercial cum Ticket Clerk",
+              "Junior Clerk cum Typist",
+              "Accounts Clerk cum Typist",
+              "Trains Clerk"
+            ],
+            "series": [
+              {
+                "label": "Vacancies",
+                "values": [2022, 990, 361, 72]
+              }
+            ]
+          }
+        },
+        "note": "As notified; counts can change through corrigenda.",
+        "source": "RRB CEN 06/2024 (as reported)",
+        "date": "2024",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "SSC exams",
+            "href": "/explore/government-competitive.ssc"
+          },
+          {
+            "label": "Vocational & skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

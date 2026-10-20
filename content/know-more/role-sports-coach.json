@@ -1,0 +1,79 @@
+{
+  "title": "Sports Coach",
+  "kicker": "Role · Sport",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A sports coach trains athletes in one sport, from beginners to competitive players. Employers include private academies, schools, clubs, and the training centres of the Sports Authority of India and state sports departments. Days are mostly on the field or court, often early mornings and evenings, with planning and athlete monitoring in between."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Physical education degree plus a coaching diploma or federation licence"
+          },
+          {
+            "label": "What counts",
+            "value": "Your own playing record in the sport"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many coaches start as assistant coaches at academies or schools while earning a coaching qualification. Government coach posts with SAI or state departments are filled when notified and usually ask for a recognised coaching diploma and a sports record."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Technique and tactics of your sport",
+          "Training planning and periodisation",
+          "Fitness and injury prevention",
+          "Motivating and managing athletes",
+          "Match analysis"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Income often depends on the academy or number of trainees.",
+          "Government coach posts are few and often on contract.",
+          "Next roles: head coach, academy director, team coach at state level."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPES / B.P.Ed",
+            "href": "/explore/bpes.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

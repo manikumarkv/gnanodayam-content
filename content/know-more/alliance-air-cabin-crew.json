@@ -1,0 +1,71 @@
+{
+  "title": "Cabin Crew at Alliance Air",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Alliance Air is a government-owned regional airline — a subsidiary of AI Assets Holding Ltd, which stayed with the Government after Air India's privatisation. It flies regional and UDAN routes and recruits cabin crew through its own notices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Employer type",
+            "value": "Government-owned airline"
+          },
+          {
+            "label": "Recruitment",
+            "value": "Airline's own notices",
+            "note": "Posts are often fixed-term contracts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 pass is the usual minimum, with age, height and medical standards stated in each notice; experienced-crew posts ask for prior flying experience. Selection includes a screening round, interview and medical, followed by the airline's own training."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are occasional and few at a time.",
+          "Contract terms and bonds differ by notice — read them carefully.",
+          "Being government-owned does not make crew posts permanent government jobs."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Cabin Crew (Flight Attendant)",
+            "href": "/roles/flight-attendant"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

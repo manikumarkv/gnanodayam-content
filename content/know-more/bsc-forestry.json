@@ -1,0 +1,113 @@
+{
+  "title": "B.Sc Forestry",
+  "kicker": "Undergraduate forestry degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A four-year degree, usually B.Sc (Hons) Forestry, on how forests and trees are grown, protected and managed. You study silviculture, agroforestry, forest ecology, wildlife, tree improvement, forest products and forest law, with forest tours, nursery work and field camps. It leads to forest services, plantation and environmental work, and further study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; includes field tours and a final-year experiential programme"
+          },
+          {
+            "label": "Where it is offered",
+            "value": "Mostly state agricultural and forestry universities",
+            "note": "Plus a few central and private universities"
+          },
+          {
+            "label": "ICAR all-India quota",
+            "value": "20% of seats",
+            "note": "In state agricultural universities, filled through CUET-UG counselling",
+            "source": "ICAR (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 with Physics, Chemistry and Biology (some universities also accept Mathematics or Agriculture). State seats are filled through a state CET, a university test or Class 12 merit; ICAR fills its all-India quota through CUET-UG counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Forestry is one of the graduate subjects accepted for the UPSC Indian Forest Service exam.",
+          "Forest service posts also have physical standards and a walking test.",
+          "Private-sector forestry jobs are fewer; they are mostly in plantations, environmental consultancies and NGOs.",
+          "Much of the work is outdoors and in rural or remote areas."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bsc-forestry.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc-forestry.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc-forestry.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Plantation Officer",
+            "href": "/roles/plantation-officer"
+          },
+          {
+            "label": "Environmental Consultant",
+            "href": "/roles/environmental-consultant"
+          },
+          {
+            "label": "GIS Analyst",
+            "href": "/roles/gis-analyst"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
