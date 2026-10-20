@@ -1,0 +1,78 @@
+{
+  "title": "Social Media Executive",
+  "kicker": "Role · Marketing & media",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Social media executives run the day-to-day presence of a brand, publication or organisation on social platforms. Digital agencies, media houses, brands and NGOs hire them. A day involves planning a content calendar, writing posts, working with designers and video editors, and responding to the audience."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BJMC, BBA, BA or any graduate with a portfolio"
+          },
+          {
+            "label": "Common tools",
+            "value": "Platform dashboards, scheduling tools, Canva-type design apps"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start in a digital agency or a media house's social team, often after an internship. A sample content calendar or accounts you have grown help show the skill."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Short-form writing",
+          "Reading platform analytics",
+          "Basic design and video sense",
+          "Handling public comments calmly"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Posts and responses can be needed outside office hours.",
+          "Platform rules and formats change often.",
+          "Next steps: social media manager, content strategist, or digital marketing roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BJMC (Journalism & Mass Comm.)",
+            "href": "/explore/bjmc.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Shipping Operations Executive",
+  "kicker": "Role · Shipping shore operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A shipping operations executive works in a shore office, making sure ships move, load and unload as planned. Shipping lines, ship-management firms, port agencies and chartering companies hire them. The day involves coordinating with ships, ports, agents and customers, and keeping voyage documents and costs in order."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Sea experience as an officer, or a degree with a shipping/logistics course"
+          },
+          {
+            "label": "Common documents",
+            "value": "Bills of lading, port clearance papers, voyage instructions"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Seafarers often move ashore into operations after some years at sea, where their ship experience is valued. Graduates without sea time usually join as trainees at a port agency or shipping line and learn on the job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Voyage and port-call coordination",
+          "Shipping documentation",
+          "Communication with ports, agents and crews",
+          "Basic voyage cost tracking",
+          "Working across time zones"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: operations manager, chartering, marine superintendent (with sea experience).",
+          "Ships run round the clock, so after-hours calls are common.",
+          "Shore roles offer a settled life compared with sea contracts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Merchant Navy",
+            "href": "/explore/merchant-navy.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

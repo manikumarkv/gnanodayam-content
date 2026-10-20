@@ -1,0 +1,78 @@
+{
+  "title": "Flight Dispatcher",
+  "kicker": "Role · Flight operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A flight dispatcher works in an airline's operations control centre and shares responsibility with the captain for planning each flight safely. They prepare the route, fuel and load plans, check weather and notices to airmen, brief the crew and track flights in progress. The job is shift-based and ground-based, and suits CPL holders who want to stay close to flying."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Class 12 (or a degree) plus DGCA-approved flight dispatcher training; a CPL or its ground subjects help"
+          },
+          {
+            "label": "Key knowledge",
+            "value": "Air navigation, aviation meteorology, air regulations, aircraft performance"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "CPL holders and CPL ground-subject passers already cover much of the dispatch syllabus. Most still complete a DGCA-approved flight dispatcher course and then airline-specific training and checks before working independently."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Flight planning and performance calculations",
+          "Weather and NOTAM interpretation",
+          "Decision-making under time pressure",
+          "Clear radio and phone communication"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A ground role; it does not add flying hours.",
+          "Next roles: senior dispatcher, operations controller, or crew scheduling and planning roles.",
+          "Shift and night work are common; openings depend on airline expansion."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Commercial Pilot (CPL)",
+            "href": "/explore/vocational-skilling.commercial-pilot-cpl.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

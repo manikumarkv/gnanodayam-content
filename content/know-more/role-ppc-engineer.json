@@ -1,0 +1,83 @@
+{
+  "title": "Production Planning (PPC) Engineer",
+  "kicker": "Role · Manufacturing operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A production planning and control (PPC) engineer decides what a factory makes, when, and with which machines and materials, so orders ship on time. Manufacturers of auto components, engineering goods and consumer products hire for this role. A typical day involves updating schedules, checking material availability, coordinating with shop-floor, stores and purchase teams, and tracking output."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech/B.E. (Production, Industrial or Mechanical)"
+          },
+          {
+            "label": "Common tools",
+            "value": "ERP/MRP systems, Excel, Gantt charts"
+          },
+          {
+            "label": "Key concepts",
+            "value": "MRP, capacity planning, inventory control"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often join manufacturing plants as graduate engineer trainees and are placed in PPC after a rotation, or move in from production roles. Excel skills and an understanding of shop-floor processes help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Production scheduling and sequencing",
+          "Material requirements planning",
+          "Excel and ERP data",
+          "Coordination across departments",
+          "Re-planning when orders or supplies change"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: PPC manager, supply chain planner, plant operations roles.",
+          "The role sits between production, purchase and sales; coordination is most of the job.",
+          "Plant-based, often in industrial areas outside city centres."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Production & Industrial",
+            "href": "/explore/btech.production.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

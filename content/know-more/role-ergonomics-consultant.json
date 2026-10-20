@@ -1,0 +1,78 @@
+{
+  "title": "Ergonomics Consultant",
+  "kicker": "Role · Occupational health",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An ergonomics consultant studies how people sit, lift and work, and suggests changes to reduce aches, strain and injury. Employers include corporate wellness and occupational-health providers, large offices, factories and warehouses. A day may include workstation assessments, short training sessions and follow-ups with employees who have complaints."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPT, often with a certificate in ergonomics or occupational health"
+          },
+          {
+            "label": "Common tools",
+            "value": "Posture and workstation checklists, risk-assessment methods, basic measurement tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most BPT graduates first gain some clinical experience, then move into corporate wellness or occupational-health providers. A short ergonomics certification and experience with musculoskeletal conditions make applications stronger."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Musculoskeletal assessment",
+          "Workstation and task analysis",
+          "Teaching posture and exercise to groups",
+          "Report writing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A niche field; openings are fewer than in clinical physiotherapy.",
+          "Next roles: senior ergonomist, occupational health lead, or independent consulting.",
+          "Some roles combine ergonomics with general on-site physiotherapy."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPT",
+            "href": "/explore/bpt.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

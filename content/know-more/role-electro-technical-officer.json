@@ -1,0 +1,79 @@
+{
+  "title": "Electro-Technical Officer (ETO)",
+  "kicker": "Role · Marine electrical",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An electro-technical officer (ETO) is the ship's specialist for electrical and electronic systems — power generation, motors, automation, and navigation and communication equipment. Shipping companies and ship-management firms hire ETOs for merchant vessels. Like other officers, they work on contracts at sea followed by leave ashore."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / diploma in Electrical or Electronics, plus a DG Shipping-approved ETO course"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Contracts at sea followed by leave ashore"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Engineering or diploma graduates in electrical, electronics or related branches complete a DG Shipping-approved ETO pre-sea course, then sail as a trainee ETO before certification and promotion to ETO."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Marine electrical systems and high-voltage safety",
+          "PLC and automation troubleshooting",
+          "Navigation and communication electronics",
+          "Planned maintenance and documentation",
+          "Working in a multinational crew"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Months at sea at a stretch, away from family.",
+          "Rules on certification come from DG Shipping and the international STCW convention.",
+          "Experience can lead to shore roles such as technical superintendent."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Merchant Navy",
+            "href": "/explore/merchant-navy.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

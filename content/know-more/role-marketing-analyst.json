@@ -1,0 +1,79 @@
+{
+  "title": "Marketing Analyst",
+  "kicker": "Role · Analytics & marketing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A marketing analyst measures how campaigns, channels and offers perform, using sales, website and customer data. Consumer brands, e-commerce firms, agencies and analytics companies hire them. A typical day involves pulling data, updating dashboards, and explaining what changed and why."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (Business Analytics), B.Com, BBA or a statistics degree"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, SQL, a BI tool, web analytics platforms"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often join as a junior analyst in an analytics firm, agency or the marketing team of a consumer business. A portfolio of small projects (for example, a dashboard or a campaign analysis) helps in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Excel and SQL for data pulls",
+          "Dashboards in a BI tool",
+          "Basic statistics and A/B testing",
+          "Customer segmentation",
+          "Explaining numbers to non-analysts"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior analyst, growth or performance marketing roles, analytics manager.",
+          "Data privacy rules increasingly shape what customer data can be used.",
+          "The skills overlap with data analyst roles, so moving between the two is common."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Business Analytics",
+            "href": "/explore/bba.business-analytics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

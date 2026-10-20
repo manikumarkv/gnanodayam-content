@@ -1,0 +1,83 @@
+{
+  "title": "Community Mobiliser",
+  "kicker": "Role · Development sector",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A community mobiliser works on the ground for NGOs and development programmes, building trust with communities and getting people involved in a programme on health, livelihoods, education or sanitation. NGOs, CSR foundations and agencies implementing development projects hire for this work. A typical day involves village or ward visits, group meetings, home visits and recording data."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BSW, BA or MSW"
+          },
+          {
+            "label": "Common tools",
+            "value": "Survey forms, mobile data-collection apps, registers"
+          },
+          {
+            "label": "Language",
+            "value": "Fluency in the local language"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join an NGO or project as a mobiliser or field coordinator, often in rural or urban low-income areas. Fieldwork from BSW placements and comfort with the local language count heavily."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Community engagement and facilitation",
+          "Local-language communication",
+          "Survey and field data collection",
+          "Knowledge of welfare schemes",
+          "Handling conflict with patience"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: field coordinator, programme officer, project manager.",
+          "Many posts are tied to project funding and run for fixed terms.",
+          "Field travel, sometimes to remote areas, is a regular part of the job."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BSW (Social Work)",
+            "href": "/explore/bsw.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

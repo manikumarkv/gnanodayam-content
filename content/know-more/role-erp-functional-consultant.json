@@ -1,0 +1,83 @@
+{
+  "title": "ERP Functional Consultant",
+  "kicker": "Role · Business systems",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An ERP functional consultant sets up and supports enterprise resource planning (ERP) software, the systems companies use for accounting, purchasing, inventory and payroll. Commerce graduates usually work on the finance and accounting modules. Employers include IT services firms, ERP implementation partners and companies with in-house ERP teams; a typical day involves understanding a business process, configuring the system to match it, testing, and helping users."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com (Computer Applications), BBA or M.Com"
+          },
+          {
+            "label": "Common modules",
+            "value": "Finance and accounting, procurement, inventory"
+          },
+          {
+            "label": "Common tools",
+            "value": "ERP software, Excel, ticketing tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often join as ERP support or associate consultants at IT services firms or implementation partners, or move across from an accounts role in a company that runs an ERP. Vendor certifications are often asked for but can be costly; some employers train freshers in-house."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Accounting concepts (ledgers, GST, period closing)",
+          "Business process mapping",
+          "Testing and documenting configurations",
+          "Explaining systems to non-technical users",
+          "Excel and basic SQL queries"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior consultant, solution architect, finance systems lead.",
+          "The core combination is accounting knowledge plus system skills.",
+          "Project work can involve client travel and go-live deadlines."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Computer Applications",
+            "href": "/explore/bcom.computer-applications.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

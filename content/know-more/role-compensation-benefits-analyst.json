@@ -1,0 +1,82 @@
+{
+  "title": "Compensation & Benefits Analyst",
+  "kicker": "Role · Human resources",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Compensation and benefits (C&B) analysts handle the numbers side of HR. They work on salary structures, annual increments and bonuses, and benefits such as group health insurance. They sit in HR teams of mid-size and large companies, or at HR consulting firms that run pay surveys."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (HR or Finance), B.Com, or an MBA in HR"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, HRMS software, pay survey reports"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "C&B analyst, total rewards associate, HR analyst"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Pure C&B roles often go to MBA (HR) graduates or to people with a year or two in HR operations or payroll. BBA graduates usually reach them through HR operations or payroll roles; strong Excel skills are the common requirement."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Advanced Excel and data analysis",
+          "Salary structure and tax basics",
+          "Benefits and insurance administration",
+          "Confidentiality with pay data"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Appraisal season brings heavy workloads.",
+          "Common next steps: C&B manager, total rewards lead, or HR analytics.",
+          "Fewer entry openings than general HR roles; payroll experience is a common bridge."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Human Resources",
+            "href": "/explore/bba.human-resources.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

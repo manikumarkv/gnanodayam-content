@@ -1,0 +1,83 @@
+{
+  "title": "Medical Records Executive",
+  "kicker": "Role · Hospital administration",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A medical records executive works in a hospital's medical records department (MRD), keeping patient files complete, organised and confidential. Hospitals and diagnostic chains hire for this work. A typical day involves checking discharge files, indexing records in the hospital information system, and retrieving files for doctors, audits and insurance claims."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (Hospital Management), B.Sc or a medical records course"
+          },
+          {
+            "label": "Common tools",
+            "value": "Hospital information system (HIS), ICD codes, spreadsheets"
+          },
+          {
+            "label": "Workplace",
+            "value": "Hospital medical records department (MRD)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a hospital MRD as an executive or assistant. A short course in medical records or ICD coding, and familiarity with NABH documentation requirements, make entry easier."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Medical terminology",
+          "Record indexing and filing systems",
+          "Basic ICD classification",
+          "Data privacy and confidentiality practice",
+          "Data entry in HIS and spreadsheets"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: MRD in-charge, medical coder, quality or health-information roles.",
+          "As hospitals move to electronic records, the work shifts toward digital systems.",
+          "Hospital-based work, with shift duties in larger hospitals."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Hospital & Healthcare Management",
+            "href": "/explore/bba.hospital-healthcare-management.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

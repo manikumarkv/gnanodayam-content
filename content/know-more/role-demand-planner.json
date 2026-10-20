@@ -1,0 +1,78 @@
+{
+  "title": "Demand Planner",
+  "kicker": "Role · Supply chain",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Demand planners estimate future sales for each product and location, so that factories, warehouses and buyers know what to make and stock. Consumer goods, pharma, retail and e-commerce companies hire them. The day involves working with sales data, meeting sales and marketing teams, and adjusting forecasts."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com, B.Tech or a supply-chain specialisation"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, ERP and planning systems, dashboards"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as planning analysts or supply-chain trainees and move into demand planning after learning the product range. Strong Excel skills and comfort with numbers help in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Spreadsheet modelling and basic forecasting methods",
+          "Reading sales and stock data",
+          "Explaining numbers to sales teams",
+          "Sales and operations planning (S&OP)"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Forecasts are never exact; the job is about reducing error and explaining it.",
+          "Next steps: senior planner, supply planner, or S&OP manager.",
+          "An MBA in operations is a common later step but not required to start."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Operations",
+            "href": "/explore/bba.operations.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Risk Analyst",
+  "kicker": "Role · Finance & risk",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A risk analyst estimates how much a bank, lender or investment firm could lose, and helps keep that within limits. Employers include banks, NBFCs, fintech lenders, global banks' analytics centres and consultancies. A typical day involves working with large datasets, running or validating statistical models, and preparing reports for risk committees."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Stat, B.Math, statistics, economics or engineering graduates"
+          },
+          {
+            "label": "Common areas",
+            "value": "Credit risk, market risk, model validation"
+          },
+          {
+            "label": "Common tools",
+            "value": "Python, R, SAS, SQL, Excel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join through campus hiring or analyst programmes at banks and analytics firms, often after a test on statistics, probability and coding. Professional risk certifications are often taken later on the job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Probability and statistical modelling",
+          "Regression and scorecards",
+          "Programming in Python, R or SAS",
+          "Understanding of financial products",
+          "Clear reporting to non-specialists"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is closely tied to banking regulation and audit requirements.",
+          "Next roles: senior risk analyst, model developer, risk manager."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Stat / B.Math (ISI / CMI)",
+            "href": "/explore/bstat-bmath.job"
+          },
+          {
+            "label": "B.Sc · Mathematics",
+            "href": "/explore/bsc.mathematics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

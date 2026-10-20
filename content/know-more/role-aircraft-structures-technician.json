@@ -1,0 +1,83 @@
+{
+  "title": "Aircraft Structures Technician",
+  "kicker": "Role · Aircraft maintenance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An aircraft structures technician inspects and repairs the airframe (skins, frames, panels and composite parts) following the manufacturer's repair manuals. MRO organisations, airline maintenance bases and aerospace manufacturers hire for this work. A typical shift involves inspections during checks, repairing damage or corrosion, and documenting every task for sign-off."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "DGCA-approved AME course or aeronautical diploma"
+          },
+          {
+            "label": "Regulator",
+            "value": "DGCA (CAR-66 licensing, CAR-145 maintenance organisations)"
+          },
+          {
+            "label": "Common tools",
+            "value": "Riveting tools, inspection aids, repair manuals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most join an MRO or airline as a trainee technician after an AME course and build logged experience under supervision. DGCA licence modules under CAR-66 come later and widen what you can certify."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Sheet-metal and riveting work",
+          "Composite repair methods",
+          "Reading structural repair manuals and drawings",
+          "Corrosion and damage inspection",
+          "Accurate maintenance documentation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: licensed engineer (B1), structures inspector, shop supervisor.",
+          "Hangar work in shifts, including nights.",
+          "Hiring follows airline fleet and MRO activity, so it varies year to year."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "AME (Aircraft Maintenance Engineering)",
+            "href": "/explore/vocational-skilling.ame.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "UX Researcher",
+  "kicker": "Role · Design & research",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A UX researcher studies how people actually use an app, website or service, so that designers and product teams can build something that works for them. Employers include software and internet firms, design studios, banks and consultancies. A typical day involves planning a study, interviewing or observing users, and turning notes into clear findings."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA in Anthropology, Psychology or Sociology; design graduates also enter"
+          },
+          {
+            "label": "Common methods",
+            "value": "Interviews, usability tests, surveys, field visits"
+          },
+          {
+            "label": "Common tools",
+            "value": "Survey forms, recording and note tools, Figma (to view designs)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as research interns or junior researchers in design studios or product teams. A portfolio of two or three small studies (with a clear question, method and findings) matters more than marks. Many add a short course in UX or human-centred design, and some enter after a master's."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Interviewing and active listening",
+          "Designing simple studies and surveys",
+          "Qualitative coding of notes",
+          "Writing clear, short findings",
+          "Working with designers and product managers"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Ethnographic methods from anthropology map closely to this work.",
+          "Entry-level openings are fewer than for design roles and concentrated in large cities.",
+          "Next roles: senior UX researcher, research lead, product or service design."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Anthropology",
+            "href": "/explore/ba.anthropology.job"
+          },
+          {
+            "label": "BA · Psychology",
+            "href": "/explore/ba.psychology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

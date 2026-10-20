@@ -1,0 +1,78 @@
+{
+  "title": "Interior Designer",
+  "kicker": "Role · Design",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Interior designers plan how a space inside a building is laid out and finished: furniture, lighting, materials and joinery. They work in interior design studios, architecture firms, office fit-out companies and in their own practice. A day mixes drawings and 3D views at the desk with client meetings and site visits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Arch, B.Des (Interiors) or a diploma in interior design"
+          },
+          {
+            "label": "Common tools",
+            "value": "AutoCAD, SketchUp, rendering software, material samples"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers start as junior designers in a studio or fit-out firm, preparing drawings and visiting sites. B.Arch graduates bring building knowledge; the title \"architect\" itself is reserved for those registered with the Council of Architecture."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Space planning and ergonomics",
+          "Working drawings and joinery details",
+          "Materials, lighting and finishes",
+          "Estimating and client communication"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Commercial fit-out work is more structured; residential work depends on client referrals.",
+          "Own practice usually follows several years of site and client experience.",
+          "Next steps: senior or project designer, design lead, or own studio."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Arch",
+            "href": "/explore/barch.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

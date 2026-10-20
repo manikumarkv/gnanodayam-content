@@ -1,0 +1,82 @@
+{
+  "title": "Compliance Executive",
+  "kicker": "Role · Law & governance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Compliance executives make sure an organisation meets the laws and rules that apply to it, such as company law, labour laws, data protection or sector regulations. Banks, NBFCs, listed companies, manufacturers and compliance service firms hire them. A day involves tracking deadlines, preparing filings and records, and checking new circulars."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "LLB, B.Com or a CS course"
+          },
+          {
+            "label": "Common tools",
+            "value": "Compliance trackers, regulator portals, Excel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join compliance or legal teams in companies, banks or compliance firms, often as trainees. Knowing how to read a statute or circular and turn it into a checklist is the core skill employers look for."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading laws and regulatory circulars",
+          "Maintaining registers and records",
+          "Deadline management",
+          "Clear internal communication"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Regulated sectors such as banking have the most structured compliance teams.",
+          "Next steps: compliance officer, legal manager, or risk roles.",
+          "A Company Secretary qualification widens corporate compliance options."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "LLB (Law)",
+            "href": "/explore/llb.job"
+          },
+          {
+            "label": "CS (Company Secretary)",
+            "href": "/explore/cs.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

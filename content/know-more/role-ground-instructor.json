@@ -1,0 +1,78 @@
+{
+  "title": "Aviation Ground Instructor",
+  "kicker": "Role · Flight training",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An aviation ground instructor teaches the theory that student pilots must pass in DGCA exams: air navigation, meteorology, air regulations and aircraft technical subjects. Employers are flying training organisations and private ground schools that prepare students for CPL exams. Days are classroom-based, with lectures, practice tests and doubt sessions."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "A CPL, or passes in the DGCA CPL ground subjects, plus teaching ability"
+          },
+          {
+            "label": "Subjects taught",
+            "value": "Air Navigation, Meteorology, Air Regulations, Technical General/Specific"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Newly licensed or CPL-exam-qualified pilots often join ground schools or flying training organisations as instructors while they wait for airline openings. A demo class is a common part of hiring."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Explaining technical theory clearly",
+          "Exam-oriented preparation",
+          "Navigation and meteorology problem-solving",
+          "Patience with mixed-ability batches"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Often a bridge role while a pilot waits for an airline job.",
+          "Next roles: senior or chief ground instructor, or a move to flight instruction after the required ratings.",
+          "Pay and stability vary widely across schools."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "Commercial Pilot (CPL)",
+            "href": "/explore/vocational-skilling.commercial-pilot-cpl.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

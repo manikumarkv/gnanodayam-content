@@ -1,0 +1,86 @@
+{
+  "title": "Payroll Executive",
+  "kicker": "Role · Finance & accounting",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Payroll executives make sure employees are paid correctly and on time, with tax and social-security deductions handled as the law requires. Companies, payroll outsourcing firms and CA firms hire them. Each month follows a cycle: collect attendance and changes, run payroll, check it, pay, and file returns."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com or BBA"
+          },
+          {
+            "label": "Common tools",
+            "value": "Payroll software, Excel, Income Tax, EPFO and ESIC portals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a payroll outsourcing firm, a CA firm or a company's HR or finance team as payroll associates. Knowledge of salary TDS, provident fund and ESI rules is the main thing interviewers check."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "TDS on salaries and Form 16",
+          "PF, ESI and professional tax rules",
+          "Accurate spreadsheet work",
+          "Handling employee queries confidentially"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The work is deadline-driven around month-end and tax filing dates.",
+          "Labour codes and tax rules change, so keeping up is part of the job.",
+          "Next steps: payroll lead, compensation and benefits, or HR operations."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Taxation",
+            "href": "/explore/bcom.taxation.job"
+          },
+          {
+            "label": "BBA · Human Resources",
+            "href": "/explore/bba.human-resources.job"
+          },
+          {
+            "label": "B.Com · Accounting",
+            "href": "/explore/bcom.accounting.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Packaging Technologist",
+  "kicker": "Role · Food & packaging",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Packaging technologists decide how a product is packed so it stays safe, lasts on the shelf and can be made and shipped efficiently. Food, beverage, pharma and consumer goods companies and packaging converters hire them. Work moves between the lab, vendor meetings and trials on production lines."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Food Technology, packaging or chemical engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "Material testing equipment, shelf-life studies, specification sheets"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join packaging development or quality teams in food and consumer goods companies, or packaging manufacturers. A postgraduate diploma in packaging is a common add-on for those who want to specialise."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Packaging materials (plastics, paper, glass, metal)",
+          "Barrier and shelf-life testing",
+          "Labelling and packaged-goods rules",
+          "Vendor and cost coordination"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Plastic-waste and recycling rules are reshaping material choices.",
+          "Next steps: packaging manager, sustainability or R&D roles.",
+          "Plant-based roles may involve shifts during line trials."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Food Technology",
+            "href": "/explore/btech.food-tech.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

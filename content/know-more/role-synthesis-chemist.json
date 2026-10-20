@@ -1,0 +1,79 @@
+{
+  "title": "Synthesis Chemist",
+  "kicker": "Role · Chemical R&D",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A synthesis chemist carries out chemical reactions in a research lab to make new compounds, drug intermediates or specialty chemicals. Employers include contract research organisations, pharmaceutical and agrochemical companies, and specialty chemical makers. Days are spent at the fume hood setting up reactions, working up and purifying products, and recording results."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Chemistry; many employers prefer M.Sc Organic Chemistry"
+          },
+          {
+            "label": "Common techniques",
+            "value": "Reflux and work-up, column chromatography, TLC, reading NMR/HPLC data"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Some contract research organisations hire B.Sc Chemistry graduates as trainee or junior chemists; many R&D roles ask for an M.Sc in Organic Chemistry. Strong practical lab skills and safe handling of chemicals matter in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Organic synthesis techniques",
+          "Purification and isolation",
+          "Lab safety and handling of hazardous chemicals",
+          "Accurate lab-notebook records",
+          "Reading analytical data"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many B.Sc entrants complete an M.Sc to move into core R&D posts.",
+          "Next roles: senior research chemist, team leader, or process R&D.",
+          "Work involves hazardous chemicals and strict safety rules."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Chemistry",
+            "href": "/explore/bsc.chemistry.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

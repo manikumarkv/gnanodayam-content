@@ -1,0 +1,78 @@
+{
+  "title": "BIM Modeller",
+  "kicker": "Role · Architecture & construction",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A BIM modeller builds a detailed digital model of a building that the whole design team works from, and produces drawings and quantities from it. Architecture firms, construction companies and BIM service firms that work for overseas clients hire them. Most of the day is modelling, coordinating with structural and services teams, and fixing clashes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Arch, B.Tech Civil or a diploma with BIM training"
+          },
+          {
+            "label": "Common tools",
+            "value": "Revit and similar BIM software, clash-detection tools, AutoCAD"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as junior modellers in an architecture or BIM services firm, often after a short software course. A portfolio showing a modelled building and its drawings helps more than certificates alone."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "BIM software and modelling standards",
+          "Reading architectural and services drawings",
+          "Clash detection and coordination",
+          "Organising model files and families"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many BIM service firms work on overseas projects, so codes and standards may differ from India's.",
+          "Next steps: BIM coordinator, BIM manager or a return to design roles.",
+          "The work is screen-based and can become repetitive without design responsibility."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Arch",
+            "href": "/explore/barch.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

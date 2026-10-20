@@ -1,0 +1,82 @@
+{
+  "title": "Mineral Processing Engineer",
+  "kicker": "Role · Mining & minerals",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A mineral processing engineer works in the plant that turns mined ore into concentrate by crushing, grinding, washing and separating it. Employers include metal and mineral mining companies, coal washeries, iron-ore beneficiation plants and equipment suppliers. A typical day involves shift supervision, checking recovery and grade numbers, and troubleshooting equipment."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Mining or Mineral Engineering; metallurgy graduates also enter"
+          },
+          {
+            "label": "Common processes",
+            "value": "Crushing, grinding, flotation, gravity and magnetic separation"
+          },
+          {
+            "label": "Work location",
+            "value": "Plants at or near mine sites"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as graduate engineer trainees in mining or metal companies through campus hiring, and are posted to plant operations. Shift work at remote sites is standard in the first years."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Mineral processing unit operations",
+          "Mass balance and recovery calculations",
+          "Plant troubleshooting",
+          "Lab sampling and testing",
+          "Safety practices in heavy industry"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Postings are usually at remote mine sites.",
+          "Next roles: plant shift in-charge, process superintendent, plant manager."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mining",
+            "href": "/explore/btech.mining.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

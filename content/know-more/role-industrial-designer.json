@@ -1,0 +1,79 @@
+{
+  "title": "Industrial / Product Designer",
+  "kicker": "Role · Product design",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An industrial or product designer shapes physical things people use, from kitchen appliances and furniture to medical devices and vehicles. Design studios, consumer-product makers, automotive and electronics firms hire them. Work moves from research and sketches to 3D models and prototypes, in close contact with engineering and manufacturing teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Des in Industrial or Product Design"
+          },
+          {
+            "label": "Common tools",
+            "value": "Sketching, 3D CAD and rendering software, workshop prototyping"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a design studio or the in-house design team of a manufacturer, typically after a final-year industry project or internship. A portfolio showing process (research, sketches, models) is central to hiring."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Concept sketching and form development",
+          "3D CAD modelling and rendering",
+          "Prototyping and model-making",
+          "Materials and manufacturing processes",
+          "User research and ergonomics"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior designer, design lead, CMF (colour, material, finish) or design-research roles.",
+          "Jobs cluster in manufacturing and design hubs.",
+          "Some designers move into UI/UX, as research and prototyping skills carry over."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Des",
+            "href": "/explore/bdes.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

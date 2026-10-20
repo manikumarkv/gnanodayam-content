@@ -1,0 +1,82 @@
+{
+  "title": "Health Coach",
+  "kicker": "Role · Nutrition & wellness",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Health coaches help people change daily habits, such as diet, activity and sleep, to manage weight, diabetes risk or general fitness. They work at digital health and fitness apps, corporate wellness programmes, gyms and clinics, often coaching clients by phone, video or chat. A day is a list of client check-ins, plan updates and progress notes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc in Nutrition & Dietetics, Home Science, or Food Science"
+          },
+          {
+            "label": "Common tools",
+            "value": "Coaching apps, diet-tracking software, video calls"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "Nutrition coach, wellness coach, health counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Digital health and fitness companies hire nutrition graduates as coaches and train them on their programme. Communication skills, a language the client base speaks and an internship in clinical or community nutrition help at interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Diet assessment and meal planning",
+          "Motivational and counselling conversations",
+          "Basic exercise and lifestyle guidance",
+          "Recording progress notes"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Coaches usually work under a defined programme, not as treating clinicians.",
+          "Roles are often target-based on client numbers or retention.",
+          "Common next steps: senior coach, clinical dietitian (with further study), or private practice."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Nutrition & Dietetics",
+            "href": "/explore/bsc.nutrition-dietetics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

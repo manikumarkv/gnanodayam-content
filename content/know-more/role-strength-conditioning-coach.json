@@ -1,0 +1,83 @@
+{
+  "title": "Strength & Conditioning Coach",
+  "kicker": "Role · Sports & fitness",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A strength and conditioning (S&C) coach prepares athletes physically for their sport, building strength, speed, endurance and mobility while lowering injury risk. Sports academies, professional teams, schools with sports programmes and performance gyms hire for this work. A typical day involves running training sessions, testing athletes and adjusting programmes with the sports coach and physiotherapist."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPES / B.P.Ed or B.Sc Sports Science"
+          },
+          {
+            "label": "Common tools",
+            "value": "Free weights, fitness-testing equipment, training logs"
+          },
+          {
+            "label": "Certification",
+            "value": "S&C certifications are often asked for alongside the degree"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as assistant S&C coaches at academies or as trainers in performance gyms, building hours with athletes. A recognised strength and conditioning certification and practical coaching experience strengthen applications."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Exercise physiology and biomechanics",
+          "Programme design and periodisation",
+          "Fitness testing and data tracking",
+          "Teaching lifting technique safely",
+          "Working within a coach and physio team"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: head S&C coach, sports scientist, high-performance manager.",
+          "Early-morning and evening sessions and team travel are common.",
+          "Overlaps with fitness training, but focused on athletes rather than general clients."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPES / B.P.Ed (Physical Education)",
+            "href": "/explore/bpes.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

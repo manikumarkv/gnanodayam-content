@@ -1,0 +1,83 @@
+{
+  "title": "Aero-Engine Technician",
+  "kicker": "Role · Aircraft maintenance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An aero-engine technician works on aircraft engines, servicing them on the aircraft during line and base checks or stripping and rebuilding them in an engine shop. MRO organisations, airline engineering departments and engine overhaul shops hire for this work. A typical shift involves inspections, part changes, tests and careful paperwork for each task."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "DGCA-approved AME course (mechanical stream)"
+          },
+          {
+            "label": "Regulator",
+            "value": "DGCA (CAR-66 licensing, CAR-145 maintenance organisations)"
+          },
+          {
+            "label": "Common tools",
+            "value": "Borescopes, torque tools, engine manuals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join an MRO or airline as a trainee technician after an AME course. Engine-type training and DGCA licence modules are built up over the first years under supervision."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Gas turbine and piston engine basics",
+          "Borescope and visual inspection",
+          "Following maintenance manuals precisely",
+          "Torque and precision tool work",
+          "Safety and documentation discipline"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: licensed engineer (B1), engine shop inspector, powerplant specialist.",
+          "Engine work demands strict procedure-following; errors are costly.",
+          "Shift work in hangars and shops is standard."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "AME (Aircraft Maintenance Engineering)",
+            "href": "/explore/vocational-skilling.ame.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

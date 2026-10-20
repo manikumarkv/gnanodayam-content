@@ -1,0 +1,82 @@
+{
+  "title": "Dialysis Technologist",
+  "kicker": "Role · Allied health",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A dialysis technologist runs haemodialysis sessions for people whose kidneys no longer work well, under a nephrologist's supervision. Employers include hospitals, standalone dialysis centres and public-private dialysis programmes. A typical day involves preparing machines, connecting and monitoring patients through sessions of several hours, and cleaning and maintaining equipment."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Dialysis Therapy / Technology (allied health)"
+          },
+          {
+            "label": "Works under",
+            "value": "A nephrologist and dialysis nurse in charge"
+          },
+          {
+            "label": "Regulation",
+            "value": "Allied health professions fall under the NCAHP Act, 2021"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Graduates usually join a hospital or dialysis centre as a technologist after an internship during the degree. Shift work, including early mornings, is common because centres run several sessions a day."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Operating dialysis machines",
+          "Vascular access care",
+          "Monitoring vital signs",
+          "Infection control",
+          "Calm communication with long-term patients"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Patients often come several times a week, so technologists build long-term relationships with them.",
+          "Next roles: senior technologist, dialysis unit in-charge, trainer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Allied Health",
+            "href": "/explore/bsc-allied-health.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Diabetes Educator",
+  "kicker": "Role · Clinical nutrition",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Diabetes educators help people with diabetes and their families understand the condition and manage it day to day: what to eat, how to check blood sugar, how to take insulin and when to seek help. They work in hospitals, diabetes clinics, endocrinology practices, pharma patient-support programmes and digital health services."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc in Nutrition & Dietetics, nursing, or allied health"
+          },
+          {
+            "label": "Common add-on",
+            "value": "A certificate course in diabetes education",
+            "note": "Offered by professional bodies and hospitals"
+          },
+          {
+            "label": "Common tools",
+            "value": "Glucometers, CGM reports, patient education material"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many start as dietitians or nutritionists in hospital diabetes clinics and add a diabetes educator certificate. Pharma patient-support programmes and digital health services also hire nutrition graduates as diabetes counsellors."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Diabetes nutrition and meal planning",
+          "Patient counselling in local languages",
+          "Glucose monitoring and insulin basics",
+          "Group teaching"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The role works alongside doctors; it does not prescribe medicines.",
+          "Common next steps: senior educator, clinical dietitian, or programme lead in patient support.",
+          "Language skills and patience with patients matter a lot."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Nutrition & Dietetics",
+            "href": "/explore/bsc.nutrition-dietetics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

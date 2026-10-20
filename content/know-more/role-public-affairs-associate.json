@@ -1,0 +1,79 @@
+{
+  "title": "Public Affairs Associate",
+  "kicker": "Role · Policy & advocacy",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A public affairs associate helps a company, industry body or non-profit follow government policy and engage with it. Public affairs consultancies, industry associations, companies and advocacy groups hire them. A typical day involves tracking new rules, summarising what they mean, and preparing notes for meetings or consultations."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA in Political Science, Economics or Law-related studies"
+          },
+          {
+            "label": "Common sources",
+            "value": "Gazette notifications, parliamentary records, ministry consultations"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start as an associate or analyst at a public affairs or policy consultancy, or in the policy team of an industry body. Internships with legislators, think tanks or advocacy groups are a common way in."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading bills, rules and government notifications",
+          "Writing short, clear policy briefs",
+          "Stakeholder mapping",
+          "Media monitoring",
+          "Presentation and meeting notes"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: public policy manager, government relations lead, policy consultant.",
+          "Work clusters around Delhi and state capitals.",
+          "Some move on to a master's in public policy for senior roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Political Science",
+            "href": "/explore/ba.political-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Pharma Production Technician",
+  "kicker": "Role · Pharma manufacturing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A pharma production technician runs and records the steps that turn raw materials into medicines — mixing, granulating, compressing, filling and packing. Pharmaceutical manufacturing plants hire them, typically in shift work. Every step follows written procedures and good manufacturing practice (GMP) rules."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "D.Pharm, B.Pharm or B.Sc"
+          },
+          {
+            "label": "Rules followed",
+            "value": "Good manufacturing practice (Schedule M) and written SOPs"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join through walk-in or campus drives at pharma plants as a trainee or production operator, with GMP and machine training on the job. Plants are often in industrial clusters, so relocation may be needed."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Operating production equipment",
+          "Following SOPs and batch records",
+          "GMP and clean-room discipline",
+          "In-process quality checks",
+          "Shift and safety practices"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior operator, shift supervisor, or moves to packing or quality roles.",
+          "Shift work, including nights, is common in plants.",
+          "A B.Pharm through lateral entry can open officer-level roles later."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "D.Pharm (Diploma in Pharmacy)",
+            "href": "/explore/vocational-skilling.d-pharm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

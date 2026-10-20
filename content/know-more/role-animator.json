@@ -1,0 +1,83 @@
+{
+  "title": "Animator",
+  "kicker": "Role · Animation & media",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An animator brings drawings and models to life by creating movement, frame by frame or with digital rigs. Animation and VFX studios, game studios, ad agencies and e-learning companies hire animators. A typical day involves working on assigned shots, presenting them at reviews and making revisions."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BFA (Applied Art / Animation), B.Des or an animation diploma"
+          },
+          {
+            "label": "Common tools",
+            "value": "2D and 3D animation software, drawing tablet"
+          },
+          {
+            "label": "Key hiring factor",
+            "value": "A showreel of your own work"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers are hired mainly on a showreel. Many start as trainee or junior animators, or in related studio roles such as in-betweening or clean-up, and move up shot by shot. Studio tests are common."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Drawing, posing and timing",
+          "Principles of animation",
+          "2D or 3D animation software",
+          "Taking and applying feedback",
+          "Meeting shot deadlines"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior animator, lead animator, animation supervisor.",
+          "Much studio work is project-based, so workload rises and falls.",
+          "Software changes, so ongoing practice and learning are part of the job."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BFA (Fine Arts)",
+            "href": "/explore/bfa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

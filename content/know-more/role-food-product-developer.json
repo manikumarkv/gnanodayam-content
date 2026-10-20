@@ -1,0 +1,78 @@
+{
+  "title": "Food Product Developer",
+  "kicker": "Role · Food R&D",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Food product developers design new foods and beverages or change existing ones, for taste, cost, nutrition or shelf life. Food and beverage companies, ingredient suppliers and contract manufacturers hire them. The work moves between a pilot kitchen or lab, tasting panels and factory trials."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Food Technology or B.Sc Food Science"
+          },
+          {
+            "label": "Common tools",
+            "value": "Pilot plant equipment, sensory evaluation, nutrition labelling data"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as R&D or new product development trainees, sometimes after starting in quality control. Internships in a food plant or R&D lab, and a grasp of FSSAI standards and labelling rules, help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Food chemistry and formulation",
+          "Sensory evaluation",
+          "Process scale-up",
+          "Food regulations and labelling"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many trials do not reach the market; iteration is normal.",
+          "Next steps: senior developer, R&D manager, or regulatory roles.",
+          "A master's degree helps for research-heavy positions."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Food Technology",
+            "href": "/explore/btech.food-tech.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

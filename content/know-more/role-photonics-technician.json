@@ -1,0 +1,78 @@
+{
+  "title": "Photonics Technician",
+  "kicker": "Role · Optics & photonics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A photonics technician works with lasers, lenses, optical fibres and the instruments built from them. Employers include optics and laser manufacturers, fibre-optic and telecom equipment firms, defence and space suppliers, and research labs. A typical day involves aligning optical setups, running tests, cleaning and inspecting components, and logging results."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Physics (optics coursework or lab experience helps)"
+          },
+          {
+            "label": "Common tools",
+            "value": "Optical benches, power meters, OTDR and fibre splicers, oscilloscopes"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "B.Sc Physics graduates apply to optics, laser and fibre-optic firms as trainee technicians, sometimes after a short fibre-optics or laser-safety course. Comfort with lab instruments from optics practicals helps in technical interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Optical alignment and measurement",
+          "Laser safety practice",
+          "Fibre handling and splicing",
+          "Careful documentation of tests"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A specialised field with a modest number of employers, mostly in industrial or research clusters.",
+          "Next roles: senior technician, test engineer, or an M.Sc/M.Tech in photonics.",
+          "Precision and patience matter; much of the work is repetitive testing."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Physics",
+            "href": "/explore/bsc.physics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -70,6 +70,18 @@
           {
             "label": "B.Sc · Electronics",
             "href": "/explore/bsc.electronics.job"
+          },
+          {
+            "label": "B.Sc · Physics",
+            "href": "/explore/bsc.physics.job"
+          },
+          {
+            "label": "B.Tech · Agricultural Engineering",
+            "href": "/explore/btech.agricultural.job"
+          },
+          {
+            "label": "B.Tech · Mechatronics & Robotics",
+            "href": "/explore/btech.mechatronics.job"
           }
         ]
       }

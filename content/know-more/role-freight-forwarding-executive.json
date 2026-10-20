@@ -1,0 +1,83 @@
+{
+  "title": "Freight Forwarding Executive",
+  "kicker": "Role · International logistics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A freight forwarding executive organises how a client's goods move between countries — choosing sea or air routes, booking space, preparing documents and tracking cargo. Employers include freight forwarders, logistics companies and the shipping teams of exporters. The role may be on the operations side (bookings and tracking) or the sales side (finding clients and quoting rates)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com International Business, BBA or any graduate; logistics certificate courses help"
+          },
+          {
+            "label": "Key terms",
+            "value": "Incoterms, bill of lading, air waybill, FCL/LCL"
+          },
+          {
+            "label": "Common tools",
+            "value": "Forwarding software, carrier booking portals, Excel, email"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join forwarders in port and airport cities as operations or documentation trainees, or in sales-support roles. Knowledge of Incoterms and shipping documents from the degree or a short course helps."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Shipping documentation",
+          "Rate quotation and costing",
+          "Shipment tracking and problem-solving",
+          "Client communication",
+          "Coordination across time zones"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work follows global shipping schedules; late or early calls are common.",
+          "Next roles: senior executive, pricing specialist, branch or key account manager.",
+          "Freight rates swing with global events, which affects workload and targets."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · International Business",
+            "href": "/explore/bcom.international-business.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

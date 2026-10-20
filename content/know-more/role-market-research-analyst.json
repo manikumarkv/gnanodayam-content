@@ -73,6 +73,22 @@
           {
             "label": "B.Com · International Business",
             "href": "/explore/bcom.international-business.job"
+          },
+          {
+            "label": "BA · Sociology",
+            "href": "/explore/ba.sociology.job"
+          },
+          {
+            "label": "BBA · Business Analytics",
+            "href": "/explore/bba.business-analytics.job"
+          },
+          {
+            "label": "BBA · Marketing",
+            "href": "/explore/bba.marketing.job"
+          },
+          {
+            "label": "B.Sc · Statistics",
+            "href": "/explore/bsc.statistics.job"
           }
         ]
       }

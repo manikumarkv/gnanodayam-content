@@ -1,0 +1,79 @@
+{
+  "title": "Wellsite Geologist",
+  "kicker": "Role · Oil & gas geology",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A wellsite geologist works at oil and gas drilling sites, describing the rocks being drilled and reporting what they mean to the drilling and exploration teams. Oilfield service companies and exploration firms hire them, usually on rotation schedules at onshore or offshore rigs. Many start as mud loggers and move up into this role."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc or M.Sc Geology / Applied Geology"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Rotational shifts at remote onshore or offshore sites"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers enter oilfield work as a mud logger or data engineer with a service company, then move into wellsite geology after gaining rig experience. An M.Sc is commonly expected for direct entry."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Lithology description under a microscope",
+          "Reading well logs and drilling data",
+          "Geological correlation",
+          "Writing daily geological reports",
+          "Rig-site safety practices"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: operations geologist, development geologist, or petrophysics roles.",
+          "Hiring follows oil and gas exploration activity, which can be cyclical.",
+          "Rotational life means weeks away from home at a stretch."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Geology",
+            "href": "/explore/bsc.geology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

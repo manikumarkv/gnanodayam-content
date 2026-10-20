@@ -1,0 +1,78 @@
+{
+  "title": "Background Verification Executive",
+  "kicker": "Role · Investigation & screening",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Background verification executives check whether what a job candidate has declared is true: degrees, past jobs, addresses and court records. Screening companies and the HR or risk teams of large employers hire them. A day involves calls and emails to universities and employers, document checks and report writing."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate; forensic science and law graduates are common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Case management systems, verification databases, email and phone"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join screening firms through regular hiring and are trained on verification processes. Attention to detail and spotting forged or altered documents are valued; consent and data-protection rules govern what can be checked."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Document scrutiny",
+          "Clear, polite follow-up communication",
+          "Case tracking against deadlines",
+          "Data-protection awareness"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is volume-based with turnaround targets.",
+          "Next steps: quality analyst, team lead, or fraud and investigation roles.",
+          "Overlaps with claims investigation and compliance work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Forensic Science",
+            "href": "/explore/bsc.forensic-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

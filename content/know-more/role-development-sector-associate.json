@@ -89,6 +89,10 @@
           {
             "label": "B.Plan (Planning)",
             "href": "/explore/b-plan.job"
+          },
+          {
+            "label": "BA · Philosophy",
+            "href": "/explore/ba.philosophy.job"
           }
         ]
       }

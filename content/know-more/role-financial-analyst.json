@@ -83,6 +83,14 @@
           {
             "label": "IPM (Integrated Management, 5-yr)",
             "href": "/explore/ipm.job"
+          },
+          {
+            "label": "BMS (Management Studies)",
+            "href": "/explore/bms.job"
+          },
+          {
+            "label": "CA (Chartered Accountancy)",
+            "href": "/explore/ca.job"
           }
         ]
       }

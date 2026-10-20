@@ -1,0 +1,82 @@
+{
+  "title": "Cardiac Care Technologist",
+  "kicker": "Role · Allied health",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A cardiac care technologist runs tests that show how the heart is working and assists cardiologists during procedures. Employers include hospitals with cardiology departments, heart centres and diagnostic chains. A typical day involves recording ECGs and stress tests, preparing patients, and in larger hospitals, working in the cath lab during angiograms and angioplasties."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Cardiac Care / Cardiovascular Technology"
+          },
+          {
+            "label": "Common tests",
+            "value": "ECG, Holter, TMT (stress test), echo support"
+          },
+          {
+            "label": "Regulation",
+            "value": "Allied health professions fall under the NCAHP Act, 2021"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Graduates usually join hospitals as technologists after their internship; cath lab roles typically come after some time in non-invasive testing. Emergency and on-call duty is common in hospitals that do emergency heart procedures."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Running ECG and stress tests",
+          "Recognising basic rhythm problems",
+          "Sterile technique in the cath lab",
+          "Patient preparation and safety",
+          "Equipment care"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Cath lab work involves radiation safety precautions and on-call hours.",
+          "Next roles: senior or chief technologist, echo specialist, cath lab in-charge."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Allied Health",
+            "href": "/explore/bsc-allied-health.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

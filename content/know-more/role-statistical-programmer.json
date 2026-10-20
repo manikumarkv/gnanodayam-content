@@ -1,0 +1,86 @@
+{
+  "title": "Statistical Programmer (Clinical)",
+  "kicker": "Role · Data & biostatistics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A clinical statistical programmer turns raw clinical trial data into analysis datasets, tables and figures that biostatisticians and regulators review. Employers include pharma companies, clinical research organisations and their analytics centres. A typical day involves writing and checking code, comparing outputs line by line, and documenting work for audits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Stat, B.Math, statistics or life-science graduates"
+          },
+          {
+            "label": "Common tools",
+            "value": "SAS, R, data standards such as CDISC SDTM / ADaM"
+          },
+          {
+            "label": "Works with",
+            "value": "Biostatisticians and data managers"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a pharma or clinical research company as trainee programmers after a coding and statistics test. A base programming certification in SAS or R is commonly asked for. Strong statistics from B.Stat or B.Math helps move toward biostatistician roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Programming in SAS or R",
+          "Clinical data standards",
+          "Statistics for trial analysis",
+          "Validation and double programming",
+          "Careful documentation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is highly regulated, with strict checking and audit trails.",
+          "Next roles: senior programmer, lead programmer, biostatistician (often after a master's)."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Stat / B.Math (ISI / CMI)",
+            "href": "/explore/bstat-bmath.job"
+          },
+          {
+            "label": "B.Sc · Statistics",
+            "href": "/explore/bsc.statistics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -69,6 +69,10 @@
           {
             "label": "BBA · Human Resources",
             "href": "/explore/bba.human-resources.job"
+          },
+          {
+            "label": "BA · Psychology",
+            "href": "/explore/ba.psychology.job"
           }
         ]
       }

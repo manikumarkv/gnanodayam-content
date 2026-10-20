@@ -1,0 +1,79 @@
+{
+  "title": "Agronomist",
+  "kicker": "Role · Agriculture",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An agronomist advises farmers on growing healthier crops — soil health, nutrients, irrigation and pest control. Seed, fertiliser and crop-protection companies, agritech start-ups, farmer producer organisations and food companies hire them. Much of the work is in the field: visiting farms, running demonstration plots and keeping records."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Agriculture"
+          },
+          {
+            "label": "Work setting",
+            "value": "Mostly field-based in rural areas, with regular travel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as a field or development officer in an agri-input company, agritech firm or FPO support organisation. Knowing the local language and crops of the region is a strong advantage."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Crop diagnosis (pests, diseases, nutrient deficiency)",
+          "Soil and nutrient management",
+          "Running field trials and demonstrations",
+          "Communicating with farmers",
+          "Basic data recording on mobile apps"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior agronomist, product development or research roles, regional technical lead.",
+          "An M.Sc Agriculture is common for research-oriented agronomy roles.",
+          "Work follows crop seasons, with busy periods around sowing and harvest."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Agriculture",
+            "href": "/explore/bsc-agriculture.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

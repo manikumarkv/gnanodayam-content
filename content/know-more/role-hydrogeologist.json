@@ -1,0 +1,79 @@
+{
+  "title": "Hydrogeologist",
+  "kicker": "Role · Groundwater & environment",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A hydrogeologist studies groundwater: where aquifers are, how much water they hold, and how pumping or pollution affects them. Environmental and water consultancies, NGOs working on water security, and infrastructure firms hire them. The work combines field surveys, data analysis and mapping, often for recharge, drinking-water or impact-assessment projects."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc / M.Sc Geology or Applied Geology"
+          },
+          {
+            "label": "Common tools",
+            "value": "GIS software, field instruments, water-quality test kits"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a water or environmental consultancy, or a water-focused NGO, as a field associate. An M.Sc with hydrogeology specialisation is common for analytical and modelling roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Aquifer and well surveys",
+          "Groundwater level and quality interpretation",
+          "GIS mapping",
+          "Basic groundwater modelling",
+          "Writing technical reports"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior hydrogeologist, project lead, or groundwater modelling specialist.",
+          "Water-security programmes and impact assessments drive demand.",
+          "Field work in rural and drought-prone areas is common."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Geology",
+            "href": "/explore/bsc.geology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

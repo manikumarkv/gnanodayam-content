@@ -77,6 +77,10 @@
           {
             "label": "CA (Chartered Accountancy)",
             "href": "/explore/ca.job"
+          },
+          {
+            "label": "CMA (Cost & Management Acct.)",
+            "href": "/explore/cma.job"
           }
         ]
       }

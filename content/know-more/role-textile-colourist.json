@@ -1,0 +1,82 @@
+{
+  "title": "Textile Colourist",
+  "kicker": "Role · Textile processing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Textile colourists make sure dyed yarn and fabric come out in exactly the colour a buyer approved. They work in dyehouse labs at spinning and processing mills, dye manufacturers and export units, preparing lab dips, building dye recipes and fixing shade problems when bulk production does not match."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Textile Chemistry or Textile Technology"
+          },
+          {
+            "label": "Common tools",
+            "value": "Spectrophotometer, colour-matching software, lab dyeing machines"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "Lab dip executive, colour matching trainee, dyeing lab assistant"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Processing mills and dye makers hire textile-chemistry graduates as lab trainees. A good eye for colour (no colour-vision deficiency), lab practice in dyeing and finishing, and knowledge of dye classes help at interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Dye chemistry and dye classes",
+          "Instrumental and visual shade matching",
+          "Recipe correction",
+          "Lab record keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Normal colour vision is usually tested.",
+          "Common next steps: senior colourist, dyeing lab head, or technical service with dye makers.",
+          "Often based at mills in textile clusters."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Textile",
+            "href": "/explore/btech.textile.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

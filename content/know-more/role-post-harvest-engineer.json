@@ -1,0 +1,78 @@
+{
+  "title": "Post-Harvest Engineer",
+  "kicker": "Role · Agri-processing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A post-harvest engineer works on what happens to crops after harvest: cleaning, drying, grading, storage, cold chains and primary processing. Employers include agro-processing companies, cold-storage and warehousing firms, food processors and agri-equipment makers. Work is split between the plant or warehouse floor and planning equipment and layouts."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Agricultural Engineering (processing and food engineering electives help)"
+          },
+          {
+            "label": "Work areas",
+            "value": "Drying and milling, cold storage, grading and packing, warehousing"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Graduates join agro-processing plants, cold-chain operators and equipment makers as graduate engineer trainees, via campus placement or direct application. Internships in a processing plant or cold store strengthen an application."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Unit operations such as drying and milling",
+          "Refrigeration and storage basics",
+          "Quality and loss measurement",
+          "Equipment operation and maintenance"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Plants are often near production areas, away from big cities.",
+          "Next roles: production or plant engineer, cold-chain manager, or plant head.",
+          "Work can be seasonal around harvest peaks."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Agricultural Engineering",
+            "href": "/explore/btech.agricultural.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

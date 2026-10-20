@@ -1,0 +1,83 @@
+{
+  "title": "Choreographer",
+  "kicker": "Role · Performing arts",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A choreographer designs dance movement and teaches it to performers, for stage productions, films, music videos, weddings, events and competitions. Many start as assistant choreographers in a team. A typical day involves planning movement to music, running rehearsals and adjusting the piece with directors or clients."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPA in Dance, or years of training in a dance form"
+          },
+          {
+            "label": "Common settings",
+            "value": "Stage, film, events, dance studios"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Project-based and largely freelance"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most choreographers begin as dancers or assistants to an established choreographer, building a reel of their own work. Film and TV work usually needs membership of a dancers' or choreographers' association in that industry."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Movement composition",
+          "Musicality and rhythm",
+          "Teaching and rehearsing groups",
+          "Staging and spacing",
+          "Working with directors and clients"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Income depends on a steady flow of projects and contacts.",
+          "Teaching classes alongside is a common way to keep income steady.",
+          "Next roles: lead choreographer, studio owner, creative director for shows."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPA / B.Music (Performing Arts)",
+            "href": "/explore/bpa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

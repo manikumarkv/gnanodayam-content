@@ -64,6 +64,10 @@
           {
             "label": "Vocational · AME",
             "href": "/explore/vocational-skilling.ame.job"
+          },
+          {
+            "label": "B.Tech · Aerospace / Aeronautical",
+            "href": "/explore/btech.aerospace.job"
           }
         ]
       }

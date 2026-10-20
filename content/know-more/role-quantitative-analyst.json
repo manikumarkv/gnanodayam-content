@@ -69,6 +69,10 @@
           {
             "label": "B.Stat / B.Math (ISI / CMI)",
             "href": "/explore/bstat-bmath.job"
+          },
+          {
+            "label": "BS-MS (IISER / NISER)",
+            "href": "/explore/bs-ms.job"
           }
         ]
       }

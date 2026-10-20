@@ -1,0 +1,79 @@
+{
+  "title": "UI/UX Designer",
+  "kicker": "Role · Digital product design",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A UI/UX designer decides how a digital product works and looks — from the steps a user takes to the layout of each screen. Software companies, start-ups, digital agencies and in-house tech teams hire them. A typical day includes reviewing research, sketching flows, building prototypes and working closely with developers and product managers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Des (interaction, communication or UX), or any degree with a strong portfolio"
+          },
+          {
+            "label": "Common tools",
+            "value": "Figma or similar design tools, prototyping and whiteboarding tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hiring is largely portfolio-based: freshers show 2–4 case studies explaining the problem, process and result. B.Des graduates often enter through campus placement or a final-year internship that converts to a job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "User research and usability testing",
+          "Wireframing and prototyping",
+          "Visual and interaction design",
+          "Working with design systems",
+          "Explaining design decisions to teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior designer, product designer, design lead.",
+          "Entry-level competition is high, and portfolio quality matters more than the degree name.",
+          "Basic understanding of front-end code helps in working with developers."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Des",
+            "href": "/explore/bdes.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

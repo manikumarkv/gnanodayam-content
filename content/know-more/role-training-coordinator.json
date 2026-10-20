@@ -1,0 +1,82 @@
+{
+  "title": "Training Coordinator",
+  "kicker": "Role · Learning & development",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Training coordinators run the logistics of employee learning: induction for new joiners, skill and compliance training, and leadership programmes. They work in HR or learning and development (L&D) teams in companies, BPOs and training firms. A day might involve scheduling sessions, coordinating trainers, sending reminders and compiling feedback."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (HR), BA, or an MBA in HR"
+          },
+          {
+            "label": "Common tools",
+            "value": "Learning management system (LMS), Excel, video-meeting tools"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "L&D coordinator, training executive, HR associate (L&D)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter as L&D or training coordinators in large companies, BPOs and IT services firms that run regular induction batches. Clear communication, presentation skills and comfort with spreadsheets matter more than a specific degree."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Scheduling and event coordination",
+          "Presentation and facilitation basics",
+          "Learning management system administration",
+          "Collecting and summarising feedback"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the early work is logistics rather than designing content.",
+          "Common next steps: L&D specialist, trainer, or instructional designer.",
+          "Training budgets are often cut first when business slows."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Human Resources",
+            "href": "/explore/bba.human-resources.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

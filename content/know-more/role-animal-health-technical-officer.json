@@ -1,0 +1,79 @@
+{
+  "title": "Animal Health Technical Officer",
+  "kicker": "Role · Animal health industry",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An animal health technical officer is the veterinary expert in the field for a company making animal medicines, vaccines or feed. Animal-health pharma, vaccine and feed companies hire them. The work involves visiting farms and vets, explaining products, advising on disease control and running field trials."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BVSc & AH"
+          },
+          {
+            "label": "Work setting",
+            "value": "Field-based, with travel to dairy, poultry and other livestock units"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as a technical officer or veterinary sales and services officer through company recruitment. Registration with the veterinary council is generally expected."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Livestock and poultry disease knowledge",
+          "Explaining products and dosage clearly",
+          "Farm visits and on-site diagnosis",
+          "Field trial records",
+          "Local language communication"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: technical manager, product manager, regional technical lead.",
+          "Sales targets are often part of the role alongside technical work.",
+          "An MVSc can open specialised technical and research roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BVSc & AH",
+            "href": "/explore/bvsc.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

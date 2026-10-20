@@ -64,6 +64,10 @@
           {
             "label": "BFA (Fine Arts) · Job / Practice",
             "href": "/explore/bfa.job"
+          },
+          {
+            "label": "B.Des",
+            "href": "/explore/bdes.job"
           }
         ]
       }

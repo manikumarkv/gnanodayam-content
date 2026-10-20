@@ -1,0 +1,79 @@
+{
+  "title": "Agri-input Sales Officer",
+  "kicker": "Role · Agri sales",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An agri-input sales officer looks after sales of seeds, fertilisers or crop-protection products in a district or territory. Agri-input companies hire them in large numbers. The day involves visiting dealers, meeting farmers, organising product demonstrations and tracking targets and collections."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Agriculture, sometimes with an MBA (Agri-business) later"
+          },
+          {
+            "label": "Work setting",
+            "value": "Field-based, with daily travel across a territory"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join through campus placement or company drives as a trainee or territory sales officer. Two-wheeler travel and posting in rural areas are typical conditions."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Product knowledge of seeds and agro-chemicals",
+          "Dealer and distributor management",
+          "Farmer meetings and demonstrations",
+          "Sales targets and collections tracking",
+          "Local language communication"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: area sales manager, regional manager, marketing or product roles.",
+          "Targets are seasonal and pressure peaks before sowing seasons.",
+          "An MBA in agri-business is a common later step for management roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Agriculture",
+            "href": "/explore/bsc-agriculture.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

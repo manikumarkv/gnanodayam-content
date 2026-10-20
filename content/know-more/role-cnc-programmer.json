@@ -1,0 +1,83 @@
+{
+  "title": "CNC Programmer",
+  "kicker": "Role · Manufacturing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A CNC programmer creates the programs that run computer-controlled lathes and machining centres, turning engineering drawings into finished parts. Machine shops, auto-component makers, tool rooms and aerospace and die-mould suppliers hire for this work. A typical day involves reading drawings, preparing programs in CAM software, setting up tools and proving out first parts with operators."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech/B.E. (Production or Mechanical) or a diploma"
+          },
+          {
+            "label": "Common tools",
+            "value": "CAM software, G-code, CNC lathes and machining centres"
+          },
+          {
+            "label": "Key concepts",
+            "value": "GD&T, cutting tools, fixtures"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as trainee programmers or setters in machine shops and tool rooms, learning on real machines. Hands-on CAM and CNC training from a tool room or training centre is commonly valued."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading engineering drawings and GD&T",
+          "CAM software and G-code",
+          "Tool and cutting-parameter selection",
+          "Measuring instruments and inspection",
+          "Shop-floor troubleshooting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior programmer, process engineer, tool-room or production in-charge.",
+          "Hands-on shop-floor work, often in shifts.",
+          "Skills carry across auto, aerospace and die-mould work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Production & Industrial",
+            "href": "/explore/btech.production.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "CSR Executive",
+  "kicker": "Role · Corporate social responsibility",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "CSR executives manage the social projects that companies fund, usually in education, health, livelihoods or environment. They sit in a company's CSR team or foundation, or in an NGO or consultancy that runs CSR programmes for companies. Work includes selecting partners, field monitoring, budgets and the annual reporting a company's board needs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA in Sociology or Social Work, BSW, or an MSW"
+          },
+          {
+            "label": "Legal basis",
+            "value": "Companies Act, 2013 — Section 135",
+            "note": "Requires eligible companies to spend on CSR and report it"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, MIS dashboards, survey tools, report templates"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start at NGOs or CSR consultancies that implement company programmes, then move into company CSR teams. Many company CSR roles prefer an MSW or a development-studies master's, or two to three years of field experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Project monitoring and evaluation",
+          "Field visits and stakeholder meetings",
+          "Budget tracking in Excel",
+          "Writing clear reports for management"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Company CSR teams are often small, so openings are limited.",
+          "Common next steps: CSR manager, programme manager, or sustainability and ESG reporting roles.",
+          "The work sits between business and development, so both sides' language helps."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Sociology",
+            "href": "/explore/ba.sociology.job"
+          },
+          {
+            "label": "BA · Public Administration",
+            "href": "/explore/ba.public-administration.job"
+          },
+          {
+            "label": "BSW (Social Work)",
+            "href": "/explore/bsw.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

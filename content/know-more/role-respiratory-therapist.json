@@ -1,0 +1,83 @@
+{
+  "title": "Respiratory Therapist",
+  "kicker": "Role · Allied health",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A respiratory therapist looks after patients who have trouble breathing, especially in intensive care. Employers are mainly multi-specialty hospitals with ICUs, and some pulmonology clinics. A typical day involves checking and adjusting ventilator settings with the ICU team, giving nebulisation and oxygen therapy, and running lung function tests."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Respiratory Therapy (allied health)"
+          },
+          {
+            "label": "Main setting",
+            "value": "ICUs and emergency departments"
+          },
+          {
+            "label": "Regulation",
+            "value": "Allied health professions fall under the NCAHP Act, 2021"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Graduates usually join hospital ICUs after an internship during the degree. Larger hospitals have dedicated respiratory therapy teams; in smaller ones the work may be shared with nurses and anaesthesia technologists."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Ventilator management",
+          "Airway care and oxygen therapy",
+          "Lung function testing",
+          "Arterial blood gas basics",
+          "Working in ICU teams under pressure"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The role is better established in large city hospitals than in smaller towns.",
+          "Night shifts and ICU pressure are part of the job.",
+          "Next roles: senior therapist, respiratory care in-charge, educator."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Allied Health",
+            "href": "/explore/bsc-allied-health.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

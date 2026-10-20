@@ -1,0 +1,78 @@
+{
+  "title": "Questioned Document Examiner",
+  "kicker": "Role · Forensic science",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Questioned document examiners study signatures, handwriting, printing, inks and paper to find out whether a document is genuine or altered. Private forensic labs, independent examiners, banks and insurers, and law firms rely on them in property, banking and fraud disputes. The work is detailed bench analysis followed by a written opinion."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Forensic Science, often with an M.Sc"
+          },
+          {
+            "label": "Common tools",
+            "value": "Stereo microscopes, video spectral comparators, UV/IR light sources"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually train under an experienced examiner or in a private forensic lab, since judgement builds with supervised casework. Courts treat the report as expert opinion, so methods and reasoning need to hold up under cross-examination."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Handwriting and signature comparison",
+          "Use of optical and imaging instruments",
+          "Careful case documentation",
+          "Writing and explaining expert opinions"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Training under supervision is long before independent reporting.",
+          "Private practice depends on reputation and referrals.",
+          "Next steps: senior examiner, lab lead, or independent practice."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Forensic Science",
+            "href": "/explore/bsc.forensic-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

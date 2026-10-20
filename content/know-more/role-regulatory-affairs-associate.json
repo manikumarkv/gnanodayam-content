@@ -70,6 +70,10 @@
           {
             "label": "B.Pharm · Job / Practice",
             "href": "/explore/bpharm.job"
+          },
+          {
+            "label": "Pharm.D",
+            "href": "/explore/pharm-d.job"
           }
         ]
       }

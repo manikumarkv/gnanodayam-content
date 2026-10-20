@@ -1,0 +1,83 @@
+{
+  "title": "Behaviour Therapist",
+  "kicker": "Role · Child development",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A behaviour therapist works one-on-one with children who have autism or other developmental conditions, teaching communication, daily living and social skills through structured, play-based sessions. Employers include child development centres, therapy clinics, special schools and home-based therapy services. A typical day involves several sessions, careful data recording and short updates to parents."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA or B.Sc in Psychology plus training in Applied Behaviour Analysis (ABA)"
+          },
+          {
+            "label": "Works under",
+            "value": "A supervising psychologist or certified behaviour analyst"
+          },
+          {
+            "label": "Common setting",
+            "value": "Therapy centres, special schools, home visits"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a therapy centre as a trainee and complete an in-house or external ABA training while working under supervision. Some take an international behaviour-technician certificate. Patience with children and comfort working with families matter as much as theory."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Applied Behaviour Analysis basics",
+          "Observing and recording behaviour data",
+          "Play-based teaching",
+          "Communicating with parents",
+          "Patience and consistency"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "This is not the same as a clinical psychologist role; licensed practice needs further study and RCI registration.",
+          "Work is often emotionally demanding but direct and hands-on.",
+          "Next roles: senior therapist, programme supervisor, or further study in clinical or rehabilitation psychology."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Psychology",
+            "href": "/explore/ba.psychology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

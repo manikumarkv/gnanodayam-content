@@ -66,6 +66,10 @@
           {
             "label": "Vocational · GNM / ANM",
             "href": "/explore/vocational-skilling.gnm-anm.job"
+          },
+          {
+            "label": "B.Sc Nursing",
+            "href": "/explore/bsc-nursing.job"
           }
         ]
       }

@@ -1,0 +1,82 @@
+{
+  "title": "Hotel Sales Executive",
+  "kicker": "Role · Hotel sales",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Hotel sales executives bring business into a hotel: corporate room contracts, conferences, weddings and group bookings. They meet clients, prepare proposals, negotiate rates and hand bookings over to operations. Work is target-driven and involves a lot of calls, visits and follow-ups."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BHM, BBA, or a tourism degree"
+          },
+          {
+            "label": "Common tools",
+            "value": "CRM, property management system, Excel"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "Sales executive, sales coordinator, banquet sales associate"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many start as sales coordinators supporting a sales team, or move into sales after a stint in front office or F&B. Confident communication and comfort with targets matter more than a specific specialisation."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Client relationship building",
+          "Negotiation and proposal writing",
+          "Knowledge of the hotel's products and rates",
+          "Target tracking"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Pay often includes incentives linked to targets.",
+          "Common next steps: sales manager, revenue manager, or director of sales.",
+          "Wedding and conference seasons drive busy periods."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BHM (Hotel Management)",
+            "href": "/explore/bhm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

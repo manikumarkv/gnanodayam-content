@@ -1,0 +1,79 @@
+{
+  "title": "Fashion Designer",
+  "kicker": "Role · Fashion & apparel",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A fashion designer creates clothing or accessory designs and turns them into collections that can be produced and sold. Apparel brands, export houses, retail chains and designer labels hire them. Day-to-day work includes trend research, sketching, preparing technical specifications and checking samples with the production team."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Des in Fashion, Textile or Accessory Design"
+          },
+          {
+            "label": "Common tools",
+            "value": "Sketching, design software, pattern and tech-pack templates"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start as an assistant or junior designer at a brand, an export house or with an established designer, often through a graduation-project showcase or internship. Some launch their own label later, after gaining production experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Trend and market research",
+          "Fashion illustration and design software",
+          "Fabric and garment construction knowledge",
+          "Preparing tech packs and specifications",
+          "Working with sampling and vendors"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: designer, senior designer, design manager, or merchandising roles.",
+          "Early roles often involve long hours around collection and sampling deadlines.",
+          "Starting an own label needs business, sourcing and marketing skills as well as design."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Des",
+            "href": "/explore/bdes.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

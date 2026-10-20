@@ -89,6 +89,14 @@
           {
             "label": "BS-MS (IISER / NISER)",
             "href": "/explore/bs-ms.job"
+          },
+          {
+            "label": "B.Plan (Planning)",
+            "href": "/explore/b-plan.job"
+          },
+          {
+            "label": "BA · Political Science",
+            "href": "/explore/ba.political-science.job"
           }
         ]
       }

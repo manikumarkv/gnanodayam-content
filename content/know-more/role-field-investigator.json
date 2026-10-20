@@ -1,0 +1,83 @@
+{
+  "title": "Field Investigator (Surveys)",
+  "kicker": "Role · Social research",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A field investigator collects first-hand data for research and evaluation studies by visiting households, villages or institutions and conducting structured interviews. Employers include survey and research agencies, NGOs, university research projects and development consultancies. A typical day involves travel to the study area, interviewing respondents in the local language and uploading data each evening."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any BA; social science graduates preferred"
+          },
+          {
+            "label": "Common tools",
+            "value": "Tablet-based survey apps, paper schedules, GPS"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Often project-based with extended travel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Research agencies and NGOs hire field investigators for each study, usually after a short training on the questionnaire. Fluency in the local language of the study area is often the deciding factor. Good field records can lead to supervisor and research-associate roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Structured interviewing",
+          "Fluency in local languages",
+          "Accurate data recording",
+          "Building rapport with communities",
+          "Following research ethics and consent"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work is contract-based for the length of a study.",
+          "Anthropology training in observation and fieldwork transfers directly.",
+          "Next roles: field supervisor, research associate, project coordinator."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Anthropology",
+            "href": "/explore/ba.anthropology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

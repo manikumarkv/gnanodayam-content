@@ -1,0 +1,115 @@
+{
+  "title": "Medical Coder",
+  "kicker": "Role · Healthcare operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A medical coder reads doctors' notes and reports and translates diagnoses and procedures into standard codes used for insurance billing and health records. In India, most coding work is done for overseas healthcare payers and providers through outsourcing and healthcare IT firms. A typical day is desk-based: reviewing charts and assigning codes to accuracy and productivity targets."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BDS, BAMS, BHMS, BUMS, BPT, B.Pharm, B.Sc life sciences or allied health graduates"
+          },
+          {
+            "label": "Code sets",
+            "value": "ICD-10-CM, CPT, HCPCS"
+          },
+          {
+            "label": "Common certification",
+            "value": "Certified Professional Coder (CPC) or similar"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a medical coding company as trainee coders, and many first complete a coding course and a coding certification exam. Anatomy and medical terminology from a BDS, AYUSH or physiotherapy degree give a head start."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Medical terminology and anatomy",
+          "ICD and CPT coding rules",
+          "Attention to detail",
+          "Reading clinical documentation",
+          "Working to accuracy targets"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is non-clinical; it does not use hands-on clinical skills.",
+          "Shift work aligned to overseas clients is common.",
+          "Next roles: senior coder, quality auditor, coding trainer, team lead."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BDS",
+            "href": "/explore/bds.job"
+          },
+          {
+            "label": "BAMS",
+            "href": "/explore/bams.job"
+          },
+          {
+            "label": "BHMS",
+            "href": "/explore/bhms.job"
+          },
+          {
+            "label": "BPT",
+            "href": "/explore/bpt.job"
+          },
+          {
+            "label": "BUMS",
+            "href": "/explore/bums.job"
+          },
+          {
+            "label": "B.Pharm",
+            "href": "/explore/bpharm.job"
+          },
+          {
+            "label": "B.Sc · Biology / Life Sciences",
+            "href": "/explore/bsc.biology-life-sciences.job"
+          },
+          {
+            "label": "BSMS",
+            "href": "/explore/bsms.job"
+          },
+          {
+            "label": "B.Sc Nursing",
+            "href": "/explore/bsc-nursing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

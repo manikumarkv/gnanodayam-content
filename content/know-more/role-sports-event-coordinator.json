@@ -1,0 +1,83 @@
+{
+  "title": "Sports Event Coordinator",
+  "kicker": "Role · Sports management",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A sports event coordinator plans and runs tournaments, leagues, marathons and school or corporate sports events. Sports management companies, event agencies, academies, leagues and schools hire for this work. A typical day involves scheduling, coordinating venues and vendors, and being on ground during events."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPES / B.P.Ed, BBA or a sports management course"
+          },
+          {
+            "label": "Common tools",
+            "value": "Scheduling sheets, registration platforms, checklists"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Event-driven, with weekend and on-ground work"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start by volunteering or interning at tournaments and marathons, then join a sports management or event company as an operations executive. Knowledge of game rules and officiating helps."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Planning and scheduling",
+          "Game rules and competition formats",
+          "Vendor and venue coordination",
+          "Handling teams, officials and crowds",
+          "Basic budgeting and reporting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: event manager, league operations manager, sports marketing roles.",
+          "Work is seasonal and peaks around event calendars.",
+          "Long on-ground days and travel are common."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPES / B.P.Ed (Physical Education)",
+            "href": "/explore/bpes.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

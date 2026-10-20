@@ -1,0 +1,78 @@
+{
+  "title": "PR Executive",
+  "kicker": "Role · Media & communications",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "PR executives help organisations get their news and views into the media and manage how they are reported. They work in PR agencies and in the corporate communications teams of companies, NGOs and institutions. A day involves writing releases, calling and emailing journalists, and compiling coverage reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BJMC, BA, or a mass communication diploma"
+          },
+          {
+            "label": "Common tools",
+            "value": "Media lists, coverage trackers, social media, email"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers start as account executives or interns in a PR agency, often through internships done during the degree. A writing sample and familiarity with how newsrooms work help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clear, concise writing",
+          "Building relationships with journalists",
+          "Following news and media trends",
+          "Handling deadlines and client feedback"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Agency work means several clients at once and frequent client reviews.",
+          "Crisis communication can mean unplanned late hours.",
+          "Next steps: senior account executive, account manager, or corporate communications."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BJMC (Journalism & Mass Comm.)",
+            "href": "/explore/bjmc.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
