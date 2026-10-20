@@ -1,9 +1,0 @@
-{
-  "code": "ba.sociology.job",
-  "parent": "ba.sociology",
-  "label": "Job",
-  "type": "fork",
-  "description": "Social work, development, HR and research roles.",
-  "roleSlug": null,
-  "status": "published"
-}

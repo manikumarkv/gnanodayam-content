@@ -1,9 +1,0 @@
-{
-  "code": "bca.job.web-developer",
-  "parent": "bca.job",
-  "label": "Web Developer",
-  "type": "role",
-  "description": "Build and maintain websites.",
-  "roleSlug": null,
-  "status": "published"
-}

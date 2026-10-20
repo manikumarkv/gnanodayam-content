@@ -1,9 +1,0 @@
-{
-  "code": "btech.ece.job",
-  "parent": "btech.ece",
-  "label": "Job",
-  "type": "fork",
-  "description": "Hardware, chip and software roles for ECE grads.",
-  "roleSlug": null,
-  "status": "published"
-}

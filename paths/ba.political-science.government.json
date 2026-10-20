@@ -1,9 +1,0 @@
-{
-  "code": "ba.political-science.government",
-  "parent": "ba.political-science",
-  "label": "Government",
-  "type": "fork",
-  "description": "Civil services and state administration.",
-  "roleSlug": null,
-  "status": "published"
-}

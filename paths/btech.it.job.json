@@ -1,9 +1,0 @@
-{
-  "code": "btech.it.job",
-  "parent": "btech.it",
-  "label": "Job",
-  "type": "fork",
-  "description": "Software and systems roles open to IT grads.",
-  "roleSlug": null,
-  "status": "published"
-}

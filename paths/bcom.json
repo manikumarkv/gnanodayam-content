@@ -1,9 +1,0 @@
-{
-  "code": "bcom",
-  "parent": "higher-education",
-  "label": "B.Com",
-  "type": "degree",
-  "description": "Commerce degree; the base for accounting, finance and business.",
-  "roleSlug": null,
-  "status": "published"
-}

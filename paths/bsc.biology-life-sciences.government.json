@@ -1,9 +1,0 @@
-{
-  "code": "bsc.biology-life-sciences.government",
-  "parent": "bsc.biology-life-sciences",
-  "label": "Government",
-  "type": "fork",
-  "description": "Research councils, forest service, drug inspection.",
-  "roleSlug": null,
-  "status": "published"
-}

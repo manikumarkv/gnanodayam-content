@@ -1,9 +1,0 @@
-{
-  "code": "btech.cse.job",
-  "parent": "btech.cse",
-  "label": "Job",
-  "type": "fork",
-  "description": "Private-sector software roles you can target from CSE.",
-  "roleSlug": null,
-  "status": "published"
-}

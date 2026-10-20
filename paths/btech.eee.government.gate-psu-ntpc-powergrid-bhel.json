@@ -1,9 +1,0 @@
-{
-  "code": "btech.eee.government.gate-psu-ntpc-powergrid-bhel",
-  "parent": "btech.eee.government",
-  "label": "GATE → PSU (NTPC, PowerGrid, BHEL)",
-  "type": "field",
-  "description": "Crack GATE to join a public-sector company.",
-  "roleSlug": null,
-  "status": "published"
-}

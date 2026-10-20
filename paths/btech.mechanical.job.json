@@ -1,9 +1,0 @@
-{
-  "code": "btech.mechanical.job",
-  "parent": "btech.mechanical",
-  "label": "Job",
-  "type": "fork",
-  "description": "Design, production and maintenance roles.",
-  "roleSlug": null,
-  "status": "published"
-}

@@ -1,9 +1,0 @@
-{
-  "code": "bsc.statistics.higher-education.actuarial-science",
-  "parent": "bsc.statistics.higher-education",
-  "label": "Actuarial Science",
-  "type": "field",
-  "description": "Qualify as an actuary.",
-  "roleSlug": null,
-  "status": "published"
-}

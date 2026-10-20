@@ -1,9 +1,0 @@
-{
-  "code": "mbbs",
-  "parent": "higher-education",
-  "label": "MBBS",
-  "type": "degree",
-  "description": "Medicine; practice, specialise, or serve in government.",
-  "roleSlug": null,
-  "status": "published"
-}

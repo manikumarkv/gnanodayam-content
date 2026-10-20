@@ -1,9 +1,0 @@
-{
-  "code": "ba.english-literature.job",
-  "parent": "ba.english-literature",
-  "label": "Job",
-  "type": "fork",
-  "description": "Writing, editing and media roles.",
-  "roleSlug": null,
-  "status": "published"
-}

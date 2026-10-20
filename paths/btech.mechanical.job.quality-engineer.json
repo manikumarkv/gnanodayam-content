@@ -1,9 +1,0 @@
-{
-  "code": "btech.mechanical.job.quality-engineer",
-  "parent": "btech.mechanical.job",
-  "label": "Quality Engineer",
-  "type": "role",
-  "description": "Ensure products meet quality standards.",
-  "roleSlug": null,
-  "status": "published"
-}

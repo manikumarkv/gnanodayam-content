@@ -1,9 +1,0 @@
-{
-  "code": "bsc.physics.job",
-  "parent": "bsc.physics",
-  "label": "Job",
-  "type": "fork",
-  "description": "Lab, research-support and analysis roles.",
-  "roleSlug": null,
-  "status": "published"
-}

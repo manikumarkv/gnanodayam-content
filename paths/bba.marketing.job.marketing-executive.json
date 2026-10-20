@@ -1,9 +1,0 @@
-{
-  "code": "bba.marketing.job.marketing-executive",
-  "parent": "bba.marketing.job",
-  "label": "Marketing Executive",
-  "type": "role",
-  "description": "Run marketing campaigns and outreach.",
-  "roleSlug": null,
-  "status": "published"
-}

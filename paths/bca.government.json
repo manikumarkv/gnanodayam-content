@@ -1,9 +1,0 @@
-{
-  "code": "bca.government",
-  "parent": "bca",
-  "label": "Government",
-  "type": "fork",
-  "description": "Tech and clerical posts via national exams.",
-  "roleSlug": null,
-  "status": "published"
-}

@@ -1,9 +1,0 @@
-{
-  "code": "bsc.mathematics.government",
-  "parent": "bsc.mathematics",
-  "label": "Government",
-  "type": "fork",
-  "description": "Statistical services and central exams.",
-  "roleSlug": null,
-  "status": "published"
-}

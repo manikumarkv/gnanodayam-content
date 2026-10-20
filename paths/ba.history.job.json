@@ -1,9 +1,0 @@
-{
-  "code": "ba.history.job",
-  "parent": "ba.history",
-  "label": "Job",
-  "type": "fork",
-  "description": "Research, archival, writing and teaching roles.",
-  "roleSlug": null,
-  "status": "published"
-}

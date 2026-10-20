@@ -1,9 +1,0 @@
-{
-  "code": "btech.ece.higher-education",
-  "parent": "btech.ece",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "Specialise in VLSI, embedded or communications.",
-  "roleSlug": null,
-  "status": "published"
-}

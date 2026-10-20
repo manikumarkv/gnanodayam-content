@@ -1,9 +1,0 @@
-{
-  "code": "bba.finance.job",
-  "parent": "bba.finance",
-  "label": "Job",
-  "type": "fork",
-  "description": "Finance and analyst roles.",
-  "roleSlug": null,
-  "status": "published"
-}

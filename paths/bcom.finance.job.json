@@ -1,9 +1,0 @@
-{
-  "code": "bcom.finance.job",
-  "parent": "bcom.finance",
-  "label": "Job",
-  "type": "fork",
-  "description": "Analyst roles across finance and business.",
-  "roleSlug": null,
-  "status": "published"
-}

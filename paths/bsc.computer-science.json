@@ -1,9 +1,0 @@
-{
-  "code": "bsc.computer-science",
-  "parent": "bsc",
-  "label": "Computer Science",
-  "type": "branch",
-  "description": "Software and data, the science track.",
-  "roleSlug": null,
-  "status": "published"
-}

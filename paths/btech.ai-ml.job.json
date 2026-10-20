@@ -1,9 +1,0 @@
-{
-  "code": "btech.ai-ml.job",
-  "parent": "btech.ai-ml",
-  "label": "Job",
-  "type": "fork",
-  "description": "Machine-learning and data roles.",
-  "roleSlug": null,
-  "status": "published"
-}

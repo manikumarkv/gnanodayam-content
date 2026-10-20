@@ -1,9 +1,0 @@
-{
-  "code": "ba.economics.government",
-  "parent": "ba.economics",
-  "label": "Government",
-  "type": "fork",
-  "description": "Economic service, RBI and civil services.",
-  "roleSlug": null,
-  "status": "published"
-}

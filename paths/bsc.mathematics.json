@@ -1,9 +1,0 @@
-{
-  "code": "bsc.mathematics",
-  "parent": "bsc",
-  "label": "Mathematics",
-  "type": "branch",
-  "description": "Numbers and logic — analytics, actuarial, research.",
-  "roleSlug": null,
-  "status": "published"
-}

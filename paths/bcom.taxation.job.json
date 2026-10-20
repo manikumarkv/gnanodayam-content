@@ -1,9 +1,0 @@
-{
-  "code": "bcom.taxation.job",
-  "parent": "bcom.taxation",
-  "label": "Job",
-  "type": "fork",
-  "description": "Tax and GST roles in firms and consultancies.",
-  "roleSlug": null,
-  "status": "published"
-}

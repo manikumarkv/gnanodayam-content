@@ -1,9 +1,0 @@
-{
-  "code": "bcom.banking-insurance.job",
-  "parent": "bcom.banking-insurance",
-  "label": "Job",
-  "type": "fork",
-  "description": "Branch, relationship and advisory roles.",
-  "roleSlug": null,
-  "status": "published"
-}

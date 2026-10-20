@@ -1,9 +1,0 @@
-{
-  "code": "btech.civil.job.transportation-engineer",
-  "parent": "btech.civil.job",
-  "label": "Transportation Engineer",
-  "type": "role",
-  "description": "Design roads, transit and traffic systems.",
-  "roleSlug": null,
-  "status": "published"
-}

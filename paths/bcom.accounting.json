@@ -1,9 +1,0 @@
-{
-  "code": "bcom.accounting",
-  "parent": "bcom",
-  "label": "Accounting",
-  "type": "branch",
-  "description": "The books — recording, auditing and reporting money.",
-  "roleSlug": null,
-  "status": "published"
-}

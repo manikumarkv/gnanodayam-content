@@ -1,9 +1,0 @@
-{
-  "code": "btech.cse.government",
-  "parent": "btech.cse",
-  "label": "Government",
-  "type": "fork",
-  "description": "Public-sector tech and officer roles via national exams.",
-  "roleSlug": null,
-  "status": "published"
-}

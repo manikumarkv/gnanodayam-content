@@ -1,9 +1,0 @@
-{
-  "code": "bcom.banking-insurance.higher-education",
-  "parent": "bcom.banking-insurance",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "An MBA or M.Com to step up.",
-  "roleSlug": null,
-  "status": "published"
-}

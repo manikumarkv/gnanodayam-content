@@ -1,9 +1,0 @@
-{
-  "code": "bsc.chemistry.higher-education",
-  "parent": "bsc.chemistry",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "Master’s, an MBA in pharma, or a PhD.",
-  "roleSlug": null,
-  "status": "published"
-}

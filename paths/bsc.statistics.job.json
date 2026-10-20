@@ -1,9 +1,0 @@
-{
-  "code": "bsc.statistics.job",
-  "parent": "bsc.statistics",
-  "label": "Job",
-  "type": "fork",
-  "description": "Analyst roles across data and business.",
-  "roleSlug": null,
-  "status": "published"
-}

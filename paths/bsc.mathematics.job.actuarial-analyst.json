@@ -1,9 +1,0 @@
-{
-  "code": "bsc.mathematics.job.actuarial-analyst",
-  "parent": "bsc.mathematics.job",
-  "label": "Actuarial Analyst",
-  "type": "role",
-  "description": "Price risk for insurance and pensions.",
-  "roleSlug": null,
-  "status": "published"
-}

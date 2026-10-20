@@ -1,9 +1,0 @@
-{
-  "code": "btech.it.government",
-  "parent": "btech.it",
-  "label": "Government",
-  "type": "fork",
-  "description": "Tech posts in PSUs, banks and central services.",
-  "roleSlug": null,
-  "status": "published"
-}

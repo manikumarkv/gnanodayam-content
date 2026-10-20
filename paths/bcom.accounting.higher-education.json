@@ -1,9 +1,0 @@
-{
-  "code": "bcom.accounting.higher-education",
-  "parent": "bcom.accounting",
-  "label": "Higher Education",
-  "type": "fork",
-  "description": "Professional credentials and master’s degrees.",
-  "roleSlug": null,
-  "status": "published"
-}

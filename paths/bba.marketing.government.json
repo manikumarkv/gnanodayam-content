@@ -1,9 +1,0 @@
-{
-  "code": "bba.marketing.government",
-  "parent": "bba.marketing",
-  "label": "Government",
-  "type": "fork",
-  "description": "Banking and clerical posts.",
-  "roleSlug": null,
-  "status": "published"
-}
