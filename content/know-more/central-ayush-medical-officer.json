@@ -1,0 +1,60 @@
+{
+  "title": "Ayush Medical Officer (Central Bodies)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Central government bodies employ Ayush doctors as medical officers — for example in the Ayush wellness centres and dispensaries of the Central Government Health Scheme (CGHS), and in Ayush units of some ESIC hospitals. Regular posts are filled through UPSC or the body's own recruitment; some posts are contractual. These are separate from state Ayush and NHM posts."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Eligible degrees",
+            "value": "BAMS / BUMS / BSMS / BHMS",
+            "note": "Must match the system named in the post"
+          },
+          {
+            "label": "Recruiting bodies",
+            "value": "UPSC (regular posts); ESIC and other bodies' own notices"
+          },
+          {
+            "label": "Where you work",
+            "value": "Central-government health facilities",
+            "note": "Mostly in cities with CGHS or ESIC coverage"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A recognised degree in the matching system, a completed internship and current registration with the central or a state register. Apply when UPSC or the employing body notifies posts; selection is usually by a recruitment test, an interview, or both. Age limits and any experience rule are set in each notification."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Notifications are irregular, and the number of posts is small compared with state recruitment.",
+          "Some contractual posts are filled by walk-in interview rather than a written exam.",
+          "Applying to both central and state notifications widens the options."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

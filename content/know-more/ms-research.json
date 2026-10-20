@@ -1,0 +1,80 @@
+{
+  "title": "MS (Research)",
+  "kicker": "Research master's in engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An MS by Research (often written MS (R)) is a master's degree in engineering offered by IITs, IISc and some other institutes. Unlike a coursework-heavy M.Tech, it centres on a research thesis under a faculty guide, with a smaller set of courses. Graduates move into R&D roles, a PhD, or industry work that values research experience."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Duration",
+            "value": "~2–3 years",
+            "note": "No fixed end date at many institutes; it finishes when the thesis is accepted",
+            "source": "IIT / IISc admission brochures (as reported)",
+            "date": "2025-26",
+            "verified": false
+          },
+          {
+            "label": "Where it is offered",
+            "value": "IITs, IISc and some NITs / IIITs",
+            "note": "Called MS (Research) at IITs; IISc runs a similar M.Tech (Research)"
+          },
+          {
+            "label": "Assistantship",
+            "value": "~₹12,400 / month",
+            "note": "Half-time teaching or research assistantship for eligible full-time GATE-qualified scholars at many IITs; rules vary",
+            "source": "IIT admission brochures (as reported)",
+            "date": "2025-26",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.E. / B.Tech in a related branch, usually with a valid GATE score for a stipend. Each institute shortlists applicants and then holds a written test and / or interview with the department. Some institutes also admit sponsored candidates from industry or government labs."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The thesis is the main output, so the choice of guide and lab shapes the experience.",
+          "Some institutes allow an MS (R) scholar to upgrade to a PhD midway.",
+          "Admission is run by each department, often twice a year; deadlines and cut-offs differ.",
+          "It suits people who want research experience without committing to a full PhD at the start."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Higher Education options",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

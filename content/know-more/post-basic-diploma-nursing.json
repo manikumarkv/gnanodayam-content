@@ -1,0 +1,80 @@
+{
+  "title": "Post Basic Diploma in Specialty Nursing",
+  "kicker": "One-year specialty training for registered nurses",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Nursing Council (INC) prescribes post basic diploma programmes that let registered nurses specialise in one clinical area, such as critical care, cardio-thoracic, oncology, operation room, emergency and disaster, neonatal, psychiatric or neuroscience nursing. They are run by INC-recognised nursing colleges and hospitals, and training is largely clinical, on the wards and units of that speciality."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "1 year",
+            "note": "Mostly supervised clinical practice",
+            "source": "INC post basic diploma syllabi (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "Who can apply",
+            "value": "GNM or B.Sc Nursing holders",
+            "note": "Registered as a nurse and midwife (RN & RM) with a State Nursing Council"
+          },
+          {
+            "label": "Experience asked",
+            "value": "Often at least 1 year",
+            "note": "Clinical experience after registration; the requirement varies by speciality and institution",
+            "source": "INC post basic diploma syllabi (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hold a GNM diploma or B.Sc Nursing, register with your State Nursing Council and gain the clinical experience the course asks for. Apply to an institution recognised by INC for that speciality; selection is through the institution's own entrance test and interview, or a merit list. Check INC's list of recognised institutions before applying."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It is a diploma, not a degree, so posts and courses that ask for a nursing degree still need a B.Sc or Post Basic B.Sc Nursing.",
+          "Seats are few and are mostly in larger hospitals and nursing colleges.",
+          "Some government hospitals depute their in-service nurses to these courses; rules differ by state.",
+          "The speciality chosen shapes later work, such as ICU, operation theatre or neonatal units."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Higher Education options",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
