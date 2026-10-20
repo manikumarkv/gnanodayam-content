@@ -1,0 +1,87 @@
+{
+  "title": "Data Engineer",
+  "kicker": "Role · Data & analytics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A data engineer builds and maintains the pipelines that collect, clean and move data into databases and warehouses, so analysts and data scientists can use it. Employers include IT services firms, product companies, banks, e-commerce and analytics firms. A typical day involves writing SQL and Python jobs, fixing failed pipelines, and modelling tables for reporting."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech (CSE, IT, Data Science), B.Sc Data Science or MCA"
+          },
+          {
+            "label": "Common tools",
+            "value": "SQL, Python, Spark, Airflow, cloud data warehouses"
+          },
+          {
+            "label": "Typical work",
+            "value": "ETL pipelines, data warehousing, data-quality checks"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often enter through IT services or analytics firms as trainee or associate data engineers, or move across from software or data analyst roles. Strong SQL, one programming language and a project on a cloud platform help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "SQL and data modelling",
+          "Python or Scala",
+          "Distributed processing with Spark",
+          "Workflow scheduling",
+          "Cloud data services"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The work is closer to software engineering than to analysis; reliability matters more than models.",
+          "Next roles: senior data engineer, data architect, analytics engineering lead.",
+          "Tool stacks change often, so the specific tools in job posts vary."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Data Science",
+            "href": "/explore/btech.data-science.job"
+          },
+          {
+            "label": "B.Sc · Data Science",
+            "href": "/explore/bsc.data-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

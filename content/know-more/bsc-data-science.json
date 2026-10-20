@@ -1,0 +1,112 @@
+{
+  "title": "B.Sc Data Science",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree that combines statistics, mathematics and programming to collect, clean, analyse and model data. Typical courses cover probability, linear algebra, Python and R, databases and SQL, data visualisation and machine learning, with projects. It leads to analyst roles, data engineering, and master's study in data science, analytics or computing."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "Core subjects",
+            "value": "Statistics, mathematics, Python / R, SQL and databases, machine learning, visualisation"
+          },
+          {
+            "label": "UG students under 'Data Science'",
+            "value": "~17,900",
+            "note": "AISHE counts this row under Engineering & Technology; B.Sc and B.Tech programmes are not shown separately",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12, usually with Mathematics (usually required); some colleges also accept Computer Science or Statistics in place of it. Central universities admit through CUET-UG; many state and private universities admit on Class 12 merit or their own test. IIT Madras runs an online BS in Data Science and Applications with its own qualifier process."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A newer major, often at private and autonomous colleges, so syllabus depth varies — the course list says more than the name.",
+          "Data analyst and reporting roles are the usual first jobs; data scientist roles often expect experience or a master's.",
+          "Hiring weighs projects, internships and SQL / Python skills alongside the degree.",
+          "Some government exams (Indian Statistical Service, statistics posts in SSC CGL) need Statistics as a named degree subject — check your marksheet."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/bsc.data-science.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/bsc.data-science.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/bsc.data-science.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          },
+          {
+            "label": "Reporting Analyst",
+            "href": "/roles/reporting-analyst"
+          },
+          {
+            "label": "Data Engineer",
+            "href": "/roles/data-engineer"
+          },
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -65,6 +65,26 @@
           {
             "label": "B.Sc · Physics",
             "href": "/explore/bsc.physics.job"
+          },
+          {
+            "label": "B.Sc · Electronics",
+            "href": "/explore/bsc.electronics.job"
+          },
+          {
+            "label": "B.Sc · Home Science / Community Science",
+            "href": "/explore/bsc.home-science.job"
+          },
+          {
+            "label": "B.Sc · Nutrition & Dietetics",
+            "href": "/explore/bsc.nutrition-dietetics.job"
+          },
+          {
+            "label": "B.Tech · Biotechnology",
+            "href": "/explore/btech.biotech.job"
+          },
+          {
+            "label": "B.Tech · Chemical",
+            "href": "/explore/btech.chemical.job"
           }
         ]
       }

@@ -1,0 +1,79 @@
+{
+  "title": "Aircraft Maintenance Engineer",
+  "kicker": "Role · Aviation maintenance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An aircraft maintenance engineer (AME) keeps aircraft safe to fly by inspecting, servicing and repairing them and, once licensed, certifying that work. Employers include airlines, maintenance, repair and overhaul (MRO) firms, helicopter and charter operators, and flying schools. Work happens in hangars and on the ramp, often in shifts."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "DGCA-approved AME course, or an engineering degree plus experience"
+          },
+          {
+            "label": "Licence",
+            "value": "DGCA AME licence",
+            "note": "Categories such as B1 (mechanical) and B2 (avionics); needs DGCA module exams and logged practical experience"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Two routes exist: a DGCA-approved AME training programme, or an engineering degree (aerospace, mechanical or electronics) followed by DGCA module exams and supervised work experience. B.Tech graduates often join airlines or MROs as trainee or technical engineers and build experience toward a licence."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading maintenance manuals and drawings",
+          "Inspection and fault-finding",
+          "Aircraft systems (engines, hydraulics, avionics)",
+          "Safety and record-keeping discipline"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A B.Tech alone does not let you certify aircraft — the DGCA licence does.",
+          "Shift and night work is common.",
+          "Next roles: licensed engineer, shift supervisor, quality or planning roles in an MRO."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Aerospace / Aeronautical",
+            "href": "/explore/btech.aerospace.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

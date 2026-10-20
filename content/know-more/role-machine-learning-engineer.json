@@ -78,6 +78,10 @@
           {
             "label": "B.Tech · CSE",
             "href": "/explore/btech.cse.job"
+          },
+          {
+            "label": "B.Tech · Data Science",
+            "href": "/explore/btech.data-science.job"
           }
         ]
       }

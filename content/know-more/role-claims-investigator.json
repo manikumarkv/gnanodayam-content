@@ -1,0 +1,83 @@
+{
+  "title": "Claims Investigator",
+  "kicker": "Role · Insurance investigation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Verifies insurance claims — health, motor or life — by visiting hospitals, sites or claimants, checking documents and collecting evidence, then reporting whether the facts match the claim. Investigation agencies working for insurers, and insurers' own claims teams, hire for this role. The day involves fieldwork and report writing."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate; forensic science, life science or law backgrounds are common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Claim files, hospital and police records, photographs, investigation report formats"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Field visits within an assigned area"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join investigation agencies or insurers' claims teams as field investigators or verification executives, usually through job portals or referrals. A two-wheeler, willingness to travel and good communication in the local language are commonly asked for."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Document checking",
+          "Interviewing people calmly and accurately",
+          "Evidence collection and photography",
+          "Report writing",
+          "Basic knowledge of insurance terms"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work is travel and fieldwork.",
+          "Pay in agencies can be partly per case.",
+          "Experience can lead to claims, fraud-control or risk roles at insurers."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Forensic Science",
+            "href": "/explore/bsc.forensic-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

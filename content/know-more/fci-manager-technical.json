@@ -1,0 +1,75 @@
+{
+  "title": "FCI Manager (Technical)",
+  "kicker": "Officer posts at the Food Corporation of India",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Food Corporation of India (FCI), a central public-sector body, buys, stores, moves and distributes foodgrains for the public distribution system. It recruits Managers in several disciplines; Technical managers look after the quality, storage and preservation of foodgrains. Recruits join as Management Trainees and are absorbed as Managers after training."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Employer",
+            "value": "Food Corporation of India",
+            "note": "Under the Ministry of Consumer Affairs, Food & Public Distribution"
+          },
+          {
+            "label": "Entry as",
+            "value": "Management Trainee, then Manager (Technical)"
+          },
+          {
+            "label": "Degrees accepted (past notice)",
+            "value": "B.Sc Agriculture; B.Tech/B.E. in food technology, agricultural engineering or biotechnology",
+            "note": "The exact list changes; check the current notice",
+            "source": "FCI Category II recruitment notice (as reported)",
+            "date": "2022",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hold one of the degrees listed in the notification and meet the age limit (28 years for general candidates in the 2022 notice, as reported). Apply online when FCI releases its Category II recruitment; past cycles used an online Phase I and Phase II exam followed by an interview, with posts filled zone-wise."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "FCI does not hold Manager recruitment every year.",
+          "Postings are at depots and offices across the zone you are selected for, including smaller towns.",
+          "The work is mostly quality inspection, storage and stock management of foodgrains."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Food Safety Officer (FSSAI / State)",
+  "kicker": "Food safety enforcement posts",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Food Safety Officers enforce the Food Safety and Standards Act, 2006. They inspect food businesses, draw samples for testing, check licences and hygiene, and act on violations. The Food Safety and Standards Authority of India (FSSAI) recruits Central Food Safety Officers; each state's food safety department recruits its own Food Safety Officers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Who recruits",
+            "value": "FSSAI (central) and state food safety departments"
+          },
+          {
+            "label": "Degrees accepted (as notified)",
+            "value": "Food, Dairy, Oil Tech; Biotech; Agri or Vet Science; Biochemistry; Microbiology",
+            "note": "Also a master's in Chemistry or a medical degree; check each notification"
+          },
+          {
+            "label": "Law enforced",
+            "value": "Food Safety and Standards Act, 2006"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hold a degree in one of the subjects listed in the notification. For central posts, apply when FSSAI advertises direct recruitment; selection has been through a computer-based test followed by an interview. State posts are filled through the state PSC or a state selection board, with the state's own exam, age and domicile rules."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "FSSAI does not recruit every year; state recruitment is also irregular.",
+          "The work is field-based: inspections, sampling and legal follow-up, often across a district.",
+          "Age limits, fees and the exact list of degrees are set in each notification."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

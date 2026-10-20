@@ -1,0 +1,79 @@
+{
+  "title": "Robotics Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A robotics engineer builds and programs robots — industrial arms on assembly lines, mobile robots in warehouses, or robots in research and products. Employers include factory-automation integrators, robot makers, manufacturers, warehouse-automation firms and start-ups. Work mixes programming, mechanical and electrical integration, and testing in the lab or at a customer site."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Mechatronics, Mechanical, Electrical or Electronics"
+          },
+          {
+            "label": "Common tools",
+            "value": "Robot teach pendants, ROS, PLCs, Python / C++, CAD"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as application or commissioning engineers at automation integrators, working on robot cells in factories. Projects with ROS or microcontrollers and robotics competitions help; research and autonomy roles often expect an M.Tech or MS."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Programming (Python, C++)",
+          "Kinematics and control basics",
+          "Sensors, motors and drives",
+          "Safety rules for robot cells",
+          "Debugging across hardware and software"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Commissioning roles can involve long stretches at customer sites.",
+          "Industrial robot work and research robotics are quite different jobs.",
+          "Next roles: senior robotics engineer, automation project lead, controls specialist."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mechatronics & Robotics",
+            "href": "/explore/btech.mechatronics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

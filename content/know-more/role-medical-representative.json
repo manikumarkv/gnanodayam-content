@@ -71,6 +71,14 @@
           {
             "label": "B.Pharm · Job / Practice",
             "href": "/explore/bpharm.job"
+          },
+          {
+            "label": "B.Sc · Biotechnology",
+            "href": "/explore/bsc.biotechnology.job"
+          },
+          {
+            "label": "B.Sc · Microbiology",
+            "href": "/explore/bsc.microbiology.job"
           }
         ]
       }

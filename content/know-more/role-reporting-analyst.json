@@ -65,6 +65,10 @@
           {
             "label": "BBA · Business Analytics",
             "href": "/explore/bba.business-analytics.job"
+          },
+          {
+            "label": "B.Sc · Data Science",
+            "href": "/explore/bsc.data-science.job"
           }
         ]
       }

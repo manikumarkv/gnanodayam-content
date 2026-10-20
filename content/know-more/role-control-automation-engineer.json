@@ -69,6 +69,14 @@
           {
             "label": "B.Tech · EEE",
             "href": "/explore/btech.eee.job"
+          },
+          {
+            "label": "B.Tech · Electronics & Instrumentation",
+            "href": "/explore/btech.instrumentation.job"
+          },
+          {
+            "label": "B.Tech · Mechatronics & Robotics",
+            "href": "/explore/btech.mechatronics.job"
           }
         ]
       }

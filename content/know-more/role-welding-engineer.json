@@ -1,0 +1,83 @@
+{
+  "title": "Welding Engineer",
+  "kicker": "Role · Metallurgy",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A welding engineer decides how metal parts will be welded — the process, filler, settings and checks — and makes sure the welds meet the required codes. Heavy fabrication shops, pressure-vessel and boiler makers, pipeline and EPC contractors, shipyards and railway and defence suppliers hire them. A day mixes shop-floor or site checks, inspection records and procedure paperwork."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in Metallurgical, Materials or Mechanical"
+          },
+          {
+            "label": "Common codes",
+            "value": "ASME Section IX, AWS D1.1, API 1104"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Workshop or project-site based"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join fabrication, EPC and inspection companies as graduate engineers or QA/QC trainees through campus or direct hiring. Inspection certifications such as AWS CWI or CSWIP become important as you move into inspector roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Welding processes and metallurgy of welds",
+          "Writing and qualifying welding procedures",
+          "Visual inspection and reading NDT reports",
+          "Working to codes and client specifications",
+          "Coordinating with welders and supervisors"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Project and site work can mean travel and postings at remote sites.",
+          "Common next roles: senior welding engineer, QA/QC lead, third-party inspector.",
+          "Many international projects use the same codes, so the skills travel across countries."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Metallurgy & Materials",
+            "href": "/explore/btech.metallurgy.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

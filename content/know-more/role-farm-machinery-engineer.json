@@ -1,0 +1,82 @@
+{
+  "title": "Farm Machinery Engineer",
+  "kicker": "Role · Farm equipment",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A farm machinery engineer works on tractors, harvesters, sprayers and other farm equipment. Tractor and implement manufacturers and their suppliers hire them. A day may involve field trials, design and testing work, or supporting dealers and farmers with service problems."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Agricultural or Mechanical Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "CAD software, field test rigs, data loggers"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Field trials and travel to dealers are common"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a tractor or farm-equipment maker as a graduate engineer trainee in testing, product development or service, through campus placement or direct application."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Machine design and CAD",
+          "Field testing and measurement",
+          "Engine and hydraulics basics",
+          "Writing test and service reports"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: product engineer, test lead, service or product manager.",
+          "Mechanical engineers compete for the same roles.",
+          "Field work is seasonal and tied to crop cycles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Agricultural Engineering",
+            "href": "/explore/btech.agricultural.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

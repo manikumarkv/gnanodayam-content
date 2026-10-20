@@ -1,0 +1,83 @@
+{
+  "title": "Reservoir Engineer",
+  "kicker": "Role · Oil & gas",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A reservoir engineer works out how much oil or gas a field holds and how to get it out — where to drill, how fast to produce, and when to use methods such as water injection. Upstream oil and gas companies and consultancies hire them. Most days are office-based: analysing production and pressure data, running simulation models and working with geologists and production engineers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in Petroleum; an M.Tech or MS is common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Reservoir simulators, Petrel-type modelling, Excel, Python"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Mostly office-based, with occasional field visits"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A few freshers join upstream companies directly as reservoir trainees, through GATE-based PSU recruitment or campus hiring. Many enter after an M.Tech or MS, or move in from field production roles after a few years."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reservoir and fluid properties",
+          "Well-test and decline-curve analysis",
+          "Reservoir simulation",
+          "Data analysis and scripting",
+          "Working with geoscience teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry openings are fewer than for field roles.",
+          "Common next roles: senior reservoir engineer, field development planning, asset management.",
+          "Simulation and data skills carry over to some energy-transition work such as carbon storage."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Petroleum",
+            "href": "/explore/btech.petroleum.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

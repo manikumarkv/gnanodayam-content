@@ -1,0 +1,78 @@
+{
+  "title": "Food Safety Executive",
+  "kicker": "Role · Food safety & quality",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A food safety executive keeps a food business's safety and hygiene systems running and audit-ready. Food manufacturers, restaurant and cloud-kitchen chains, caterers, retailers and warehouses hire them. A day involves floor checks, reviewing records, training staff on hygiene and following up on issues found in audits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.Sc Food Technology or Microbiology"
+          },
+          {
+            "label": "Systems you work with",
+            "value": "HACCP, FSSAI licensing rules, FSSC 22000 / ISO 22000"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join as QA or food safety trainees or executives at food plants and food-service chains, through campus placement or direct application. Short certifications such as HACCP or FSSAI's FoSTaC training are commonly asked for."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Hazard analysis (HACCP)",
+          "Hygiene and GMP inspections",
+          "Audit preparation and record-keeping",
+          "Training staff on safe food handling"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: QA manager, food safety auditor, regulatory specialist.",
+          "The role is documentation-heavy and audit-driven.",
+          "This is a private-sector role; government Food Safety Officer posts are a separate recruitment."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Food Technology",
+            "href": "/explore/btech.food-tech.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

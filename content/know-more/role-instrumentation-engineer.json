@@ -1,0 +1,83 @@
+{
+  "title": "Instrumentation Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An instrumentation engineer selects, installs, calibrates and maintains the instruments that measure pressure, flow, level and temperature in plants, and the control loops built on them. Employers include refineries, chemical and fertiliser plants, power stations, steel and pharma plants, and engineering, procurement and construction (EPC) firms. A typical day involves loop checks, reviewing instrument datasheets and drawings, and fixing faulty instruments with the operations team."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Instrumentation, EIE or Electronics"
+          },
+          {
+            "label": "Common tools",
+            "value": "Transmitters, control valves, DCS/PLC, P&IDs, loop drawings"
+          },
+          {
+            "label": "Work setting",
+            "value": "Operating plants, project sites and design offices"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as graduate engineer trainees in process plants, as trainee engineers at EPC or design firms (instrument datasheets, specifications and hook-up drawings), or with instrument makers and service companies. A plant internship and familiarity with P&IDs help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading P&IDs and loop diagrams",
+          "Calibrating transmitters and gauges",
+          "Control valves and process control loops",
+          "DCS and PLC basics",
+          "Safe work in hazardous areas"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Shift and site work are common in operating plants.",
+          "Design roles at EPC firms are office-based and documentation-heavy.",
+          "Next roles: senior instrument engineer, C&I lead, project or maintenance manager."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Electronics & Instrumentation",
+            "href": "/explore/btech.instrumentation.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

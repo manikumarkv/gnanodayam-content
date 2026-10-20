@@ -1,0 +1,83 @@
+{
+  "title": "Microbiologist",
+  "kicker": "Role · Lab & quality",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A microbiologist in industry tests raw materials, products, water and the production environment for microbial contamination. Employers include pharmaceutical and vaccine makers, food and dairy companies, cosmetics makers and testing labs. A typical day involves preparing media, running microbial limit and sterility tests, monitoring clean areas and recording results to good manufacturing practice (GMP) standards."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc or M.Sc Microbiology"
+          },
+          {
+            "label": "Common methods",
+            "value": "Culture media, microbial limit tests, sterility tests, environmental monitoring"
+          },
+          {
+            "label": "Work setting",
+            "value": "Quality-control labs in plants and testing labs"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as QC microbiology trainees or officers in pharma, food or dairy plants. Many employers prefer an M.Sc, though B.Sc graduates also get trainee roles. Aseptic technique and familiarity with GMP documentation help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Aseptic technique",
+          "Media preparation and culture methods",
+          "Environmental monitoring in clean rooms",
+          "GMP documentation",
+          "Identifying microorganisms"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Shift work is common in manufacturing QC labs.",
+          "Next roles: senior microbiologist, QC or QA lead, validation specialist.",
+          "Hospital diagnostic microbiology is a separate track with its own qualification rules."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Microbiology",
+            "href": "/explore/bsc.microbiology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

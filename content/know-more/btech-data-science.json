@@ -1,0 +1,147 @@
+{
+  "title": "Data Science",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.Tech branch built on computer science, with extra depth in statistics, databases, data mining, machine learning, big-data tools and visualisation. Colleges run it under names such as Artificial Intelligence & Data Science, Data Science, or CSE (Data Science). Graduates work in analytics, data engineering, machine learning and general software roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in data-science branches",
+            "value": "~69,500",
+            "note": "AISHE 'Artificial Intelligence & Data Science' (~51,600) plus 'Data Science' (~17,900) under Engineering & Technology",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~36%",
+            "note": "Computed from the same two AISHE rows combined",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "GATE paper",
+            "value": "DA — Data Science & Artificial Intelligence",
+            "note": "Added from GATE 2024; the CS paper is also used"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Main rank is used for NITs, IIITs and other centrally funded institutes, allotted through JoSAA; JEE Advanced rank for IITs where the branch is offered. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Class 12 with Physics, Chemistry and Mathematics is required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Coursework overlaps heavily with CSE, and placements are usually open to the same software and analytics roles.",
+          "Fresher data jobs often carry analyst titles; data scientist roles more often ask for experience or a master's.",
+          "Government technical posts often list eligible branches by name (CSE, IT); check each notice for whether data-science degrees are included.",
+          "Common next steps: a job, GATE → M.Tech, an MS abroad, or an MBA."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — data-science branches",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 44640
+              },
+              {
+                "label": "Female",
+                "value": 24857
+              }
+            ]
+          }
+        },
+        "note": "'Artificial Intelligence & Data Science' and 'Data Science' rows combined.",
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/btech.data-science.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/btech.data-science.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/btech.data-science.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "Data Scientist",
+            "href": "/roles/data-scientist"
+          },
+          {
+            "label": "Data Engineer",
+            "href": "/roles/data-engineer"
+          },
+          {
+            "label": "Machine Learning Engineer",
+            "href": "/roles/machine-learning-engineer"
+          },
+          {
+            "label": "Business Analyst",
+            "href": "/roles/business-analyst"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

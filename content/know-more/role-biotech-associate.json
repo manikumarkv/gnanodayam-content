@@ -69,6 +69,14 @@
           {
             "label": "B.Sc · Biology / Life Sciences",
             "href": "/explore/bsc.biology-life-sciences.job"
+          },
+          {
+            "label": "B.Sc · Biotechnology",
+            "href": "/explore/bsc.biotechnology.job"
+          },
+          {
+            "label": "B.Tech · Biotechnology",
+            "href": "/explore/btech.biotech.job"
           }
         ]
       }

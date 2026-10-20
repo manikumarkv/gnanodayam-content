@@ -1,0 +1,83 @@
+{
+  "title": "Process Design Engineer",
+  "kicker": "Role · Process engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A process design engineer works out, on paper and in software, how a new plant or plant expansion will be built — which equipment is needed, what size, and how it all connects. Engineering, procurement and construction (EPC) companies, design consultancies and the project wings of large process companies hire them. A day is office-based: running simulations, drafting and checking documents, and coordinating with mechanical, piping and instrumentation teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. or M.Tech in Chemical"
+          },
+          {
+            "label": "Common tools",
+            "value": "Aspen HYSYS / Aspen Plus-type simulators, Excel, P&ID tools"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Office-based, with occasional site visits"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join EPC and consulting firms as graduate or trainee engineers through campus placement or direct hiring. Some firms prefer an M.Tech, and some engineers move here after a few years in plant operations. A short course in process simulation can help at shortlisting."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Process simulation",
+          "Equipment and line sizing",
+          "Preparing PFDs, P&IDs and datasheets",
+          "Working with design codes and client specifications",
+          "Coordinating across engineering disciplines"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Project deadlines drive the workload, with busy and quiet phases.",
+          "Common next roles: senior or lead process engineer, process package lead, project engineering.",
+          "Work for overseas projects is common at larger EPC firms."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Chemical",
+            "href": "/explore/btech.chemical.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

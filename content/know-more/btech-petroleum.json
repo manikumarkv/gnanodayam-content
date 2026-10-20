@@ -1,0 +1,120 @@
+{
+  "title": "Petroleum Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Petroleum Engineering covers how oil and gas are found, drilled, produced and moved: petroleum geology, drilling, reservoir engineering, production operations, well testing and pipelines, built on core chemical and mechanical subjects. It leads mainly to upstream oil and gas companies, oilfield service firms and refining, and to higher study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "Where it is taught",
+            "value": "A small number of institutes",
+            "note": "Including IIT (ISM) Dhanbad, RGIPT and IIPE, plus some state and private universities"
+          },
+          {
+            "label": "GATE Petroleum (PE) paper",
+            "value": "~1,700 registered",
+            "note": "~1,300 appeared; ~270 qualified",
+            "source": "GATE 2025 Statistical & Performance Report (IIT Roorkee)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Class 12 with Physics, Chemistry and Mathematics is required. Private universities that offer Petroleum Engineering may run their own entrance tests or accept JEE Main scores."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Hiring rises and falls with oil prices and exploration budgets, so some batches see leaner years.",
+          "Field roles often mean rotational duty on rigs, offshore platforms or remote sites.",
+          "GATE has a Petroleum Engineering (PE) paper for M.Tech admissions; oil-and-gas PSUs state in each notification which GATE papers they accept.",
+          "Core subjects overlap with Chemical and Mechanical, so refinery, process and pipeline roles are also open."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "GATE 2025 — Petroleum Engineering (PE) paper",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["Registered", "Appeared", "Qualified"],
+            "series": [
+              {
+                "label": "Candidates",
+                "values": [1731, 1320, 274]
+              }
+            ]
+          }
+        },
+        "note": "AISHE does not report Petroleum Engineering enrolment as a separate row.",
+        "source": "GATE 2025 Statistical & Performance Report (IIT Roorkee)",
+        "date": "2025",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Drilling Engineer",
+            "href": "/roles/drilling-engineer"
+          },
+          {
+            "label": "Field Engineer (Oilfield Services)",
+            "href": "/roles/oilfield-field-engineer"
+          },
+          {
+            "label": "Reservoir Engineer",
+            "href": "/roles/reservoir-engineer"
+          },
+          {
+            "label": "Process Engineer",
+            "href": "/roles/process-engineer"
+          },
+          {
+            "label": "EHS Executive",
+            "href": "/roles/ehs-executive"
+          },
+          {
+            "label": "Mud Logger",
+            "href": "/roles/mud-logger"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

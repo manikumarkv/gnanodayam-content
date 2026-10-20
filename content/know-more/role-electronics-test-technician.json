@@ -1,0 +1,84 @@
+{
+  "title": "Electronics Test Technician",
+  "kicker": "Role · Electronics manufacturing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Tests printed circuit boards and finished electronic products in a factory to check they work as designed. Electronics manufacturing and assembly companies hire for this role. The day is spent at test stations — running test programs, finding faults, sending boards for rework and logging results."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Electronics, a diploma in electronics, or ITI",
+            "note": "Some plants hire B.Sc graduates as trainees"
+          },
+          {
+            "label": "Common tools",
+            "value": "Test jigs, multimeters, oscilloscopes, soldering stations"
+          },
+          {
+            "label": "Standards followed",
+            "value": "IPC workmanship standards and ESD-safe handling"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join as trainees or operators-turned-technicians in electronics manufacturing units, often through campus drives, walk-ins or apprenticeship schemes in industrial areas. Interviews check basic electronics, component identification and soldering. Shift work is usual."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading schematics and assembly drawings",
+          "Using test instruments",
+          "Soldering and rework",
+          "ESD-safe handling",
+          "Recording results accurately"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Growth path: technician → senior technician → test or quality engineer (often with further study).",
+          "Work is shift-based and on the factory floor.",
+          "Experience with test programs can lead into test engineering roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Electronics",
+            "href": "/explore/bsc.electronics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

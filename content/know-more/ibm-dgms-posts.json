@@ -1,0 +1,83 @@
+{
+  "title": "IBM / DGMS posts (via UPSC)",
+  "kicker": "Central mining regulators",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Bureau of Mines (IBM, Ministry of Mines) and the Directorate General of Mines Safety (DGMS, Ministry of Labour and Employment) are the central bodies that oversee mineral development and mine safety. Officer posts in both — such as Assistant Controller of Mines at IBM and Director of Mines Safety posts at DGMS — are filled mainly through UPSC recruitment advertisements, not through a yearly written exam. The work involves inspecting mines, reviewing mining plans (IBM) and enforcing mine safety law (DGMS)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Entry qualification",
+            "value": "B.E. / B.Tech in Mining Engineering",
+            "note": "Some posts also accept a master's or AMIE in Mining"
+          },
+          {
+            "label": "Experience asked (Assistant Controller of Mines)",
+            "value": "~3 years in core mining",
+            "note": "For degree holders, per a recent UPSC advertisement",
+            "source": "UPSC recruitment advertisement",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Experience asked (Deputy Director of Mines Safety)",
+            "value": "~10 years, plus a First Class Manager's Certificate",
+            "source": "UPSC recruitment advertisement",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Follow UPSC's recruitment advertisements (separate from its exams). Apply online with the degree, experience and certificates the advertisement asks for; selection is usually by interview, sometimes after a recruitment test. Fresh graduates usually build mine experience — and DGMS competency certificates — first, so these are later-career posts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "These are not entry jobs for fresh graduates; requirements change between advertisements.",
+          "Vacancies are advertised irregularly and in small numbers.",
+          "State mining and geology departments recruit separately, usually through state PSCs.",
+          "Experience at a mining company is the usual route toward these posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Mining Engineer",
+            "href": "/roles/mining-engineer"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

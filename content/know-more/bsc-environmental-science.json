@@ -1,0 +1,95 @@
+{
+  "title": "B.Sc Environmental Science",
+  "kicker": "B.Sc major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A science degree on how the environment works and how people affect it: ecology, environmental chemistry, air and water pollution, waste management, natural resources, environmental law and impact assessment, with lab and field work. It is often studied with Chemistry, Botany or Zoology. It leads to compliance, consultancy, lab and NGO roles, or an M.Sc."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4 years for Honours / Honours with Research under the UGC four-year UG framework (NEP 2020)"
+          },
+          {
+            "label": "PG students in Environmental Science",
+            "value": "~19,100",
+            "note": "M.Sc and other PG programmes; B.Sc-level figures are not published by subject",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. scholars in Environmental Science",
+            "value": "~2,100",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in the science stream (Physics, Chemistry with Biology or Mathematics). Central universities admit through CUET-UG; many state universities and colleges admit on Class 12 merit or a state test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Environmental studies is a compulsory course for all undergraduates; this is a full major, which is different.",
+          "Many consultancy and EIA roles prefer an M.Sc.",
+          "For the Indian Forest Service, the degree must include one of UPSC's listed subjects, such as Botany, Chemistry or Zoology.",
+          "Industry EHS, pollution-monitoring labs and NGOs are common first employers."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "EHS Executive",
+            "href": "/roles/ehs-executive"
+          },
+          {
+            "label": "Environmental Consultant",
+            "href": "/roles/environmental-consultant"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          },
+          {
+            "label": "GIS Analyst",
+            "href": "/roles/gis-analyst"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

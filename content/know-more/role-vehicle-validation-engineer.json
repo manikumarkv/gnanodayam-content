@@ -1,0 +1,84 @@
+{
+  "title": "Vehicle Validation Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A vehicle validation engineer checks that a vehicle or component works as designed — for durability, performance, emissions, noise or safety. Employers include vehicle makers, component suppliers, testing agencies and engineering services firms. A typical day involves preparing test plans, fitting sensors, running tests on rigs or tracks, and analysing data."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Automobile or Mechanical"
+          },
+          {
+            "label": "Common tools",
+            "value": "Data loggers, sensors, test rigs, MATLAB"
+          },
+          {
+            "label": "Rules tested against",
+            "value": "Central Motor Vehicles Rules and AIS standards",
+            "note": "Type approval is done through notified testing agencies"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join vehicle makers, suppliers or testing agencies as graduate engineer trainees, often after an internship. Student vehicle projects (formula-style, off-road or electric car competitions) commonly come up in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Test planning and instrumentation",
+          "Data analysis",
+          "Vehicle systems knowledge",
+          "Report writing",
+          "Basics of type-approval rules"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work can involve travel to test tracks and field trials in different climates.",
+          "Electric-vehicle testing (batteries, motors) is a growing part of the work.",
+          "Next roles: test lead, homologation engineer, product engineer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Automobile",
+            "href": "/explore/btech.automobile.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

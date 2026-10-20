@@ -1,0 +1,96 @@
+{
+  "title": "EHS Executive",
+  "kicker": "Role · Environment, health & safety",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Helps a factory, plant or project site follow environment, health and safety (EHS) rules. Manufacturing, chemical, pharma, construction and infrastructure companies hire EHS staff. A day can include site inspections, checking effluent and waste records, preparing compliance reports and supporting audits or safety training."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Environmental Science or Chemistry, or a B.Tech",
+            "note": "A diploma in industrial safety is often asked for in safety-focused roles"
+          },
+          {
+            "label": "Rules you work with",
+            "value": "Pollution control consents, hazardous-waste rules, factory safety rules"
+          },
+          {
+            "label": "Common systems",
+            "value": "ISO 14001 (environment) and ISO 45001 (safety)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join as EHS trainees or executives in plants and project sites, often via campus or job portals. Knowledge of pollution control consents, waste rules and ISO 14001 basics helps; a recognised industrial-safety diploma is required for many statutory safety-officer posts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading environmental and safety regulations",
+          "Site inspection and hazard spotting",
+          "Record-keeping and compliance reporting",
+          "Running training sessions",
+          "Working with plant teams and auditors"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is at the plant or site, sometimes in shifts.",
+          "Growth path: executive → EHS officer → EHS manager for a site or region.",
+          "Roles differ: some lean to environment compliance, others to safety."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Environmental Science",
+            "href": "/explore/bsc.environmental-science.job"
+          },
+          {
+            "label": "B.Tech · Chemical",
+            "href": "/explore/btech.chemical.job"
+          },
+          {
+            "label": "B.Tech · Mining",
+            "href": "/explore/btech.mining.job"
+          },
+          {
+            "label": "B.Tech · Petroleum",
+            "href": "/explore/btech.petroleum.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

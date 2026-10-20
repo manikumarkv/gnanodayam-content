@@ -1,0 +1,84 @@
+{
+  "title": "M.Sc Forensic Science",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree covering crime-scene management, forensic chemistry and toxicology, biology and DNA, fingerprints, questioned documents, ballistics and digital forensics, with lab work and often a lab internship. It is the usual qualification for scientific posts in forensic labs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "PG students in Forensic Science",
+            "value": "~950",
+            "note": "Separate rows: Criminology & Forensic Science ~1,800; based on institutions that reported data",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Main entrances",
+            "value": "NFAT, CUET-PG, university tests",
+            "note": "NFAT is the National Forensic Sciences University's own test"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's in science (forensic science, chemistry, life sciences and similar), and at some universities also medicine, pharmacy or engineering, usually with a minimum percentage. Admission is through NFAT for the National Forensic Sciences University, CUET-PG, or a state or university test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many forensic lab posts specify a master's in forensic science or a related science.",
+          "Students usually specialise in one division (DNA, toxicology, documents, digital forensics).",
+          "Forensic Science is a UGC-NET subject, which leads to lectureship or JRF."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Forensic Analyst",
+            "href": "/roles/forensic-analyst"
+          },
+          {
+            "label": "Lab Technician",
+            "href": "/roles/lab-technician"
+          },
+          {
+            "label": "Government / competitive",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

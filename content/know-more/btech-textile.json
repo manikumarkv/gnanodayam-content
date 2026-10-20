@@ -1,0 +1,86 @@
+{
+  "title": "Textile Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Textile Engineering / Technology (B.Tech) covers fibre science, yarn manufacture (spinning), fabric manufacture (weaving and knitting), wet processing such as dyeing, printing and finishing, garment technology, technical textiles and quality testing. It leads to work in textile mills, processing houses, garment exporters and technical-textile firms, and to higher study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters"
+          },
+          {
+            "label": "Names you'll see",
+            "value": "Textile Technology, Textile Engineering, Textile Chemistry",
+            "note": "Some institutes also offer Man-made Fibre or Handloom & Textile Technology"
+          },
+          {
+            "label": "Related GATE paper",
+            "value": "Textile Engineering and Fibre Science (TF)",
+            "note": "Used mainly for M.Tech admissions"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Several state textile institutes admit only through state counselling. Class 12 with Physics, Chemistry and Mathematics is required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many jobs are in textile and garment clusters rather than in metros.",
+          "Mill and processing-house roles usually start on the production floor, often in shifts.",
+          "Merchandising and sourcing roles with garment exporters are buyer-facing rather than plant-based.",
+          "Technical textiles (medical, geotextiles, protective wear) is a distinct sub-field with its own government mission."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Production Engineer",
+            "href": "/roles/production-engineer"
+          },
+          {
+            "label": "Quality Control Analyst",
+            "href": "/roles/quality-control-analyst"
+          },
+          {
+            "label": "Merchandiser",
+            "href": "/roles/merchandiser"
+          },
+          {
+            "label": "Textile Process Engineer",
+            "href": "/roles/textile-process-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

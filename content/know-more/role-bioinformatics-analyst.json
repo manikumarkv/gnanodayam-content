@@ -1,0 +1,78 @@
+{
+  "title": "Bioinformatics Analyst",
+  "kicker": "Role · Biology & data",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A bioinformatics analyst uses software to analyse biological data such as DNA and RNA sequences and protein structures. Genomics and diagnostics companies, research institutes, and pharma and contract research firms hire them. A day involves running analysis pipelines, writing scripts, checking data quality and explaining results to lab scientists."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Biotechnology or Bioinformatics; often an M.Sc / M.Tech"
+          },
+          {
+            "label": "Common tools",
+            "value": "Linux, Python or R, sequence databases and aligners"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Some freshers join genomics or diagnostics firms as bioinformatics trainees or associates, often after projects or internships that show programming and data skills. Many employers and most research labs prefer a master's degree."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Programming in Python or R",
+          "Working on the Linux command line",
+          "Using sequence databases and alignment tools",
+          "Basic statistics and data visualisation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior bioinformatician, computational biologist, data scientist.",
+          "Research-heavy roles usually expect a master's or PhD.",
+          "Skills overlap with data science, which widens later options."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Biotechnology",
+            "href": "/explore/btech.biotech.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

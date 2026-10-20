@@ -1,0 +1,125 @@
+{
+  "title": "Aerospace / Aeronautical Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Aerospace (or Aeronautical) Engineering covers aerodynamics, flight mechanics, aircraft structures, propulsion and materials, with labs, wind-tunnel work and CAD. Aeronautical programmes focus on aircraft; aerospace programmes also cover rockets and spacecraft. It leads to design, analysis, maintenance and research work in aviation, space and defence."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "UG students in Aeronautical",
+            "value": "~19,000",
+            "note": "AISHE row 'Aeronautical Engineering' (18,988)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "UG pass-outs in a year",
+            "value": "~4,000",
+            "note": "AISHE row 'Aeronautical Engineering' (3,955)",
+            "source": "AISHE 2023-24, Table 36 UG out-turn by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~29%",
+            "note": "Computed from the same AISHE row (5,479 of 18,988)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. Aerospace Engineering is offered at a few IITs (JEE Advanced) and at IIST Thiruvananthapuram, which also admits on JEE Advanced rank; a few other institutes in JoSAA counselling admit on JEE Main rank. Most Aeronautical seats are in private and state colleges, filled through state CETs or university tests. Class 12 with Physics, Chemistry and Mathematics is required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Core aerospace employers in India are fewer than for mechanical, so many graduates also apply to mechanical, software or analytics roles.",
+          "GATE has a separate Aerospace Engineering (AE) paper, used mainly for M.Tech admissions.",
+          "Certifying aircraft maintenance needs a DGCA licence in addition to the degree.",
+          "Design and research roles often expect an M.Tech or MS."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Aeronautical",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 13509
+              },
+              {
+                "label": "Female",
+                "value": 5479
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Aerospace Design Engineer",
+            "href": "/roles/aerospace-design-engineer"
+          },
+          {
+            "label": "CFD Engineer",
+            "href": "/roles/cfd-engineer"
+          },
+          {
+            "label": "Aircraft Maintenance Engineer",
+            "href": "/roles/aircraft-maintenance-engineer"
+          },
+          {
+            "label": "Quality Engineer",
+            "href": "/roles/quality-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

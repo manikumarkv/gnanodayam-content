@@ -1,0 +1,79 @@
+{
+  "title": "CFD Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A CFD (computational fluid dynamics) engineer uses software to simulate how air, gas or liquid flows around or through a product — a wing, an engine part, a car body or a cooling system. Employers include aerospace and automotive companies, engineering services firms, simulation software vendors and research labs. Most of the day goes into setting up models, running simulations on workstations or clusters, and checking and reporting results."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Aerospace or Mechanical; many roles prefer an M.Tech"
+          },
+          {
+            "label": "Common tools",
+            "value": "ANSYS Fluent, OpenFOAM, STAR-CCM+, Python"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join engineering services or simulation firms as trainee analysts, often after a project or internship in CFD. Research and specialist roles commonly ask for an M.Tech or MS in fluid or thermal engineering."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Fluid mechanics and heat transfer",
+          "Meshing and solver setup",
+          "Judging whether results make physical sense",
+          "Scripting (Python, MATLAB)",
+          "Clear technical reporting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The work is desk- and computer-based rather than on the shop floor.",
+          "Higher study is common for this role.",
+          "Next roles: senior analyst, aerodynamics lead, simulation methods engineer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Aerospace / Aeronautical",
+            "href": "/explore/btech.aerospace.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

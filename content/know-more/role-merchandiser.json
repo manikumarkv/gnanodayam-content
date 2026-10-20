@@ -1,0 +1,78 @@
+{
+  "title": "Merchandiser",
+  "kicker": "Role · Textile & apparel trade",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A merchandiser manages an order between a buyer and the factory that makes it. Garment exporters, buying houses, textile mills and retail brands hire them. A day involves emails and calls with buyers, chasing samples and approvals, tracking production against deadlines and sorting out delays."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Textile, or a fashion / apparel degree"
+          },
+          {
+            "label": "Common tools",
+            "value": "Spreadsheets, ERP systems, email, costing sheets"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a garment exporter or buying house as a trainee or assistant merchandiser, through campus placement or direct application, and learn on live orders."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Fabric and garment construction knowledge",
+          "Order costing",
+          "Planning and follow-up against deadlines",
+          "Clear written communication with buyers"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior merchandiser, sourcing manager, buyer.",
+          "Deadlines are tight around shipment dates, and hours can follow buyers' time zones.",
+          "Jobs cluster in garment and textile export centres."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Textile",
+            "href": "/explore/btech.textile.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "IAF Technical Branch (AFCAT)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Air Force recruits engineering graduates as officers in its Ground Duty (Technical) branch, as Aeronautical Engineer (Electronics) or Aeronautical Engineer (Mechanical). These officers manage the maintenance of aircraft, weapons and related systems. Entry is through the Air Force Common Admission Test (AFCAT), held twice a year."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Age",
+            "value": "20–26 years",
+            "note": "As on the date set in each notification",
+            "source": "AFCAT notification (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Written tests",
+            "value": "AFCAT + Engineering Knowledge Test (EKT)"
+          },
+          {
+            "label": "Selection",
+            "value": "Air Force Selection Board (AFSB) + medical exam"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A four-year engineering degree in a branch listed in the notification, with Physics and Mathematics in Class 12; minimum marks are set in each notification. Pass the online AFCAT and the EKT, then the Air Force Selection Board (AFSB) process and a medical exam. Final-year students can usually apply, subject to the notification."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats are few and divided across branches and courses.",
+          "Both men and women can apply.",
+          "Commission type (permanent or short service) is set in each notification.",
+          "Military life means transfers, postings and physical and medical standards."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

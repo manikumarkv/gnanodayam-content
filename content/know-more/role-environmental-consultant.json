@@ -1,0 +1,84 @@
+{
+  "title": "Environmental Consultant",
+  "kicker": "Role · Environment & compliance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Helps projects and companies assess and report their environmental impact — for example environmental impact assessments (EIA), monitoring reports and documents for environmental clearance. Environmental consultancies, engineering firms and some NGOs hire for this role. Work mixes field surveys, data work and report writing."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc / M.Sc Environmental Science, or a B.Tech",
+            "note": "An M.Sc is common for EIA roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Spreadsheets, GIS, air / water monitoring data, report templates"
+          },
+          {
+            "label": "Framework",
+            "value": "EIA process under the Environment (Protection) Act"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join consultancies as trainee or junior consultants, usually helping with baseline surveys, data compilation and report drafting. An M.Sc in Environmental Science and knowledge of the EIA process and pollution norms are what most hiring looks for."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Field sampling and surveys",
+          "Data analysis in spreadsheets",
+          "Technical report writing",
+          "Basic GIS mapping",
+          "Understanding environmental law and norms"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Project deadlines and site visits are common.",
+          "Growth path: junior consultant → consultant → project manager or functional area expert.",
+          "Work volume follows infrastructure and industrial project activity."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Environmental Science",
+            "href": "/explore/bsc.environmental-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

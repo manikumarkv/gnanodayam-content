@@ -1,0 +1,78 @@
+{
+  "title": "Food Technologist",
+  "kicker": "Role · Food product development",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A food technologist develops new food products and improves existing ones and the processes that make them. Packaged-food, beverage, dairy, bakery and ingredient companies hire them. A day involves formulation trials, sensory and shelf-life tests, checking regulatory limits and supporting trials on the plant line."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.Sc Food Technology; M.Tech or M.Sc for R&D posts"
+          },
+          {
+            "label": "Rules you work with",
+            "value": "FSSAI food standards and labelling regulations"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start in quality or production at a food plant and move into product development, or join an R&D team directly as a trainee through campus placement or direct application. R&D teams often prefer a master's degree."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Food chemistry and formulation",
+          "Sensory evaluation and shelf-life testing",
+          "Reading FSSAI standards and labelling rules",
+          "Documenting trials and specifications"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior product developer, R&D manager, regulatory specialist.",
+          "Plant experience helps, since new products must run on real production lines.",
+          "Product development teams are smaller than quality and production teams."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Food Technology",
+            "href": "/explore/btech.food-tech.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

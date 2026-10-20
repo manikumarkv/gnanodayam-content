@@ -1,0 +1,116 @@
+{
+  "title": "Agricultural Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Agricultural Engineering (B.Tech) applies engineering to farming: farm machinery and power, soil and water conservation, irrigation and drainage, post-harvest processing and renewable energy. It is offered mostly at state agricultural universities and some engineering colleges, and leads to work with farm-equipment makers, irrigation firms, agri-business and government agriculture bodies."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters"
+          },
+          {
+            "label": "UG students in Agriculture Engineering",
+            "value": "~21,900",
+            "note": "All UG programmes AISHE lists under this discipline",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~41%",
+            "note": "Computed from the same AISHE row (9,097 of 21,928)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most seats are at state agricultural universities, which admit through a state CET (for example EAMCET, KCET or MHT-CET) or their own tests; a share of their seats is filled through ICAR counselling. Engineering colleges that offer the branch admit through JEE Main or state counselling. Class 12 with Physics, Chemistry and Mathematics is the usual requirement; some universities also admit students with Biology or Agriculture."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Jobs are spread across tractor and farm-equipment makers, micro-irrigation firms, food processing and agri-input companies; many are field-based or in smaller towns.",
+          "Government routes include ICAR scientist posts (after a master's), NABARD, bank agriculture field officer posts and state agricultural engineering posts.",
+          "GATE has an Agricultural Engineering (AG) paper, used mainly for M.Tech admissions."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Agriculture Engineering",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 12831
+              },
+              {
+                "label": "Female",
+                "value": 9097
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Farm Machinery Engineer",
+            "href": "/roles/farm-machinery-engineer"
+          },
+          {
+            "label": "Irrigation Engineer",
+            "href": "/roles/irrigation-engineer"
+          },
+          {
+            "label": "Production Engineer",
+            "href": "/roles/production-engineer"
+          },
+          {
+            "label": "Sales Executive",
+            "href": "/roles/sales-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

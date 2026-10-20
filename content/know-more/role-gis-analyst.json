@@ -1,0 +1,84 @@
+{
+  "title": "GIS Analyst",
+  "kicker": "Role · Maps & geospatial data",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Works with maps and location data — digitising features, processing satellite or drone images, and running spatial analysis. Mapping and survey firms, infrastructure and utility companies, environmental consultancies and government projects hire GIS analysts. Most of the day is at a computer working in GIS software."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc / M.Sc in Geology, Geography or Environmental Science, or a B.Tech",
+            "note": "A GIS / remote-sensing certificate or PG diploma helps"
+          },
+          {
+            "label": "Common tools",
+            "value": "QGIS, ArcGIS, GPS data, satellite imagery, spreadsheets"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as GIS technicians or executives in mapping and data-processing firms, doing digitisation work, then move to analysis. A short course in GIS and remote sensing, plus a small portfolio of maps, is what interviews usually look for."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "GIS software (QGIS / ArcGIS)",
+          "Map projections and coordinate systems",
+          "Image interpretation",
+          "Spatial analysis",
+          "Basic scripting (often Python) for automation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry digitisation work can be repetitive; analysis roles come with experience.",
+          "Growth path: GIS technician → analyst → GIS specialist or project lead.",
+          "Programming skills open geospatial data and developer roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Geology",
+            "href": "/explore/bsc.geology.job"
+          },
+          {
+            "label": "B.Sc · Environmental Science",
+            "href": "/explore/bsc.environmental-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

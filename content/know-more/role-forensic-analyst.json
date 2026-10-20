@@ -1,0 +1,84 @@
+{
+  "title": "Forensic Analyst",
+  "kicker": "Role · Forensic science",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Examines physical evidence — for example questioned documents, fingerprints, chemical or biological samples — and writes reports that investigators and courts can use. Government forensic science laboratories employ most forensic scientists; private forensic labs, document-examination and verification firms also hire. The work is lab-based and record-heavy, with strict chain-of-custody rules."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc / M.Sc Forensic Science",
+            "note": "Many lab roles expect an M.Sc"
+          },
+          {
+            "label": "Main employers",
+            "value": "State and central forensic science laboratories; private forensic and verification firms"
+          },
+          {
+            "label": "Common work areas",
+            "value": "Documents, fingerprints, chemistry / toxicology, biology / DNA, ballistics, digital evidence"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "In private labs, freshers start as trainee analysts or lab assistants. Government lab posts (scientific assistant, scientific officer) come through SSC, state PSC or department notices and usually need a science or forensic science degree, often a master's."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Careful observation and documentation",
+          "Lab techniques for your specialisation",
+          "Chain-of-custody and evidence handling",
+          "Clear report writing",
+          "Explaining findings in plain language"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Government posts are limited and competitive; most need a master's.",
+          "Each lab division (documents, DNA, toxicology, etc.) needs specific training.",
+          "Reports may need to be defended in court."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Forensic Science",
+            "href": "/explore/bsc.forensic-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

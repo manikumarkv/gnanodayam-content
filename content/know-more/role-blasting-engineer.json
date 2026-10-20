@@ -1,0 +1,83 @@
+{
+  "title": "Blasting Engineer",
+  "kicker": "Role · Mining",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A blasting engineer designs the drilling and explosive patterns that break rock, and supervises blasts so the rock breaks as planned without harming people, machines or nearby homes. Mining companies, quarry and tunnelling contractors, and explosives manufacturers (for technical service at customer sites) hire them. A day involves marking and checking drill holes, overseeing charging, firing the blast and measuring the results."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in Mining Engineering"
+          },
+          {
+            "label": "Rules that apply",
+            "value": "Mine regulations (DGMS) and explosives rules (PESO)"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Mine, quarry or tunnel sites"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join mining companies or contractors in drill-and-blast sections, or explosives manufacturers as technical service engineers, through campus placement or direct hiring. Handling and firing explosives at mines needs the certificates and permissions set under mine and explosives rules."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Drill-and-blast design",
+          "Explosives safety and handling rules",
+          "Vibration and fragmentation measurement",
+          "Coordinating with drilling and loading crews",
+          "Keeping statutory records"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Safety discipline is central; mistakes can be serious.",
+          "Common next roles: senior blasting engineer, drill-and-blast manager, technical service lead.",
+          "Tunnelling and infrastructure projects also use blasting skills."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mining",
+            "href": "/explore/btech.mining.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

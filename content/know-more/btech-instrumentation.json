@@ -1,0 +1,108 @@
+{
+  "title": "EIE — Electronics & Instrumentation Engineering",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Electronics & Instrumentation Engineering covers sensors and transducers, measurement, analog and digital electronics, process control, PLC and SCADA systems, and microcontrollers. Colleges also offer it as Instrumentation & Control or Applied Electronics & Instrumentation. Graduates work on the measurement and control systems that run plants, power stations and labs, and some move into electronics or software jobs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters; diploma holders can join year 2 through lateral entry"
+          },
+          {
+            "label": "Also offered as",
+            "value": "Instrumentation & Control, Applied Electronics & Instrumentation, Instrumentation Engineering"
+          },
+          {
+            "label": "GATE paper",
+            "value": "IN — Instrumentation Engineering"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Main rank is used for NITs, IIITs and other centrally funded institutes, allotted through JoSAA; JEE Advanced rank for IITs where the branch is offered. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Class 12 with Physics, Chemistry and Mathematics is required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Core jobs sit mainly in process industries — oil and gas, chemicals, power, steel, pharma — and with automation and instrument companies, often at plant sites.",
+          "AISHE does not report this branch separately, so reliable national enrolment figures are not available.",
+          "GATE (IN paper) is used for M.Tech admissions and by some PSUs for instrumentation posts; BARC's OCES lists instrumentation as an engineering discipline.",
+          "Many graduates also take software or IT jobs through campus placements."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths to explore",
+        "items": [
+          {
+            "label": "Job",
+            "href": "/explore/btech.instrumentation.job"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/btech.instrumentation.higher-education"
+          },
+          {
+            "label": "Government",
+            "href": "/explore/btech.instrumentation.government"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Instrumentation Engineer",
+            "href": "/roles/instrumentation-engineer"
+          },
+          {
+            "label": "Control & Automation Engineer",
+            "href": "/roles/control-automation-engineer"
+          },
+          {
+            "label": "Calibration Engineer",
+            "href": "/roles/calibration-engineer"
+          },
+          {
+            "label": "Embedded Systems Engineer",
+            "href": "/roles/embedded-systems-engineer"
+          },
+          {
+            "label": "Maintenance Engineer",
+            "href": "/roles/maintenance-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

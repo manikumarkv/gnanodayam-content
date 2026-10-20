@@ -1,0 +1,81 @@
+{
+  "title": "UPSC Combined Geo-Scientist Examination",
+  "kicker": "Government recruitment exam",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A UPSC exam held once a year that recruits Group A geoscientists for the Geological Survey of India (Geologist, Geophysicist, Chemist) and the Central Ground Water Board (Scientist 'B' in hydrogeology, geophysics and chemistry), and related posts. It has a preliminary exam, a main exam and a personality test."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Stages",
+            "value": "Preliminary (objective) → Main (descriptive) → Personality test"
+          },
+          {
+            "label": "Qualification",
+            "value": "A master's in Geology, Applied Geology or a related geoscience",
+            "note": "Exact subjects differ by post; chemist posts need an M.Sc in Chemistry"
+          },
+          {
+            "label": "Age limit",
+            "value": "21–32 years",
+            "note": "Relaxations for reserved categories; check the current notice"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Complete a master's in Geology, Applied Geology, Geophysics or another subject listed for the post (final-year students can usually apply). Apply when UPSC notifies the exam, clear the preliminary and main papers in your stream, and then the interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A B.Sc alone is not enough; the exam needs a relevant master's.",
+          "Posts come with fieldwork across India, including remote areas.",
+          "Vacancies vary from year to year; check each UPSC notice.",
+          "M.Sc Environmental Science is generally not listed among eligible subjects."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Geologist",
+            "href": "/roles/geologist"
+          },
+          {
+            "label": "Government / competitive",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

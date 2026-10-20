@@ -1,0 +1,117 @@
+{
+  "title": "Food Technology",
+  "kicker": "B.Tech branch",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Food Technology (B.Tech) covers food chemistry and microbiology, unit operations, food processing and preservation, packaging, quality control and food safety law. It leads to work in food and beverage manufacturing, dairy, quality labs and food regulation, and to higher study."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4 years",
+            "note": "8 semesters"
+          },
+          {
+            "label": "UG students in Food Technology",
+            "value": "~18,500",
+            "note": "All UG programmes AISHE lists under this discipline",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Share of women",
+            "value": "~47%",
+            "note": "Computed from the same AISHE row (8,766 of 18,530)",
+            "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "You choose the branch at counselling, after the entrance exam. JEE Advanced rank is used for IITs; JEE Main rank for NITs, IIITs and other centrally funded institutes — all allotted through JoSAA. State colleges use state counselling with a state CET (EAMCET, MHT-CET, KCET, WBJEE and others) or, in Tamil Nadu (TNEA), Class 12 marks. Private universities may run their own tests. Food technology is also offered at state agricultural universities, which admit through state CETs or their own tests, with a share of seats filled through ICAR counselling. Class 12 with Physics, Chemistry and Mathematics is the usual requirement; some colleges also accept Biology."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Food plants follow FSSAI rules and certifications such as HACCP, so quality and documentation are a large part of entry jobs.",
+          "Many first jobs are in plants outside big cities and involve shift work.",
+          "Graduates can be eligible for FSSAI Food Safety Officer and FCI Manager (Technical) posts, subject to each notification.",
+          "Women are close to half of UG students in this discipline."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment by gender — Food Technology",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Male",
+                "value": 9764
+              },
+              {
+                "label": "Female",
+                "value": 8766
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Food Technologist",
+            "href": "/roles/food-technologist"
+          },
+          {
+            "label": "Quality Control Analyst",
+            "href": "/roles/quality-control-analyst"
+          },
+          {
+            "label": "Food Safety Executive",
+            "href": "/roles/food-safety-executive"
+          },
+          {
+            "label": "Production Engineer",
+            "href": "/roles/production-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

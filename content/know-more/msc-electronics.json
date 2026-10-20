@@ -1,0 +1,91 @@
+{
+  "title": "M.Sc Electronics",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree covering analog and digital circuits, microprocessors and embedded systems, communication, VLSI basics and instrumentation, with lab work and a project. It leads to electronics industry roles, research and college teaching."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "PG students in Electronics",
+            "value": "~3,300",
+            "note": "Based on institutions that reported data",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG pass-outs in Electronics",
+            "value": "~1,200 a year",
+            "note": "Based on institutions that reported data",
+            "source": "AISHE 2023-24, Table 37 PG out-turn by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc with Electronics (some universities also accept Physics with Mathematics). Admission is through CUET-PG, a state or university entrance test, or graduation merit, depending on the university."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Fewer universities offer it than M.Sc Physics or Chemistry, so check where it is offered.",
+          "Industry roles include embedded, testing and service work; some employers prefer B.Tech graduates for design roles.",
+          "College teaching needs NET (Electronic Science is a UGC-NET subject), SET or a PhD."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Embedded Systems Engineer",
+            "href": "/roles/embedded-systems-engineer"
+          },
+          {
+            "label": "Field Service Engineer",
+            "href": "/roles/field-service-engineer"
+          },
+          {
+            "label": "Electronics Test Technician",
+            "href": "/roles/electronics-test-technician"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

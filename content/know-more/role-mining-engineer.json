@@ -1,0 +1,84 @@
+{
+  "title": "Mining Engineer",
+  "kicker": "Role · Mining",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A mining engineer runs the day-to-day work of getting coal, ore or stone out of the ground — opencast or underground — safely and to plan. Coal and metal mining companies, mining contractors and cement companies with captive mines hire them. A day starts with shift planning and safety checks, then supervising crews and machines, and ends with production and statutory records."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Mining Engineering"
+          },
+          {
+            "label": "Statutory certificates",
+            "value": "DGMS competency certificates (e.g. Second / First Class Manager's)",
+            "note": "Needed for supervisory posts named in mine regulations"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Shift duty at mine sites, often remote"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Coal India has recruited Mining Management Trainees through GATE (Mining paper) scores in several recent years; other mining PSUs and private miners hire through their own exams or campus placement. After joining, engineers build mine experience and sit the DGMS certificate exams to qualify for higher statutory posts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Mining methods and mine planning basics",
+          "Mine safety law and practice",
+          "Supervising crews and heavy machinery",
+          "Drilling and blasting basics",
+          "Keeping statutory records"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most jobs are at mine sites in mineral-rich regions, away from big cities.",
+          "Common next roles: mine manager, agent, planning or operations head.",
+          "Since a 2019 notification, women can be deployed in underground and night-shift mine work under set conditions."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mining",
+            "href": "/explore/btech.mining.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

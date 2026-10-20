@@ -1,0 +1,82 @@
+{
+  "title": "Calibration Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A calibration engineer checks measuring instruments — gauges, meters, sensors, weighing and test equipment — against reference standards and issues calibration records. Employers include calibration laboratories, manufacturing plants, pharma companies and instrument service firms. A typical day involves running calibrations, working out measurement uncertainty, and keeping equipment and documents ready for audits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Instrumentation, Electronics or Electrical; diploma holders also enter"
+          },
+          {
+            "label": "Common standards",
+            "value": "ISO/IEC 17025 and NABL accreditation requirements"
+          },
+          {
+            "label": "Work setting",
+            "value": "Calibration labs and on site at client plants"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a NABL-accredited calibration lab or a plant's quality or metrology team as a trainee. A short course in metrology or ISO/IEC 17025 and comfort with documentation help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Metrology and measurement uncertainty",
+          "Using reference standards and calibrators",
+          "Electrical, pressure and temperature calibration",
+          "Documentation for audits"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is precise and procedure-driven, and audits are a regular part of the job.",
+          "On-site calibration involves travel to client plants.",
+          "Next roles: senior calibration engineer, lab technical manager, quality manager."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Electronics & Instrumentation",
+            "href": "/explore/btech.instrumentation.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "M.Sc Environmental Science",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree covering ecology, environmental chemistry, pollution monitoring and control, environmental impact assessment, environmental law and GIS, with lab work, field visits and a project. It leads to consultancy, compliance, NGO, research and teaching roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "PG students in Environmental Science",
+            "value": "~19,100",
+            "note": "Based on institutions that reported data",
+            "source": "AISHE 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "PG pass-outs in Environmental Science",
+            "value": "~4,300 a year",
+            "note": "Based on institutions that reported data",
+            "source": "AISHE 2023-24, Table 37 PG out-turn by discipline, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc in Environmental Science or a related science (many universities accept any science graduate). Admission is through CUET-PG, a state or university entrance test, or graduation merit."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles are in EIA consultancy, industry EHS teams and pollution-monitoring labs.",
+          "Environmental Sciences is a UGC-NET subject, which leads to lectureship or JRF.",
+          "It does not by itself make you eligible for the UPSC Combined Geo-Scientist Examination."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Environmental Consultant",
+            "href": "/roles/environmental-consultant"
+          },
+          {
+            "label": "EHS Executive",
+            "href": "/roles/ehs-executive"
+          },
+          {
+            "label": "GIS Analyst",
+            "href": "/roles/gis-analyst"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

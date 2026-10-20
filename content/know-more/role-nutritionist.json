@@ -1,0 +1,83 @@
+{
+  "title": "Nutritionist",
+  "kicker": "Role · Health & nutrition",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A nutritionist advises people and communities on what to eat for health. Employers include wellness and fitness companies, food and nutrition-product firms, corporate wellness programmes, NGOs and public-health nutrition projects. A typical day involves counselling clients, preparing diet plans and education material, and, in community work, running awareness sessions and collecting data."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Nutrition & Dietetics, Home Science (Food & Nutrition) or Food Science"
+          },
+          {
+            "label": "Common settings",
+            "value": "Wellness and fitness, food companies, NGOs, public-health programmes"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Sc in nutrition, dietetics or home science is the usual entry. Wellness firms, food companies and NGO projects hire freshers as nutrition counsellors or project staff; community nutrition posts under government schemes are often contractual and advertised by state or district bodies."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Diet assessment and planning",
+          "Counselling and communication",
+          "Community nutrition outreach",
+          "Preparing education material",
+          "Basic data collection and reporting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The title is used loosely; clinical (hospital) work usually goes to dietitians with further training.",
+          "Next roles: senior nutritionist, programme coordinator, or a move to dietetics after an M.Sc and internship.",
+          "Freelance and online counselling are common but income varies."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Nutrition & Dietetics",
+            "href": "/explore/bsc.nutrition-dietetics.job"
+          },
+          {
+            "label": "B.Sc · Home Science / Community Science",
+            "href": "/explore/bsc.home-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
