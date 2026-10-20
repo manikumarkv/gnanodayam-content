@@ -1,0 +1,73 @@
+{
+  "title": "PG Diploma in Translation",
+  "kicker": "Postgraduate study",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A postgraduate diploma that trains graduates to translate between Hindi (or another Indian language) and English. It covers translation theory, terminology and hands-on practice with official, legal, technical, media and literary texts. Universities offer it in regular, part-time or distance mode, including open universities such as IGNOU."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "Usually 1 year",
+            "note": "Distance versions often allow extra time to finish"
+          },
+          {
+            "label": "Common language pair",
+            "value": "Hindi–English",
+            "note": "Some universities offer other Indian languages"
+          },
+          {
+            "label": "Mode",
+            "value": "Regular, part-time or distance",
+            "note": "Depends on the university"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, usually with the languages involved studied at some level — check each university's rule. Admission is by graduation marks, a university entrance test, or direct enrolment for open-university programmes."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It is a diploma, not a degree, and can be taken alongside an M.A. or a job.",
+          "For central Hindi translator posts filled through SSC, a translation diploma or certificate is one of the listed ways to meet eligibility, alongside a Master's — read the current notification.",
+          "Outside government, translation work exists in publishing, media subtitling and software localisation, often on a freelance basis."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Translator",
+            "href": "/roles/translator"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

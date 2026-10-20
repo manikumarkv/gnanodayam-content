@@ -1,0 +1,75 @@
+{
+  "title": "IAF Flying Branch (AFCAT)",
+  "kicker": "Pilot entry into the Indian Air Force",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Indian Air Force recruits pilots as commissioned officers in its Flying Branch. Graduates enter mainly through AFCAT (Air Force Common Admission Test), held twice a year, followed by an Air Force Selection Board interview, pilot aptitude testing and a medical. A civil Commercial Pilot Licence is not required, but CPL holders get a higher upper age limit. Selected candidates train at the Air Force Academy, Dundigal."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Age limit",
+            "value": "20–24 years",
+            "note": "Up to 26 for holders of a valid DGCA-issued CPL",
+            "source": "IAF AFCAT notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Education",
+            "value": "Graduate degree",
+            "note": "Physics and Maths at Class 12 are also required; minimum marks apply",
+            "source": "IAF AFCAT notification (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Exam frequency",
+            "value": "Twice a year",
+            "source": "IAF AFCAT cycles (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Training",
+            "value": "Air Force Academy, Dundigal",
+            "note": "Followed by stage-wise flying training"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Clear the AFCAT written exam, then the AFSB interview, which for the Flying Branch includes a computerised pilot selection test (CPSS), and finally an aircrew medical. NCC Air Wing 'C' certificate holders have a separate special entry. Candidates who have failed CPSS or the pilot aptitude test earlier are generally not eligible again."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "This is a commissioned officer career, not a civil airline job; terms of service are set by the IAF.",
+          "A CPL alone is not enough — the entry also needs a graduate degree.",
+          "Civil flying hours do not replace IAF flying training; all pilots train through the Academy.",
+          "Medical and eyesight standards for aircrew are strict; check them before preparing."
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

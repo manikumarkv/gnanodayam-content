@@ -1,0 +1,84 @@
+{
+  "title": "C-DAC PG Diplomas",
+  "kicker": "Short full-time post-graduate diplomas in computing and electronics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Centre for Development of Advanced Computing (C-DAC), under the Ministry of Electronics and Information Technology, runs full-time post-graduate diploma courses through its training centres and authorised partner institutes. Courses include PG-DAC (Advanced Computing), PG-DESD (Embedded Systems Design), PG-DVLSI (VLSI Design), PG-DBDA (Big Data Analytics) and PG-DAI (Artificial Intelligence). They are intensive, job-oriented diplomas, not university degrees."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "~24 weeks (about 6 months)",
+            "note": "Full-time, classroom and lab based",
+            "source": "C-DAC ACTS admission booklet (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Batches",
+            "value": "Usually two a year",
+            "note": "Commonly starting around February and August; check the current calendar",
+            "source": "C-DAC ACTS admission notices (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "Entrance test",
+            "value": "C-CAT",
+            "note": "C-DAC's Common Admission Test; the sections you take depend on the courses you choose"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.E. / B.Tech in a listed branch (such as CS, IT, electronics, electrical or instrumentation), an MCA, or a relevant M.Sc; each course lists its own eligible degrees. Register for C-CAT, take the sections required for your chosen courses, and then choose a centre and course in the counselling rounds based on your rank. Final-year students have been allowed to apply, subject to the notice."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It is a diploma, not a master's degree, so it does not replace an M.Tech for posts that ask for one.",
+          "Centres offer placement support, but jobs are not guaranteed and outcomes vary by centre, course and batch.",
+          "Fees and the courses on offer differ between centres; check each centre's listing.",
+          "The pace is fast, with long daily lab hours over the six months."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Higher Education options",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
