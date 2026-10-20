@@ -1,0 +1,79 @@
+{
+  "title": "Policy Analyst",
+  "kicker": "Role · Public policy & research",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A policy analyst researches public issues, laws and programmes, and writes analysis that helps governments and organisations make decisions. Think tanks, government departments and programmes, NGOs, international agencies and consultancies hire them. A day involves reading reports, analysing data, interviewing stakeholders and writing briefs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA in Political Science, Economics or Sociology; often a master's"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel or Stata/R, government data portals, report writing"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start through research internships, fellowships or research-assistant posts at think tanks, NGOs and government programmes. A master's degree in public policy, economics or development is common for longer-term roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Research and literature review",
+          "Reading laws, budgets and government data",
+          "Basic quantitative analysis",
+          "Clear policy-brief writing",
+          "Stakeholder interviews and field research"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many entry roles are fixed-term fellowships or project contracts.",
+          "Common next roles: senior analyst, programme manager, policy advisor.",
+          "Published writing and a track record of research matter for growth."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Political Science",
+            "href": "/explore/ba.political-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

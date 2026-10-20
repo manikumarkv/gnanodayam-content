@@ -1,0 +1,123 @@
+{
+  "title": "MBA / PGDM",
+  "kicker": "Postgraduate management programme",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year postgraduate programme in management. Universities award an MBA degree; AICTE-approved autonomous institutes award a PGDM diploma, and the two cover similar ground. The first year is general management, and in the second you choose a specialisation such as Finance, Marketing, HR, Operations, IT or Business Analytics."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Usually 4 semesters or 6 trimesters; 1-year executive programmes exist for experienced professionals"
+          },
+          {
+            "label": "MBA students enrolled",
+            "value": "~9.6 lakh",
+            "note": "All modes, including ~2.1 lakh in distance mode; PGDM institutes counted separately",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "CAT test-takers",
+            "value": "~2.58 lakh",
+            "note": "Out of ~2.95 lakh registered",
+            "source": "IIM Kozhikode, CAT 2025 (as reported)",
+            "date": "Nov 2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any discipline (CAT asks for 50%, or 45% for SC/ST/PwD; final-year students can apply). Then an entrance test: CAT (IIMs and many others), XAT (XLRI and XAMI members), CMAT (NTA, AICTE-approved institutes), MAT (AIMA), or a state CET such as MAH-MBA CET, TS/AP ICET, KMAT or TANCET. Shortlisted candidates usually go through a written ability test, group discussion and/or personal interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "You do not need a commerce background — graduates from engineering, science and arts take the same tests.",
+          "Fees range very widely between government universities, IIMs and private institutes, so the cost has to be checked institute by institute.",
+          "Placement outcomes also vary a lot across institutes; published placement reports are worth reading closely.",
+          "Some institutes give weight to work experience, and many students work for a year or two before applying."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "MBA enrolment by year (regular mode)",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  454459,
+                  474249,
+                  525989,
+                  586428,
+                  631887
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Regular mode only; excludes distance-mode MBA and PGDM institutes.",
+        "source": "AISHE 2023-24, Box 15 (Ministry of Education)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          },
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

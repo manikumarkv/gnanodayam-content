@@ -1,0 +1,92 @@
+{
+  "title": "School teacher recruitment",
+  "kicker": "CTET / State TET, KVS–NVS and state teacher exams",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Becoming a school teacher in India usually takes three things: a professional teaching qualification (D.El.Ed for primary, B.Ed for upper-primary and secondary), passing a Teacher Eligibility Test (the central CTET or a State TET), and then clearing a recruitment exam run by a state, or by CBSE for Kendriya Vidyalayas (KVS) and Navodaya Vidyalayas (NVS). Private schools set their own hiring rules but often ask for the same qualifications."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "CTET qualifying mark",
+            "value": "60%",
+            "note": "90 of 150; states may allow relaxation (e.g. 55%) for reserved categories"
+          },
+          {
+            "label": "CTET certificate validity",
+            "value": "Lifetime",
+            "note": "NCTE extended TET validity from 7 years to life in 2021"
+          },
+          {
+            "label": "CTET Dec 2024, Paper 1 pass rate",
+            "value": "~24%",
+            "source": "CBSE CTET result (as reported by Careers360)",
+            "date": "2025-01",
+            "verified": false
+          },
+          {
+            "label": "KVS + NVS posts, 2025 drive",
+            "value": "~15,000",
+            "note": "Teaching and non-teaching; 14,967 at first, raised by corrigendum",
+            "source": "CBSE notification (as reported)",
+            "date": "2025-11 to 2025-12",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Paper 1 of CTET / TET is for Classes 1–5 and needs Class 12 plus D.El.Ed (or equivalent); Paper 2 is for Classes 6–8 and needs a graduate degree plus B.Ed (or D.El.Ed). A 2023 Supreme Court ruling (Devesh Sharma v. Union of India) held that B.Ed alone does not qualify for primary (Classes 1–5) posts. PGT posts for Classes 11–12 need a relevant master's degree plus B.Ed. After the TET, you apply to KVS / NVS, state teacher recruitment exams, or school boards' notifications."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Passing CTET / TET is an eligibility condition only — it does not by itself give a job.",
+          "Each state runs its own TET and recruitment; schedules and vacancy counts vary widely, and some states go years between drives.",
+          "B.Ed is a two-year course after graduation; NCTE also runs a four-year Integrated Teacher Education Programme (ITEP) after Class 12.",
+          "KVS / NVS posts are central government jobs with all-India transfer liability."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Job / work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

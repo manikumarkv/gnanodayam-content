@@ -1,0 +1,88 @@
+{
+  "title": "Journalist",
+  "kicker": "Role · Media & writing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Finds, checks and reports news and stories for newspapers, TV, radio, websites and digital platforms. Journalists work as reporters on a beat (city, politics, business, courts, sports), as sub-editors and desk staff, or as freelancers. A day may involve calls and field reporting, verifying facts, writing to deadline and working with editors."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate degree",
+            "note": "A diploma or degree in journalism or mass communication is common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Content management systems, basic audio/video editing, fact-checking methods"
+          },
+          {
+            "label": "Languages",
+            "value": "English and Indian-language media both hire"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter through internships at newspapers, channels or digital outlets, or after a journalism diploma — for example from the Indian Institute of Mass Communication, which admits by entrance test. A portfolio of published work, including campus or freelance pieces, counts for a lot. Strong writing in an Indian language opens the large regional-language media sector."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reporting and interviewing",
+          "Fact-checking and verification",
+          "Clear writing to deadline",
+          "Basic photo, audio or video editing",
+          "Building and protecting sources"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Starting roles are often trainee reporter or sub-editor, with long and irregular hours.",
+          "Growth path: reporter → senior correspondent → editor, or moves into data, video or investigative journalism.",
+          "Media hiring is uneven; many journalists also freelance or move into communications work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · English Literature",
+            "href": "/explore/ba.english-literature.job"
+          },
+          {
+            "label": "BA · Political Science",
+            "href": "/explore/ba.political-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

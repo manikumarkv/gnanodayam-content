@@ -1,0 +1,92 @@
+{
+  "title": "Machine Learning Engineer",
+  "kicker": "Role · AI & data",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Builds machine learning models and puts them into real products — preparing data, training and evaluating models, and deploying them so they run reliably at scale. Employers include product companies, GCCs, the AI teams of IT services firms, and startups. A day mixes Python coding, running experiments, reviewing model results and working with data and software engineers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech (CSE or AI & ML), B.Sc/M.Sc with strong maths, or MCA",
+            "note": "An M.Tech or MS is common in research-heavy roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Python, PyTorch or TensorFlow, SQL, Git, cloud platforms"
+          },
+          {
+            "label": "Indian tech-sector workforce",
+            "value": "~5.4–5.8 million",
+            "note": "Whole IT-BPM sector, not this role alone",
+            "source": "NASSCOM Strategic Review (as reported)",
+            "date": "FY2024–FY2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Few employers hire freshers directly as ML engineers; a common route is to join as a software or data engineer and move into ML work. Strong Python, maths (linear algebra, probability, statistics) and end-to-end projects that deploy a model strengthen applications. Campus placement at product companies and GCCs is another entry point."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Python and core ML libraries",
+          "Data cleaning and feature engineering",
+          "Model training and evaluation",
+          "Deploying and monitoring models (MLOps)",
+          "Statistics and linear algebra"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry-level openings are fewer than for general software roles, and expectations are high.",
+          "Growth path: ML engineer → senior → ML lead or applied scientist.",
+          "The field moves fast; many roles now involve adapting large pre-trained models rather than training from scratch."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · AI & ML",
+            "href": "/explore/btech.ai-ml.job"
+          },
+          {
+            "label": "B.Tech · CSE",
+            "href": "/explore/btech.cse.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

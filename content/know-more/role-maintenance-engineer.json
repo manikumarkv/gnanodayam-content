@@ -1,0 +1,87 @@
+{
+  "title": "Maintenance Engineer",
+  "kicker": "Role · Plant engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A maintenance engineer keeps machines, utilities and electrical systems in a plant running. Manufacturers, process plants, power stations and large facilities hire them. A typical day mixes planned checks, fixing breakdowns, logging work and coordinating with production so stoppages stay short."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / Diploma in Mechanical or Electrical"
+          },
+          {
+            "label": "Common tools",
+            "value": "CMMS / SAP PM, multimeters, vibration and thermal tools"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Shift duty and on-call for breakdowns is common"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as a graduate engineer trainee (GET) or junior engineer at a plant, through campus placement or direct application. Diploma holders often enter as technicians and move up with experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading electrical and mechanical drawings",
+          "Root-cause analysis of breakdowns",
+          "Preventive and predictive maintenance planning",
+          "Safety practices such as lockout–tagout and permits to work",
+          "Keeping maintenance logs and spare-parts records"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is plant-based, often in industrial areas away from big cities.",
+          "Common next roles: maintenance in-charge, reliability engineer, plant engineering manager.",
+          "Electrical maintenance roles may need a state electrical supervisor licence for some work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · EEE",
+            "href": "/explore/btech.eee.job"
+          },
+          {
+            "label": "B.Tech · Mechanical",
+            "href": "/explore/btech.mechanical.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

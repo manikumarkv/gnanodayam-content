@@ -1,0 +1,83 @@
+{
+  "title": "Quality Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A quality engineer sets up the checks and processes that make sure manufactured parts and products meet standards. Automotive suppliers, engineering goods and electronics manufacturers hire them. A day involves inspecting parts, analysing defects, handling customer complaints, and maintaining quality documents and audits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Mechanical or Production"
+          },
+          {
+            "label": "Common methods",
+            "value": "SPC, PPAP, FMEA, 8D, Six Sigma"
+          },
+          {
+            "label": "Common standards",
+            "value": "ISO 9001, IATF 16949 (automotive)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join as graduate engineer trainees or junior quality engineers through campus placement at manufacturers. A Six Sigma Green Belt or quality tools course can help with shortlisting."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Measurement and inspection using gauges and CMM",
+          "Statistical process control",
+          "Root-cause analysis (8D, fishbone, 5 Why)",
+          "Preparing quality documents such as PPAP and FMEA",
+          "Supplier and customer quality coordination"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Customer audits and complaint handling are a regular part of the job.",
+          "Common next roles: supplier quality engineer, quality manager, Six Sigma or process roles.",
+          "Automotive quality roles follow strict industry standards."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mechanical",
+            "href": "/explore/btech.mechanical.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

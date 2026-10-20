@@ -1,0 +1,96 @@
+{
+  "title": "General Physician",
+  "kicker": "Role · Medicine & healthcare",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A doctor who diagnoses and treats common illnesses, manages long-term conditions such as diabetes and hypertension, and refers patients to specialists when needed. General physicians work in government health centres and hospitals, private clinics and hospitals, and in their own practice. With an MBBS, doctors work as general practitioners or medical officers; hospital \"physician\" posts usually mean an MD in General Medicine."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length (MBBS)",
+            "value": "5.5 years",
+            "note": "4.5 years of study plus a 1-year compulsory rotating internship"
+          },
+          {
+            "label": "Registration",
+            "value": "National Medical Commission or a State Medical Council",
+            "note": "Required to practise"
+          },
+          {
+            "label": "Registered allopathic doctors",
+            "value": "~13.8 lakh",
+            "note": "Registered with State Medical Councils and NMC; not all are active",
+            "source": "Ministry of Health & Family Welfare reply in Parliament (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "MBBS seats",
+            "value": "~1.1–1.2 lakh a year",
+            "source": "National Medical Commission (as reported)",
+            "date": "2024–25",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Entry is through NEET-UG for an MBBS seat, followed by the internship and registration with the NMC or a State Medical Council. After that, a doctor can work as a medical officer or general practitioner. A national exit test (NExT) has been proposed as a common final-year and licensing exam; its rollout timeline has changed more than once."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clinical history-taking and examination",
+          "Diagnosis and prescribing",
+          "Managing chronic diseases",
+          "Recognising when to refer",
+          "Communicating with patients and families"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many doctors go on to a postgraduate degree (MD, MS or DNB) through NEET-PG.",
+          "Government service, including rural postings, is a common first job.",
+          "Long hours and night duties are common in the early years."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "MBBS · Clinical Practice",
+            "href": "/explore/mbbs.clinical-practice"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

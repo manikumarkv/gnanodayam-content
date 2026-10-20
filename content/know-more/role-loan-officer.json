@@ -1,0 +1,83 @@
+{
+  "title": "Loan Officer",
+  "kicker": "Role · Banking & lending",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Helps customers apply for loans — home, vehicle, personal, business or gold loans — by explaining terms, collecting documents and checking eligibility before the file goes for credit approval. Loan officers work at banks, NBFCs, housing-finance companies, microfinance institutions and loan agencies. Days mix customer meetings, document checks and follow-up on applications."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA, BA or any graduate degree"
+          },
+          {
+            "label": "Common tools",
+            "value": "Loan-origination software, credit bureau reports, Excel"
+          },
+          {
+            "label": "Key checks",
+            "value": "KYC, income proof, credit score, property or collateral papers"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers commonly join banks, NBFCs or microfinance firms as sales officers, relationship executives or credit-processing associates through walk-ins, campus hiring or recruitment agencies. Public-sector bank posts are filled through IBPS and SBI recruitment exams, with lending duties coming later. Clear communication, comfort with numbers and local-language skills help in field roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading income and KYC documents",
+          "Basic credit assessment",
+          "Explaining EMIs, interest and charges",
+          "Target-based sales and follow-up",
+          "Record-keeping and compliance"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many roles are sales-target driven, with incentives.",
+          "Growth path: loan officer → credit analyst or branch credit manager → branch manager.",
+          "RBI rules on fair lending and KYC shape the job; compliance lapses are taken seriously."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Banking & Insurance",
+            "href": "/explore/bcom.banking-insurance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

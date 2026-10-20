@@ -1,0 +1,96 @@
+{
+  "title": "M.Tech / M.E.",
+  "kicker": "Postgraduate engineering degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree in engineering (M.Tech, or M.E. at some universities). You specialise more deeply in one area — for example Computer Science, VLSI, Structural, Thermal, Power Systems, Data Science or Machine Design — and the second year is largely a research project and thesis. It leads to R&D and design roles, teaching, and a PhD."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; part-time and sponsored options exist at some institutes"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~1.1 lakh M.Tech + ~24,000 M.E.",
+            "note": "All modes",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "GATE test-takers",
+            "value": "~7.5 lakh",
+            "note": "Summed across papers (two-paper candidates counted twice); about 1 in 5 qualified",
+            "source": "GATE 2025 Statistical and Performance Report (IIT Roorkee)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "AICTE PG scholarship",
+            "value": "₹12,400 / month",
+            "note": "For GATE-qualified students admitted to eligible AICTE-approved institutes, up to 24 months",
+            "source": "AICTE PG Scholarship scheme (as reported)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Tech / B.E. (or a relevant M.Sc / MCA for some programmes) and, for most seats, a valid GATE score. IITs offer seats through COAP (Common Offer Acceptance Portal); NITs, IIITs and other centrally funded institutes admit through CCMT counselling. Many state and private universities use GATE, a state PG test (such as TS PGECET, AP PGECET or TANCET) or their own entrance test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A GATE score is valid for three years, so it can be used for M.Tech admission a year or two after graduating.",
+          "The same GATE score is used by several PSUs for recruitment, so some candidates weigh an M.Tech against a PSU job.",
+          "M.Tech is a common step towards a PhD or an engineering-college teaching post.",
+          "GATE score cut-offs differ widely by institute, specialisation and category, and shift every year."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

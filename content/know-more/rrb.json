@@ -1,0 +1,121 @@
+{
+  "title": "Railway recruitment (RRBs)",
+  "kicker": "Indian Railways non-officer jobs",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Indian Railways fills most of its non-officer posts through Railway Recruitment Boards (RRBs), using centralised notifications (CENs) and computer-based tests. Major exams include NTPC (station master, goods train manager, clerks, ticket staff), Junior Engineer (JE), Assistant Loco Pilot (ALP) and Technicians, Paramedical staff, Ministerial & Isolated categories, and Level-1 (Group D) posts."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Recruitment boards",
+            "value": "21 RRBs",
+            "note": "Applications are filed for one RRB / zone"
+          },
+          {
+            "label": "NTPC 2024 vacancies",
+            "value": "11,558",
+            "note": "8,113 graduate-level + 3,445 undergraduate-level",
+            "source": "RRB CEN 05/2024 and 06/2024 (as reported)",
+            "date": "2024-09",
+            "verified": false
+          },
+          {
+            "label": "Level-1 (CEN 08/2024) applications",
+            "value": "~1.08 crore",
+            "note": "For 32,438 posts",
+            "source": "RRB application data (as reported by Adda247)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Eligibility depends on the post: Class 10 / ITI for Level-1 and ALP / Technician posts, Class 12 for undergraduate-level NTPC posts, any degree for graduate-level NTPC posts, a diploma or B.E. / B.Tech for JE, and the relevant nursing / pharmacy / lab qualification for paramedical posts. Selection is one or two computer-based tests, followed (for some posts) by a skill, typing or aptitude test, then document verification and a medical exam."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Application volumes are very large — often lakhs to over a crore per notification — so competition per seat is high.",
+          "Medical fitness standards differ by post; ALP and some operating posts need high vision standards.",
+          "Engineering officer posts in the railways come through UPSC (ESE / IRMS), not the RRBs.",
+          "Notifications now follow an annual calendar, but exam and result timelines can still stretch over a year or more."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Posts advertised in the 2024 RRB cycle",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "ALP",
+              "JE & related",
+              "NTPC (grad + UG)",
+              "Level-1 (Group D)"
+            ],
+            "series": [
+              {
+                "label": "Vacancies",
+                "values": [
+                  18799,
+                  7951,
+                  11558,
+                  32438
+                ]
+              }
+            ]
+          }
+        },
+        "note": "As notified or revised; final counts can change through corrigenda.",
+        "source": "RRB CEN 01, 03, 05–06 and 08/2024 (as reported)",
+        "date": "2024–2025",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "SSC exams",
+            "href": "/explore/government-competitive.ssc"
+          },
+          {
+            "label": "Vocational & skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

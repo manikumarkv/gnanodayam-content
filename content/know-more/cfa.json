@@ -1,0 +1,131 @@
+{
+  "title": "CFA",
+  "kicker": "Chartered Financial Analyst — a professional credential, not a degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A self-study professional programme in investment management run by CFA Institute, a US-based global body. You pass three exams in sequence — Level I, II and III — covering ethics, financial reporting, valuation, portfolio management and related topics. It is not an Indian university degree; it is recognised by employers in investment research, asset management and related finance work."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Structure",
+            "value": "3 levels",
+            "note": "Computer-based exams held in set windows through the year; candidates commonly take a few years to finish"
+          },
+          {
+            "label": "Level I pass rate",
+            "value": "~40% (10-year average)",
+            "note": "Level II ~45%, Level III ~51%; worldwide, not India-specific",
+            "source": "CFA Institute historical pass rates",
+            "date": "2017–2026",
+            "verified": false
+          },
+          {
+            "label": "Level I exam fee",
+            "value": "US$1,140–1,490",
+            "note": "Early vs standard registration; the one-time US$350 enrolment fee was dropped from April 2025",
+            "source": "CFA Institute pricing announcement",
+            "date": "2026 exams",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Register directly with CFA Institute for Level I if you hold a bachelor's degree, are a final-year student within the permitted window before graduation, or have enough qualifying work experience. A valid passport is required. The charter is awarded after passing all three levels plus about 4,000 hours (spread over at least 36 months) of relevant work experience and joining CFA Institute as a member."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Fees are in US dollars and are paid per exam attempt, separate from any coaching costs.",
+          "Fewer than half of candidates pass Level I in a typical window, so repeat attempts are common; preparation usually runs alongside a degree or job.",
+          "Passing the exams alone does not make you a charterholder — the work-experience requirement must also be met.",
+          "It is often taken together with a B.Com, M.Com, MBA (Finance) or a finance job, rather than instead of one."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "CFA Level I pass rate by exam window",
+        "unit": "%",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": [
+              "Feb 2024",
+              "May 2024",
+              "Aug 2024",
+              "Nov 2024",
+              "Feb 2025",
+              "May 2025",
+              "Aug 2025",
+              "Nov 2025",
+              "Feb 2026",
+              "May 2026",
+              "Aug 2026"
+            ],
+            "series": [
+              {
+                "label": "Level I pass rate",
+                "values": [
+                  44,
+                  46,
+                  44,
+                  43,
+                  45,
+                  45,
+                  43,
+                  43,
+                  45,
+                  39,
+                  43
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Worldwide figures for all candidates.",
+        "source": "CFA Institute historical pass rates",
+        "date": "2024–2026",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

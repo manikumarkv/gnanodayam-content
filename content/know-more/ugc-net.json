@@ -1,0 +1,126 @@
+{
+  "title": "UGC-NET / CSIR-NET",
+  "kicker": "National Eligibility Test for lectureship, JRF and PhD",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "National tests run by NTA, held twice a year (usually June and December). UGC-NET covers humanities, social sciences, commerce, management, computer science and other subjects; the Joint CSIR-UGC NET covers five science areas — chemical, earth, life, mathematical and physical sciences. A qualifying score makes you eligible for Assistant Professor posts, PhD admission, or a Junior Research Fellowship (JRF)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "UGC-NET candidates",
+            "value": "~7.5 lakh appeared",
+            "note": "Out of ~10.2 lakh registered, June 2025 cycle",
+            "source": "NTA result notice (as reported)",
+            "date": "Jul 2025",
+            "verified": false
+          },
+          {
+            "label": "UGC-NET JRF qualifiers",
+            "value": "~5,300",
+            "note": "June 2025 cycle — under 1% of those who appeared",
+            "source": "NTA result notice (as reported)",
+            "date": "Jul 2025",
+            "verified": false
+          },
+          {
+            "label": "CSIR-NET candidates",
+            "value": "~1.48 lakh appeared",
+            "note": "Out of ~1.95 lakh registered, June 2025 cycle",
+            "source": "NTA / CSIR HRDG (as reported)",
+            "date": "Jul 2025",
+            "verified": false
+          },
+          {
+            "label": "JRF fellowship",
+            "value": "₹37,000 / month",
+            "note": "Rises to ₹42,000 as SRF after review",
+            "source": "UGC fellowship revision (effective Jan 2023)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A master's degree with at least 55% (50% for SC/ST/OBC-NCL/PwD and some other groups), or a final-year master's student; a four-year bachelor's degree with 75% is also accepted under current rules. Register with NTA for the June or December cycle and choose your subject. JRF has an upper age limit; Assistant Professor and PhD-only eligibility do not."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Since 2024, results come in three tiers: JRF + Assistant Professor, Assistant Professor + PhD admission, and PhD admission only.",
+          "JRF is very competitive: only a small share of candidates qualify for it in each cycle.",
+          "Qualifying NET makes you eligible for teaching posts — actual hiring is through separate college and university recruitment.",
+          "The JRF award is valid for a limited period, so it is usually linked to joining a PhD soon after."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "UGC-NET June 2025: who qualified for what",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "JRF + Asst. Professor",
+              "Asst. Professor + PhD",
+              "PhD admission only"
+            ],
+            "series": [
+              {
+                "label": "Qualified",
+                "values": [
+                  5269,
+                  54885,
+                  128179
+                ]
+              }
+            ]
+          }
+        },
+        "note": "About 7.5 lakh candidates appeared in this cycle.",
+        "source": "NTA UGC-NET June 2025 result notice (as reported)",
+        "date": "Jul 2025",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

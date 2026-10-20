@@ -1,0 +1,79 @@
+{
+  "title": "Supply Chain Associate",
+  "kicker": "Role · Operations & supply chain",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Supply chain associates help plan purchasing, inventory and deliveries so materials and goods are available when needed. They work in manufacturing, retail, e-commerce, FMCG and logistics companies, and the day involves tracking stock and orders, coordinating with vendors and warehouses, and updating reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com or B.Tech; MBA in Operations for some roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, ERP systems (SAP and similar), warehouse management systems"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often join as operations, procurement or inventory executives in e-commerce, retail or manufacturing firms. Strong Excel and familiarity with an ERP system help; an MBA in operations is a common route to planning roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Inventory tracking and planning",
+          "Purchase orders and vendor follow-up",
+          "Excel and ERP data entry and reports",
+          "Demand and stock forecasting basics",
+          "Coordinating with warehouses and transport"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Some roles involve shift work at warehouses or plants.",
+          "Common next steps: supply planner, procurement specialist, or logistics manager.",
+          "Roles vary widely: procurement, planning, warehousing and logistics are different jobs."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Operations",
+            "href": "/explore/bba.operations.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

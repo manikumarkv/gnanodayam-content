@@ -1,0 +1,83 @@
+{
+  "title": "Computer Vision Engineer",
+  "kicker": "Role · AI & machine learning",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A computer vision engineer builds software that lets machines understand images and video, for tasks such as detection, recognition, inspection and tracking. Employers include AI startups, product companies, automotive and manufacturing firms, and research labs. A typical day involves preparing image datasets, training and testing models, and making them run fast enough on real devices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech AI & ML, CSE or ECE; M.Tech or MS for research roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Python, PyTorch or TensorFlow, OpenCV, GPUs"
+          },
+          {
+            "label": "Typical tasks",
+            "value": "Object detection, segmentation, OCR, video analytics"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter through internships or junior ML engineer roles, with projects or papers that show working vision models. A postgraduate degree helps for research-heavy teams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Python and deep learning frameworks",
+          "Image processing (OpenCV)",
+          "Linear algebra and statistics",
+          "Dataset labelling and evaluation",
+          "Deploying models on edge devices"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A specialised field with fewer openings than general software roles.",
+          "Projects and demonstrable results matter as much as degrees.",
+          "Next roles: senior CV/ML engineer, research engineer, ML lead."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · AI & ML",
+            "href": "/explore/btech.ai-ml.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

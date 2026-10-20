@@ -1,0 +1,84 @@
+{
+  "title": "Counsellor",
+  "kicker": "Role · Psychology & wellbeing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A counsellor helps people work through personal, emotional, academic or career concerns through structured conversation. Employers include schools, colleges, NGOs, hospitals, corporate wellness programmes and private practices. A typical day involves one-to-one sessions, keeping confidential notes, and running workshops or referring clients to other professionals."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.A./B.Sc Psychology, then an M.A./M.Sc in Psychology or Counselling"
+          },
+          {
+            "label": "Clinical psychologist",
+            "value": "Requires an RCI-recognised M.Phil/Professional Diploma",
+            "note": "A separate, regulated route from counselling"
+          },
+          {
+            "label": "Work settings",
+            "value": "Schools, colleges, NGOs, hospitals, online platforms"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree alone is rarely enough to counsel independently; most counsellors complete a master's in psychology or counselling, plus supervised practice or a certification. Freshers often start as assistant or school counsellors."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Active listening",
+          "Counselling techniques and ethics",
+          "Confidential record-keeping",
+          "Psychological assessment basics",
+          "Knowing when to refer"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Supervised practice hours matter as much as coursework.",
+          "Next roles: senior counsellor, specialised therapist, clinical psychologist (with further training).",
+          "School counsellor roles have grown with policy focus on student wellbeing."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Psychology",
+            "href": "/explore/ba.psychology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

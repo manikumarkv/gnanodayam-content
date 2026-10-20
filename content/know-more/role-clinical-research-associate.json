@@ -1,0 +1,83 @@
+{
+  "title": "Clinical Research Associate",
+  "kicker": "Role · Healthcare & pharma",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A clinical research associate (CRA) monitors clinical trials at hospital sites to check that patient data is accurate and that the trial follows the protocol and regulations. Employers include pharmaceutical companies and contract research organisations. A typical day involves site visits, checking records against source documents, and writing visit reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc/M.Sc Life Sciences, B.Pharm, Pharm.D, nursing or BDS"
+          },
+          {
+            "label": "Key rules",
+            "value": "ICH-GCP and the New Drugs and Clinical Trials Rules, 2019"
+          },
+          {
+            "label": "Common tools",
+            "value": "Electronic data capture (EDC) and trial management systems"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers start as a clinical research coordinator at a hospital site or in trial data and safety roles, then move to CRA after one to two years. A short course or certificate in clinical research and GCP training is common."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Good Clinical Practice (GCP)",
+          "Source data verification",
+          "Medical and trial terminology",
+          "Report writing",
+          "Travel and site coordination"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "CRA roles usually expect prior trial experience; direct fresher entry is uncommon.",
+          "The job often involves frequent travel.",
+          "Next roles: senior CRA, clinical trial manager, project manager."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Biology / Life Sciences",
+            "href": "/explore/bsc.biology-life-sciences.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

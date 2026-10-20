@@ -1,0 +1,83 @@
+{
+  "title": "Biotech Associate",
+  "kicker": "Role · Life sciences",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A biotech associate carries out lab and production work in biotechnology companies, such as cell culture, assays, fermentation and quality testing. Employers include biopharma and vaccine makers, diagnostics firms, contract research labs and research institutes. A typical day involves following standard procedures at the bench, recording results carefully, and keeping equipment and documentation ready for audits."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc/M.Sc in Biotechnology, Microbiology or Life Sciences"
+          },
+          {
+            "label": "Common work areas",
+            "value": "Upstream/downstream processing, QC, R&D labs"
+          },
+          {
+            "label": "Key rules",
+            "value": "Good Manufacturing Practice (GMP) and Good Laboratory Practice (GLP)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as trainee or junior associates in QC, production or R&D labs. Many employers prefer an M.Sc; hands-on internships and GMP training help B.Sc graduates."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Aseptic technique and cell culture",
+          "Running assays (ELISA, PCR, chromatography)",
+          "Accurate lab documentation",
+          "GMP/GLP procedures",
+          "Basic data handling in Excel"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is often in shifts at manufacturing sites.",
+          "An M.Sc or Ph.D. opens research-focused roles.",
+          "Next roles: senior associate, QA/QC officer, scientist, regulatory affairs."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Biology / Life Sciences",
+            "href": "/explore/bsc.biology-life-sciences.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

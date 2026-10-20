@@ -1,0 +1,87 @@
+{
+  "title": "Cloud / DevOps Engineer",
+  "kicker": "Role · Software & IT",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A cloud or DevOps engineer builds and runs the infrastructure that software is deployed on: cloud servers, networks, build and deployment pipelines, and monitoring. Employers include IT services firms, product companies, startups and banks. A typical day involves automating deployments, managing cloud resources, handling alerts, and helping developers ship code safely."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech CSE/IT, BCA or MCA"
+          },
+          {
+            "label": "Common tools",
+            "value": "Linux, AWS/Azure/GCP, Docker, Kubernetes, Terraform, CI/CD pipelines"
+          },
+          {
+            "label": "Certifications",
+            "value": "Cloud provider associate-level certifications are widely used"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start in support, system administration or junior DevOps roles in IT services firms. Linux skills, a cloud associate certification and small hands-on projects (deploying an app with a pipeline) help in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Linux and shell scripting",
+          "A major cloud platform",
+          "Containers (Docker, Kubernetes)",
+          "CI/CD pipelines",
+          "Monitoring and troubleshooting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many roles involve on-call rotations.",
+          "Next roles: senior DevOps, site reliability engineer, cloud architect.",
+          "Few teams hire pure freshers into DevOps; a support or developer start is common."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · CSE",
+            "href": "/explore/btech.cse.job"
+          },
+          {
+            "label": "B.Tech · IT",
+            "href": "/explore/btech.it.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

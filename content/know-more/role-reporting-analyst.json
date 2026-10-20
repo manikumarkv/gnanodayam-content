@@ -1,0 +1,79 @@
+{
+  "title": "Reporting Analyst",
+  "kicker": "Role · Business analytics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Reporting analysts build the regular reports and dashboards a business uses to track sales, operations or finance. They work in companies, shared-service centres and analytics teams, spending the day pulling data, cleaning it, updating dashboards and answering questions about the numbers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com, BCA or B.Sc, often with an analytics certificate"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, SQL, Power BI or Tableau"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often enter as MIS executives or junior analysts in shared-service and analytics firms, where strong Excel is the main screening skill. Learning SQL and one dashboard tool, and showing a small portfolio of reports, makes applications more concrete."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Advanced Excel: pivots, lookups, formulas",
+          "Writing SQL queries to pull data",
+          "Building dashboards in Power BI or Tableau",
+          "Checking data for errors and inconsistencies",
+          "Explaining trends to non-technical teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work is recurring weekly and monthly reporting.",
+          "Common next steps: data analyst, business analyst or BI developer.",
+          "Automation tools are reducing purely manual report-making, so query and dashboard skills matter more."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Business Analytics",
+            "href": "/explore/bba.business-analytics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

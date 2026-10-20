@@ -1,0 +1,79 @@
+{
+  "title": "Transportation Engineer",
+  "kicker": "Role · Civil engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Transportation engineers plan and design roads, junctions, highways and transit systems so traffic moves safely and efficiently. They work in infrastructure consultancies, government departments and metro and highway projects, and the day involves traffic studies, design on software, reports and coordinating with project teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in Civil Engineering; often M.Tech in Transportation Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "AutoCAD, Civil 3D or MX Road, traffic simulation software, IRC codes"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many design roles prefer an M.Tech in transportation engineering, often reached through GATE. B.Tech graduates also start as trainee highway or traffic engineers in infrastructure consultancies."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Traffic surveys and analysis",
+          "Highway geometric design to IRC codes",
+          "Pavement design",
+          "Using design and simulation software",
+          "Writing project reports"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much work is tied to government highway and metro projects.",
+          "Common next steps: senior highway engineer, traffic planner, or project manager.",
+          "Field surveys alternate with office-based design."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Civil",
+            "href": "/explore/btech.civil.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

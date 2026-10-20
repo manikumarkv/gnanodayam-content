@@ -1,0 +1,84 @@
+{
+  "title": "Lab Chemist",
+  "kicker": "Role · Science & labs",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Tests raw materials, in-process samples and finished products in a chemical lab using standard methods, and records the results. Lab chemists work in pharmaceutical, chemical, food, cement, paint and water-testing industries, and in independent testing labs. A day involves preparing samples, running instruments and titrations, and keeping records that meet quality and regulatory requirements."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc in Chemistry",
+            "note": "An M.Sc is common for QA and analytical R&D roles"
+          },
+          {
+            "label": "Common instruments",
+            "value": "HPLC, GC, UV-Vis, FTIR, pH meters and titration setups"
+          },
+          {
+            "label": "Systems followed",
+            "value": "Good laboratory practice, ISO/IEC 17025 (NABL), GMP in pharma"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers start as trainee or QC chemists in manufacturing units or NABL-accredited testing labs, often through walk-in drives in industrial areas. Lab practicals, familiarity with instruments and careful documentation are what interviews check. An M.Sc in Chemistry widens options into QA, analytical R&D and method development."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Wet chemistry — titration and sample preparation",
+          "Instrumental analysis (HPLC, GC, spectroscopy)",
+          "Good documentation practice",
+          "Calibration and lab safety",
+          "Following standard test methods (IS, pharmacopoeia)"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Shift work is common in plant QC labs.",
+          "Growth path: chemist → senior chemist → QC/QA officer → lab in-charge.",
+          "Pharma QC roles involve heavy documentation and regular audits."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Chemistry",
+            "href": "/explore/bsc.chemistry.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

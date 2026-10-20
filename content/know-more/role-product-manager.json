@@ -1,0 +1,79 @@
+{
+  "title": "Product Manager",
+  "kicker": "Role · Technology & business",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A product manager decides what a product will do and why, and works with engineering, design and business teams to build and launch it. Software product companies, startups, fintech and e-commerce firms hire them. A day involves talking to users, writing requirements, prioritising features, reviewing data and running team meetings."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Engineering or business degree; often an MBA or prior work experience"
+          },
+          {
+            "label": "Common tools",
+            "value": "Jira, analytics dashboards, SQL, Excel, wireframing tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Direct fresher product manager roles are few. Common routes are associate product manager (APM) programmes, moving in from analyst, engineering or business roles after a few years, or an MBA followed by campus hiring."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Understanding user problems through research and data",
+          "Writing clear requirements and user stories",
+          "Prioritising features and trade-offs",
+          "Basic SQL and product analytics",
+          "Communicating across engineering, design and business teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many product managers spend two to five years in another role first.",
+          "Common next roles: senior product manager, group product manager, head of product.",
+          "The role carries responsibility for outcomes without direct authority over the team."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Business Analytics",
+            "href": "/explore/bba.business-analytics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

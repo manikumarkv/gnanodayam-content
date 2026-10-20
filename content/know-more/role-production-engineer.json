@@ -1,0 +1,83 @@
+{
+  "title": "Production Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A production engineer runs and improves manufacturing lines so products are made on time, at the planned cost and to quality. Automotive, engineering goods, consumer-goods and process manufacturers hire them. A day involves supervising shifts, solving line problems, tracking output and working on process improvements."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Mechanical, Production or Industrial"
+          },
+          {
+            "label": "Common methods",
+            "value": "Lean, 5S, Kaizen, SMED, OEE tracking"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Shift supervision is common at entry"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as graduate engineer trainees through campus placement at manufacturing companies, or through GATE scores for PSUs. Diploma holders often enter as supervisors and grow with experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Production planning and line balancing",
+          "Lean manufacturing and continuous improvement",
+          "Supervising operators and shift handovers",
+          "Reading engineering drawings and process sheets",
+          "Tracking output, scrap and downtime data"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is on the shop floor, usually in shifts.",
+          "Common next roles: production in-charge, plant or operations manager, industrial engineering roles.",
+          "Manufacturing hubs are concentrated in specific industrial regions."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mechanical",
+            "href": "/explore/btech.mechanical.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

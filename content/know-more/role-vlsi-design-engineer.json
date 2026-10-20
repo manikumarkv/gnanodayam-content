@@ -1,0 +1,87 @@
+{
+  "title": "VLSI Design Engineer",
+  "kicker": "Role · Semiconductors",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "VLSI design engineers design and verify the digital and analog circuits inside computer chips. They work in semiconductor companies and chip-design service firms, and the day involves writing hardware description code, running simulations, checking timing and working with other design and verification teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in ECE / EEE; M.Tech in VLSI common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Verilog / SystemVerilog, EDA tools for simulation and synthesis, scripting (Perl, Python, Tcl)"
+          },
+          {
+            "label": "Common job areas",
+            "value": "RTL design, design verification, physical design, analog layout"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many entrants have an M.Tech in VLSI or microelectronics, reached through GATE, or take a dedicated VLSI training course after B.Tech. Chip-design firms test digital electronics, Verilog and problem-solving in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Digital electronics and CMOS basics",
+          "Verilog / SystemVerilog",
+          "Simulation and verification methods",
+          "Static timing analysis",
+          "Scripting for automation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Design verification is a common entry area for freshers.",
+          "Common next steps: senior design or verification engineer, then lead or architect roles.",
+          "Government incentives for chip design and manufacturing are expanding the sector."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · ECE",
+            "href": "/explore/btech.ece.job"
+          },
+          {
+            "label": "B.Tech · EEE",
+            "href": "/explore/btech.eee.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "MLOps Engineer",
+  "kicker": "Role · Software & AI",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An MLOps engineer builds the systems that train, deploy, monitor and update machine learning models in production. Product companies, IT services firms and AI teams hire them. A day involves writing pipeline code, managing cloud infrastructure, setting up monitoring and working with data scientists."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / MCA with software and ML basics"
+          },
+          {
+            "label": "Common tools",
+            "value": "Python, Docker, Kubernetes, CI/CD, cloud platforms, MLflow"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Few roles are titled MLOps at fresher level. Many people start as software, DevOps or data engineers and move into MLOps. Projects that deploy a model end to end, with containers and monitoring, help show the skill."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Python and software engineering practices",
+          "Containers and orchestration (Docker, Kubernetes)",
+          "CI/CD pipelines for model training and release",
+          "Cloud infrastructure and cost basics",
+          "Model monitoring, versioning and data drift checks"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The field is newer and job titles vary across companies.",
+          "Common next roles: senior MLOps or ML platform engineer, ML infrastructure lead.",
+          "Tools change quickly, so continual learning is part of the job."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · AI & ML",
+            "href": "/explore/btech.ai-ml.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

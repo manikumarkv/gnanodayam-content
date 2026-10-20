@@ -1,0 +1,87 @@
+{
+  "title": "Resident Doctor",
+  "kicker": "Role · Medicine",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Resident doctors are junior or postgraduate doctors working in a hospital department under senior consultants. The day involves ward rounds, admitting and examining patients, ordering and reading tests, procedures, emergency duty and night shifts, along with study for the postgraduate course."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "MBBS, internship and NEET-PG for a postgraduate seat"
+          },
+          {
+            "label": "Residency length",
+            "value": "3 years for MD / MS; 2 years for most diplomas"
+          },
+          {
+            "label": "PG medical seats",
+            "value": "~70,000–75,000",
+            "note": "MD / MS / DNB and diploma seats",
+            "source": "Health Ministry reply in Parliament (as reported)",
+            "date": "2024–25",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After MBBS and a one-year internship, doctors register with the NMC or a state council. Junior residencies without a PG seat (often called non-academic or senior house officer posts) are available in many hospitals; a postgraduate residency needs a NEET-PG rank and counselling."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clinical examination and diagnosis",
+          "Emergency and ward management",
+          "Procedures relevant to the department",
+          "Writing case notes and discharge summaries",
+          "Communicating with patients and families"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Duty hours are long, including nights and on-call shifts.",
+          "Common next steps: senior residency, super-specialty training, or consultant posts.",
+          "NEET-PG competition is high; many doctors take more than one attempt."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "MBBS · Clinical Practice",
+            "href": "/explore/mbbs.clinical-practice"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

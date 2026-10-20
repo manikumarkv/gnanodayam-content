@@ -1,0 +1,91 @@
+{
+  "title": "QA Engineer",
+  "kicker": "Role · Software & IT",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A QA engineer tests software to find bugs and writes automated tests so new releases work as expected. IT services firms, product companies and startups hire them. A day involves reading requirements, writing test cases, running manual and automated tests, logging bugs and checking fixes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech, BCA, B.Sc (CS) or MCA"
+          },
+          {
+            "label": "Common tools",
+            "value": "Selenium, Playwright, Postman, Jira, JMeter"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join through campus placement or off-campus drives as trainee testers or QA engineers. Many start with manual testing and move into automation; learning one programming language and one automation tool improves chances."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Writing test cases and test plans",
+          "Test automation with a scripting language",
+          "API testing",
+          "Bug reporting and tracking",
+          "Understanding of the software development lifecycle"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Automation skills are increasingly expected even at entry level.",
+          "Common next roles: SDET, senior QA or test lead, performance or security tester.",
+          "Some testers move into development or DevOps roles later."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BCA",
+            "href": "/explore/bca.job"
+          },
+          {
+            "label": "B.Sc · Computer Science",
+            "href": "/explore/bsc.computer-science.job"
+          },
+          {
+            "label": "B.Tech · CSE",
+            "href": "/explore/btech.cse.job"
+          },
+          {
+            "label": "B.Tech · IT",
+            "href": "/explore/btech.it.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

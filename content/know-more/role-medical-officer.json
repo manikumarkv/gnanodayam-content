@@ -1,0 +1,83 @@
+{
+  "title": "Medical Officer",
+  "kicker": "Role · Healthcare & medicine",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A medical officer is a doctor in a salaried post who sees patients, handles emergencies and runs health programmes. State health departments, central government health services, hospitals, the armed forces, railways and companies hire them. A day may include outpatient clinics, ward rounds, emergency duty and public-health work."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "MBBS with internship and medical registration"
+          },
+          {
+            "label": "Primary Health Centres",
+            "value": "~25,000",
+            "note": "Government PHCs, each usually staffed by medical officers",
+            "source": "Rural Health Statistics (MoHFW)",
+            "date": "2021-22",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After MBBS and the compulsory internship, doctors register with the National Medical Commission or a State Medical Council. Government posts are filled through state public service commission or health-department recruitment, and the UPSC Combined Medical Services exam for central services. Private hospitals recruit directly."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clinical diagnosis and treatment",
+          "Emergency and trauma care",
+          "Prescribing and patient counselling",
+          "Running national health programmes and records",
+          "Working with nurses and paramedical staff"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Rural service may be required or rewarded in some states, for example through bonds or PG entrance weightage.",
+          "Many medical officers prepare for PG entrance exams alongside the job.",
+          "Common next steps: a specialist degree (MD/MS/DNB) or senior medical officer posts in government service."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "MBBS · Clinical practice",
+            "href": "/explore/mbbs.clinical-practice"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

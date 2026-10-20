@@ -1,0 +1,83 @@
+{
+  "title": "Digital Marketing Specialist",
+  "kicker": "Role · Marketing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A digital marketing specialist runs a brand's online marketing across search, social media, email and paid ads. Employers include digital agencies, e-commerce and consumer brands, startups and edtech firms. A typical day involves planning and running campaigns, tracking results in analytics tools, and adjusting budgets and content."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com, B.A. or MBA; a digital marketing certificate is common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Search and social ad platforms, web analytics, email tools, SEO tools"
+          },
+          {
+            "label": "Key areas",
+            "value": "SEO, paid ads, social media, email, analytics"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start as digital marketing executives or interns at agencies, often after a short certification course from an ad platform or training institute. Running campaigns for a small business or personal project helps show results."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "SEO basics",
+          "Running paid search and social ads",
+          "Web analytics",
+          "Content planning for social media",
+          "Reading campaign data"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Results are measured closely, so data skills matter.",
+          "Next roles: specialist lead, performance marketing manager, digital marketing manager.",
+          "Platforms change often; continuous learning is part of the job."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Marketing",
+            "href": "/explore/bba.marketing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

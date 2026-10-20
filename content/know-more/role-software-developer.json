@@ -1,0 +1,91 @@
+{
+  "title": "Software Developer",
+  "kicker": "Role · Technology",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Software developers write, test and maintain the code behind applications, websites and systems. They work in IT services firms, product companies, startups and in-house tech teams of banks and other businesses, and the day mixes coding, reviewing code, fixing bugs and meetings with the team."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E., BCA, B.Sc Computer Science, MCA"
+          },
+          {
+            "label": "Common tools",
+            "value": "A programming language (Java, Python, JavaScript…), Git, SQL"
+          },
+          {
+            "label": "Tech industry workforce",
+            "value": "~5.4–5.8 million",
+            "note": "Direct employees, whole tech industry",
+            "source": "NASSCOM Strategic Review (as reported)",
+            "date": "FY2024–FY2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers enter through campus placement or off-campus drives at IT services firms, which run aptitude and coding tests and then a training period. Product companies and startups hire more on coding tests and projects, so a portfolio of work on Git helps."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Programming in at least one language",
+          "Data structures and problem-solving",
+          "Version control with Git",
+          "Databases and SQL",
+          "Testing and debugging"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry-level hiring volume varies a lot from year to year.",
+          "Common next steps: senior developer, tech lead, architect, or a move into product or DevOps.",
+          "Tools change fast, so ongoing learning is part of the job."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BCA",
+            "href": "/explore/bca.job"
+          },
+          {
+            "label": "B.Sc · Computer Science",
+            "href": "/explore/bsc.computer-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Editor",
+  "kicker": "Role · Media & publishing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An editor reviews and improves written content for accuracy, clarity, structure and style before it is published. Employers include publishing houses, newspapers and digital media, content and edtech companies, and corporate communications teams. A typical day involves editing drafts, checking facts, working with writers on revisions and meeting publication deadlines."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.A. English, Journalism or Mass Communication"
+          },
+          {
+            "label": "Common tools",
+            "value": "Style guides, Word/Google Docs track changes, a CMS"
+          },
+          {
+            "label": "Types",
+            "value": "Copy editor, sub-editor, content editor, commissioning editor"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as copy editors, sub-editors, proofreaders or editorial assistants, usually after an editing test. Prior writing work and internships at publications help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Grammar and style",
+          "Fact-checking",
+          "Structuring and tightening text",
+          "Giving clear feedback to writers",
+          "Working to deadlines"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many editors begin as writers or proofreaders.",
+          "Next roles: senior editor, managing editor, commissioning editor.",
+          "Print roles have shrunk; digital and corporate editing have grown."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · English Literature",
+            "href": "/explore/ba.english-literature.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

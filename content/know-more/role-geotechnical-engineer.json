@@ -1,0 +1,84 @@
+{
+  "title": "Geotechnical Engineer",
+  "kicker": "Role · Civil engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Studies the soil and rock at a site — through boreholes, field tests and lab tests — and uses the results to design foundations, retaining walls, slopes and earthworks. Employers include geotechnical consultancies, soil-investigation firms, infrastructure contractors and public agencies building roads, railways, dams and metro lines. Work splits between field investigation, lab testing and design calculations and reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Civil",
+            "note": "An M.Tech in Geotechnical Engineering is common for design roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, geotechnical analysis software, AutoCAD"
+          },
+          {
+            "label": "Key tests",
+            "value": "SPT, plate load test, triaxial and consolidation tests"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start at a soil-investigation firm or as site engineers on foundation-heavy projects, logging boreholes and supervising tests. Design roles at consultancies usually prefer an M.Tech in Geotechnical Engineering, with admission mainly through GATE. GATE scores also open public-sector posts that involve geotechnical work."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Field and lab testing of soil and rock",
+          "Bearing capacity and settlement calculations",
+          "Foundation design — shallow, pile and raft",
+          "Slope stability and retaining structures",
+          "Writing geotechnical investigation reports"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A specialist field: fewer openings than general civil roles, with demand tied to infrastructure projects.",
+          "Fieldwork, often at remote sites, is part of the early years.",
+          "Next roles: senior geotechnical engineer, foundation design lead, or work in tunnelling and ground improvement."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Civil",
+            "href": "/explore/btech.civil.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

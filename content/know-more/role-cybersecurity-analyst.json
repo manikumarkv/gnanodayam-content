@@ -1,0 +1,83 @@
+{
+  "title": "Cybersecurity Analyst",
+  "kicker": "Role · Software & IT",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A cybersecurity analyst watches an organisation's systems for attacks, investigates alerts, and helps fix security weaknesses. Employers include IT services firms, banks, security operations centres, consultancies and government bodies. A typical day involves monitoring alerts, analysing logs, responding to incidents and checking systems for vulnerabilities."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech CSE/IT, BCA, B.Sc Computer Science or MCA"
+          },
+          {
+            "label": "Common tools",
+            "value": "SIEM platforms, firewalls, vulnerability scanners, Linux"
+          },
+          {
+            "label": "Certifications",
+            "value": "Entry-level security certifications are widely asked for"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as L1 analysts in a security operations centre (SOC), usually in shifts. Networking basics, Linux skills, an entry-level security certification and practice labs help in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Networking and operating system basics",
+          "Log analysis and alert triage",
+          "Incident response steps",
+          "Vulnerability assessment",
+          "Clear incident reporting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry SOC roles often involve night and weekend shifts.",
+          "Next roles: L2/L3 analyst, incident responder, penetration tester, security engineer.",
+          "Continuous learning is needed as threats change."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · CSE",
+            "href": "/explore/btech.cse.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

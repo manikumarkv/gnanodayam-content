@@ -1,0 +1,99 @@
+{
+  "title": "Backend Developer",
+  "kicker": "Role · Software & IT",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A backend developer builds the server-side part of software: the APIs, databases and business logic that apps and websites run on. Employers include IT services firms, product companies, startups, banks and in-house tech teams. A typical day involves writing and reviewing code, fixing bugs, working with databases, and coordinating with frontend and testing teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech CSE/IT, BCA, B.Sc Computer Science or MCA"
+          },
+          {
+            "label": "Common tools",
+            "value": "Java, Python, Node.js or Go; SQL databases; Git; cloud platforms"
+          },
+          {
+            "label": "India tech industry workforce",
+            "value": "~5.8 million",
+            "note": "All tech roles, not only backend",
+            "source": "NASSCOM Strategic Review 2025 (as reported)",
+            "date": "FY2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers join through campus or off-campus hiring as trainee or junior software engineers, usually after an online coding test and interviews. A small portfolio of projects on a public code profile helps candidates without campus placements."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "One server-side language in depth",
+          "Designing REST APIs",
+          "SQL and database design",
+          "Git and code review",
+          "Debugging and writing tests"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Service firms hire freshers in large batches; product firms hire fewer and test more.",
+          "Next roles: senior developer, tech lead, architect or engineering manager.",
+          "Hiring volumes rise and fall with the IT cycle."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BCA",
+            "href": "/explore/bca.job"
+          },
+          {
+            "label": "B.Sc · Computer Science",
+            "href": "/explore/bsc.computer-science.job"
+          },
+          {
+            "label": "B.Tech · CSE",
+            "href": "/explore/btech.cse.job"
+          },
+          {
+            "label": "B.Tech · IT",
+            "href": "/explore/btech.it.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

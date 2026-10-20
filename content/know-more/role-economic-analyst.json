@@ -1,0 +1,83 @@
+{
+  "title": "Economic Analyst",
+  "kicker": "Role · Economics & policy",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An economic analyst studies economic data and trends, such as growth, inflation, trade and markets, to inform decisions in companies, banks, research bodies or government. Employers include banks, research and rating agencies, consulting firms, think tanks and government departments. A typical day involves collecting and analysing data, building simple models, and writing reports or briefs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.A./B.Sc Economics; an M.A. in Economics is common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, Stata/R/Python, official databases (MoSPI, RBI)"
+          },
+          {
+            "label": "Government route",
+            "value": "Indian Economic Service via the UPSC IES/ISS exam"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most roles prefer a master's in economics; freshers often start as research assistants at think tanks, research firms or bank research teams. Government roles come through the UPSC IES exam or RBI and other regulator recruitment."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Macroeconomics and econometrics",
+          "Working with official data sources",
+          "Excel and a statistics tool",
+          "Writing clear reports",
+          "Charts and data presentation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A bachelor's alone usually leads to research assistant or data roles.",
+          "Next roles: economist, senior research analyst, policy analyst.",
+          "Research roles value writing and published work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Economics",
+            "href": "/explore/ba.economics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

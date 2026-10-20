@@ -1,0 +1,79 @@
+{
+  "title": "Marketing Executive",
+  "kicker": "Role · Sales & marketing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A marketing executive helps plan and carry out campaigns that promote a product or service. Consumer brands, agencies, startups and service companies hire them. A day may include coordinating with agencies, running social media or events, tracking campaign numbers and preparing reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com, BA or an MBA in Marketing"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, social media and ad dashboards, analytics tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as marketing executives or trainees through campus placement, internships or direct applications. A portfolio of internship work or digital-marketing certificates can help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Campaign planning and execution",
+          "Digital marketing basics: social, search and email",
+          "Reading campaign data and reporting results",
+          "Written communication and content briefs",
+          "Coordinating with sales, design and agency teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Roles range from field and trade marketing to purely digital work.",
+          "Common next roles: brand executive, digital marketing manager, product or brand manager after an MBA.",
+          "Targets and campaign deadlines drive the pace of work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Marketing",
+            "href": "/explore/bba.marketing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

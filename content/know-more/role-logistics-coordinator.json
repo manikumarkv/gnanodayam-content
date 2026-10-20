@@ -1,0 +1,84 @@
+{
+  "title": "Logistics Coordinator",
+  "kicker": "Role · Supply chain & operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Plans and tracks how goods move from suppliers to warehouses and on to customers — booking transport, coordinating dispatches, chasing delays and keeping shipment records. Coordinators work at logistics and courier companies, freight forwarders, e-commerce firms, manufacturers and retailers. A day is spent on calls and messages with transporters, warehouses and customers, and on updating tracking systems."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (Operations), B.Com or BA",
+            "note": "Supply-chain diplomas are a common add-on"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, ERP, warehouse and transport management software"
+          },
+          {
+            "label": "Key documents",
+            "value": "E-way bill, invoice, lorry receipt; shipping bill and bill of lading for exports"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers start as logistics or operations executives at transporters, warehouses, e-commerce hubs or freight forwarders, often through campus or walk-in hiring. Excel skills, comfort on the phone and basic knowledge of GST e-way bills help. Certificates from the Logistics Sector Skill Council or a supply-chain diploma can add to a CV."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Shipment planning and scheduling",
+          "Coordinating transporters and warehouses",
+          "Excel tracking and reporting",
+          "Documentation — e-way bills, invoices, export papers",
+          "Problem-solving when shipments are delayed"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The work is fast-paced and can involve shifts, especially in e-commerce and warehousing.",
+          "Growth path: coordinator → supervisor → logistics or supply-chain manager.",
+          "Export-import logistics is a specialised branch with its own documentation."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Operations",
+            "href": "/explore/bba.operations.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Insurance Advisor",
+  "kicker": "Role · Banking & insurance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Explains insurance policies — life, health, motor and other general cover — to customers, helps them choose a plan, completes the paperwork and supports them at renewal and claim time. Advisors work as licensed agents of an insurer, as employees of insurers or brokers, or through banks that sell insurance (bancassurance). Much of the day is meeting or calling customers and following up on leads."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Class 12 minimum for agents; graduates for most salaried roles"
+          },
+          {
+            "label": "Licence",
+            "value": "Registration as an insurance agent under IRDAI rules",
+            "note": "Requires prescribed training and passing the IC-38 exam"
+          },
+          {
+            "label": "Pay structure",
+            "value": "Commission for agents; salary plus incentives for employees"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "The most direct route is to be sponsored by an insurer as an agent, complete the prescribed training and pass the IC-38 exam. Graduates also join insurance companies, brokers or banks as sales officers or relationship executives, often through walk-in or campus hiring. Salaried freshers usually work against monthly sales targets."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Explaining policy terms in plain language",
+          "Needs-based advice and selling",
+          "Documentation and KYC",
+          "Follow-up and relationship management",
+          "Basics of claims and renewals"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Agent income is largely commission-based and can vary month to month.",
+          "Mis-selling is regulated; advice is expected to match the customer's needs.",
+          "Growth path: advisor → team leader or sales manager, or a move into underwriting, claims or broking; Insurance Institute of India qualifications support technical moves."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Banking & Insurance",
+            "href": "/explore/bcom.banking-insurance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

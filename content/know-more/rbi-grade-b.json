@@ -1,0 +1,119 @@
+{
+  "title": "RBI Grade B Officer",
+  "kicker": "Officer recruitment at the Reserve Bank of India",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Reserve Bank of India recruits officers in Grade B (Direct Recruit) through three streams: General, DEPR (Department of Economic and Policy Research) and DSIM (Department of Statistics and Information Management). Officers work on regulation, supervision, monetary policy, currency management, research and statistics, rather than retail banking."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Streams",
+            "value": "General · DEPR · DSIM"
+          },
+          {
+            "label": "Vacancies, 2026 notification",
+            "value": "60",
+            "note": "40 General, 10 DEPR, 10 DSIM",
+            "source": "RBI notification, April 2026 (as reported by Careers360)",
+            "date": "2026-04",
+            "verified": false
+          },
+          {
+            "label": "Vacancies, 2025 notification",
+            "value": "120",
+            "note": "83 General, 17 DEPR, 20 DSIM",
+            "source": "RBI notification, September 2025 (as reported by Careers360)",
+            "date": "2025-09",
+            "verified": false
+          },
+          {
+            "label": "Age limit",
+            "value": "21–30 years",
+            "note": "Relaxation for reserved categories and higher qualifications"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "General stream: a bachelor's degree in any discipline with at least 60% (50% for SC/ST/PwBD), or a postgraduate degree with 55%. DEPR: a master's in Economics, Econometrics, Quantitative Economics, Finance or related subjects. DSIM: a master's in Statistics, Mathematical Statistics, Mathematical Economics, Econometrics or a related field. Selection is Phase I (objective), Phase II (descriptive + objective papers, including Economic & Social Issues and Finance & Management for General) and an interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Vacancies have fallen sharply since 2021–23, when a few hundred posts a year were advertised, so competition per seat is high.",
+          "The number of attempts in the General stream is capped (6 attempts per RBI rules), unlike many bank exams.",
+          "DEPR and DSIM need a relevant master's degree and test subject knowledge in depth, so they draw a different, smaller pool.",
+          "Preparation overlaps with SEBI Grade A and NABARD Grade A, which many candidates attempt in the same year."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "RBI Grade B vacancies by notification year",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2024",
+              "2025",
+              "2026"
+            ],
+            "series": [
+              {
+                "label": "All streams",
+                "values": [
+                  94,
+                  120,
+                  60
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Totals of General + DEPR + DSIM as advertised; later corrigenda may change them.",
+        "source": "RBI Grade B notifications (as reported by Careers360 / edutap)",
+        "date": "2024–2026",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

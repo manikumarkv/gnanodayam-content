@@ -1,0 +1,84 @@
+{
+  "title": "HVAC Engineer",
+  "kicker": "Role · Building services",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Designs, installs and maintains heating, ventilation and air-conditioning systems for offices, malls, hospitals, data centres and factories. Employers include MEP consultancies, HVAC contractors, equipment manufacturers and facility-management firms. Depending on the role, the day goes on heat-load calculations and duct drawings, or on site supervising installation, testing and commissioning."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Mechanical",
+            "note": "A mechanical or refrigeration diploma also leads to site and service roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "AutoCAD, heat-load calculation software, Excel"
+          },
+          {
+            "label": "References used",
+            "value": "ISHRAE and ASHRAE guidelines, National Building Code"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join an HVAC contractor or MEP firm as a site or design trainee, or an equipment maker as a sales or service engineer. A short HVAC design course covering heat-load calculation and duct sizing is a common add-on. Student membership of ISHRAE gives access to workshops and industry contacts."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Heat-load calculation",
+          "Duct and pipe sizing",
+          "Equipment selection — chillers, AHUs, VRF systems",
+          "Reading MEP drawings",
+          "Testing, balancing and commissioning"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Two main tracks: design (office-based) and execution or service (site-based).",
+          "Next roles: senior design engineer, project manager, or energy and green-building consulting.",
+          "Demand follows commercial construction and data-centre building."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mechanical",
+            "href": "/explore/btech.mechanical.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

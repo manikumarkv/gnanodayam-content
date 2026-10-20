@@ -1,0 +1,118 @@
+{
+  "title": "PhD",
+  "kicker": "Doctoral research degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The highest academic degree: several years of original research under a supervisor, ending in a thesis and a viva. It starts with coursework, then moves to your own research and publications. It leads mainly to university teaching, research labs, and research-focused roles in industry and government."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Duration in India",
+            "value": "3–6 years",
+            "note": "Minimum 3 and maximum 6 years under UGC's 2022 PhD regulations, with some extensions allowed"
+          },
+          {
+            "label": "PhD scholars in India",
+            "value": "~3.4 lakh",
+            "note": "Up from ~1.2 lakh in 2014-15; Science (23%) and Engineering (21%) are the largest areas",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "JRF / SRF fellowship",
+            "value": "₹37,000 → ₹42,000 / month",
+            "note": "UGC, CSIR and DST rates; many institutes pay their own fellowships to admitted scholars",
+            "source": "UGC and DST fellowship revisions (effective Jan 2023)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "In India: a master's degree with 55% (50% for reserved categories), or a four-year bachelor's degree with 75%. Admission is through UGC-NET / CSIR-NET (JRF or PhD-eligible score), GATE (common at IITs, NITs and IISc for engineering and science), or the university's own entrance test, followed by an interview. Abroad: you apply directly to universities; in the US many PhDs admit after a bachelor's degree and are funded through teaching or research assistantships."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The supervisor and lab shape day-to-day work and outcomes as much as the institution does.",
+          "Not every PhD seat comes with a fellowship; unfunded scholars cover their own costs for several years.",
+          "Holding a JRF lets you join a PhD with a funded fellowship at most universities.",
+          "University teaching posts typically require a PhD or NET, and recruitment is separate from the degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "PhD enrolment in India by year",
+        "unit": "scholars",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  202550,
+                  211852,
+                  212568,
+                  233422,
+                  343559
+                ]
+              }
+            ]
+          }
+        },
+        "source": "AISHE 2023-24, Box 12 (Ministry of Education)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

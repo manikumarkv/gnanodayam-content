@@ -1,0 +1,78 @@
+{
+  "title": "State Public Service Commission exams",
+  "kicker": "State civil services recruitment",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Each state has its own Public Service Commission (PSC) that recruits officers for the state government — posts such as Deputy Collector / SDM, Deputy SP, tax and cooperative officers, and many department-level Group A and B posts. The exam pattern mirrors UPSC Civil Services in shape (prelims, mains, interview), but the syllabus, posts and rules are set state by state. Examples include UPPSC, BPSC, MPSC, TNPSC, APPSC, TSPSC/TGPSC and KPSC."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Constitutional basis",
+            "value": "Article 315",
+            "note": "Every state has a PSC; two or more states may share a Joint PSC"
+          },
+          {
+            "label": "Typical stages",
+            "value": "Prelims → Mains → Interview",
+            "note": "Some states drop the interview for certain posts"
+          },
+          {
+            "label": "Who you serve",
+            "value": "One state government",
+            "note": "UPSC recruits for all-India and central services (IAS, IPS, IFS etc.)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any discipline is the usual minimum for the combined state civil services exam; some posts need a specific degree (engineering, agriculture, law, etc.). Age limits, attempt limits and reservation rules differ by state — several states set an upper age limit above UPSC's, and many give relaxation or reserved quotas only to state domicile holders. Each commission publishes its own notification."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "How it differs from UPSC: posts are within one state, the syllabus includes that state's history, geography and economy, and many states test the regional language.",
+          "Recruitment calendars are irregular in many states — gaps of a year or more between notifications, and litigation over results, are common.",
+          "State civil service officers can later be promoted into the IAS / IPS against a state promotion quota, usually after many years of service.",
+          "Many candidates prepare for UPSC and their state PSC together, since the general studies overlap heavily."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "UPSC Civil Services",
+            "href": "/explore/government-competitive.upsc-civil-services"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

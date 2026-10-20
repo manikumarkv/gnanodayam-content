@@ -1,0 +1,126 @@
+{
+  "title": "SEBI Grade A (Assistant Manager)",
+  "kicker": "Officer recruitment at the securities regulator",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Securities and Exchange Board of India (SEBI) recruits Officers Grade A (Assistant Manager) to work on regulation, supervision, enforcement and investigations in India's securities markets. Recruitment is stream-wise — General, Legal, Information Technology, Research, Official Language and Engineering — and not every stream is advertised every year."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Vacancies, 2025 notification",
+            "value": "135",
+            "note": "110 at first; raised by an addendum",
+            "source": "SEBI notification and addendum (as reported)",
+            "date": "2025-10 to 2025-11",
+            "verified": false
+          },
+          {
+            "label": "Age limit",
+            "value": "Up to 30 years",
+            "note": "As on the cut-off date in the notification; relaxation for reserved categories"
+          },
+          {
+            "label": "Stages",
+            "value": "Phase I → Phase II → Interview",
+            "note": "Phase I screening; Phase II includes descriptive English and a stream paper"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "General: a master's degree in any discipline, or a bachelor's in law or engineering, or CA / CFA / CS / Cost Accountant. Legal: a bachelor's in law (with post-qualification experience as an advocate where the notification requires it). IT: an engineering degree, or a bachelor's plus a postgraduate qualification in computer science / IT / computer applications. Research: a master's in economics, statistics, finance, commerce or a related field. Selection is a two-phase online exam followed by an interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Seats are few — around one hundred or so in recent cycles — and spread across several streams.",
+          "Professional qualifications (CA, CS, CFA, law) open the General stream to non-postgraduates.",
+          "Notifications are not on a fixed calendar; some years have had no recruitment.",
+          "The syllabus overlaps with RBI Grade B and NABARD Grade A (economics, finance, management, English)."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "SEBI Grade A 2025 vacancies by stream",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "General",
+                "value": 77
+              },
+              {
+                "label": "IT",
+                "value": 22
+              },
+              {
+                "label": "Legal",
+                "value": 20
+              },
+              {
+                "label": "Research",
+                "value": 8
+              },
+              {
+                "label": "Engineering (Civil + Electrical)",
+                "value": 5
+              },
+              {
+                "label": "Official Language",
+                "value": 3
+              }
+            ]
+          }
+        },
+        "note": "Totals 135 after the addendum raised General and Research posts.",
+        "source": "SEBI Grade A 2025 notification + addendum (as reported)",
+        "date": "2025",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

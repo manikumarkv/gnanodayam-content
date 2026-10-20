@@ -1,0 +1,125 @@
+{
+  "title": "M.Com",
+  "kicker": "Postgraduate commerce degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's degree in commerce. It goes deeper into accounting, finance, taxation, business economics and research methods, often with an elective area such as Finance, Accounting & Taxation, Banking or Business Analytics. It is the usual route to teaching commerce and to a PhD, and it is often combined with professional courses or competitive exams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; also widely offered in distance and open mode"
+          },
+          {
+            "label": "Students enrolled",
+            "value": "~4.5 lakh",
+            "note": "All modes; about 7.8% of all postgraduate enrolment",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Distance-mode students",
+            "value": "~1.05 lakh",
+            "source": "AISHE 2023-24, Box 16 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.Com (some universities also accept BBA, BBM or B.A. Economics, sometimes with a minimum percentage). Central universities admit through CUET-PG; many state universities use their own entrance test or bachelor's-degree marks, and some states run a common PG test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A master's with 55% (50% for reserved categories) makes you eligible for UGC-NET, the test for lectureship and PhD admission.",
+          "Many students pursue M.Com alongside CA, CMA or CS, or while preparing for banking and government exams.",
+          "Regular-mode enrolment has stayed roughly flat at around 3–3.5 lakh over five years."
+        ]
+      }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "M.Com enrolment by year (regular mode)",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2019-20",
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ],
+            "series": [
+              {
+                "label": "Enrolment",
+                "values": [
+                  332481,
+                  313337,
+                  340253,
+                  345651,
+                  309393
+                ]
+              }
+            ]
+          }
+        },
+        "note": "Regular mode only; excludes distance mode.",
+        "source": "AISHE 2023-24, Box 15 (Ministry of Education)",
+        "date": "2019-20 to 2023-24",
+        "verified": false
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Banking (IBPS / SBI)",
+            "href": "/explore/government-competitive.banking-ibps-sbi"
+          },
+          {
+            "label": "SSC",
+            "href": "/explore/government-competitive.ssc"
+          },
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

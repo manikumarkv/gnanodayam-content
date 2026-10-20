@@ -1,0 +1,94 @@
+{
+  "title": "GATE → PSU recruitment",
+  "kicker": "Engineering jobs in public sector undertakings",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Many central Public Sector Undertakings (PSUs) recruit engineering graduates as Executive / Management Trainees using GATE scores instead of running their own written exam. Examples include NTPC, ONGC, IOCL, BHEL, POWERGRID, GAIL, HPCL, BPCL, NHPC and NPCIL, though the list changes from year to year. The same GATE score is also used for M.Tech / PhD admissions."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "GATE 2024 registered",
+            "value": "~8.26 lakh",
+            "source": "GATE 2024 Statistical & Performance Report (IISc Bengaluru)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "GATE 2024 qualified",
+            "value": "~1.29 lakh",
+            "note": "Qualifying in GATE is not the same as a PSU shortlist",
+            "source": "GATE 2024 Statistical & Performance Report (IISc Bengaluru)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "GATE 2026 registrations",
+            "value": "~10 lakh",
+            "source": "Careers360 / news reports (as reported)",
+            "date": "2026",
+            "verified": false
+          },
+          {
+            "label": "Score validity for PSUs",
+            "value": "Usually the current year's score",
+            "note": "Each PSU states which GATE year it accepts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A B.E. / B.Tech (some PSUs also accept AMIE or an M.Sc for select disciplines), usually with a minimum of 60–65% marks as set by each PSU, and a valid GATE score in the matching paper. You apply separately to each PSU's notification (typically released around GATE time); shortlisting is on GATE marks, followed by group discussion, interview and/or a medical. Age limits are typically under 26–29 for the general category, with relaxation for reserved categories."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings per PSU per year are often in the tens to low hundreds per discipline, so cut-offs are far above the GATE qualifying mark.",
+          "Not every PSU recruits through GATE every year, and some PSUs run their own written exams for certain posts instead; the route is set in each year's notification.",
+          "Most PSUs require a service bond or agreement for the first few years.",
+          "A single GATE attempt can serve both PSU applications and M.Tech admissions."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Job / work",
+            "href": "/explore/job-work"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

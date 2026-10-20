@@ -1,0 +1,103 @@
+{
+  "title": "Business Analyst",
+  "kicker": "Role · Business & analytics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A business analyst studies how a business or process works, finds problems, and translates needs into clear requirements or data-backed recommendations. Employers include IT services and consulting firms, banks, product companies and analytics teams. A typical day involves meetings with users, writing requirement documents, analysing data in Excel or SQL, and working with developers or managers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com, B.A. Economics, B.Sc Statistics or B.Tech; MBA for some roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, SQL, Power BI or Tableau, Jira, flowchart tools"
+          },
+          {
+            "label": "Two common flavours",
+            "value": "IT/requirements analyst and data/business-insights analyst"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often join as associate or junior analysts in IT services, consulting or analytics firms, sometimes after a support or testing role. Skills in Excel, SQL and a dashboard tool, shown through a few small projects, help in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Writing requirements and user stories",
+          "Excel and SQL analysis",
+          "Dashboards (Power BI or Tableau)",
+          "Process mapping",
+          "Clear communication with business and tech teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The title means different things at different employers, so job descriptions matter.",
+          "Next roles: senior analyst, product manager, consultant.",
+          "An MBA is common for moving into strategy roles, but not required."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Economics",
+            "href": "/explore/ba.economics.job"
+          },
+          {
+            "label": "BBA · Business Analytics",
+            "href": "/explore/bba.business-analytics.job"
+          },
+          {
+            "label": "BBA · Finance",
+            "href": "/explore/bba.finance.job"
+          },
+          {
+            "label": "B.Com · Finance",
+            "href": "/explore/bcom.finance.job"
+          },
+          {
+            "label": "B.Sc · Statistics",
+            "href": "/explore/bsc.statistics.job"
+          },
+          {
+            "label": "B.Tech · IT",
+            "href": "/explore/btech.it.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

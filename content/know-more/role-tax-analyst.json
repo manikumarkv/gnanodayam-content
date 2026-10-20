@@ -1,0 +1,86 @@
+{
+  "title": "Tax Analyst",
+  "kicker": "Role · Finance & accounting",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Tax analysts prepare tax computations and returns and check compliance with income-tax and GST rules for a company or its clients. They work in CA firms, consulting firms, corporate finance teams and shared-service centres, and the day involves reconciling data, preparing returns, and responding to queries and notices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA; often CA, CMA or an M.Com"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, Tally or an ERP, Income Tax and GST portals"
+          },
+          {
+            "label": "GST-registered taxpayers",
+            "value": "~1.4–1.5 crore",
+            "source": "GSTN / Ministry of Finance (as reported)",
+            "date": "2024–25",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start in CA firms as article assistants (if pursuing CA) or as tax associates in consulting and shared-service firms. A course in GST or income-tax practice and comfort with the government portals help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Income-tax and GST rules",
+          "Tax computation and return filing",
+          "Reconciliation of books with tax data",
+          "Excel and accounting software",
+          "Drafting replies to notices"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work peaks around return due dates and year-end.",
+          "Common next steps: senior tax analyst, tax manager, or a move into advisory.",
+          "Tax law changes every Budget, so regular updating is needed."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Taxation",
+            "href": "/explore/bcom.taxation.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

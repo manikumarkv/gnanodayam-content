@@ -1,0 +1,83 @@
+{
+  "title": "Data Scientist",
+  "kicker": "Role · AI & machine learning",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A data scientist uses statistics and machine learning on data to answer business questions and build prediction models. Employers include product companies, banks, e-commerce, analytics and consulting firms, and startups. A typical day involves exploring data, building and testing models in Python, and explaining results to business teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech, B.Sc Statistics/Mathematics or MCA; many have a master's"
+          },
+          {
+            "label": "Common tools",
+            "value": "Python, SQL, scikit-learn, Jupyter, cloud ML platforms"
+          },
+          {
+            "label": "Typical work",
+            "value": "Forecasting, recommendations, risk scoring, experimentation"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Direct fresher entry is limited; many start as data analysts or ML interns and move up. A strong portfolio of projects, statistics fundamentals and SQL help; a master's is common for research-heavy teams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Statistics and probability",
+          "Python for data and ML",
+          "SQL",
+          "Model evaluation",
+          "Communicating results"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Titles vary; some \"data scientist\" roles are mostly analytics.",
+          "Next roles: senior data scientist, ML engineer, analytics lead.",
+          "Generative AI tools are changing parts of the work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · AI & ML",
+            "href": "/explore/btech.ai-ml.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

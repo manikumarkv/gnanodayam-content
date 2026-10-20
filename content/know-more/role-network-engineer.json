@@ -1,0 +1,83 @@
+{
+  "title": "Network Engineer",
+  "kicker": "Role · IT infrastructure",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A network engineer sets up, configures and maintains the networks that link an organisation's computers, servers and offices. IT services firms, telecom operators, data centres, banks and large companies hire them. A day involves monitoring the network, configuring routers and switches, fixing outages and handling tickets."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech (ECE/CSE/IT), BCA or B.Sc"
+          },
+          {
+            "label": "Common certifications",
+            "value": "CCNA, CompTIA Network+, cloud networking certificates"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Shift-based network operations centre (NOC) roles are common at entry"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start in network support or NOC roles at IT services or telecom firms. A vendor-neutral or vendor certification such as CCNA, plus lab practice, is a common way to get shortlisted."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "TCP/IP, routing and switching",
+          "Configuring routers, switches and firewalls",
+          "Troubleshooting connectivity issues",
+          "Network monitoring tools",
+          "Network security basics"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Early roles often involve night or rotational shifts.",
+          "Common next roles: senior network engineer, network security engineer, cloud network engineer.",
+          "Cloud networking skills are increasingly asked for alongside on-site networks."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · ECE",
+            "href": "/explore/btech.ece.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

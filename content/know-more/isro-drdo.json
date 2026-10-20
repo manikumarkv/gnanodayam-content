@@ -1,0 +1,96 @@
+{
+  "title": "ISRO / DRDO scientist recruitment",
+  "kicker": "Scientist, engineer and technical posts in space and defence research",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "ISRO and DRDO hire scientists and engineers (entry grade Scientist/Engineer 'SC' at ISRO, Scientist 'B' at DRDO) and technical support staff (scientific assistants, technical assistants, technicians). ISRO's centralised scientist recruitment runs through the ISRO Centralised Recruitment Board (ICRB); DRDO's scientist recruitment runs through its Recruitment and Assessment Centre (RAC), and technical staff through CEPTAM."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "DRDO Scientist 'B' (RAC), 2025",
+            "value": "~150 posts",
+            "note": "Shortlisting mainly on GATE score",
+            "source": "DRDO RAC Advt. 156 + addendum (as reported)",
+            "date": "2025",
+            "verified": false
+          },
+          {
+            "label": "DRDO CEPTAM-11",
+            "value": "764 posts",
+            "note": "561 Senior Technical Assistant-B + 203 Technician-A",
+            "source": "DRDO CEPTAM-11 advertisement (as reported)",
+            "date": "2025-12",
+            "verified": false
+          },
+          {
+            "label": "ISRO ICRB Scientist/Engineer 'SC', 2026",
+            "value": "~172 posts",
+            "note": "Electronics, Mechanical, Computer Science",
+            "source": "ISRO:ICRB:03(EMC):2026 (as reported)",
+            "date": "2026-08",
+            "verified": false
+          },
+          {
+            "label": "ISRO ICRB academic cut-off",
+            "value": "65% / CGPA 6.84",
+            "note": "First-class B.E./B.Tech, per ICRB notices"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Scientist / engineer posts: a first-class B.E. / B.Tech (or M.Sc / M.E. for some disciplines). DRDO RAC shortlists mainly on a valid GATE score, then holds an interview; ISRO ICRB holds its own written / computer-based test followed by an interview. Technical posts: DRDO CEPTAM recruits STA-B (B.Sc or diploma) and Technician-A (Class 10 + ITI) through a CBT; ISRO centres advertise Technical Assistant, Scientific Assistant and Technician posts separately."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Posts are limited — typically tens to a few hundred per cycle per organisation — and spread across disciplines.",
+          "Not every discipline is advertised every year; ISRO and DRDO also hire through direct, project-based and lateral notifications at individual centres.",
+          "For DRDO scientist roles, a strong GATE score in the matching paper is the main shortlisting filter.",
+          "Both organisations have schemes for in-service M.Tech / PhD study."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          },
+          {
+            "label": "Higher education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Vocational & skilling",
+            "href": "/explore/vocational-skilling"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

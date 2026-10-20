@@ -1,0 +1,83 @@
+{
+  "title": "Production Chemist",
+  "kicker": "Role · Chemicals & process",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A production chemist oversees chemical processes on a plant floor so each batch is made safely, on time and to specification. Chemical, pharmaceutical (API), agrochemical, dye and paint manufacturers hire them. A day involves running reactors and batches, recording parameters, coordinating with QC and following safety procedures."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc / M.Sc Chemistry"
+          },
+          {
+            "label": "Key documents",
+            "value": "Batch manufacturing records, SOPs, material safety data sheets"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Rotational shift work is common"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join as trainee or junior chemists at plants, mostly through walk-in drives, referrals and placement at colleges near industrial clusters. An M.Sc can lead to a higher starting grade."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Running batch processes and unit operations",
+          "Recording process data in batch records",
+          "Chemical handling and plant safety",
+          "Basic troubleshooting of yields and deviations",
+          "Coordinating with QC, maintenance and stores"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Jobs cluster in industrial belts and are plant-based.",
+          "Common next roles: shift in-charge, production officer, production manager.",
+          "Exposure to hazardous chemicals makes safety training central to the role."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Chemistry",
+            "href": "/explore/bsc.chemistry.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

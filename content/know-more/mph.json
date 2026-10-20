@@ -1,0 +1,88 @@
+{
+  "title": "MPH / Hospital Administration (MHA)",
+  "kicker": "Postgraduate health management and public health",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Two related two-year master's programmes for the health sector. A Master of Public Health (MPH) covers epidemiology, biostatistics, health policy and programme management for population health. A Master of Hospital Administration (MHA, or an MBA in Hospital / Healthcare Management) focuses on running hospitals — operations, quality, finance and health information systems."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "Usually includes a field placement or hospital internship"
+          },
+          {
+            "label": "MHA students enrolled",
+            "value": "~5,900",
+            "note": "Responding institutions; healthcare MBAs counted separately",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "MPH students enrolled",
+            "value": "~3,500",
+            "note": "Responding institutions",
+            "source": "AISHE 2023-24 (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, usually in a health-related field — MBBS, BDS, AYUSH, nursing, pharmacy, physiotherapy or life sciences; some programmes also accept other graduates. Admission is through the institute's own entrance test and interview, CUET-PG at participating universities, or graduation marks. Some hospital-administration programmes admit only medical graduates."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "These are small programmes, offered by a limited number of universities and institutes, so seats are few.",
+          "Work is found in hospitals, government health programmes, NGOs, research projects and health-tech or insurance firms.",
+          "Eligibility differs a lot between institutes, so non-medical graduates need to check each programme.",
+          "For doctors, an MD in Community Medicine (via NEET-PG) is a separate, clinical-track route into public health."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Job / Work",
+            "href": "/explore/job-work"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          },
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "HR Executive",
+  "kicker": "Role · People & HR",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Handles the everyday people work in an organisation — scheduling interviews, onboarding new joiners, maintaining employee records, attendance and leave, and explaining policies. HR executives work in companies of every size, staffing and recruitment agencies, and shared-services centres. A typical day involves coordinating with candidates and managers, updating HR systems and answering employee queries."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (HR), BA (Psychology or Sociology) or B.Com",
+            "note": "An MBA/PGDM in HR is common for larger corporate HR teams"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, HR management software, job portals"
+          },
+          {
+            "label": "Laws you meet",
+            "value": "Labour codes, PF and ESI rules, state Shops & Establishments Acts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers commonly start as HR trainees, recruiters or HR executives in a staffing firm or a company HR team. Internships, clear communication and Excel skills help; an MBA or PGDM in HR is the usual route into larger corporate HR teams. Recruitment-heavy roles are often the most accessible first step."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Recruitment coordination and screening",
+          "Onboarding and employee records",
+          "Payroll inputs and PF/ESI basics",
+          "Excel and HR software",
+          "Handling employee queries with tact"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Growth path: HR executive → HR generalist or business partner → HR manager, or a specialism such as talent acquisition, payroll or learning & development.",
+          "Much early work is administrative, and recruitment roles are often target-driven.",
+          "Confidentiality and judgement about people matter as much as process knowledge."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Psychology",
+            "href": "/explore/ba.psychology.job"
+          },
+          {
+            "label": "BA · Sociology",
+            "href": "/explore/ba.sociology.job"
+          },
+          {
+            "label": "BBA · Human Resources",
+            "href": "/explore/bba.human-resources.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
