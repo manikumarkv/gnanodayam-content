@@ -1,0 +1,87 @@
+{
+  "title": "Tax Consultant",
+  "kicker": "Role · Finance & accounting",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Tax consultants advise individuals and businesses on tax planning, return filing and responding to notices from tax departments. They work in CA and law firms, consulting firms, or in their own practice, and the day involves client meetings, reviewing documents, filing returns and drafting replies."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA or LLB; CA or CMA for many advisory roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Income Tax and GST portals, Tally, Excel"
+          },
+          {
+            "label": "Income-tax returns filed",
+            "value": "~7.3 crore",
+            "note": "By the due date",
+            "source": "Income Tax Department (as reported)",
+            "date": "AY 2024–25",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most consultants first gain experience in a CA or tax firm. Representing clients before tax authorities depends on the qualification: CAs, advocates and certain registered practitioners have specific rights under the law, so check what each route allows."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Income-tax and GST law",
+          "Tax planning for individuals and businesses",
+          "Return filing and documentation",
+          "Drafting replies and appeals",
+          "Explaining tax matters to clients"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Independent practice takes time to build a client base.",
+          "Common next steps: tax manager, partner in a firm, or own practice.",
+          "Work is seasonal, with peaks near filing deadlines."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Taxation",
+            "href": "/explore/bcom.taxation.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

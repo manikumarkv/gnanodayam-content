@@ -1,0 +1,83 @@
+{
+  "title": "Control & Automation Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A control and automation engineer designs, programs and maintains the PLC, SCADA and control systems that run machines, production lines and plants. Employers include manufacturing companies, process industries, power utilities and automation system integrators. A typical day involves writing or changing PLC logic, commissioning equipment on site, and troubleshooting faults."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech EEE, Instrumentation or Electronics"
+          },
+          {
+            "label": "Common tools",
+            "value": "PLC programming software, SCADA/HMI, drives, sensors"
+          },
+          {
+            "label": "Work setting",
+            "value": "Plants, project sites and integrator offices"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter as graduate engineer trainees in plants or as project engineers at automation integrators. A hands-on PLC/SCADA training course and an internship help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "PLC programming (ladder logic)",
+          "SCADA and HMI design",
+          "Electrical drawings and wiring",
+          "Sensors, drives and instrumentation",
+          "On-site troubleshooting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Site work and travel are common, especially at integrators.",
+          "Next roles: senior automation engineer, project manager, controls lead.",
+          "Industrial IoT and digital plant projects are adding software skills to the role."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · EEE",
+            "href": "/explore/btech.eee.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

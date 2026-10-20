@@ -1,0 +1,91 @@
+{
+  "title": "Content Writer",
+  "kicker": "Role · Media & communication",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A content writer writes articles, blogs, web pages, newsletters and social posts for brands, agencies and publications. Employers include digital marketing agencies, startups, edtech and media companies, and many writers work freelance. A typical day involves researching topics, writing and revising drafts to a brief, and optimising text for search."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any degree; B.A. English, Journalism or Mass Communication are common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Google Docs, a CMS such as WordPress, SEO tools, grammar checkers"
+          },
+          {
+            "label": "Work modes",
+            "value": "Full-time, agency or freelance"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually get in with a portfolio of writing samples (a blog or published pieces) and a writing test. Internships at agencies and freelance projects are common first steps."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clear, accurate writing",
+          "Research and fact-checking",
+          "SEO basics",
+          "Writing to a brief and brand tone",
+          "Editing your own drafts"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "AI writing tools have changed the work; editing and subject knowledge carry more weight.",
+          "Next roles: senior writer, content strategist, editor.",
+          "Freelance pay and workload can be uneven."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · English Literature",
+            "href": "/explore/ba.english-literature.job"
+          },
+          {
+            "label": "BA · History",
+            "href": "/explore/ba.history.job"
+          },
+          {
+            "label": "BA · Political Science",
+            "href": "/explore/ba.political-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

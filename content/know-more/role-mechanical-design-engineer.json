@@ -1,0 +1,83 @@
+{
+  "title": "Mechanical Design Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A mechanical design engineer creates 3D models and 2D drawings of parts and assemblies so they can be made in a factory. Automotive suppliers, machinery makers, engineering-services firms and product companies hire them. A day involves CAD modelling, checking tolerances, revising drawings and working with manufacturing and quality teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Mechanical or Production"
+          },
+          {
+            "label": "Common tools",
+            "value": "SolidWorks, CATIA, Creo, NX, AutoCAD"
+          },
+          {
+            "label": "Related skill",
+            "value": "GD&T (geometric dimensioning and tolerancing)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter as trainee or junior design engineers at engineering-services firms or manufacturers. Certification and hands-on practice in one CAD tool, plus a design project, help in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "3D modelling and 2D drafting in a CAD tool",
+          "GD&T and tolerance stack-up",
+          "Material and manufacturing-process basics",
+          "Design calculations and basic FEA",
+          "Preparing bills of materials and drawing revisions"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much entry-level work is drafting and drawing updates before full design ownership.",
+          "Common next roles: senior design engineer, CAE/FEA analyst, product design lead.",
+          "Domain knowledge (automotive, aerospace, industrial machinery) shapes long-term options."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mechanical",
+            "href": "/explore/btech.mechanical.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

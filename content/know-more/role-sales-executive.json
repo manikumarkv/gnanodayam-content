@@ -1,0 +1,83 @@
+{
+  "title": "Sales Executive",
+  "kicker": "Role · Sales & marketing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Sales executives find customers and sell a company's products or services to meet targets. They work in FMCG, consumer durables, financial services, real estate, software and many other sectors, and the day mixes calls, client visits, demos, follow-ups and reporting on the pipeline."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Graduates from any stream; BBA / B.Com common"
+          },
+          {
+            "label": "Common tools",
+            "value": "CRM software, Excel, phone and email"
+          },
+          {
+            "label": "Common titles",
+            "value": "Sales officer, business development executive, field sales executive"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers enter through campus drives or walk-in hiring by sales-heavy sectors, which value communication over a specific degree. A two-wheeler and willingness to travel are often expected for field roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Prospecting and cold calling",
+          "Explaining a product and handling objections",
+          "Negotiation and closing",
+          "Tracking leads in a CRM",
+          "Planning a territory or account list"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Pay usually includes a variable, target-linked part.",
+          "Common next steps: area sales manager, key account manager, or business development lead.",
+          "Attrition is high in entry-level sales; targets can be demanding."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Marketing",
+            "href": "/explore/bba.marketing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

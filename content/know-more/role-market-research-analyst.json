@@ -1,0 +1,79 @@
+{
+  "title": "Market Research Analyst",
+  "kicker": "Role · Business & research",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A market research analyst designs surveys, gathers data on customers and competitors, and turns it into findings a business can act on. Research agencies, consumer-goods firms, consultancies and analytics teams hire them. Days are spent on questionnaires, cleaning data, running tables and writing reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA Economics, BBA, B.Com, B.Sc (Statistics) or an MBA"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, SPSS, survey platforms, PowerPoint"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as research executives or junior analysts at research agencies, where training on the job is common. A short course in statistics or data tools helps with shortlisting."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Questionnaire and survey design",
+          "Basic statistics and sampling",
+          "Cleaning and tabulating data in Excel or SPSS",
+          "Writing clear reports and slides",
+          "Interviewing and moderating group discussions"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Agency work is project-based with frequent deadlines.",
+          "Common next roles: senior analyst, research manager, insights or consumer-strategy roles.",
+          "Many analysts move into data analytics as their tool skills grow."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Economics",
+            "href": "/explore/ba.economics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

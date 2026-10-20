@@ -1,0 +1,79 @@
+{
+  "title": "NLP Engineer",
+  "kicker": "Role · Software & AI",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An NLP engineer builds software that works with human language, such as chatbots, search, translation and text classification. Product companies, AI startups, IT services firms and research labs hire them. A day involves preparing text data, training or fine-tuning language models, evaluating results and integrating them into products."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / MCA; an M.Tech or MS is common in research-heavy roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Python, PyTorch, Hugging Face Transformers, vector databases"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Fresher NLP roles are limited. Many people enter as ML or software engineers and move into language work. Projects such as fine-tuning a model, building a retrieval system or contributing to open source help show the skill."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Python and machine learning fundamentals",
+          "Working with language models and embeddings",
+          "Text preprocessing and evaluation metrics",
+          "Building retrieval and search pipelines",
+          "Handling Indian-language and multilingual data"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The field changes quickly as large language models evolve.",
+          "Common next roles: senior NLP or ML engineer, applied scientist, AI team lead.",
+          "Research-heavy roles often expect a postgraduate degree or publications."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · AI & ML",
+            "href": "/explore/btech.ai-ml.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

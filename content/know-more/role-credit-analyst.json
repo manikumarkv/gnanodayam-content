@@ -1,0 +1,83 @@
+{
+  "title": "Credit Analyst",
+  "kicker": "Role · Banking & finance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A credit analyst studies the finances of borrowers, such as businesses or individuals, to judge whether a loan can be given and on what terms. Employers include banks, NBFCs, credit rating agencies and financial services firms. A typical day involves analysing financial statements, preparing credit notes, and following up on documents and risk flags."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA or MBA Finance; CA or CFA helps"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, financial statements, credit bureau reports"
+          },
+          {
+            "label": "Key outputs",
+            "value": "Credit appraisal notes and risk ratings"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often enter as credit or risk trainees in banks and NBFCs, or as analysts at rating agencies, many through campus hiring. MBA graduates fill a large share of corporate credit roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading financial statements",
+          "Ratio and cash-flow analysis",
+          "Excel modelling",
+          "Understanding RBI lending norms",
+          "Writing credit notes"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Retail credit roles tend to have more openings than corporate credit.",
+          "Next roles: senior credit analyst, credit manager, risk manager.",
+          "Professional qualifications (CA, CFA, FRM) help with corporate and rating roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Finance",
+            "href": "/explore/bcom.finance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

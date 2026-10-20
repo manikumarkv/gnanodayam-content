@@ -1,0 +1,79 @@
+{
+  "title": "Quantitative Analyst",
+  "kicker": "Role · Finance & analytics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A quantitative analyst uses mathematics, statistics and programming to build models for pricing, trading or risk in finance. Banks, trading firms, asset managers and global finance back offices in India hire them. A day involves analysing data, coding and testing models, and explaining results to traders or risk teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc / M.Sc Mathematics or Statistics, B.Tech; often a master's"
+          },
+          {
+            "label": "Common tools",
+            "value": "Python, R, C++, SQL, Excel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers enter through campus hiring at institutes with strong maths and engineering programmes, or as risk or data analysts before moving into quant roles. Selection often includes tests in probability, statistics and coding."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Probability, statistics and linear algebra",
+          "Programming in Python or C++",
+          "Financial derivatives and pricing basics",
+          "Time-series analysis and backtesting",
+          "Explaining model results clearly"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry is competitive; many roles prefer a master's or strong competitive-exam background.",
+          "Common next roles: senior quant, quant researcher, risk modelling lead.",
+          "Model validation and risk roles are common entry points at banks."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Mathematics",
+            "href": "/explore/bsc.mathematics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

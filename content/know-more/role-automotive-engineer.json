@@ -1,0 +1,86 @@
+{
+  "title": "Automotive Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An automotive engineer designs, tests and improves vehicles and their parts, such as engines, transmissions, chassis, brakes and, increasingly, batteries and electric drives. Employers include vehicle makers, component suppliers and engineering services firms. A typical day involves CAD design work, running or analysing tests, and working with production and quality teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Mechanical or Automobile Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "CAD (CATIA, SolidWorks), simulation software, test rigs"
+          },
+          {
+            "label": "Auto sector share of India's GDP",
+            "value": "~6–7%",
+            "source": "Ministry of Heavy Industries (as reported)",
+            "date": "2023–24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter through campus placements as graduate engineer trainees in plants, design centres or testing labs. Student projects such as formula-style or electric vehicle competitions help when applying."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Engineering drawing and CAD",
+          "Vehicle dynamics and powertrain basics",
+          "Testing and analysing results",
+          "Quality and manufacturing processes",
+          "Basics of electric vehicles and batteries"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many first jobs are on the shop floor or in quality before moving to design.",
+          "Electric vehicles are changing the skills in demand.",
+          "Next roles: design engineer, testing or validation lead, product engineer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Mechanical",
+            "href": "/explore/btech.mechanical.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

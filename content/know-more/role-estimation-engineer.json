@@ -1,0 +1,84 @@
+{
+  "title": "Estimation Engineer",
+  "kicker": "Role · Construction & costing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Works out how much material, labour and money a construction project will take, starting from drawings and specifications. Employers include construction contractors, real-estate developers and quantity-surveying or project-management consultancies. A typical day involves taking quantities off drawings, preparing bills of quantities (BOQ), checking rates and helping price tenders."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Civil",
+            "note": "A civil engineering diploma also leads to junior estimation and billing roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "AutoCAD, Excel, project-scheduling software"
+          },
+          {
+            "label": "Key references",
+            "value": "IS 1200 (method of measurement), CPWD Schedule of Rates"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many start as junior estimation or billing engineers at a contractor, or as site engineers who later move into estimation. Comfort with Excel, reading drawings and rate analysis is what interviews test. Short courses in quantity surveying are an optional add-on."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Quantity take-off from drawings",
+          "Preparing BOQs and rate analysis",
+          "Tender pricing and bid comparison",
+          "Excel costing sheets",
+          "Measurement and billing on site"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Closely linked to quantity surveying, billing and contracts roles; titles vary by company.",
+          "Typical next roles: senior estimator, QS or contracts manager, cost manager.",
+          "Workload peaks around tender deadlines, so hours can be uneven."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Civil",
+            "href": "/explore/btech.civil.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

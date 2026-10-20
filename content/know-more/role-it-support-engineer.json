@@ -1,0 +1,100 @@
+{
+  "title": "IT Support Engineer",
+  "kicker": "Role · IT & infrastructure",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Keeps an organisation's computers, networks, email and software working — setting up machines, fixing problems raised by staff, managing user accounts and escalating harder issues. IT support engineers work in IT services and managed-services firms, company IT teams, help desks and data centres. A typical day is spent working through a ticket queue on calls, in remote sessions or at desks."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BCA, B.Sc (CS/IT), B.Tech (IT) or MCA",
+            "note": "Diploma holders also enter service-desk roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Windows and Linux, directory services, ticketing systems, remote-desktop tools"
+          },
+          {
+            "label": "Optional certifications",
+            "value": "Hardware, networking or cloud fundamentals"
+          },
+          {
+            "label": "Indian tech-sector workforce",
+            "value": "~5.4–5.8 million",
+            "note": "Whole IT-BPM sector, not this role alone",
+            "source": "NASSCOM Strategic Review (as reported)",
+            "date": "FY2024–FY2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many freshers enter through campus or walk-in hiring for L1 support or service-desk roles at IT services and managed-services firms, often with rotational shifts. Basic networking, operating-system troubleshooting and clear spoken communication are what interviews check. An entry-level networking or cloud certification can help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Hardware and operating-system troubleshooting",
+          "Networking basics — IP, DNS, Wi-Fi, VPN",
+          "User and access management",
+          "Ticket handling and clear documentation",
+          "Explaining fixes to non-technical users"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Shift work, including nights and weekends, is common in support roles.",
+          "Growth path: L1 → L2/L3 support → system or network administrator → cloud or security roles.",
+          "Routine tasks are increasingly automated, so scripting and cloud skills matter for the long term."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BCA",
+            "href": "/explore/bca.job"
+          },
+          {
+            "label": "B.Sc · Computer Science",
+            "href": "/explore/bsc.computer-science.job"
+          },
+          {
+            "label": "B.Tech · IT",
+            "href": "/explore/btech.it.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

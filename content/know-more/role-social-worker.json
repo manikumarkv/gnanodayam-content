@@ -1,0 +1,79 @@
+{
+  "title": "Social Worker",
+  "kicker": "Role · Social work",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Social workers support people and communities facing problems such as poverty, abuse, disability, illness or displacement. They work in NGOs, hospitals, schools, CSR foundations and government schemes, and the day can involve field visits, counselling, case records, linking people to schemes and running community programmes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA (Sociology or related), BSW, then usually an MSW"
+          },
+          {
+            "label": "Common settings",
+            "value": "NGOs, hospitals, schools, CSR foundations, government programmes"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A BA can lead to field or community-worker roles in NGOs and programmes. A Master of Social Work (MSW) is the usual qualification for case-work, medical, psychiatric and many CSR roles; fellowships run by development organisations are another entry point."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Interviewing and active listening",
+          "Case documentation",
+          "Knowledge of government welfare schemes and laws",
+          "Community mobilisation and group work",
+          "Working with local government and other agencies"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work is field-based and emotionally demanding.",
+          "Common next steps: programme coordinator, project manager, or specialised counselling roles.",
+          "Many NGO roles are tied to project funding."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Sociology",
+            "href": "/explore/ba.sociology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

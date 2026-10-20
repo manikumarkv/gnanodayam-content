@@ -1,0 +1,79 @@
+{
+  "title": "Surveyor",
+  "kicker": "Role · Civil engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Surveyors measure land and sites to produce maps, levels and layouts for construction and land records. They work for construction firms, survey agencies, infrastructure projects and government departments, and the day is spent in the field with instruments and then processing the data on a computer."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Civil Engineering B.Tech or diploma; ITI surveyor trade for field roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Total station, auto level, GPS / DGPS, AutoCAD, drone survey software"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as survey engineers on construction or infrastructure projects, or with survey agencies. Hands-on practice with a total station and AutoCAD is the main thing employers look for."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Operating a total station, level and GPS",
+          "Setting out layouts on site",
+          "Calculating levels, areas and volumes",
+          "Preparing drawings in AutoCAD",
+          "Recording field data accurately"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is mostly outdoors and on project sites.",
+          "Common next steps: senior surveyor, survey manager, GIS or drone-mapping roles.",
+          "Drone and GPS-based surveying are changing how field work is done."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Civil",
+            "href": "/explore/btech.civil.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Accountant",
+  "kicker": "Role · Finance & accounting",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An accountant records a business's transactions, prepares its financial statements, and handles GST, TDS and income-tax filings. Employers include companies of every size, CA firms and accounting outsourcing centres. A typical day involves entering and checking entries, reconciling bank accounts, and preparing returns before monthly and quarterly deadlines."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA or M.Com",
+            "note": "CA, CMA or CS study often runs alongside the job"
+          },
+          {
+            "label": "Common tools",
+            "value": "Tally, Excel, GST portal, income-tax portal"
+          },
+          {
+            "label": "Key deadlines",
+            "value": "Monthly GST and TDS; quarterly and annual returns"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers join as an accounts executive or junior accountant in a small or mid-size firm or a CA practice, often after a short practical course in Tally and GST. Articleship during the CA course is another common way in."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Double-entry bookkeeping and journal entries",
+          "Bank and ledger reconciliation",
+          "GST and TDS returns",
+          "Preparing profit & loss and balance sheet",
+          "Excel (lookups, pivot tables)"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior accountant, accounts manager, finance controller.",
+          "A professional qualification (CA, CMA) widens options and seniority.",
+          "Routine data entry is increasingly automated, so analysis and compliance skills carry more weight."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Finance",
+            "href": "/explore/bba.finance.job"
+          },
+          {
+            "label": "B.Com · Accounting",
+            "href": "/explore/bcom.accounting.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

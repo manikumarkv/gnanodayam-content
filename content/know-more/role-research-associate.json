@@ -1,0 +1,99 @@
+{
+  "title": "Research Associate",
+  "kicker": "Role · Academic research",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Research associates support research projects at universities, institutes, labs and NGOs, working under a lead researcher or principal investigator. Depending on the field, the day involves running experiments or surveys, collecting and analysing data, reviewing literature and helping write papers and reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "A bachelor's or master's in the subject; many posts ask for a master's"
+          },
+          {
+            "label": "Common funding",
+            "value": "Project grants (e.g. DST, DBT, ICSSR, CSIR), so posts are often fixed-term"
+          },
+          {
+            "label": "Related titles",
+            "value": "Research assistant, project assistant, junior research fellow (JRF)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually apply to advertised project posts at universities and institutes, which list the required degree and are tied to a grant. Qualifying CSIR-UGC NET or UGC-NET for a JRF, or a GATE score in science fields, opens funded fellowships that can lead to a PhD."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Literature review and note-making",
+          "Lab, field or survey data collection",
+          "Data analysis in Excel, R, SPSS or Python",
+          "Academic writing and referencing",
+          "Careful record-keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many posts are contract-based and end with the project.",
+          "Common next steps: PhD, a fellowship, or research roles in industry or NGOs.",
+          "Lab sciences and social sciences differ a lot in daily work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · History",
+            "href": "/explore/ba.history.job"
+          },
+          {
+            "label": "BA · Psychology",
+            "href": "/explore/ba.psychology.job"
+          },
+          {
+            "label": "BA · Sociology",
+            "href": "/explore/ba.sociology.job"
+          },
+          {
+            "label": "B.Sc · Biology / Life Sciences",
+            "href": "/explore/bsc.biology-life-sciences.job"
+          },
+          {
+            "label": "B.Sc · Physics",
+            "href": "/explore/bsc.physics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Brand Associate",
+  "kicker": "Role · Marketing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A brand associate supports a brand team in planning campaigns, launches, packaging and how a product is presented to customers. Employers include consumer goods companies, retail and consumer brands, and advertising or brand agencies. A typical day involves tracking sales and market data, coordinating with agencies and designers, and preparing briefs and reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com or B.A.; many brand roles prefer an MBA in marketing"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, PowerPoint, market research and sales dashboards"
+          },
+          {
+            "label": "Works with",
+            "value": "Sales, design, agencies, research teams"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often enter through internships or as marketing or sales trainees, then move into a brand team. Many brand management roles at consumer companies are filled from MBA campuses."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading market and sales data",
+          "Writing campaign briefs",
+          "Coordinating with agencies and vendors",
+          "Presentations",
+          "Understanding consumer behaviour"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Field sales experience is often part of the path in consumer goods companies.",
+          "Next roles: assistant brand manager, brand manager.",
+          "Without an MBA, agency or startup roles are a more common route."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Marketing",
+            "href": "/explore/bba.marketing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

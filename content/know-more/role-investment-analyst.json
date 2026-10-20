@@ -1,0 +1,84 @@
+{
+  "title": "Investment Analyst",
+  "kicker": "Role · Markets & investing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Researches companies, sectors and the economy to support decisions on buying, holding or selling investments. Employers include mutual funds, portfolio-management and broking firms, investment banks, insurers and research outsourcing firms. A typical day involves reading results and filings, updating financial models and writing notes for fund managers or clients."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA or B.Sc, often followed by an MBA (Finance), CA or CFA"
+          },
+          {
+            "label": "Regulatory certificate",
+            "value": "NISM Series XV — Research Analyst",
+            "note": "Needed for SEBI-registered research analyst roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, financial databases, PowerPoint"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often begin as junior or associate analysts at research outsourcing firms or brokerages, updating models and data for senior analysts. Accounting knowledge, Excel modelling and clear writing are tested, often through a case study. CFA Level I or an MBA (Finance) is common among applicants, and the NISM research-analyst certificate is required for certain SEBI-regulated roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading financial statements and annual reports",
+          "Valuation — DCF and relative multiples",
+          "Excel financial modelling",
+          "Industry and company research",
+          "Writing clear investment notes"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Competition for fund-side roles is high; many start in research support and move up.",
+          "Growth path: associate → analyst → senior analyst or portfolio manager.",
+          "Results seasons and market events bring busy periods."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Finance",
+            "href": "/explore/bcom.finance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

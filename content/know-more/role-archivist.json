@@ -1,0 +1,83 @@
+{
+  "title": "Archivist",
+  "kicker": "Role · Heritage & records",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An archivist preserves, catalogues and provides access to historical records such as manuscripts, files, photographs and maps. Employers include national and state archives, museums, universities, research institutes and some large organisations with record rooms. A typical day involves sorting and describing documents, supervising conservation and digitisation, and helping researchers find material."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.A. History, then an M.A. or diploma in archival studies"
+          },
+          {
+            "label": "Training",
+            "value": "Diploma/certificate courses in archives keeping are offered by the National Archives of India"
+          },
+          {
+            "label": "Common tools",
+            "value": "Cataloguing standards, digitisation equipment, records databases"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most entrants add a postgraduate degree or a diploma in archival studies after a B.A. History. Government archive posts are filled through recruitment notices or public service commissions; project-based digitisation work is a common first job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Cataloguing and describing records",
+          "Handling and basic conservation of fragile material",
+          "Reading old scripts or regional languages",
+          "Digitisation and metadata",
+          "Research support"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A small field with limited openings, many of them in government.",
+          "Next roles: assistant archivist, archivist, records manager or curator.",
+          "Digitisation projects have added contract work, often short-term."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · History",
+            "href": "/explore/ba.history.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

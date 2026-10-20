@@ -1,0 +1,79 @@
+{
+  "title": "Site Engineer",
+  "kicker": "Role · Civil engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Site engineers supervise construction on site so the work follows drawings, schedule, quality and safety rules. They work for contractors, builders and infrastructure companies, and the day is spent on site checking work, coordinating with supervisors and subcontractors, measuring quantities and keeping records."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. or diploma in Civil Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "AutoCAD, MS Excel, total station / levelling instrument, project schedules"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join contractors or builders as graduate or trainee engineers on a project, often through campus or direct hiring. Postings are where the project is, so relocation is common."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading structural and architectural drawings",
+          "Quantity estimation and bill checking",
+          "Quality checks on concrete, steel and materials",
+          "Site safety practices",
+          "Coordinating labour, materials and subcontractors"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is outdoors and often in remote locations.",
+          "Common next steps: project engineer, project manager, planning or quantity surveying roles.",
+          "Some graduates later take GATE for PSU or M.Tech routes."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Civil",
+            "href": "/explore/btech.civil.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

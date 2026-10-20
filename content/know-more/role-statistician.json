@@ -1,0 +1,87 @@
+{
+  "title": "Statistician",
+  "kicker": "Role · Statistics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Statisticians design surveys and studies and apply statistical methods to analyse the data. They work in government statistical offices, research institutes, pharma and clinical research, insurance, market research and analytics teams, and the day involves sampling, data cleaning, modelling and writing up results."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc / M.Sc in Statistics or Mathematics"
+          },
+          {
+            "label": "Common tools",
+            "value": "R, SAS, Python, SPSS, Excel"
+          },
+          {
+            "label": "Government route",
+            "value": "Indian Statistical Service via the UPSC ISS exam; SSC Statistical Investigator posts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "With a bachelor's degree, freshers often start as data or analytics associates; most statistician titles ask for an M.Sc in Statistics. Government posts come through UPSC's Indian Statistical Service exam (needs a statistics-related master's or degree with statistics) or SSC exams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Probability and statistical inference",
+          "Survey and sampling design",
+          "Regression and modelling",
+          "Programming in R, SAS or Python",
+          "Explaining results to non-statisticians"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A master's degree is common for statistician titles.",
+          "Common next steps: senior statistician, biostatistician, data scientist or actuarial routes.",
+          "Clinical-research roles often require knowledge of SAS."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Mathematics",
+            "href": "/explore/bsc.mathematics.job"
+          },
+          {
+            "label": "B.Sc · Statistics",
+            "href": "/explore/bsc.statistics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

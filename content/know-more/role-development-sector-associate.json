@@ -1,0 +1,87 @@
+{
+  "title": "Development Sector Associate",
+  "kicker": "Role · Social impact",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A development sector associate works with NGOs, foundations and government-supported social programmes on projects in health, education, livelihoods and similar areas. Employers include NGOs, CSR foundations, research and evaluation organisations and international agencies. A typical day may involve field visits, coordinating with communities and partners, collecting data and writing reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.A. Sociology, Political Science, Economics, Social Work; MSW or M.A. Development common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, survey tools, report writing"
+          },
+          {
+            "label": "Work settings",
+            "value": "Field offices, district programmes, head offices"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter through fellowships, internships or programme associate roles in NGOs and CSR foundations. Fieldwork experience and a regional language are often expected."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Field work and community engagement",
+          "Survey and data collection",
+          "Monitoring and evaluation basics",
+          "Report and proposal writing",
+          "Working in a regional language"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many roles are project-funded and on fixed-term contracts.",
+          "Next roles: programme officer, programme manager, M&E specialist.",
+          "A master's (MSW or development studies) is common for moving up."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Political Science",
+            "href": "/explore/ba.political-science.job"
+          },
+          {
+            "label": "BA · Sociology",
+            "href": "/explore/ba.sociology.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Embedded Systems Engineer",
+  "kicker": "Role · Electronics & embedded",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Builds the computer systems hidden inside products — cars, appliances, medical devices, meters and industrial controllers — combining microcontroller hardware with the software that runs on it. Employers include automotive suppliers, consumer-electronics and industrial-automation firms, and engineering-services companies. A day mixes writing C code, testing it on a development board and debugging with lab instruments."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in ECE or EEE",
+            "note": "Also EIE and CSE graduates with hardware interest"
+          },
+          {
+            "label": "Common tools",
+            "value": "C/C++, microcontroller IDEs, debuggers, oscilloscope, logic analyser"
+          },
+          {
+            "label": "Typical platforms",
+            "value": "ARM Cortex-M, 8051, AVR/PIC, embedded Linux"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter through campus hiring at engineering-services or automotive firms, or as trainees at smaller product companies. Hands-on microcontroller projects, a working knowledge of C and the basics of communication protocols (UART, SPI, I2C) carry weight in interviews. Some take a post-graduate diploma in embedded systems design (offered by C-DAC and others) before applying."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Embedded C and C++",
+          "Microcontroller peripherals — timers, ADC, interrupts",
+          "Communication protocols — UART, SPI, I2C, CAN",
+          "Reading schematics and datasheets",
+          "Debugging with oscilloscopes and on-chip debuggers"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Overlaps heavily with firmware engineering; the two titles are often used interchangeably.",
+          "Growth paths: senior engineer → technical lead or architect, or a move into embedded Linux, automotive software or IoT.",
+          "Much of the work in India is in engineering-services firms designing for overseas clients.",
+          "The learning curve is steep at first; hardware–software bugs take patience to track down."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · ECE",
+            "href": "/explore/btech.ece.job"
+          },
+          {
+            "label": "B.Tech · EEE",
+            "href": "/explore/btech.eee.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

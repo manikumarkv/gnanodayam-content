@@ -1,0 +1,83 @@
+{
+  "title": "Research Analyst",
+  "kicker": "Role · Research & analysis",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Research analysts collect and analyse data on a sector, market, company or policy topic and write up what they find. They work in equity and market research firms, consulting and knowledge-process outsourcing companies, think tanks and policy organisations, and their day mixes data work, reading and writing reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA / B.Sc in Economics or Statistics, B.Com; often a master's"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, a statistics package (R, Stata or Python), databases"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often start as junior or associate analysts in research-outsourcing and market-research firms, or as research assistants at think tanks. A master's degree in economics or statistics, or a certification such as NISM Research Analyst for equity research, widens the options."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Finding and cleaning data from public and paid sources",
+          "Basic statistics and Excel modelling",
+          "Reading reports and policy documents critically",
+          "Writing clear summaries and reports",
+          "Presenting findings with charts"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Equity research roles require NISM Research Analyst certification under SEBI rules.",
+          "Common next steps: senior analyst, consultant, or a move into data or policy roles.",
+          "Policy and think-tank roles often favour a master's degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Economics",
+            "href": "/explore/ba.economics.job"
+          },
+          {
+            "label": "B.Sc · Statistics",
+            "href": "/explore/bsc.statistics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Power Systems Engineer",
+  "kicker": "Role · Core engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A power systems engineer plans and analyses how electricity is generated, transmitted and distributed. Power utilities, transmission companies, renewable-energy developers, EPC contractors and consultancies hire them. A day involves load-flow and protection studies, design reviews, site coordination and reporting on grid performance."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Electrical (EEE)"
+          },
+          {
+            "label": "Common tools",
+            "value": "ETAP, PSS/E, DIgSILENT PowerFactory, AutoCAD"
+          },
+          {
+            "label": "India's installed power capacity",
+            "value": "~450–500 GW",
+            "source": "Central Electricity Authority (CEA)",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers enter as graduate engineer trainees at power utilities and EPC firms through campus placement, or through GATE scores for PSU recruitment and state electricity board exams. Training in a power-system simulation tool helps."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Load-flow, short-circuit and stability studies",
+          "Protection and relay coordination",
+          "Substation and transmission-line design basics",
+          "Renewable-energy grid integration",
+          "Reading single-line diagrams and standards"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "GATE (Electrical) is a common route into PSU power-sector jobs.",
+          "Common next roles: senior engineer, protection specialist, grid planning or project manager.",
+          "Site postings at substations and plants are common early on."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · EEE",
+            "href": "/explore/btech.eee.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

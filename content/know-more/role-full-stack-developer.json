@@ -1,0 +1,91 @@
+{
+  "title": "Full-Stack Developer",
+  "kicker": "Role · Software & web",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Builds both the visible side of a web app (frontend) and the server, database and APIs behind it (backend), so a feature can be delivered end to end. The role is common in startups and small product teams, and also exists in IT services firms and GCCs. A day may move between a user-interface change, a database query and a deployment fix."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BCA, B.Sc (CS), B.Tech or MCA"
+          },
+          {
+            "label": "Common tools",
+            "value": "JavaScript/TypeScript, Node.js, Java or Python, SQL databases, Git, cloud basics"
+          },
+          {
+            "label": "Indian tech-sector workforce",
+            "value": "~5.4–5.8 million",
+            "note": "Whole IT-BPM sector, not this role alone",
+            "source": "NASSCOM Strategic Review (as reported)",
+            "date": "FY2024–FY2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many start as frontend or backend developers and widen their scope; others join a startup that expects broad skills from day one. A couple of complete, deployed projects — with login, a database and an API — is the clearest proof at interviews. Campus placement into IT services is the most common first job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Frontend: HTML, CSS, JavaScript and a framework",
+          "Backend APIs in Node.js, Java or Python",
+          "SQL and data modelling",
+          "Deployment basics — Linux, cloud, CI pipelines",
+          "Debugging across the whole stack"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Growth path: developer → senior → tech lead or architect.",
+          "Breadth can come at the cost of depth; many specialise later.",
+          "Startups use the title loosely, so job descriptions vary widely."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BCA",
+            "href": "/explore/bca.job"
+          },
+          {
+            "label": "B.Tech · CSE",
+            "href": "/explore/btech.cse.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

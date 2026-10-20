@@ -1,0 +1,83 @@
+{
+  "title": "Relationship Manager",
+  "kicker": "Role · Banking & finance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Relationship managers look after a set of customers for a bank, NBFC or wealth firm, handling their accounts, loans, deposits and investment products. The day is spent meeting or calling customers, resolving service issues, opening accounts and meeting product targets."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA or an MBA; some banks hire graduates from any stream"
+          },
+          {
+            "label": "Segments",
+            "value": "Retail, priority / wealth, SME and corporate banking"
+          },
+          {
+            "label": "Common credentials",
+            "value": "NISM or IRDAI certifications for selling mutual funds or insurance"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join through bank campus drives, bank-run certificate or PO-style programmes, or as sales officers and branch associates who move into relationship roles. Selling mutual funds or insurance needs the relevant NISM or IRDAI certification, which employers often sponsor."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Explaining banking, loan and investment products in plain terms",
+          "Managing a customer portfolio and follow-ups",
+          "Basic credit and KYC checks",
+          "Meeting sales and cross-sell targets",
+          "Using the bank's CRM and core banking system"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most roles are target-driven; incentives are part of pay.",
+          "Common next steps: senior RM, wealth or priority banking, branch manager, or credit roles.",
+          "Retail and SME roles involve a lot of fieldwork and customer visits."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Banking & Insurance",
+            "href": "/explore/bcom.banking-insurance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

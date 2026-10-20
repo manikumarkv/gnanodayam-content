@@ -1,0 +1,87 @@
+{
+  "title": "Teacher",
+  "kicker": "Role · Education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Teachers teach school subjects to students and track their learning through classwork, tests and feedback. They work in government, aided and private schools, and the day involves lesson planning, teaching periods, correcting work, meeting parents and school duties."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "A graduate degree in the subject plus a B.Ed (or D.El.Ed for primary)"
+          },
+          {
+            "label": "Eligibility tests",
+            "value": "CTET or a State TET for many school posts"
+          },
+          {
+            "label": "School teachers in India",
+            "value": "~98 lakh–1 crore",
+            "note": "All school types",
+            "source": "UDISE+ (Ministry of Education)",
+            "date": "2023–24 to 2024–25",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After graduation, a B.Ed (two years) is the usual requirement for secondary teaching, and CTET or a state TET is required for many government and some private school posts. Government school recruitment happens through state or central recruitment exams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Subject knowledge",
+          "Lesson planning",
+          "Classroom management",
+          "Assessing and giving feedback",
+          "Communicating with parents"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Government recruitment is exam-based and timing varies by state.",
+          "Common next steps: senior teacher, head of department, coordinator, or principal.",
+          "Private-school pay and terms vary widely."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · History",
+            "href": "/explore/ba.history.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

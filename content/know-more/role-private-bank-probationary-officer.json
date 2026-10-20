@@ -1,0 +1,83 @@
+{
+  "title": "Private Bank Probationary Officer",
+  "kicker": "Role · Banking & finance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A private bank probationary officer joins as a trainee officer, completes a training course and then works in branch roles such as customer service, sales, operations and credit. Private sector banks hire them, often through tie-ups with training institutes. A day involves serving customers, meeting sales targets, processing accounts and loans, and following compliance rules."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate degree; age and score limits vary by bank"
+          },
+          {
+            "label": "Private sector banks",
+            "value": "21",
+            "note": "Scheduled private sector banks",
+            "source": "Reserve Bank of India",
+            "date": "2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Banks recruit through online tests and interviews, often followed by a paid or bank-sponsored PG diploma or certificate course at a partner institute. Some programmes carry a service bond. Unlike public sector banks, there is no common IBPS exam."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Customer handling and communication",
+          "Sales of banking and insurance products",
+          "Banking operations and KYC rules",
+          "Basic credit appraisal",
+          "Working with core banking software"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Sales targets are a significant part of many private bank roles.",
+          "Common next roles: relationship manager, branch operations manager, branch manager.",
+          "Check course fees, bond terms and posting policies before joining a programme."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Banking & Insurance",
+            "href": "/explore/bcom.banking-insurance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

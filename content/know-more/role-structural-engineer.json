@@ -1,0 +1,79 @@
+{
+  "title": "Structural Engineer",
+  "kicker": "Role · Civil engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Structural engineers design and check the frames, beams, columns and foundations that keep buildings, bridges and other structures safe. They work in design consultancies, construction firms and government departments, and the day is mostly analysis and design on software, checking drawings and coordinating with architects and site teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech in Civil Engineering; usually M.Tech in Structural Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "STAAD.Pro, ETABS, AutoCAD, Indian Standard codes (IS 456, IS 800, IS 1893)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many structural design firms prefer an M.Tech in structural engineering, often reached through GATE. B.Tech graduates also start as trainee design engineers or move from site work into design after gaining experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Structural analysis",
+          "Design of RCC and steel members to IS codes",
+          "Using analysis software (STAAD.Pro, ETABS)",
+          "Reading and checking drawings",
+          "Understanding loads, including earthquake and wind"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Design firms often hire in small numbers.",
+          "Common next steps: senior design engineer, design lead or proof consultant.",
+          "Signing drawings for approvals may need registration with a local authority."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Civil",
+            "href": "/explore/btech.civil.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

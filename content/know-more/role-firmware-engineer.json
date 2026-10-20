@@ -1,0 +1,84 @@
+{
+  "title": "Firmware Engineer",
+  "kicker": "Role · Electronics & embedded",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Writes the low-level code that runs directly on chips inside devices — the software that starts a board, drives its sensors and peripherals, and handles updates. Employers include semiconductor companies, consumer-electronics, automotive and IoT product firms, and engineering-services companies. A day involves writing C code, reading datasheets and register maps, and debugging on real hardware."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in ECE",
+            "note": "Also EEE and CSE graduates"
+          },
+          {
+            "label": "Common tools",
+            "value": "C, assembly basics, JTAG debuggers, Git, oscilloscope"
+          },
+          {
+            "label": "Typical work",
+            "value": "Bootloaders, device drivers, RTOS tasks, firmware updates"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "The usual route is campus hiring into a semiconductor, automotive or engineering-services company, or a trainee role at a product startup. Strong C, computer-architecture basics and personal projects on microcontroller boards matter most at interviews. A post-graduate diploma in embedded systems is a common bridge for graduates of other branches."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "C programming with pointers and memory management",
+          "Reading datasheets and register maps",
+          "Writing device drivers and bootloaders",
+          "RTOS concepts — tasks, interrupts, scheduling",
+          "Hardware debugging with JTAG and oscilloscopes"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A close cousin of embedded systems engineering; many job ads use both titles.",
+          "Growth path: firmware engineer → senior → lead or architect, or a move into embedded Linux, kernel or security work.",
+          "Bugs can be hard to reproduce, so careful testing is a large part of the job."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · ECE",
+            "href": "/explore/btech.ece.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

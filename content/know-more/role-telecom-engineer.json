@@ -1,0 +1,79 @@
+{
+  "title": "Telecom Engineer",
+  "kicker": "Role · Electronics & communication",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Telecom engineers plan, install and maintain mobile, fibre and other communication networks. They work for telecom operators, equipment vendors, tower and fibre companies and network-services firms, and the day can involve field installation, network monitoring, testing and troubleshooting."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in ECE or a related branch"
+          },
+          {
+            "label": "Common work areas",
+            "value": "RF planning, network operations (NOC), fibre / transmission, installation and testing"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often join as graduate engineer trainees at network-services firms and equipment vendors, or as field and NOC engineers. Telecom PSUs recruit through their own exams or GATE in some years."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Basics of RF, transmission and networking",
+          "Drive testing and network optimisation",
+          "Installing and configuring equipment",
+          "Monitoring networks and handling faults",
+          "Reading equipment and network documentation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Field roles involve travel and on-call work.",
+          "Common next steps: RF or network optimisation specialist, network planning, or project lead.",
+          "5G and fibre rollouts drive much of the current work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · ECE",
+            "href": "/explore/btech.ece.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

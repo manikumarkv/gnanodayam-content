@@ -1,0 +1,84 @@
+{
+  "title": "Actuarial Analyst",
+  "kicker": "Role · Insurance & risk",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An actuarial analyst uses statistics and financial mathematics to estimate risk and to price insurance policies and pension plans. Employers include life and general insurers, reinsurers, consulting firms and analytics centres. A typical day involves cleaning policy and claims data, running models in Excel or R, and checking reserve and pricing calculations."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Mathematics/Statistics, B.Com or B.Tech, plus actuarial exams"
+          },
+          {
+            "label": "Professional body",
+            "value": "Institute of Actuaries of India (IAI)",
+            "note": "Entry to its exams is through the ACET test"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, R or Python, SQL"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Clearing the ACET and a few IAI papers before graduating improves the chance of an analyst or trainee role at an insurer or consulting firm. Many freshers keep writing exams while working; employers often support exam fees and study leave."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Probability and statistics",
+          "Financial mathematics (interest, annuities)",
+          "Excel modelling",
+          "R, Python or SQL for data work",
+          "Writing clear summaries of model results"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Full qualification as a Fellow usually takes several years of exams alongside work.",
+          "Typical next steps: actuarial associate, then fellow in pricing, reserving or pensions.",
+          "Exam pass rates are low, so progress is often slower than planned."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Mathematics",
+            "href": "/explore/bsc.mathematics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

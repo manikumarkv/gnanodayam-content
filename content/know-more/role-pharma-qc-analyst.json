@@ -1,0 +1,83 @@
+{
+  "title": "Pharma QC Analyst",
+  "kicker": "Role · Pharma & life sciences",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A pharma QC analyst tests raw materials, in-process samples and finished medicines in a quality-control lab so they meet set standards. Pharmaceutical and API manufacturers and contract testing labs hire them. A day involves running instruments, following test procedures, recording results and documenting under GMP rules."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc / M.Sc Chemistry or B.Pharm / M.Pharm"
+          },
+          {
+            "label": "Common instruments",
+            "value": "HPLC, GC, UV-Vis, dissolution testers, Karl Fischer"
+          },
+          {
+            "label": "Rules followed",
+            "value": "GMP, pharmacopoeia (IP/USP/BP) standards"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join as trainee chemists or QC officers through walk-in drives, campus placement or referrals at pharma plants. An M.Sc or hands-on HPLC exposure helps with selection."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Wet chemistry and instrumental analysis",
+          "Following SOPs and pharmacopoeia methods",
+          "Good documentation practice (GDP) and data integrity",
+          "Handling deviations and out-of-specification results",
+          "Lab safety and calibration basics"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most jobs are at plants in industrial clusters, often in shifts.",
+          "Common next roles: senior QC analyst, QA officer, analytical method development.",
+          "Regulatory audits make careful documentation a central part of the job."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Chemistry",
+            "href": "/explore/bsc.chemistry.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

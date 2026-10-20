@@ -1,0 +1,84 @@
+{
+  "title": "Hardware Design Engineer",
+  "kicker": "Role · Electronics & embedded",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Designs the electronic circuits and printed circuit boards (PCBs) inside products — choosing components, drawing schematics, laying out boards and testing prototypes. Employers include electronics product companies, defence and aerospace electronics firms, automotive suppliers and engineering-services companies. A day mixes schematic and layout work, bench testing with lab instruments and fixing issues found in prototypes."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in ECE",
+            "note": "Also EEE graduates"
+          },
+          {
+            "label": "Common tools",
+            "value": "PCB design software (schematic and layout), SPICE simulation, oscilloscope"
+          },
+          {
+            "label": "Design areas",
+            "value": "Power supplies, analog and digital circuits, high-speed boards"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join as trainee or graduate engineers in electronics product or engineering-services firms, through campus placement or direct applications; defence PSUs also recruit through their own notifications. A self-designed PCB project, taken from schematic to an assembled working board, and solid analog and digital fundamentals help at interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Schematic capture and component selection",
+          "PCB layout and design for manufacture",
+          "Analog and power-supply design",
+          "Signal-integrity basics",
+          "Bench testing and debugging prototypes"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are concentrated in a few electronics and engineering-services hubs.",
+          "Growth path: design engineer → senior → hardware lead or architect, or a move into RF or power electronics.",
+          "Design errors mean costly board re-spins, so careful review is a big part of the work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · ECE",
+            "href": "/explore/btech.ece.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

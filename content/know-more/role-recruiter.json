@@ -1,0 +1,83 @@
+{
+  "title": "Recruiter",
+  "kicker": "Role · Human resources",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Recruiters find, screen and line up candidates for open roles, either inside a company's HR team or at a staffing or search firm working for clients. A typical day involves reading job requirements, searching job portals and professional networks, phone-screening candidates, scheduling interviews and following up on offers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, BA, B.Com or an MBA in HR"
+          },
+          {
+            "label": "Common tools",
+            "value": "Job portals, an applicant tracking system, Excel, LinkedIn"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "Talent acquisition executive, HR recruiter, sourcing associate"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many freshers start as recruitment or sourcing executives at staffing firms, which hire graduates from most streams and train on the job. In-house talent acquisition roles more often ask for an HR specialisation, an MBA in HR or prior staffing experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Sourcing and screening candidates against a job description",
+          "Phone and video interviewing",
+          "Coordinating interviews and offers with hiring managers",
+          "Keeping candidate records in an applicant tracking system",
+          "Negotiating notice periods and joining dates"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Staffing-firm roles often carry monthly hiring targets.",
+          "Common next steps: senior recruiter, talent acquisition lead, or a broader HR business partner role.",
+          "Hiring demand rises and falls with the economy, so workload can swing."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Human Resources",
+            "href": "/explore/bba.human-resources.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

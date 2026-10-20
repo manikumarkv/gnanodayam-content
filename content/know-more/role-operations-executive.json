@@ -1,0 +1,79 @@
+{
+  "title": "Operations Executive",
+  "kicker": "Role · Business operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An operations executive keeps a company's daily processes on track, from orders and inventory to vendors and delivery schedules. E-commerce, logistics, manufacturing, retail and service companies hire them. A day involves tracking orders, solving delays, updating reports and coordinating between teams."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com or BA; MBA for higher entry"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, ERP systems, ticketing or order-management tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as operations executives or trainees through campus placement, internships or walk-ins. Comfort with Excel and clear communication count heavily in selection."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Process tracking and follow-up",
+          "Excel for reports and data checks",
+          "Vendor and stakeholder coordination",
+          "Problem-solving under time pressure",
+          "Basic inventory and supply-chain concepts"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Roles vary widely by industry; some are desk-based, others on warehouse or store floors.",
+          "Common next roles: operations manager, supply-chain or process-excellence roles.",
+          "Shift or weekend work is common in logistics and e-commerce operations."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Operations",
+            "href": "/explore/bba.operations.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

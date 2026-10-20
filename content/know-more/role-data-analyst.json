@@ -1,0 +1,103 @@
+{
+  "title": "Data Analyst",
+  "kicker": "Role · Data & analytics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A data analyst collects, cleans and studies data to answer business questions and builds reports and dashboards that teams use to make decisions. Employers include IT and analytics firms, banks, e-commerce, consulting and in-house business teams. A typical day involves writing SQL queries, preparing data in Excel or Python, and presenting findings."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any quantitative degree: B.Tech, B.Sc, BCA, BBA or B.Com"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, SQL, Power BI or Tableau, Python"
+          },
+          {
+            "label": "Typical outputs",
+            "value": "Dashboards, reports, ad-hoc analyses"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually get in as junior or associate analysts with demonstrated Excel, SQL and dashboard skills, often shown through small projects on public datasets. Internships and analytics roles in IT services firms are common entry points."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "SQL",
+          "Excel (pivots, lookups)",
+          "A dashboard tool (Power BI or Tableau)",
+          "Basic statistics",
+          "Explaining findings simply"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Domain knowledge (finance, retail, health) increases value over time.",
+          "Next roles: senior analyst, analytics manager, data scientist.",
+          "Many applicants compete for entry roles, so a portfolio helps."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Business Analytics",
+            "href": "/explore/bba.business-analytics.job"
+          },
+          {
+            "label": "BCA",
+            "href": "/explore/bca.job"
+          },
+          {
+            "label": "B.Sc · Computer Science",
+            "href": "/explore/bsc.computer-science.job"
+          },
+          {
+            "label": "B.Sc · Statistics",
+            "href": "/explore/bsc.statistics.job"
+          },
+          {
+            "label": "B.Tech · CSE",
+            "href": "/explore/btech.cse.job"
+          },
+          {
+            "label": "B.Tech · IT",
+            "href": "/explore/btech.it.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Financial Analyst",
+  "kicker": "Role · Finance & accounting",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Analyses a company's numbers — revenue, costs and cash flow — to help managers plan budgets, track performance and make decisions. Employers include company finance teams, banks, consulting firms and the global capability centres (GCCs) of multinational companies in India. Most of the day is spreadsheet work: building forecasts, explaining variances against budget and preparing management reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA or MBA (Finance)",
+            "note": "Some arrive via CA or CMA"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, PowerPoint, ERP and BI/reporting software"
+          },
+          {
+            "label": "Optional credentials",
+            "value": "CFA, CA, CMA or FRM",
+            "note": "Not required to start"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers typically join as analysts in a company finance team, a shared-services centre or an FP&A (financial planning and analysis) team, often through campus placement. Strong Excel, a clear grasp of the three financial statements and basic modelling are usually tested. An MBA (Finance) or a professional course can help move into more analytical work."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading and analysing financial statements",
+          "Budgeting and forecasting",
+          "Excel financial modelling",
+          "Variance analysis and management reporting",
+          "Explaining numbers to non-finance managers"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Growth path: analyst → senior analyst → finance manager or FP&A lead.",
+          "Many entry roles are in shared-services and GCC teams supporting overseas offices.",
+          "Early work can be repetitive reporting before it shifts to planning and analysis."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Finance",
+            "href": "/explore/bba.finance.job"
+          },
+          {
+            "label": "B.Com · Finance",
+            "href": "/explore/bcom.finance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

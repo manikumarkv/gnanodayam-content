@@ -1,0 +1,83 @@
+{
+  "title": "Bookkeeper",
+  "kicker": "Role · Finance & accounting",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A bookkeeper keeps the day-to-day records of a business: sales, purchases, payments, receipts and petty cash. Employers include small businesses, shops, traders, CA firms and accounting outsourcing centres. A typical day involves entering vouchers and invoices, matching them with bank statements, and keeping records ready for the accountant."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com or BBA; Class 12 with a Tally course for some roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "Tally, Excel, accounting apps"
+          },
+          {
+            "label": "Reports to",
+            "value": "An accountant or the business owner"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start in small firms or CA offices after a short practical course in Tally, GST and basic accounting. Part-time and remote bookkeeping for several small businesses is also common."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Recording vouchers and invoices",
+          "Bank reconciliation",
+          "Maintaining ledgers and cash book",
+          "Basic GST invoicing",
+          "Accuracy and record-keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Often a starting point for an accountant career.",
+          "Routine entry work is increasingly automated by accounting software.",
+          "Next roles: accounts assistant, accountant."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Accounting",
+            "href": "/explore/bcom.accounting.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

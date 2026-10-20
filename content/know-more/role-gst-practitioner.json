@@ -1,0 +1,89 @@
+{
+  "title": "GST Practitioner",
+  "kicker": "Role · Tax & compliance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Helps businesses register under GST, file returns, reconcile input tax credit and respond to notices, acting on their behalf as an enrolled GST practitioner. Practitioners work independently, in CA or tax-consultant firms, or in company tax teams. Work peaks around monthly and quarterly return due dates."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA, a law degree, or a CA/CMA/CS course"
+          },
+          {
+            "label": "Enrolment",
+            "value": "Form GST PCT-01 on the GST portal",
+            "note": "Under Rule 83 of the CGST Rules"
+          },
+          {
+            "label": "Exam",
+            "value": "GST practitioner exam conducted by NACIN",
+            "note": "Must be passed within the period allowed after enrolment"
+          },
+          {
+            "label": "Common tools",
+            "value": "GST portal, accounting software, Excel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Eligible routes include a graduate or postgraduate degree in commerce, law, banking (including higher auditing), business administration or business management, among others listed in the rules. The steps are to enrol on the GST portal and then pass the NACIN exam. Most freshers first work in a tax consultant's or CA firm to learn filings on real client files."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "GST registration and return filing (GSTR-1, GSTR-3B)",
+          "Input tax credit reconciliation",
+          "Reading GST notifications and circulars",
+          "Accounting software and Excel",
+          "Drafting replies to notices"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Rules and forms change often; tracking notifications is a constant part of the work.",
+          "Many practitioners build an independent client base over time.",
+          "Next steps: tax associate → tax manager, or an independent practice; some go on to CA or CMA."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Taxation",
+            "href": "/explore/bcom.taxation.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

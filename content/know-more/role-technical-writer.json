@@ -1,0 +1,79 @@
+{
+  "title": "Technical Writer",
+  "kicker": "Role · Writing & documentation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Technical writers produce manuals, help guides, API documentation and release notes that explain products and software. They work in software companies, engineering and manufacturing firms and documentation service providers, and the day involves learning a product, talking to engineers and writing and editing content."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA (English), B.Tech or B.Sc; strong writing is the main requirement"
+          },
+          {
+            "label": "Common tools",
+            "value": "MS Word, Markdown, Confluence, MadCap Flare or similar authoring tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often enter through writing tests at software firms or documentation service companies; a portfolio of sample documents (a how-to guide, a product manual) carries weight. Basic technical knowledge of the product area makes the work easier."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clear, structured writing",
+          "Learning and explaining technical products",
+          "Using documentation and authoring tools",
+          "Editing and following a style guide",
+          "Working with engineers and product teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Software and API documentation usually needs more technical depth than general content writing.",
+          "Common next steps: senior writer, documentation lead, or content design.",
+          "AI writing tools are changing the job towards editing and information design."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · English Literature",
+            "href": "/explore/ba.english-literature.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Quality Control Analyst",
+  "kicker": "Role · Quality & testing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A quality control analyst inspects and tests materials or products to check they meet set standards. Manufacturers, testing laboratories and inspection agencies across electronics, metals, chemicals and consumer goods hire them. A day involves sampling, running tests on instruments, comparing results to specifications and recording data."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc (Physics, Chemistry) or B.Tech / Diploma"
+          },
+          {
+            "label": "Common standards",
+            "value": "BIS, ISO 9001, ISO/IEC 17025 for labs"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join as QC trainees or lab analysts through walk-in drives, campus placement or testing-lab openings. Lab experience from college and familiarity with measurement instruments help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Measurement and testing techniques",
+          "Sampling and inspection methods",
+          "Recording data and preparing test reports",
+          "Instrument calibration basics",
+          "Following standard operating procedures"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is often lab- or plant-based and may involve shifts.",
+          "Common next roles: senior analyst, QA officer, lab in-charge, quality manager.",
+          "Knowledge of standards and audits grows in importance with seniority."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Physics",
+            "href": "/explore/bsc.physics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

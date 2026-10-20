@@ -1,0 +1,105 @@
+{
+  "title": "Frontend Developer",
+  "kicker": "Role · Software & web",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Builds the parts of websites and apps that people see and use — pages, forms and dashboards — and makes them fast, accessible and consistent across devices. Employers include IT services firms, product companies, startups and GCCs. A typical day involves writing JavaScript or TypeScript components from designs, fixing bugs and reviewing code with teammates."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BCA, B.Sc (CS) or B.Tech in any branch",
+            "note": "Demonstrated skills often count as much as the degree"
+          },
+          {
+            "label": "Common tools",
+            "value": "HTML, CSS, JavaScript/TypeScript, a framework such as React or Angular, Git"
+          },
+          {
+            "label": "Indian tech-sector workforce",
+            "value": "~5.4–5.8 million",
+            "note": "Whole IT-BPM sector, not this role alone",
+            "source": "NASSCOM Strategic Review (as reported)",
+            "date": "FY2024–FY2025",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers get in through campus placement at IT services firms (often a general trainee role first, with a stack assigned after training), or by applying directly to startups and product companies with a portfolio. A few deployed projects in a public code repository and solid JavaScript fundamentals usually count more than certificates."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "HTML, CSS and responsive layout",
+          "JavaScript and TypeScript",
+          "A component framework such as React",
+          "Accessibility and browser performance basics",
+          "Git and code reviews"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Growth path: developer → senior → lead, or a move into full-stack, UI engineering or design systems.",
+          "Tools change quickly; ongoing self-learning is part of the job.",
+          "Entry-level competition is high, so a visible portfolio helps.",
+          "In large service firms, freshers are often assigned a stack rather than choosing it."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BCA",
+            "href": "/explore/bca.job"
+          },
+          {
+            "label": "B.Sc · Computer Science",
+            "href": "/explore/bsc.computer-science.job"
+          },
+          {
+            "label": "B.Tech · CSE",
+            "href": "/explore/btech.cse.job"
+          },
+          {
+            "label": "B.Tech · ECE",
+            "href": "/explore/btech.ece.job"
+          },
+          {
+            "label": "B.Tech · IT",
+            "href": "/explore/btech.it.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

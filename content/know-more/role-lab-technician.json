@@ -1,0 +1,88 @@
+{
+  "title": "Lab Technician",
+  "kicker": "Role · Science & labs",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Runs routine tests and keeps lab equipment ready in colleges, research institutes and industrial labs. Lab technicians prepare samples, solutions and apparatus, maintain and calibrate instruments, manage stock and assist scientists, faculty or students. The work follows set procedures and safety rules."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc in Physics, Chemistry or Life Sciences",
+            "note": "Medical lab roles need a DMLT or B.Sc MLT instead"
+          },
+          {
+            "label": "Where the work is",
+            "value": "Colleges, universities, research institutes, industrial and testing labs"
+          },
+          {
+            "label": "Government posts",
+            "value": "Filled through institute notifications and recruitment commissions"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers apply to lab assistant or technician posts advertised by colleges, universities, research institutes and private labs. Government institutions recruit through published notifications and written or skill tests. Practical lab experience from the degree, and comfort with instruments and record-keeping, carry the most weight."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Preparing samples, reagents and apparatus",
+          "Operating and maintaining lab instruments",
+          "Following SOPs and safety rules",
+          "Inventory and record-keeping",
+          "Assisting with experiments and practicals"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is steady and procedure-driven; the scope depends heavily on the lab.",
+          "Next steps: senior technician, lab in-charge, or a research assistant role after an M.Sc.",
+          "Clinical or medical lab work needs specific MLT qualifications, separate from a general B.Sc."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Biology / Life Sciences",
+            "href": "/explore/bsc.biology-life-sciences.job"
+          },
+          {
+            "label": "B.Sc · Physics",
+            "href": "/explore/bsc.physics.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

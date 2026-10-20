@@ -1,0 +1,86 @@
+{
+  "title": "Electrical Design Engineer",
+  "kicker": "Role · Electrical design",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Designs the electrical side of buildings, factories and infrastructure — power distribution, lighting, earthing, cable sizing and panel layouts — and turns it into drawings and calculations that site teams follow. Employers include MEP design consultancies, EPC contractors and panel builders. A typical day is spent on load calculations, CAD drawings and coordination with architects, HVAC and site engineers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Electrical (EEE)",
+            "note": "A diploma in electrical engineering also leads to drafting and junior roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "AutoCAD, electrical design and lighting software, Excel"
+          },
+          {
+            "label": "Codes used",
+            "value": "National Electrical Code, National Building Code and relevant IS standards",
+            "note": "Published by BIS"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers join an MEP consultancy, EPC contractor or panel manufacturer as a trainee or graduate engineer and learn design on live projects. Campus placement and referrals are the usual routes. A short course in AutoCAD and an electrical design or lighting tool is a common add-on."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Load and short-circuit calculations",
+          "Cable, breaker and transformer sizing",
+          "Single-line diagrams and layouts in AutoCAD",
+          "Lighting design to required lux levels",
+          "Applying IS, NEC and NBC requirements"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Progression usually runs trainee → design engineer → senior or lead designer → design manager.",
+          "Site exposure in the early years makes design work easier, and some engineers move between site and design.",
+          "Hiring follows the construction and infrastructure cycle.",
+          "Related roles include MEP coordinator, electrical site engineer and solar design engineer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · EEE",
+            "href": "/explore/btech.eee.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

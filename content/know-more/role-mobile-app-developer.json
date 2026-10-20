@@ -1,0 +1,79 @@
+{
+  "title": "Mobile App Developer",
+  "kicker": "Role · Software & IT",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A mobile app developer builds and maintains apps for Android and iOS phones. IT services firms, product companies, startups and agencies hire them. A day involves writing app code, fixing bugs, connecting to back-end APIs and testing on devices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech, BCA, B.Sc (CS) or MCA"
+          },
+          {
+            "label": "Common tools",
+            "value": "Kotlin, Swift, Flutter or React Native, Git"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join through campus placement, internships or off-campus hiring as junior or trainee developers. Published or open-source apps make a strong portfolio for interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Kotlin/Java for Android or Swift for iOS",
+          "Cross-platform frameworks such as Flutter or React Native",
+          "Working with REST APIs and local storage",
+          "Debugging and testing on real devices",
+          "UI layout and basic usability principles"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Some teams work natively on one platform; others use cross-platform tools.",
+          "Common next roles: senior mobile developer, mobile lead, full-stack developer.",
+          "App store release and review processes add steps not seen in web work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · CSE",
+            "href": "/explore/btech.cse.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Copywriter",
+  "kicker": "Role · Media & communication",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A copywriter writes the words in ads, campaigns, packaging, websites and promotional material. Employers include advertising and digital agencies, in-house brand teams and startups. A typical day involves reading a brief, writing headline and script options, and refining them with art directors and clients."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any degree; B.A. English, Mass Communication or Design are common"
+          },
+          {
+            "label": "Works with",
+            "value": "Art directors, designers, brand and client-servicing teams"
+          },
+          {
+            "label": "Output",
+            "value": "Ad lines, scripts, social posts, campaign concepts"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually get in through an internship or a copy test at an agency, backed by a portfolio of spec ads or campaign ideas. Writing in more than one language is valued in many agencies."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Short, persuasive writing",
+          "Idea generation",
+          "Writing for different formats and audiences",
+          "Taking feedback and revising",
+          "Writing in English and an Indian language"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Agency work can involve tight deadlines and long hours.",
+          "Next roles: senior copywriter, associate creative director.",
+          "A portfolio usually counts for more than the degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · English Literature",
+            "href": "/explore/ba.english-literature.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
