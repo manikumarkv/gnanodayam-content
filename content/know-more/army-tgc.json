@@ -64,6 +64,48 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "TGC-141 vacancies by engineering stream",
+        "unit": "vacancies",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Civil",
+                "value": 8
+              },
+              {
+                "label": "Computer Science",
+                "value": 6
+              },
+              {
+                "label": "Electronics",
+                "value": 6
+              },
+              {
+                "label": "Mechanical",
+                "value": 6
+              },
+              {
+                "label": "Electrical",
+                "value": 2
+              },
+              {
+                "label": "Miscellaneous",
+                "value": 2
+              }
+            ]
+          }
+        },
+        "note": "One course's split of 30 vacancies; stream-wise numbers change from course to course.",
+        "source": "Indian Army TGC-141 notification (as reported)",
+        "date": "2024",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

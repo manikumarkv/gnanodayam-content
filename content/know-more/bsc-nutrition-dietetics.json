@@ -55,6 +55,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate students in Nutrition",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [3663, 4363, 4727]
+              }
+            ]
+          }
+        },
+        "note": "'Nutrition' subject row only; a separate 'Food Science & Nutrition' row is not included. UG B.Sc figures by subject are not reported separately. AISHE counts responding institutions only; coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 (PG level), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths to explore",

@@ -50,6 +50,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in Political Science, by gender",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Women",
+                "value": 146107
+              },
+              {
+                "label": "Men",
+                "value": 115129
+              }
+            ]
+          }
+        },
+        "note": "Subject-level PG enrolment (mostly M.A.). The total rose sharply from 2021-22 to 2022-23, so a year-on-year trend is not shown. AISHE counts responding institutions only; coverage varies by year.",
+        "source": "AISHE 2023-24, Table 13 (PG level), actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -58,6 +58,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "M.Pharm enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "M.Pharm students",
+                "values": [41452, 46075, 50813]
+              }
+            ]
+          }
+        },
+        "note": "Headcount across both years of the course. AISHE counts responding institutions; coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 programme-wise enrolment, all modes, actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

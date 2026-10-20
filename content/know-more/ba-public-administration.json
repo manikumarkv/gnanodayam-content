@@ -58,6 +58,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate students in Public Administration",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [29730, 29477, 27199]
+              }
+            ]
+          }
+        },
+        "note": "Shows students at PG level in this subject, the usual next step after the B.A. major; UG figures for the subject are not reported separately. AISHE counts responding institutions only; coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 (PG level), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",

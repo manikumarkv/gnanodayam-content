@@ -62,6 +62,39 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "ACET candidates: appeared and passed, by session",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Dec 2023",
+              "Mar 2025",
+              "Aug 2025",
+              "Jan 2026",
+              "Jun 2026"
+            ],
+            "series": [
+              {
+                "label": "Appeared",
+                "values": [598, 883, 1557, 1099, 1791]
+              },
+              {
+                "label": "Passed",
+                "values": [429, 570, 1360, 965, 1551]
+              }
+            ]
+          }
+        },
+        "note": "Recent sessions only; no figures were found for 2024 sessions. Pass rates rose sharply from August 2025. Figures are as reported by a third-party site and need checking against IAI result notices.",
+        "source": "Institute of Actuaries of India ACET results, as compiled by Careers360",
+        "date": "2023–2026",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

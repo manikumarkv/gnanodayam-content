@@ -57,6 +57,33 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "PLAB 1 candidates who sat and passed",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021", "2022", "2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "Sat",
+                "values": [10431, 14470, 21916, 21058, 13691]
+              },
+              {
+                "label": "Passed",
+                "values": [7728, 10259, 15781, 14849, 8513]
+              }
+            ]
+          }
+        },
+        "note": "All countries of qualification, not Indian graduates alone. Counts may include repeat attempts; check the GMC table before relying on exact figures.",
+        "source": "GMC, recent pass rates for PLAB 1 and PLAB 2 (as reported)",
+        "date": "2021–2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

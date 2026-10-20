@@ -60,6 +60,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Vacancies in the Combined Geo-Scientist Examination",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["CGSE 2023", "CGSE 2024", "CGSE 2025"],
+            "series": [
+              {
+                "label": "Vacancies notified",
+                "values": [285, 56, 85]
+              }
+            ]
+          }
+        },
+        "note": "Tentative vacancies at notification across GSI and CGWB posts; final numbers can change.",
+        "source": "UPSC Combined Geo-Scientist examination notices, as reported (Careers360, Scroll and others)",
+        "date": "2022–2024",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

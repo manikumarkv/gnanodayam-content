@@ -59,6 +59,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Economics at postgraduate level — enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG students in Economics",
+                "values": [122884, 129184, 119131]
+              }
+            ]
+          }
+        },
+        "note": "AISHE does not publish B.A. enrolment by subject, so this shows the subject at PG level (the usual next step). AISHE counts responding institutions; coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 PG enrolment by discipline/subject, actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths to explore",

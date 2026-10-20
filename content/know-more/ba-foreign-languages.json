@@ -58,6 +58,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in non-English foreign languages, by year",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG students",
+                "values": [7589, 7681, 8664]
+              }
+            ]
+          }
+        },
+        "note": "Sum of the French, German, Spanish and 'Other Foreign Languages' rows at PG level (English excluded). AISHE does not report B.A. enrolment by language, so this shows the postgraduate level only. AISHE counts only institutions that responded to the survey; coverage varies by year, so part of any change can reflect reporting rather than real growth.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 PG enrolment by discipline, actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",

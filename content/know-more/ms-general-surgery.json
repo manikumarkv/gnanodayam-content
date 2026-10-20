@@ -58,6 +58,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "PG students in General Surgery",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "General Surgery (PG level)",
+                "values": [8499, 10284, 11642]
+              }
+            ]
+          }
+        },
+        "note": "AISHE counts responding institutions only; coverage varies by year, so part of any change may reflect reporting rather than real growth or decline. Counts all students enrolled across the 3-year course, not annual seats; the PG level may include diploma students as well as MS.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 postgraduate enrolment by subject, based on actual responses (Ministry of Education), Medical Science group",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

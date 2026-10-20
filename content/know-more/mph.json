@@ -59,6 +59,33 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in MPH and MHA",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "MPH",
+                "values": [3099, 3160, 3491]
+              },
+              {
+                "label": "MHA",
+                "values": [5351, 5757, 5909]
+              }
+            ]
+          }
+        },
+        "note": "Programmes with other names (for example MBA in hospital management) are not included. AISHE counts only responding institutions, and coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (programme-wise enrolment, M.P.H. and M.H.A. rows), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related paths",

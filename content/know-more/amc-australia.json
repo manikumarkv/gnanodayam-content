@@ -55,6 +55,33 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "AMC exams: candidates who sat and passed",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["MCQ exam", "Clinical exam"],
+            "series": [
+              {
+                "label": "Sat",
+                "values": [4468, 2053]
+              },
+              {
+                "label": "Passed",
+                "values": [2119, 426]
+              }
+            ]
+          }
+        },
+        "note": "Covers all international medical graduates, not only those from India; about 47% passed the MCQ and about 21% the clinical exam that year. Not checked against the AMC annual report.",
+        "source": "Australian Medical Council 2022-23 figures, as reported by a secondary source",
+        "date": "2022-23",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

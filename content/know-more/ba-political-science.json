@@ -58,6 +58,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Political Science at postgraduate level — women and men",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Women",
+                "value": 146107
+              },
+              {
+                "label": "Men",
+                "value": 115129
+              }
+            ]
+          }
+        },
+        "note": "AISHE does not publish B.A. enrolment by subject, so this shows the subject at PG level. A year-on-year trend is not shown because the 2022-23 figure jumps sharply, possibly a classification change. AISHE counts responding institutions; coverage varies by year.",
+        "source": "AISHE 2023-24, Table 13 PG enrolment by discipline/subject, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths to explore",

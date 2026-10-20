@@ -66,6 +66,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Chemistry at postgraduate level — enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG students in Chemistry",
+                "values": [168711, 187430, 181090]
+              }
+            ]
+          }
+        },
+        "note": "AISHE does not publish B.Sc enrolment by subject, so this shows the subject at PG level (M.Sc). AISHE counts responding institutions; coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 PG enrolment by discipline/subject, actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths to explore",

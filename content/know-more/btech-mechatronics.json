@@ -59,6 +59,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG students in Mechatronics Engineering, by gender",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Men",
+                "value": 4782
+              },
+              {
+                "label": "Women",
+                "value": 796
+              }
+            ]
+          }
+        },
+        "note": "'Mechatronics Engineering' row only; 'Mechanical & Mechatronics' and 'Automation & Robotics' are counted separately. Earlier years show a large jump that may reflect reporting changes, so no trend is shown. AISHE counts responding institutions only; coverage varies by year.",
+        "source": "AISHE 2023-24, Table 12 (UG level), actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",

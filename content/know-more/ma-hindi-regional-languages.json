@@ -57,6 +57,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Hindi at postgraduate level — enrolment",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG students in Hindi",
+                "values": [178338, 215129, 220305]
+              }
+            ]
+          }
+        },
+        "note": "Hindi row under Indian Languages only; other Indian languages are not included. AISHE counts responding institutions; coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 PG enrolment by discipline/subject, actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related roles and paths",

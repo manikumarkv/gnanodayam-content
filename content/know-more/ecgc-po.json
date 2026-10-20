@@ -55,6 +55,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "ECGC Probationary Officer posts notified",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2022", "2023", "2024"],
+            "series": [
+              {
+                "label": "PO posts notified",
+                "values": [75, 17, 40]
+              }
+            ]
+          }
+        },
+        "note": "Posts as advertised; final numbers can change. The 2025 cycle is not shown here.",
+        "source": "ECGC PO recruitment notices, as reported by news sites (NE Now, Scroll, Amar Ujala)",
+        "date": "2022–2024",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related paths",

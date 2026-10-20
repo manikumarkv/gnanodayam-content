@@ -58,6 +58,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Postgraduate students in Psychology",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "PG enrolment",
+                "values": [51861, 51496, 54484]
+              }
+            ]
+          }
+        },
+        "note": "All postgraduate psychology enrolment, not only clinical or RCI-recognised programmes; forensic psychology is counted separately. AISHE counts only responding institutions, and coverage varies by year.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 13 (PG enrolment by discipline, 'Psychology' row), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

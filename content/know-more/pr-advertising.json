@@ -74,6 +74,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Digital share of India's advertising revenue",
+        "unit": "%",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "Digital share of total ad revenue",
+                "values": [51, 55, 63]
+              }
+            ]
+          }
+        },
+        "note": "Each year is taken from that year's report; later editions may restate earlier figures. Shows where ad money goes, not the number of jobs.",
+        "source": "FICCI-EY Media & Entertainment reports (2024, 2025 and 2026 editions), as reported",
+        "date": "2023 to 2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

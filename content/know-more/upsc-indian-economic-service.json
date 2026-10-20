@@ -55,6 +55,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Indian Economic Service vacancies by exam year",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2022", "2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "IES vacancies notified",
+                "values": [24, 18, 18, 12]
+              }
+            ]
+          }
+        },
+        "note": "IES posts only; Indian Statistical Service vacancies in the same exam are not shown. Final numbers can change after the notice.",
+        "source": "UPSC IES/ISS examination notifications (as reported)",
+        "date": "2022 to 2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -67,6 +67,33 @@
           "Preparation can take years, so a parallel career or fallback plan is common."
         ]
       }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Civil Services Exam 2024: candidates at each stage",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Qualified for Mains",
+              "Called for interview",
+              "Recommended"
+            ],
+            "series": [
+              {
+                "label": "Candidates",
+                "values": [14627, 2845, 1009]
+              }
+            ]
+          }
+        },
+        "note": "Same exam cycle (CSE 2024). Several lakh candidates sat the prelims; the exact number appeared is not shown here.",
+        "source": "UPSC Prelims result, interview schedule and final result for CSE 2024 (as reported by news outlets)",
+        "date": "2024-25",
+        "verified": false
+      }
     }
   ],
   "lastReviewed": "2026-10",

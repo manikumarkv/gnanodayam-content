@@ -62,6 +62,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "ESE vacancies at notification, by exam year",
+        "unit": "vacancies",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["ESE 2023", "ESE 2024", "ESE 2025", "ESE 2026"],
+            "series": [
+              {
+                "label": "Vacancies notified",
+                "values": [327, 167, 232, 474]
+              }
+            ]
+          }
+        },
+        "note": "Vacancies as first notified; UPSC and the ministries often revise the final number later. Each exam year's notice is issued in the preceding September.",
+        "source": "UPSC ESE notifications for each year (as reported by Scroll, Careers360 and other outlets)",
+        "date": "2022-2025 notifications",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related paths",

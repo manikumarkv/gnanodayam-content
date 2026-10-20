@@ -72,6 +72,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Ayushman Arogya Mandirs operational, over time",
+        "unit": "centres",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["Jan 2024", "Nov 2024", "Jun 2025", "Nov 2025"],
+            "series": [
+              {
+                "label": "Centres operational",
+                "values": [164478, 175338, 177906, 181873]
+              }
+            ]
+          }
+        },
+        "note": "Cumulative count of sub-health centres and primary health centres upgraded to Ayushman Arogya Mandirs; reporting dates are uneven.",
+        "source": "MoHFW monthly summary (Jan 2024), MoHFW Initiatives & Achievements 2024 and 2025, and PIB release (Jun 2025)",
+        "date": "Jan 2024 to Nov 2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

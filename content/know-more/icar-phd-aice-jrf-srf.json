@@ -58,6 +58,33 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "AICE JRF/SRF (Ph.D.) candidates: registered and appeared",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2023", "2025"],
+            "series": [
+              {
+                "label": "Registered",
+                "values": [9761, 11116]
+              },
+              {
+                "label": "Appeared",
+                "values": [8880, 9940]
+              }
+            ]
+          }
+        },
+        "note": "PhD-only figures for 2024 were not found separately and are left out. Seat and qualifier counts are not shown.",
+        "source": "NTA result figures, as reported by Careers360",
+        "date": "2023, 2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

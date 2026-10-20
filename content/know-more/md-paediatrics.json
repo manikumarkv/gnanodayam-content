@@ -60,6 +60,48 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Where MD Paediatrics seats are, by state",
+        "unit": "seats",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Karnataka",
+                "value": 583
+              },
+              {
+                "label": "Maharashtra",
+                "value": 452
+              },
+              {
+                "label": "Tamil Nadu",
+                "value": 420
+              },
+              {
+                "label": "Uttar Pradesh",
+                "value": 378
+              },
+              {
+                "label": "Telangana",
+                "value": 290
+              },
+              {
+                "label": "All other states and UTs",
+                "value": 2080
+              }
+            ]
+          }
+        },
+        "note": "Total 4,203 seats. The matrix excludes seats tied to pending applications for intake increases or new PG courses, so final numbers can rise. The five largest states are shown separately; the rest are grouped.",
+        "source": "NMC PG seat matrix 2026-27, as reported (Medical Dialogues)",
+        "date": "2026-27",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

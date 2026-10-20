@@ -67,6 +67,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG enrolment in Hospital Administration — women and men",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Women",
+                "value": 3443
+              },
+              {
+                "label": "Men",
+                "value": 2788
+              }
+            ]
+          }
+        },
+        "note": "AISHE's UG subject 'Hospital Administration' (about 6,200 students); it does not separate BBA specialisations, so this may mix BHA and hospital-management BBA students. AISHE counts responding institutions; coverage varies by year.",
+        "source": "AISHE 2023-24, Table 12 UG enrolment by discipline/subject, actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",

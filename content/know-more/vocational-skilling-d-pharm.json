@@ -58,6 +58,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Students enrolled in D.Pharm",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "D.Pharm enrolment",
+                "values": [195355, 220313, 260838]
+              }
+            ]
+          }
+        },
+        "note": "Programme row 'D.Pharma - Diploma in Pharmacy'. Many D.Pharm institutes are standalone and may not all report to AISHE. AISHE counts responding institutions only; coverage varies by year, so part of any change can reflect reporting rather than real growth.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11, programme-wise enrolment, all modes, actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths to explore",

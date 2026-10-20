@@ -59,6 +59,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "SSC GD Constable vacancies by cycle",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2022-23 cycle", "2024 cycle", "2025 cycle"],
+            "series": [
+              {
+                "label": "Vacancies",
+                "values": [50187, 46617, 53690]
+              }
+            ]
+          }
+        },
+        "note": "Final or revised counts; SSC often raises vacancies after the first notice. 2022-23 cycle: notified Oct 2022, exam Jan-Feb 2023. Covers CAPFs, SSF, Assam Rifles and (in some cycles) NCB; state police drives are separate.",
+        "source": "SSC vacancy notices (as reported by Careers360 and others)",
+        "date": "2023-2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related paths",

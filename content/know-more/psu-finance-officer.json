@@ -67,6 +67,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Operating central PSUs (CPSEs)",
+        "unit": "CPSEs",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2023-24", "2024-25"],
+            "series": [
+              {
+                "label": "Operating CPSEs",
+                "values": [248, 272, 291]
+              }
+            ]
+          }
+        },
+        "note": "Count of operating CPSEs, the main employers for this path; 2022-23 is not shown because the figure could not be confirmed. Each CPSE recruits on its own.",
+        "source": "Public Enterprises Survey (DPE), as reported",
+        "date": "2021-22 to 2024-25",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

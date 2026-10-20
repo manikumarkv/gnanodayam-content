@@ -67,6 +67,35 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Apprentices engaged under NAPS",
+        "unit": "lakh",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24",
+              "2024-25"
+            ],
+            "series": [
+              {
+                "label": "Apprentices engaged",
+                "values": [3.08, 5.9, 7.39, 9.32, 9.85]
+              }
+            ]
+          }
+        },
+        "note": "Covers the National Apprenticeship Promotion Scheme only, not ITI or polytechnic enrolment. The ~8.2 lakh figure in Key facts is a part-year count (to January 2025); the 2024-25 bar is the full year.",
+        "source": "MSDE data via Rajya Sabha reply / PIB release on NAPS progress (as reported)",
+        "date": "2020-21 to 2024-25",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths to explore",

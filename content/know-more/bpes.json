@@ -63,6 +63,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "B.P.Ed students enrolled",
+        "unit": "students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [44224, 50411, 56072]
+              }
+            ]
+          }
+        },
+        "note": "B.P.Ed programme only; B.P.E. and B.P.E.S. are counted separately. AISHE counts responding institutions only; coverage varies by year, so part of any change may reflect reporting rather than real enrolment.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (programme-wise enrolment, B.P.Ed.), actual responses (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths to explore",

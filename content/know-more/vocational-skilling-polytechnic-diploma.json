@@ -65,6 +65,29 @@
           "Quality, seat-fill and placements vary widely between institutes."
         ]
       }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Enrolment in technical / polytechnic institutes",
+        "unit": "lakh students",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Students enrolled",
+                "values": [14.1, 13.8, 13.9]
+              }
+            ]
+          }
+        },
+        "note": "Responding polytechnics: 3,599 (2021-22), 3,530 (2022-23), 4,209 (2023-24), so coverage differs by year. Stand-alone technical/polytechnic institutes only; diplomas run by universities are not included.",
+        "source": "AISHE 2021-22, 2022-23 and 2023-24, stand-alone institutions section (Ministry of Education)",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
     }
   ],
   "lastReviewed": "2026-10",

@@ -59,6 +59,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Vacancies in the SSC Combined Hindi Translators Examination",
+        "unit": "posts",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2023", "2024", "2025", "2026"],
+            "series": [
+              {
+                "label": "Notified vacancies",
+                "values": [307, 312, 552, 303]
+              }
+            ]
+          }
+        },
+        "note": "SSC vacancy counts are tentative and often revised (2025 rose from 437 to 552; 2026 was revised from 84 to 303 regular posts). Bank Rajbhasha Adhikari posts are not included.",
+        "source": "SSC Combined Hindi Translators Examination notices (as reported)",
+        "date": "2023 to 2026",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related roles and paths",

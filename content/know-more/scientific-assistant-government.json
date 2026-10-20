@@ -63,6 +63,44 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "IMD Scientific Assistant (2022 exam) — candidates shortlisted by category",
+        "unit": "candidates",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Unreserved",
+                "value": 344
+              },
+              {
+                "label": "OBC",
+                "value": 262
+              },
+              {
+                "label": "EWS",
+                "value": 177
+              },
+              {
+                "label": "SC",
+                "value": 144
+              },
+              {
+                "label": "ST",
+                "value": 68
+              }
+            ]
+          }
+        },
+        "note": "995 candidates provisionally shortlisted; reserved-category candidates who qualified at the unreserved standard are counted under Unreserved. One exam only.",
+        "source": "SSC final result write-up, Scientific Assistant (IMD) Examination 2022",
+        "date": "Feb 2023",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -59,6 +59,32 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "UG students in Automobile Engineering, by gender",
+        "unit": "students",
+        "data": {
+          "discriminant": "donut",
+          "value": {
+            "slices": [
+              {
+                "label": "Men",
+                "value": 2206
+              },
+              {
+                "label": "Women",
+                "value": 76
+              }
+            ]
+          }
+        },
+        "note": "One year only; the row's total changed sharply between 2021-22 and 2022-23, likely a classification change, so no trend is shown. AISHE counts only responding institutions, and coverage varies by year.",
+        "source": "AISHE 2023-24, Table 12 (UG enrolment by discipline, 'Automobile Engineering' row), actual responses (Ministry of Education)",
+        "date": "2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",

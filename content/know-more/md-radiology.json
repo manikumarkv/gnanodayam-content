@@ -66,6 +66,37 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "MD Radiodiagnosis seats by state",
+        "unit": "seats",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": [
+              "Karnataka",
+              "Maharashtra",
+              "Uttar Pradesh",
+              "Tamil Nadu",
+              "Andhra Pradesh",
+              "Telangana",
+              "All other states/UTs"
+            ],
+            "series": [
+              {
+                "label": "Seats",
+                "values": [471, 400, 296, 285, 237, 234, 1301]
+              }
+            ]
+          }
+        },
+        "note": "Total 3,224 seats. The matrix excludes pending applications for added or new PG seats, so final counts may be higher.",
+        "source": "NMC PG seat matrix 2026-27, as reported by Medical Dialogues",
+        "date": "2026-27",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -59,6 +59,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Milk production in India",
+        "unit": "million tonnes",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2020-21", "2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Milk production",
+                "values": [210.0, 221.1, 230.6, 239.3]
+              }
+            ]
+          }
+        },
+        "note": "Some later releases revise 2021-22 to about 222.1 million tonnes. Shows the size of the dairy sector, not jobs in it.",
+        "source": "Basic Animal Husbandry Statistics, Dept of Animal Husbandry & Dairying, as published by NDDB",
+        "date": "2020-21 to 2023-24",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -60,6 +60,29 @@
           "Registrations, GST (above turnover thresholds) and basic bookkeeping are part of running a business."
         ]
       }
+    },
+    {
+      "discriminant": "chart",
+      "value": {
+        "title": "Share of workers who are self-employed",
+        "unit": "% of workers",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2021-22", "2022-23", "2023-24"],
+            "series": [
+              {
+                "label": "Self-employed",
+                "values": [55.8, 57.3, 58.4]
+              }
+            ]
+          }
+        },
+        "note": "Usual status, all India. Self-employment includes own-account work, employers and unpaid family helpers, so it is broader than starting a business. The 2022-23 figure comes from a secondary summary.",
+        "source": "PLFS Annual Reports (MoSPI), as reported",
+        "date": "2021-22 to 2023-24",
+        "verified": false
+      }
     }
   ],
   "lastReviewed": "2026-10",

@@ -54,6 +54,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Non-US IMGs matched to a first-year (PGY-1) post",
+        "unit": "%",
+        "data": {
+          "discriminant": "line",
+          "value": {
+            "categories": ["2023", "2024", "2025"],
+            "series": [
+              {
+                "label": "Match rate",
+                "values": [59.4, 58.5, 58.0]
+              }
+            ]
+          }
+        },
+        "note": "Share of non-US-citizen IMGs who submitted a rank list and matched; all countries, not India-specific. Rates vary widely by specialty.",
+        "source": "NRMP Main Residency Match reports; ECFMG press release (2024)",
+        "date": "2023-2025",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Related",

@@ -67,6 +67,29 @@
       }
     },
     {
+      "discriminant": "chart",
+      "value": {
+        "title": "Passengers carried by domestic airlines",
+        "unit": "crore passengers",
+        "data": {
+          "discriminant": "bar",
+          "value": {
+            "categories": ["2022", "2023", "2024"],
+            "series": [
+              {
+                "label": "Domestic passengers",
+                "values": [12.32, 15.2, 16.13]
+              }
+            ]
+          }
+        },
+        "note": "Calendar-year totals for domestic airlines. Shows the size of the sector, not jobs or hiring for graduates of this course.",
+        "source": "DGCA domestic traffic data (as reported in news coverage)",
+        "date": "2022 to 2024",
+        "verified": false
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",
