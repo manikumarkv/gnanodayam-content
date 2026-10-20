@@ -1,0 +1,79 @@
+{
+  "title": "Lab Animal Veterinarian",
+  "kicker": "Role · Preclinical research",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A lab animal veterinarian looks after animals used in research and drug-safety studies, and makes sure they are housed and handled under animal-welfare rules. Contract research organisations, pharma R&D centres and research institutes hire them. The work mixes animal health care, support for study procedures and detailed record-keeping."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BVSc & AH"
+          },
+          {
+            "label": "Rules followed",
+            "value": "CPCSEA guidelines and institutional animal ethics committee approvals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a contract research organisation or pharma research facility as a veterinarian or study associate, with training in good laboratory practice (GLP) on the job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Animal health monitoring and care",
+          "Handling and procedure techniques",
+          "Good laboratory practice (GLP)",
+          "Accurate documentation",
+          "Animal welfare and ethics rules"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: study director support, senior facility veterinarian, toxicology roles.",
+          "An MVSc or a pathology/pharmacology specialisation opens senior research roles.",
+          "The work suits those interested in science over clinical practice."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BVSc & AH",
+            "href": "/explore/bvsc.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

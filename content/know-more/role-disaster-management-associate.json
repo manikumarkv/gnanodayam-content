@@ -1,0 +1,83 @@
+{
+  "title": "Disaster Management Associate",
+  "kicker": "Role · Disaster risk reduction",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Disaster management associates work on preparing communities for floods, cyclones, droughts and other hazards, and on coordinating relief when they strike. Employers include NGOs, humanitarian agencies, development consultancies and CSR programmes. Day-to-day work mixes field visits, community training, data collection and report writing, with long hours during emergencies."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA in Geography, Sociology or Social Work; a disaster management diploma helps"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, survey apps, basic GIS, report templates"
+          },
+          {
+            "label": "Policy framework",
+            "value": "Disaster Management Act, 2005",
+            "note": "Sets up national, state and district disaster management authorities"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter as project or field associates on NGO and agency programmes, often on fixed-term project contracts. A postgraduate diploma or certificate in disaster management, field volunteering and a local language for the project area make an application stronger."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Hazard and vulnerability mapping",
+          "Community training and facilitation",
+          "Field surveys and data collection",
+          "Report and proposal writing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many roles are tied to project funding and run on contracts of one to three years.",
+          "Field postings can be in remote or disaster-affected areas.",
+          "Common next steps: project officer, programme coordinator, or a master's in disaster management."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Geography",
+            "href": "/explore/ba.geography.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

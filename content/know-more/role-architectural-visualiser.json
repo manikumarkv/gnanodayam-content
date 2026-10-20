@@ -1,0 +1,78 @@
+{
+  "title": "Architectural Visualiser",
+  "kicker": "Role · Design",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Architectural visualisers turn drawings into realistic images and walkthroughs used for design reviews, approvals and property marketing. They work in visualisation studios, architecture firms and real-estate marketing agencies, some of which serve overseas clients. The day is spent modelling, lighting and rendering scenes, then revising them."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Arch, B.Des, or a 3D / animation course"
+          },
+          {
+            "label": "Common tools",
+            "value": "SketchUp, 3ds Max, real-time rendering engines, Photoshop"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hiring is portfolio-driven: a few strong renders of interiors and exteriors matter more than the degree. Many B.Arch graduates move into this after a short rendering course or freelance work."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "3D modelling and texturing",
+          "Lighting, composition and camera work",
+          "Rendering and post-production",
+          "Reading architectural drawings"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Deadlines often cluster around client presentations and project launches.",
+          "Freelance work is common once a portfolio is established.",
+          "Next steps: senior visualiser, visualisation lead, or real-time / VR work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Arch",
+            "href": "/explore/barch.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

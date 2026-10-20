@@ -1,0 +1,79 @@
+{
+  "title": "Livestock Farm Veterinarian",
+  "kicker": "Role · Livestock health",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A livestock farm veterinarian keeps herds and flocks healthy and productive on commercial farms. Dairy farms, dairy cooperatives, poultry integrators and large livestock units hire them. Work focuses on herd health rather than single patients — vaccination plans, biosecurity, breeding, nutrition and treating outbreaks."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BVSc & AH, with veterinary council registration"
+          },
+          {
+            "label": "Work setting",
+            "value": "On farms, often in rural areas, with on-call duty"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a dairy cooperative, poultry integrator or commercial farm as a farm veterinarian or veterinary officer, sometimes after an internship there during the degree."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Herd and flock health management",
+          "Vaccination and biosecurity planning",
+          "Reproduction and fertility management",
+          "Basic nutrition and farm records",
+          "Working with farm staff"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior veterinarian, herd health manager, technical or production manager.",
+          "Disease outbreaks can bring intense work periods.",
+          "An MVSc in a specialty (for example, medicine or reproduction) supports advanced roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BVSc & AH",
+            "href": "/explore/bvsc.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

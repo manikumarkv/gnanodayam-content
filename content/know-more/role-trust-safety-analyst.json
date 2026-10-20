@@ -1,0 +1,82 @@
+{
+  "title": "Trust & Safety Analyst",
+  "kicker": "Role · Online platforms",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Trust and safety analysts decide whether content, ads or accounts on an online platform break its rules or the law. They are hired by social media, marketplace and gaming platforms and by outsourcing firms that run review teams for them. A typical day is a queue of flagged cases, judgement calls on grey areas, and escalation of serious ones."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate degree; humanities degrees are common"
+          },
+          {
+            "label": "Common tools",
+            "value": "Internal review queues, policy guidelines, spreadsheets"
+          },
+          {
+            "label": "Languages",
+            "value": "Regional-language skills are often needed for Indian content"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a review or moderation team through campus or walk-in hiring and are trained on the platform's policies. Clear written English, reasoning about rules and their exceptions, and one or more Indian languages help. Moving into policy, quality or investigations roles comes with experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Applying written rules to unclear cases",
+          "Careful reading and attention to detail",
+          "Writing short, reasoned decisions",
+          "Basic knowledge of Indian IT and data laws"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Some queues involve disturbing material; ask about wellbeing support and rotation.",
+          "Shift and weekend work is common.",
+          "Next steps: quality analyst, policy specialist, investigations or team lead."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Philosophy",
+            "href": "/explore/ba.philosophy.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

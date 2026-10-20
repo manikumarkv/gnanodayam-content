@@ -1,0 +1,83 @@
+{
+  "title": "KYC / AML Analyst",
+  "kicker": "Role · Banking compliance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "KYC (know your customer) and AML (anti-money laundering) analysts check that a bank's or financial firm's customers are who they say they are, and look for signs of money laundering or fraud. They work at banks, NBFCs, fintechs, brokerages and service centres doing this work for global banks. Most days involve reviewing documents and alerts and recording a decision."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA, or any graduate"
+          },
+          {
+            "label": "Rules that apply",
+            "value": "PMLA, 2002 and RBI's KYC Master Direction",
+            "note": "Domestic roles; global-bank roles follow those banks' home rules"
+          },
+          {
+            "label": "Common tools",
+            "value": "Case management systems, screening tools, Excel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Banks and service centres hire graduates in batches and train them on their own procedures. Short certifications in AML (for example from industry bodies) and good written English help at interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Document review and attention to detail",
+          "Understanding of banking products",
+          "Clear written case notes",
+          "Judgement on when to escalate"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is process-driven and often measured on volume and accuracy.",
+          "Common next steps: senior analyst, quality reviewer, or financial crime investigations.",
+          "Shift work is common in roles serving overseas banks."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Finance",
+            "href": "/explore/bcom.finance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

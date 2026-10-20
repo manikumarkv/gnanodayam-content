@@ -1,0 +1,79 @@
+{
+  "title": "Political Campaign Associate",
+  "kicker": "Role · Politics & campaigns",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A political campaign associate works behind the scenes on election and issue campaigns. Political consultancies, party offices and campaign teams hire them, often on contracts tied to an election. The work mixes constituency research, field surveys, data tracking and help with messaging and events."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA in Political Science or another social science"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Contract-based, peaking around elections; travel and long hours common"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers enter through a campaign fellowship, internship or associate role at a political consultancy, often in the months before an election. Knowing the local language and region is a real advantage."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Constituency and electoral data research",
+          "Survey design and field coordination",
+          "Writing briefs and talking points",
+          "Spreadsheet and basic data analysis",
+          "Working with volunteers and local teams"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Jobs often end when the campaign ends, so job security is lower than in many fields.",
+          "Next roles include campaign manager, political strategist, or moves into policy and communications.",
+          "The experience carries over to public affairs, research and development-sector roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Political Science",
+            "href": "/explore/ba.political-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

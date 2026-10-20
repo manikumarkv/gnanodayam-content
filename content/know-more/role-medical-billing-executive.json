@@ -1,0 +1,83 @@
+{
+  "title": "Medical Billing Executive",
+  "kicker": "Role · Healthcare operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A medical billing executive turns a patient's treatment into a bill and makes sure the provider gets paid, whether by the patient, an insurer or a health scheme. Hospitals hire for in-house billing desks, and healthcare revenue-cycle management (RCM) firms hire for processes that bill overseas healthcare providers' claims. A typical day involves preparing bills, checking claim documents and following up on pending payments."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com or any graduate"
+          },
+          {
+            "label": "Common tools",
+            "value": "Hospital billing software, Excel, insurer portals"
+          },
+          {
+            "label": "Work settings",
+            "value": "Hospital billing desks; RCM process centres"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join hospital billing counters or RCM process centres, often through campus or walk-in hiring. Night shifts are common in RCM roles that serve overseas clients."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading tariffs, packages and treatment codes",
+          "Insurance claim documentation",
+          "Follow-up calls and email communication",
+          "Excel and billing software",
+          "Accuracy with figures"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: billing supervisor, AR analyst, revenue-cycle team lead.",
+          "Overlaps with TPA desk work; some people move between the two.",
+          "Process roles can be repetitive and target-driven."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Hospital & Healthcare Management",
+            "href": "/explore/bba.hospital-healthcare-management.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

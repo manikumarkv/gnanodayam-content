@@ -1,0 +1,82 @@
+{
+  "title": "School Nurse",
+  "kicker": "Role · Nursing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A school nurse runs the school's sick room: giving first aid, handling minor illnesses, managing medicines for children with known conditions, and deciding when a child needs a doctor or a parent. Employers include private and residential schools and some colleges. A typical day involves attending to students, routine health checks and record-keeping."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "GNM, or B.Sc Nursing; ANM for some day schools"
+          },
+          {
+            "label": "Registration",
+            "value": "State Nursing Council registration commonly required"
+          },
+          {
+            "label": "Common setting",
+            "value": "Day schools, boarding schools, colleges"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Schools usually hire registered nurses with some hospital experience, though freshers are also considered by day schools. Boarding schools often need a nurse to live on campus."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "First aid and emergency response",
+          "Managing common childhood illnesses",
+          "Health record-keeping",
+          "Health education for children",
+          "Calm communication with parents"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Hours are more regular than in hospitals, but the role is often a single-nurse post.",
+          "Next roles: senior school nurse, health coordinator, community or occupational health roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "GNM / ANM (Nursing Diplomas)",
+            "href": "/explore/vocational-skilling.gnm-anm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

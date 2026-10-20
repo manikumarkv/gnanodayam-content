@@ -1,0 +1,90 @@
+{
+  "title": "Medical Writer",
+  "kicker": "Role · Healthcare communication",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A medical writer turns clinical and scientific information into clear documents: study reports, regulatory submissions, journal manuscripts, and educational material for doctors or patients. Employers include pharma companies, clinical research organisations and medical communications agencies. A typical day involves reading studies, drafting and revising text, and checking every statement against its source."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BDS, Pharm.D, B.Pharm, MBBS, BHMS or life-science postgraduates"
+          },
+          {
+            "label": "Common work",
+            "value": "Regulatory, publication and educational writing"
+          },
+          {
+            "label": "Common tools",
+            "value": "Word processors, reference managers, literature databases"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter as trainee or associate medical writers after a writing test. A short course in medical writing and a few writing samples (such as literature summaries) help. Clinical training in BDS or Pharm.D supports understanding of the content."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading and summarising research papers",
+          "Clear, precise scientific English",
+          "Referencing and fact-checking",
+          "Understanding clinical trial design",
+          "Following style guides and regulations"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is desk-based and can be done remotely in some firms.",
+          "Next roles: senior medical writer, publication or regulatory writing lead."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BDS",
+            "href": "/explore/bds.job"
+          },
+          {
+            "label": "Pharm.D",
+            "href": "/explore/pharm-d.job"
+          },
+          {
+            "label": "BHMS",
+            "href": "/explore/bhms.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

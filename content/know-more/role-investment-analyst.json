@@ -70,6 +70,18 @@
           {
             "label": "B.Com · Finance",
             "href": "/explore/bcom.finance.job"
+          },
+          {
+            "label": "BBA · Finance",
+            "href": "/explore/bba.finance.job"
+          },
+          {
+            "label": "B.Sc · Mathematics",
+            "href": "/explore/bsc.mathematics.job"
+          },
+          {
+            "label": "CA (Chartered Accountancy)",
+            "href": "/explore/ca.job"
           }
         ]
       }

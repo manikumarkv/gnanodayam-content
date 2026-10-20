@@ -76,6 +76,10 @@
           {
             "label": "D.Pharm (Diploma in Pharmacy)",
             "href": "/explore/vocational-skilling.d-pharm.job"
+          },
+          {
+            "label": "Pharm.D",
+            "href": "/explore/pharm-d.job"
           }
         ]
       }

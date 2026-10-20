@@ -1,0 +1,78 @@
+{
+  "title": "Media Planner",
+  "kicker": "Role · Advertising & media",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A media planner works out where a brand places its advertising — which channels, programmes, websites or locations — to reach its audience within a budget. Most jobs are in media agencies, advertising agencies and the marketing teams of larger brands. A day involves audience data, spreadsheets, discussions with media sellers and tracking how campaigns are running."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA Marketing, B.Com or BMS; agency trainee programmes"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, audience measurement data, digital ad platforms"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join media agencies as trainees or media executives through campus placement or direct applications, and learn planning on live client accounts. Comfort with numbers and spreadsheets matters as much as interest in advertising."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Spreadsheet and budget work",
+          "Reading audience and ratings data",
+          "Negotiation with media sellers",
+          "Campaign tracking and reporting"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Spend is shifting towards digital, so planners increasingly work with online data.",
+          "Next roles: senior planner, media manager, or digital/programmatic specialist.",
+          "Agency life can involve long hours around campaign launches."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Marketing",
+            "href": "/explore/bba.marketing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Customs Documentation Executive",
+  "kicker": "Role · Trade & customs",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A customs documentation executive prepares the paperwork needed for goods to clear customs — shipping bills for exports, bills of entry for imports, and supporting invoices, packing lists and certificates. Employers include customs brokers, freight forwarders and the EXIM teams of manufacturers and traders. The day involves checking documents, classifying goods, filing online and following up on queries."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com International Business or any B.Com/BBA; EXIM certificate courses help"
+          },
+          {
+            "label": "Key systems",
+            "value": "ICEGATE (Indian Customs online portal), HS classification, Incoterms"
+          },
+          {
+            "label": "Licensing",
+            "value": "Customs brokers hold a licence under the Customs Brokers Licensing Regulations; staff can work under a licensed broker"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join customs brokers or freight forwarders near ports, airports or inland container depots as documentation trainees. Short EXIM documentation courses, and accuracy with numbers and paperwork, help in getting the first job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "HS classification and duty calculation",
+          "Export-import documentation",
+          "Working on the customs e-filing portal",
+          "Attention to detail",
+          "Coordination with clients and officers"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is concentrated around ports, airports and ICDs.",
+          "Next roles: senior executive, customs clearance manager, or a customs broker licence.",
+          "Errors can delay shipments or attract penalties, so accuracy is closely watched."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · International Business",
+            "href": "/explore/bcom.international-business.job"
+          },
+          {
+            "label": "B.Com · Taxation",
+            "href": "/explore/bcom.taxation.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

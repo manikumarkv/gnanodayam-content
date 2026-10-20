@@ -1,0 +1,78 @@
+{
+  "title": "Business Development Executive",
+  "kicker": "Role · Business growth",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A business development executive looks for new customers or partners and turns interest into deals. Employers include ed-tech, SaaS, services, media and manufacturing companies, often in B2B settings. A typical day involves calls and emails to prospects, demos or meetings, proposal preparation and updating a CRM."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate; BBA Marketing, B.Com and BMS are common"
+          },
+          {
+            "label": "Common tools",
+            "value": "CRM software, email outreach tools, LinkedIn, Excel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Companies hire freshers through campus placement, job portals and walk-ins, usually with a sales-aptitude or role-play round. Clear spoken English and the local language help in client calls."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Prospecting and cold outreach",
+          "Presentation and negotiation",
+          "Writing proposals and follow-ups",
+          "CRM and pipeline tracking"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Pay is often split into a fixed part and targets-based incentives.",
+          "Next roles: senior BDE, key account manager, business development manager.",
+          "Targets are pressured; turnover in some sectors is high."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Marketing",
+            "href": "/explore/bba.marketing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

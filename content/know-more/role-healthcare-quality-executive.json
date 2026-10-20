@@ -1,0 +1,83 @@
+{
+  "title": "Healthcare Quality Executive",
+  "kicker": "Role · Hospital administration",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A healthcare quality executive helps a hospital meet accreditation standards and track how safely and consistently care is delivered. Hospitals working towards or holding NABH accreditation hire for this work. A typical day involves collecting quality indicator data from departments, auditing records and processes, and updating policies and SOPs."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA/MBA (Hospital Management), B.Sc Nursing or allied health"
+          },
+          {
+            "label": "Key standard",
+            "value": "NABH accreditation standards for hospitals"
+          },
+          {
+            "label": "Common tools",
+            "value": "Audit checklists, Excel, incident reporting systems"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many start in hospital administration or as a quality assistant, then move into the quality department. Short courses on NABH standards or internal auditing are commonly listed in job requirements."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading and applying accreditation standards",
+          "Internal audits and checklists",
+          "Collecting and reporting indicator data",
+          "Root-cause analysis of incidents",
+          "Training staff on SOPs"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: quality manager, patient safety officer, accreditation consultant.",
+          "Some hospitals prefer a clinical (nursing) background for this role.",
+          "Work peaks around accreditation assessments and surveillance visits."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Hospital & Healthcare Management",
+            "href": "/explore/bba.hospital-healthcare-management.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

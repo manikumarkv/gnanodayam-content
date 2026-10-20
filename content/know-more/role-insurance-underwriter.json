@@ -1,0 +1,82 @@
+{
+  "title": "Insurance Underwriter",
+  "kicker": "Role · Insurance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An underwriter reviews each insurance proposal and decides whether the insurer will accept the risk, and on what terms and premium. Employers include life, health and general insurance companies and their back-office centres. A typical day involves reading proposal forms, medical or property reports and financial documents, and recording decisions in the underwriting system."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com (Banking & Insurance), BBA or any graduate"
+          },
+          {
+            "label": "Common lines",
+            "value": "Life, health, motor, property, marine"
+          },
+          {
+            "label": "Professional exams",
+            "value": "Insurance Institute of India (Licentiate / Associate)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join an insurer as an underwriting trainee or executive and learn the company's guidelines on the job. Clearing the Insurance Institute of India exams helps with progression. Health underwriting teams sometimes prefer candidates with a life-science or nursing background."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading proposals and reports carefully",
+          "Risk assessment against guidelines",
+          "Basic finance and insurance principles",
+          "Excel and policy administration systems",
+          "Clear written justifications"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is desk-based and rule-driven, with growing use of automated underwriting for simple cases.",
+          "Next roles: senior underwriter, underwriting manager, product or pricing roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Banking & Insurance",
+            "href": "/explore/bcom.banking-insurance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

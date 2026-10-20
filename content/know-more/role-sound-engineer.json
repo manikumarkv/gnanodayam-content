@@ -1,0 +1,82 @@
+{
+  "title": "Sound / Recording Engineer",
+  "kicker": "Role · Music & audio",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A sound or recording engineer captures and shapes audio, from recording a singer in a studio to mixing a film song or running the sound desk at a concert. Employers include recording studios, film and OTT post-production houses, event companies, radio and podcast producers. A typical day involves setting up equipment, recording takes, and editing or mixing for hours."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BPA / B.Music, or a diploma in sound engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "Digital audio workstations, mixing consoles, microphones"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Project-based, often irregular hours"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most start as studio assistants or live-sound crew, learning on the job. Musical training from a BPA helps with ear and timing; a short audio engineering course fills the technical gaps. A portfolio of mixed tracks is commonly asked for."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Critical listening",
+          "Recording and microphone techniques",
+          "Editing and mixing in a DAW",
+          "Signal flow and equipment setup",
+          "Working calmly with artists"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work is freelance or contract-based.",
+          "Next roles: mixing or mastering engineer, live sound head, studio owner."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BPA / B.Music (Performing Arts)",
+            "href": "/explore/bpa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

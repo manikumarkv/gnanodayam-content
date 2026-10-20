@@ -1,0 +1,78 @@
+{
+  "title": "Video Editor",
+  "kicker": "Role · Media & communications",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Video editors turn raw footage into finished pieces: news packages, short social videos, ads, interviews or longer shows. News channels, digital media outlets, production houses and brand content teams hire them. Most of the day is at the edit desk, working to a brief and a deadline."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BJMC, BA, or a film / editing course"
+          },
+          {
+            "label": "Common tools",
+            "value": "Non-linear editing software, audio tools, basic motion graphics"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hiring is based on a showreel. Freshers often start as assistant editors, interns in newsrooms, or freelancers editing short-form content, and build a portfolio from there."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Storytelling through editing",
+          "Editing software and file formats",
+          "Sound and colour basics",
+          "Working fast under deadlines"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Newsroom editing runs on shifts; freelance work pays per project.",
+          "Short-form social video has added many entry-level openings.",
+          "Next steps: senior editor, post-production supervisor, or video producer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BJMC (Journalism & Mass Comm.)",
+            "href": "/explore/bjmc.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

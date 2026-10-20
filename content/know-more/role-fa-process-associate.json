@@ -1,0 +1,83 @@
+{
+  "title": "Finance & Accounts Process Associate",
+  "kicker": "Role · Finance operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A finance and accounts (F&A) process associate handles one part of a company's accounting in a structured process — such as paying suppliers, recording customer receipts, or reconciling ledgers. Accounting outsourcing firms and the shared-service centres of large companies hire them in large numbers. Work runs on monthly cycles, with the busiest days around month-end close."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com or BBA"
+          },
+          {
+            "label": "Common process areas",
+            "value": "Procure-to-pay, order-to-cash, record-to-report"
+          },
+          {
+            "label": "Common tools",
+            "value": "An ERP system, Excel, ticketing tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join through campus or walk-in drives of outsourcing and shared-service centres, followed by process training. Basic accounting knowledge and comfort with Excel are tested; some roles involve night shifts for overseas clients."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Journal entries and reconciliations",
+          "Invoice and payment processing",
+          "Excel (lookups, pivot tables)",
+          "Working within an ERP system",
+          "Attention to controls and deadlines"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior associate, team lead, or a move to general accounting or reporting.",
+          "Repetitive tasks are increasingly automated, so analysis and exception-handling matter more.",
+          "Studying CA, CMA or an accounting certification alongside the job widens options."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Accounting",
+            "href": "/explore/bcom.accounting.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

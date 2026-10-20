@@ -1,0 +1,78 @@
+{
+  "title": "LPO Associate",
+  "kicker": "Role · Law",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "LPO associates do legal support work that law firms and companies outsource: contract review, litigation document review, research and drafting support. Legal process outsourcing companies and in-house legal operations centres hire them, many serving overseas clients. The day is spent reviewing documents on screen against instructions and quality checks."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "LLB (3-year or 5-year)"
+          },
+          {
+            "label": "Common tools",
+            "value": "Document review platforms, contract management systems, legal databases"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join through campus or open hiring and are trained in the client's laws and review protocols. Strong English reading and writing are tested; enrolment with a Bar Council is not usually required for the role itself."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Contract and document analysis",
+          "Legal research",
+          "Precise written English",
+          "Working to review protocols"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work for overseas clients can follow their time zones.",
+          "Next steps: senior associate, team lead, or a move to in-house legal.",
+          "The role builds contract skills but not courtroom experience."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "LLB (Law)",
+            "href": "/explore/llb.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

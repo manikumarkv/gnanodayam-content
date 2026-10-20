@@ -69,6 +69,30 @@
           {
             "label": "Pharm.D · Job / Practice",
             "href": "/explore/pharm-d.job"
+          },
+          {
+            "label": "BAMS",
+            "href": "/explore/bams.job"
+          },
+          {
+            "label": "BDS",
+            "href": "/explore/bds.job"
+          },
+          {
+            "label": "BHMS",
+            "href": "/explore/bhms.job"
+          },
+          {
+            "label": "B.Pharm",
+            "href": "/explore/bpharm.job"
+          },
+          {
+            "label": "BSMS",
+            "href": "/explore/bsms.job"
+          },
+          {
+            "label": "BUMS",
+            "href": "/explore/bums.job"
           }
         ]
       }

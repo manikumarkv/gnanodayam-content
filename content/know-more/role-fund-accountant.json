@@ -1,0 +1,82 @@
+{
+  "title": "Fund Accountant",
+  "kicker": "Role · Finance & accounting",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Fund accountants keep the books of mutual funds, hedge funds and other investment funds, and calculate their net asset value (NAV). In India much of this work is done at fund administrators, custodian banks and global firms' service centres, often for overseas funds. A typical day involves booking transactions, reconciling positions and checking NAV before a deadline."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Com, BBA (Finance), or an M.Com/MBA"
+          },
+          {
+            "label": "Common tools",
+            "value": "Fund accounting software, Excel, custodian reports"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "Fund accounting associate, NAV analyst, reconciliation analyst"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Large service centres hire B.Com graduates through campus drives and walk-ins, with aptitude, accounting and communication tests. Knowledge of accounting basics, financial instruments and Excel helps; some employers train new hires from scratch."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Accounting and journal entries",
+          "Reconciliations",
+          "Understanding of equities, bonds and funds",
+          "Excel"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many roles follow US or European hours, so night or late shifts are common.",
+          "Common next steps: senior fund accountant, NAV reviewer, or fund operations team lead.",
+          "CFA or similar study can help move into investment-side roles later."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Com · Finance",
+            "href": "/explore/bcom.finance.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Patent Analyst",
+  "kicker": "Role · Intellectual property",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Patent analysts search patent databases and scientific literature to judge whether an invention is new, who owns related patents, and where a technology is heading. IP law firms, patent research firms and the IP teams of R&D companies hire them. The day is mostly reading, searching and writing reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Science, pharmacy or engineering degree (BS-MS, M.Sc, B.Tech)"
+          },
+          {
+            "label": "Common tools",
+            "value": "Patent databases, literature search tools, Excel"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join IP research or law firms as analysts, usually tested on reading a patent and summarising it. Passing the Patent Agent Examination run by the Indian Patent Office allows registration as a patent agent later."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading technical and legal language",
+          "Structured database searching",
+          "Clear report writing",
+          "Domain knowledge in your science subject"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work is for overseas clients, so it follows their patent systems too.",
+          "Next steps: senior analyst, patent agent, or IP manager.",
+          "The role keeps a science link but moves away from the lab bench."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BS-MS (IISER / NISER)",
+            "href": "/explore/bs-ms.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

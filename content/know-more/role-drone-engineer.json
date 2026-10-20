@@ -1,0 +1,83 @@
+{
+  "title": "Drone / UAV Engineer",
+  "kicker": "Role · Aerospace engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Drone engineers design, build and test unmanned aircraft and their systems: airframes, propulsion, flight controllers, sensors and payloads. Employers include drone start-ups, defence and agriculture-drone makers, and survey firms. Work moves between CAD, the workshop and the test field."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Aerospace, Mechanical or Electronics"
+          },
+          {
+            "label": "Common tools",
+            "value": "CAD software, flight-control firmware (e.g. PX4, ArduPilot), test rigs"
+          },
+          {
+            "label": "Rules that apply",
+            "value": "Drone Rules, 2021 (DGCA)",
+            "note": "Cover drone certification, registration and remote pilot certificates"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Drone companies often hire from student drone and aeromodelling clubs, competitions and internships. A portfolio of drones built or flown, and a DGCA remote pilot certificate, can help at interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Aerodynamics and propulsion basics",
+          "Electronics and sensor integration",
+          "Flight-control software tuning",
+          "Hands-on building and testing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many employers are start-ups, so roles can be broad and change quickly.",
+          "Common next steps: senior UAV engineer, systems lead, or test and certification roles.",
+          "Field testing can mean travel and outdoor work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Aerospace / Aeronautical",
+            "href": "/explore/btech.aerospace.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

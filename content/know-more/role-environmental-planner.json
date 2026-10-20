@@ -1,0 +1,79 @@
+{
+  "title": "Environmental Planner",
+  "kicker": "Role · Environment & planning",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An environmental planner works on how land and projects can be developed without harming natural resources or exposing people to hazards. Planning and environmental consultancies, infrastructure firms and development organisations hire them. Day-to-day work includes collecting baseline data, mapping sensitive areas, and drafting sections of impact assessment or master-plan reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Plan, or a degree in environmental science or engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "GIS software, Excel, EIA notification and guidelines"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a planning or environmental consultancy as a junior planner or EIA associate, working on project reports under a senior expert. Many continue to an M.Plan in environmental planning for more specialised roles."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Land-use and site analysis",
+          "GIS mapping of hazards and sensitive zones",
+          "Reading environmental regulations and clearance processes",
+          "Field surveys and stakeholder consultations",
+          "Report writing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: environmental planning lead, EIA coordinator, climate or resilience planner.",
+          "Work is project-based and tied to infrastructure and urban development cycles.",
+          "Leading EIA studies typically needs accredited experts, which takes years of experience."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Plan (Planning)",
+            "href": "/explore/b-plan.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

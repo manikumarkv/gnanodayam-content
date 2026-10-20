@@ -1,0 +1,91 @@
+{
+  "title": "Museum / Curatorial Assistant",
+  "kicker": "Role · Museums & heritage",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A museum or curatorial assistant helps look after a collection: recording each object, checking its condition, and helping put together exhibitions. Employers include museums, private galleries, heritage trusts, university collections and cultural NGOs. A typical day mixes documentation work, handling objects with care, and helping with visitors, events or research requests."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA in Anthropology, History, Archaeology or Fine Arts"
+          },
+          {
+            "label": "Common work",
+            "value": "Cataloguing, condition checks, exhibition support"
+          },
+          {
+            "label": "Often helpful",
+            "value": "A diploma or master's in museology"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually begin through internships, project-based documentation work or short contracts at museums and heritage organisations. A postgraduate diploma or master's in museology is commonly asked for in permanent positions."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Object documentation and cataloguing",
+          "Careful handling and storage of artefacts",
+          "Research and label writing",
+          "Basic photography and database entry",
+          "Explaining collections to visitors"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Permanent openings are limited; contract and project roles are common.",
+          "Anthropology adds an understanding of material culture and communities behind objects.",
+          "Next roles: curator, collections manager, education officer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Anthropology",
+            "href": "/explore/ba.anthropology.job"
+          },
+          {
+            "label": "BA · History",
+            "href": "/explore/ba.history.job"
+          },
+          {
+            "label": "BFA (Fine Arts)",
+            "href": "/explore/bfa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

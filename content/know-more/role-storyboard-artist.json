@@ -1,0 +1,83 @@
+{
+  "title": "Storyboard Artist",
+  "kicker": "Role · Animation & media",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A storyboard artist turns a script into a sequence of drawings that show each shot (framing, camera movement and action) before production begins. Animation studios, ad agencies and film and TV production houses hire for this work, often on a project or freelance basis. A typical day involves sketching sequences, discussing them with the director and revising."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BFA, B.Des or an animation course"
+          },
+          {
+            "label": "Common tools",
+            "value": "Pencil and paper, digital drawing and storyboard software"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Studio staff roles and project-based freelance work"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most get in with a portfolio of sequential drawing: comic pages, short boards, animatics. Some begin as layout or clean-up artists in an animation studio and move into storyboarding."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Quick, clear figure and perspective drawing",
+          "Visual storytelling and shot composition",
+          "Film language and editing basics",
+          "Digital drawing tools",
+          "Working fast through revisions"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: lead storyboard artist, animation director, art director.",
+          "Freelance work is common, so income can be irregular.",
+          "A strong portfolio counts for more than the degree name."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BFA (Fine Arts)",
+            "href": "/explore/bfa.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

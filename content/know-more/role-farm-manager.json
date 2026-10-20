@@ -1,0 +1,79 @@
+{
+  "title": "Farm Manager",
+  "kicker": "Role · Farm operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A farm manager runs the daily work of a farm — planning crops, supervising workers, managing irrigation and inputs, and keeping records. Corporate farms, plantations, polyhouse and hydroponic units, agri start-ups and large landholders hire them. Some graduates manage their own family farms in the same way."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Agriculture or B.Sc Horticulture"
+          },
+          {
+            "label": "Work setting",
+            "value": "On-site at the farm, often in rural or peri-urban areas"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start as a farm supervisor or assistant manager in a commercial farm, plantation or protected-cultivation unit, and take on full responsibility with experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Crop planning and scheduling",
+          "Irrigation and nutrient management",
+          "Labour and machinery supervision",
+          "Cost, yield and inventory records",
+          "Basic farm business planning"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior farm manager, operations head, or running one's own farm or agri venture.",
+          "Weather and market prices affect the job heavily.",
+          "Experience here is useful for starting an agri-business later."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Agriculture",
+            "href": "/explore/bsc-agriculture.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

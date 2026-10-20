@@ -1,0 +1,78 @@
+{
+  "title": "Ayurveda Wellness Consultant",
+  "kicker": "Role · Ayurveda & wellness",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An Ayurveda wellness consultant is a BAMS doctor who works at a wellness centre, health resort, spa or Ayurveda retreat. They consult guests, decide therapy and diet plans, and supervise the therapists who deliver treatments such as panchakarma. Days follow guest schedules, with consultations, follow-ups and treatment supervision."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BAMS with internship, and registration with a State Board / Council of Indian Medicine"
+          },
+          {
+            "label": "Where",
+            "value": "Wellness resorts, Ayurveda retreats, spa chains, integrative wellness clinics"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After BAMS, the internship and state registration, freshers apply to wellness centres and resorts, sometimes starting as a junior or resident doctor. Experience in panchakarma, good communication and, for resorts, a foreign language help."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Ayurvedic assessment and therapy planning",
+          "Panchakarma supervision",
+          "Diet and lifestyle counselling",
+          "Communication with guests from varied backgrounds"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many posts are residential and located in tourist or resort areas.",
+          "Next roles: senior consultant, medical head of a wellness centre, or own practice.",
+          "The role is part clinical, part hospitality; guest experience matters."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BAMS",
+            "href": "/explore/bams.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

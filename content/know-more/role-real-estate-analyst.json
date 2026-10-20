@@ -1,0 +1,79 @@
+{
+  "title": "Real Estate Analyst",
+  "kicker": "Role · Real estate & land",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A real estate analyst studies how land and buildings are used, priced and developed in a city. Property consultancies, developers, and real-estate funds hire them. A typical day involves collecting project and price data, reading development control rules, and putting together market notes or site feasibility reports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Plan, B.Arch, BBA or an economics degree"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, GIS software, master plans and development control regulations"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join the research or valuation-support team of a property consultancy or developer as an analyst or associate. A planning background helps with zoning, land-use and master-plan questions; financial modelling is often learned on the job."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading master plans and development control regulations",
+          "Market data collection and analysis in Excel",
+          "Basic financial feasibility (costs, revenue, timelines)",
+          "Mapping sites with GIS",
+          "Writing clear market reports"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior analyst, research manager, land acquisition or valuation roles.",
+          "Work volume follows the property cycle, so hiring can rise and fall with the market.",
+          "Valuation work for banks or courts may need separate registration as a valuer."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Plan (Planning)",
+            "href": "/explore/b-plan.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Digital Forensics Analyst",
+  "kicker": "Role · Cyber forensics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Digital forensics analysts collect and examine data from phones, computers and online accounts to establish what happened in fraud, data theft or criminal cases. Private forensic labs, cybersecurity firms, consulting firms and corporate investigation teams hire them. A day involves imaging devices, running analysis tools and writing reports that can stand up to scrutiny."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Forensic Science, B.Sc / B.Tech in computing, or cyber forensics courses"
+          },
+          {
+            "label": "Common tools",
+            "value": "Write blockers, forensic imaging and analysis suites, hash tools"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a private forensic lab or cybersecurity firm as junior analysts, often after an internship. Familiarity with operating systems, file systems and how evidence is handled is what interviewers look for."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "File systems and operating systems",
+          "Evidence handling and documentation",
+          "Mobile and computer data recovery",
+          "Clear, neutral report writing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Reports may be examined in court, so documentation must be exact.",
+          "Work can involve distressing material in some cases.",
+          "Next steps: senior examiner, incident response, or cybersecurity roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc · Forensic Science",
+            "href": "/explore/bsc.forensic-science.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

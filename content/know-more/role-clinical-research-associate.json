@@ -85,6 +85,18 @@
           {
             "label": "B.Tech · Biotechnology",
             "href": "/explore/btech.biotech.job"
+          },
+          {
+            "label": "BAMS",
+            "href": "/explore/bams.job"
+          },
+          {
+            "label": "BDS",
+            "href": "/explore/bds.job"
+          },
+          {
+            "label": "BHMS",
+            "href": "/explore/bhms.job"
           }
         ]
       }

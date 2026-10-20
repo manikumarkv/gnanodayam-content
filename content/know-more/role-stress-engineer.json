@@ -1,0 +1,82 @@
+{
+  "title": "Stress Engineer",
+  "kicker": "Role · Aerospace engineering",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Stress engineers check that aircraft parts such as wing ribs, fuselage frames and brackets can carry the loads they will see in service without failing. In India this work is done mainly at aerospace engineering service firms working for global aircraft makers, at public-sector aerospace companies and at defence labs. The work is desk-based, using FEA software and classic hand methods."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Aerospace, Aeronautical or Mechanical Engineering"
+          },
+          {
+            "label": "Common tools",
+            "value": "FEA software (e.g. Nastran/Patran, HyperMesh), Excel"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "Stress engineer, structural analyst, FEA engineer"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Engineering service firms hire freshers through campus drives and technical tests on strength of materials and structures, then train them on industry methods. Projects or a short course in FEA during the degree help at interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Strength of materials and aircraft structures",
+          "Finite element modelling",
+          "Fatigue and damage tolerance basics",
+          "Technical report writing"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Much of the work follows client methods and manuals, which takes time to learn.",
+          "Common next steps: senior stress engineer, certification or fatigue specialist.",
+          "Skills carry over to automotive and heavy-engineering analysis roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Aerospace / Aeronautical",
+            "href": "/explore/btech.aerospace.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

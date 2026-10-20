@@ -73,6 +73,14 @@
           {
             "label": "B.Com · Taxation",
             "href": "/explore/bcom.taxation.job"
+          },
+          {
+            "label": "CA (Chartered Accountancy)",
+            "href": "/explore/ca.job"
+          },
+          {
+            "label": "LLB (Law)",
+            "href": "/explore/llb.job"
           }
         ]
       }

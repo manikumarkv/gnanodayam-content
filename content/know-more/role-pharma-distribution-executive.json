@@ -1,0 +1,79 @@
+{
+  "title": "Pharma Distribution Executive",
+  "kicker": "Role · Pharma supply chain",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A pharma distribution executive keeps medicines moving from manufacturers to pharmacies and hospitals. Pharma wholesalers, distributors, carrying-and-forwarding (C&F) agents and e-pharmacy warehouses hire them. Work includes processing orders, tracking batches and expiry dates, keeping storage conditions right and maintaining the records a drug licence requires."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "D.Pharm or B.Pharm"
+          },
+          {
+            "label": "Why the qualification matters",
+            "value": "A drug wholesale licence needs a qualified 'competent person', often a registered pharmacist"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join a local wholesaler, distributor or pharmacy warehouse as an inventory or billing executive. Registration as a pharmacist allows them to act as the licence's competent person."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Inventory and expiry management",
+          "Billing and order software",
+          "Storage conditions (including cold chain)",
+          "Drug licence record-keeping",
+          "Coordination with suppliers and retailers"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: warehouse in-charge, branch manager, or starting an own distributorship.",
+          "Experience here is useful background for opening a pharmacy or wholesale business.",
+          "Inspections by drug control authorities make accurate records essential."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "D.Pharm (Diploma in Pharmacy)",
+            "href": "/explore/vocational-skilling.d-pharm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

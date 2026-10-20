@@ -1,0 +1,82 @@
+{
+  "title": "Learning Facilitator",
+  "kicker": "Role · Education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Learning facilitators work with children, often in small groups, to build reading, writing and numeracy, usually through NGO, after-school or community programmes. Education NGOs, foundations and school-support programmes hire them. A day involves running activity-based sessions, assessing children and keeping records."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "D.El.Ed, or a graduate degree with an interest in teaching"
+          },
+          {
+            "label": "Common tools",
+            "value": "Activity-based teaching materials, assessment sheets, mobile data apps"
+          },
+          {
+            "label": "Focus area",
+            "value": "Foundational literacy and numeracy (FLN)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Facilitators are usually hired directly by NGOs for a district or project, often from the local area. Fluency in the local language and comfort working with first-generation learners matter more than formal grades."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Activity-based teaching",
+          "Simple learning assessments",
+          "Working with parents and communities",
+          "Record keeping"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Roles are often tied to project funding and can be fixed-term.",
+          "Next steps: cluster coordinator, trainer, or programme roles.",
+          "Experience here is relevant for later school teaching posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "D.El.Ed (Elementary Teacher Diploma)",
+            "href": "/explore/vocational-skilling.d-el-ed.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

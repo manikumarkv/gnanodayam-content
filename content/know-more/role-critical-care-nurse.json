@@ -1,0 +1,83 @@
+{
+  "title": "Critical Care Nurse",
+  "kicker": "Role · Nursing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A critical care nurse works in intensive care units (ICU, CCU, NICU and similar), looking after patients who need constant monitoring and life support. Multi-speciality and tertiary hospitals hire for these units. A typical shift involves close patient monitoring, managing equipment such as ventilators and infusion pumps, giving medicines, and working alongside intensivists."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Sc Nursing or GNM, registered with a State Nursing Council"
+          },
+          {
+            "label": "Common equipment",
+            "value": "Ventilators, cardiac monitors, infusion pumps"
+          },
+          {
+            "label": "Further training",
+            "value": "Post-basic critical care courses often follow"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most nurses start as staff nurses on general wards and move to the ICU after some experience; some hospitals take freshers directly into ICUs with on-the-job training. Basic and advanced life-support certifications are commonly required."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Patient assessment and monitoring",
+          "Ventilator and equipment handling",
+          "Medication and infusion management",
+          "Basic and advanced life support",
+          "Calm teamwork under pressure"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: ICU charge nurse, nurse educator, critical care nurse specialist.",
+          "Rotating shifts, including nights, are standard.",
+          "ICU experience is also valued for nursing jobs abroad."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Sc Nursing",
+            "href": "/explore/bsc-nursing.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

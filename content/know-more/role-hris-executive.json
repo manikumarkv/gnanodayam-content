@@ -1,0 +1,82 @@
+{
+  "title": "HRIS Executive",
+  "kicker": "Role · HR technology",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "HRIS executives look after the software an organisation uses for HR: employee records, leave, attendance, onboarding and appraisal workflows. They work in company HR teams or at HR software vendors and implementation partners. The work mixes data upkeep, report building and helping employees and HR colleagues use the system."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (HR), BCA, or any graduate with strong Excel skills"
+          },
+          {
+            "label": "Common tools",
+            "value": "HRMS platforms, Excel, report builders"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "HRIS executive, HRMS associate, HR systems analyst"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Entry is often through HR operations roles, then moving towards system work, or through HR software vendors that hire freshers for implementation and support. Comfort with data, Excel and learning new software is the main filter."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "HR data management",
+          "Excel and report building",
+          "Process and workflow thinking",
+          "User support and documentation"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Sits between HR and IT, so learning both sides helps.",
+          "Common next steps: HRIS analyst, HR analytics, or HR software implementation consultant.",
+          "Data accuracy and privacy carry real responsibility in this role."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Human Resources",
+            "href": "/explore/bba.human-resources.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

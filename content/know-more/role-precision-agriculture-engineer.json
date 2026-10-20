@@ -1,0 +1,84 @@
+{
+  "title": "Precision Agriculture Engineer",
+  "kicker": "Role · Agri-tech",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A precision agriculture engineer brings sensors, drones, GPS-guided machines and data tools to farming, so water, seed, fertiliser and sprays are applied where they are needed. Employers include agri-tech startups, drone service providers, irrigation and farm-equipment companies, and agri-input firms. Work mixes field visits and demonstrations with data analysis and product testing."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech Agricultural Engineering; GIS, remote-sensing or drone training helps"
+          },
+          {
+            "label": "Common tools",
+            "value": "GIS software, drone mapping apps, soil and weather sensors, spreadsheets"
+          },
+          {
+            "label": "Drone operation",
+            "value": "Flying a drone commercially needs a DGCA remote pilot certificate",
+            "note": "Under the Drone Rules, 2021"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Graduates join agri-tech and drone companies as field or product engineers, often after projects in GIS, IoT or drones. A DGCA remote pilot certificate is useful where the role involves flying spray or survey drones."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Field data collection and GIS",
+          "Drone and sensor operation",
+          "Basic data analysis",
+          "Explaining technology to farmers",
+          "Troubleshooting equipment in the field"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A newer field; many roles are with startups and can change quickly.",
+          "Next roles: product specialist, agronomy-data analyst, or operations lead.",
+          "Expect regular field travel to rural areas."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Agricultural Engineering",
+            "href": "/explore/btech.agricultural.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

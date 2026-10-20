@@ -77,6 +77,10 @@
           {
             "label": "BA · Education",
             "href": "/explore/ba.education.job"
+          },
+          {
+            "label": "Integrated B.Ed (ITEP)",
+            "href": "/explore/itep.job"
           }
         ]
       }

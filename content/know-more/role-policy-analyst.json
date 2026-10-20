@@ -69,6 +69,18 @@
           {
             "label": "BA · Public Administration",
             "href": "/explore/ba.public-administration.job"
+          },
+          {
+            "label": "BA · Economics",
+            "href": "/explore/ba.economics.job"
+          },
+          {
+            "label": "BA · Philosophy",
+            "href": "/explore/ba.philosophy.job"
+          },
+          {
+            "label": "BA · Sociology",
+            "href": "/explore/ba.sociology.job"
           }
         ]
       }

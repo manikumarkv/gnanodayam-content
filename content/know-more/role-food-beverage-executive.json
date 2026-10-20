@@ -1,0 +1,82 @@
+{
+  "title": "F&B Service Executive",
+  "kicker": "Role · Hotels & restaurants",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Food and beverage (F&B) service executives look after guests in hotel restaurants, bars, room service and banquets. They take orders, supervise service, coordinate with the kitchen and handle complaints. Employers include hotels, resorts, standalone restaurants, cruise lines and airline lounges."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BHM, a hospitality diploma, or a craft course"
+          },
+          {
+            "label": "Common tools",
+            "value": "Point-of-sale (POS) systems, table reservation software"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "F&B associate, steward, captain"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "BHM graduates usually join through campus placement into F&B as associates or through management trainee programmes that rotate through departments. Internship (industrial training) performance during the degree often decides placement offers."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Guest service and communication",
+          "Menu, wine and beverage knowledge",
+          "Team coordination during peak hours",
+          "Food safety and hygiene basics"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Long shifts, weekends and festival days are part of the job.",
+          "Common next steps: F&B supervisor, outlet manager, banquet manager.",
+          "Experience abroad (cruise lines, Gulf hotels) is a common route for some."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BHM (Hotel Management)",
+            "href": "/explore/bhm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

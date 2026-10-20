@@ -1,0 +1,84 @@
+{
+  "title": "Heritage Tour Guide",
+  "kicker": "Role · Heritage tourism",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A heritage tour guide takes visitors around forts, temples, old city quarters and museums, explaining their history in an engaging way. Work comes from tour operators, travel agencies, hotels, heritage-walk groups and direct bookings, often on a freelance basis. A day may involve several walks, a lot of standing and walking, and adapting the story to each group."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.A. History, plus a guide training or certification course"
+          },
+          {
+            "label": "Licensing",
+            "value": "Many protected monuments and tourist circuits require a guide licence or approved certification",
+            "note": "Issued by the Ministry of Tourism or the state tourism department; rules vary by site and state"
+          },
+          {
+            "label": "Useful extras",
+            "value": "A second language such as French, German, Spanish or Japanese"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "After a B.A. History, most guides complete a Ministry of Tourism or state tourism guide training and certification, then start by assisting senior guides or working with tour operators and heritage-walk groups. A foreign language widens the client base."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Historical knowledge of a region or circuit",
+          "Storytelling and public speaking",
+          "One or more foreign languages",
+          "Group and time management",
+          "Customer service"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Income is often seasonal and depends on tourist flows.",
+          "Many guides are freelance; building a reputation and referrals takes time.",
+          "Next steps: tour manager, heritage-walk organiser, or running your own tours."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · History",
+            "href": "/explore/ba.history.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

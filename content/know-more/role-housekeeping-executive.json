@@ -1,0 +1,82 @@
+{
+  "title": "Housekeeping Executive",
+  "kicker": "Role · Hotels",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Housekeeping executives keep a hotel's rooms and public spaces clean, stocked and ready for guests. They plan staff duties, inspect rooms, manage linen and supplies, and keep front office updated on which rooms are ready. Hospitals, serviced apartments and facility-management firms also hire for similar roles."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BHM or a hospitality diploma"
+          },
+          {
+            "label": "Common tools",
+            "value": "Property management system (PMS), inventory sheets"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "Housekeeping associate, floor supervisor, desk executive"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually enter through BHM campus placement or management trainee rotations, starting as housekeeping associates or floor supervisors. Facility-management firms also hire BHM graduates for supervisory roles in offices and hospitals."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Inspection against standards",
+          "Staff scheduling and supervision",
+          "Inventory and cost control",
+          "Hygiene and chemical safety"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Physically demanding, with rotating shifts.",
+          "Common next steps: assistant executive housekeeper, executive housekeeper, rooms division manager.",
+          "Skills carry over to hospital and facility management roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BHM (Hotel Management)",
+            "href": "/explore/bhm.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

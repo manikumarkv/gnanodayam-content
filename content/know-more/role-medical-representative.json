@@ -87,6 +87,14 @@
           {
             "label": "BBA · Hospital & Healthcare Management",
             "href": "/explore/bba.hospital-healthcare-management.job"
+          },
+          {
+            "label": "B.Sc · Biology / Life Sciences",
+            "href": "/explore/bsc.biology-life-sciences.job"
+          },
+          {
+            "label": "B.Sc · Chemistry",
+            "href": "/explore/bsc.chemistry.job"
           }
         ]
       }

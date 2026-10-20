@@ -1,0 +1,83 @@
+{
+  "title": "Technical Records Executive",
+  "kicker": "Role · Aircraft maintenance",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A technical records executive maintains the paperwork and data that show an aircraft is airworthy: logbooks, task cards, component histories and compliance with airworthiness directives. Airlines' continuing airworthiness (CAMO) teams, MROs and aircraft leasing support firms hire for this work. A typical day involves updating records systems, tracking due items and preparing documents for audits and aircraft transfers."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "AME course or aeronautical degree/diploma"
+          },
+          {
+            "label": "Regulator",
+            "value": "DGCA continuing airworthiness rules (CAR-M)"
+          },
+          {
+            "label": "Common tools",
+            "value": "Maintenance records software, spreadsheets"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers from AME courses often join records or planning desks at airlines and MROs, sometimes alongside hangar training. Accuracy and familiarity with maintenance documents matter more than prior experience."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading task cards and maintenance documents",
+          "Tracking life-limited parts and due checks",
+          "Records software and Excel",
+          "Audit preparation",
+          "Attention to detail"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: records lead, maintenance planner, CAMO or quality roles.",
+          "Office-based, with less hangar time than technician roles.",
+          "Audits and aircraft lease returns create busy periods."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "AME (Aircraft Maintenance Engineering)",
+            "href": "/explore/vocational-skilling.ame.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

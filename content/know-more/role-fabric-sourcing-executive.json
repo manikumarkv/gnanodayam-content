@@ -1,0 +1,82 @@
+{
+  "title": "Fabric Sourcing Executive",
+  "kicker": "Role · Textile sourcing",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Fabric sourcing executives find the right fabrics and trims for garment and home-textile orders, at the right price and on time. They work with export houses, buying offices, brands and retailers. The day involves supplier calls, sample checks, price negotiation and tracking deliveries against production plans."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.Tech / B.E. in Textile Technology, or a fashion technology degree"
+          },
+          {
+            "label": "Common tools",
+            "value": "Excel, ERP systems, fabric testing reports"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "Sourcing executive, sourcing trainee, fabric coordinator"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Export houses and buying offices hire textile graduates as sourcing trainees, often through campus placement. Knowledge of fibres, yarns, weaves and fabric testing helps a textile graduate stand out from non-technical candidates."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Fabric and fibre knowledge",
+          "Supplier negotiation",
+          "Reading test reports and specifications",
+          "Order tracking in Excel or ERP"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work runs to buyer deadlines and seasonal calendars.",
+          "Common next steps: senior sourcing executive, sourcing manager, or merchandising.",
+          "Travel to mills and textile clusters is common."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.Tech · Textile",
+            "href": "/explore/btech.textile.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

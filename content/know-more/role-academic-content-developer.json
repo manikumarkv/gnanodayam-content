@@ -1,0 +1,78 @@
+{
+  "title": "Academic Content Developer",
+  "kicker": "Role · Education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Academic content developers write and review the learning material children use: textbook chapters, worksheets, activities, video scripts and test questions. Educational publishers, edtech companies and education NGOs hire them. Most of the day is writing and editing to curriculum guidelines and style rules."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "D.El.Ed or B.Ed, often with a graduate degree"
+          },
+          {
+            "label": "Common tools",
+            "value": "Word processors, content management systems, curriculum documents"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hiring usually involves a writing test on a topic for a given grade. Classroom experience with primary children and a good command of English or a regional language help applicants stand out."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Writing for children",
+          "Curriculum and learning-outcome alignment",
+          "Question and assessment design",
+          "Editing and proofreading"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Contract and freelance work is common in this field.",
+          "Next steps: senior content developer, editor, or instructional designer.",
+          "Primary-grade content is a distinct niche from higher-grade subjects."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "D.El.Ed (Elementary Teacher Diploma)",
+            "href": "/explore/vocational-skilling.d-el-ed.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Map Data Analyst",
+  "kicker": "Role · Geospatial data",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Map data analysts keep digital maps accurate. They work at mapping and navigation firms, geospatial service companies and outsourcing centres, editing roads, buildings, addresses and points of interest by checking them against satellite imagery, street-level photos and field reports. A typical day is a queue of map edits or quality checks against a set of guidelines."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BA or B.Sc in Geography, or any graduate with map-reading skills"
+          },
+          {
+            "label": "Common tools",
+            "value": "Map editing tools, QGIS or ArcGIS, satellite imagery viewers"
+          },
+          {
+            "label": "Common starting titles",
+            "value": "Map analyst, GIS data associate, geospatial annotator"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Many entry roles are filled through walk-ins or aptitude tests at geospatial service firms, which train new hires on their own editing tools. A geography background helps with map reading and coordinate systems; a short GIS certificate (QGIS or ArcGIS) makes an application stronger."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Reading maps, satellite imagery and coordinate systems",
+          "Editing vector data (points, lines, polygons)",
+          "Following detailed quality guidelines",
+          "Basic GIS software such as QGIS"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is often target-based and repetitive, with shift timings in some firms.",
+          "Common next steps: senior map analyst, quality reviewer, or a GIS analyst role.",
+          "Learning GIS analysis or Python scripting helps move beyond editing work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BA · Geography",
+            "href": "/explore/ba.geography.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
