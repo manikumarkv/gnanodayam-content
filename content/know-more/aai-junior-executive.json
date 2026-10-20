@@ -1,0 +1,76 @@
+{
+  "title": "AAI Junior Executive (Common Cadre)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "The Airports Authority of India (AAI) is a central public-sector undertaking under the Ministry of Civil Aviation that manages many of India's airports and provides air navigation services. It recruits Junior Executives in several cadres; the Common Cadre handles administration and airport management work, and has been open to graduates in any stream."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Employer type",
+            "value": "Central PSU (Ministry of Civil Aviation)"
+          },
+          {
+            "label": "Eligibility (2023 notice)",
+            "value": "Bachelor's degree in any stream",
+            "source": "AAI Advt. 03/2023 (as reported)",
+            "date": "2023",
+            "verified": false
+          },
+          {
+            "label": "Common Cadre posts (2023 notice)",
+            "value": "237",
+            "source": "AAI Advt. 03/2023 (as reported)",
+            "date": "2023",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree met the Common Cadre requirement in the 2023 notice, with an age limit set in each notice. Selection is through AAI's online test, then document verification and any further stages listed in the notice. Other Junior Executive cadres — air traffic control, engineering, finance, HR — have their own, more specific qualifications."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common Cadre openings are irregular and do not appear in every AAI recruitment cycle.",
+          "Postings can be at any AAI airport or office across India.",
+          "Many airport jobs (airline ground staff, ground handling) are with private companies, not AAI."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

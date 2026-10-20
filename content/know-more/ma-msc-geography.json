@@ -1,0 +1,84 @@
+{
+  "title": "M.A. / M.Sc. Geography",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in geography, offered as an M.A. or an M.Sc. depending on the university. It goes deeper into physical geography (geomorphology, climatology, hydrology), human geography (population, settlements, economic and regional geography) and methods — cartography, statistics, fieldwork, GIS and remote sensing."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; also offered through distance and open universities"
+          },
+          {
+            "label": "PG students in Geography",
+            "value": "~78,000",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, usually with geography as a subject (some universities accept any degree). Central and many state universities admit through CUET-PG; others hold their own entrance test or admit on graduation marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "School teaching (PGT) needs a B.Ed along with the master's; college teaching needs UGC-NET or a Ph.D.",
+          "GIS and remote-sensing electives connect the degree to geospatial and mapping work.",
+          "Some M.Plan programmes accept geography postgraduates.",
+          "Geography is an optional subject in the UPSC Civil Services exam."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "GIS Analyst",
+            "href": "/roles/gis-analyst"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

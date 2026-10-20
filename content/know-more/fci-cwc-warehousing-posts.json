@@ -1,0 +1,81 @@
+{
+  "title": "FCI & CWC (warehousing PSUs)",
+  "kicker": "Government job",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Two central public-sector bodies run much of India's public storage and grain movement. The Food Corporation of India (FCI) buys, stores and moves foodgrains for the public distribution system; its Managers (Depot) look after storage depots and Managers (Movement) plan grain movement by rail and road. The Central Warehousing Corporation (CWC) runs warehouses for government and private clients and recruits officers and supervisory staff through its own notices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "FCI Manager (Depot / Movement) eligibility",
+            "value": "Graduate with 60%, or CA / ICWA / CS",
+            "note": "55% for SC/ST/PwBD",
+            "source": "FCI Category II notification 02/2022 (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "FCI selection",
+            "value": "Online test → interview → 6-month management-trainee period",
+            "source": "FCI Category II notification 02/2022 (as reported)",
+            "date": "2022",
+            "verified": false
+          },
+          {
+            "label": "CWC Management Trainee (General)",
+            "value": "MBA required",
+            "note": "Specialisations accepted included HR, marketing and supply chain management",
+            "source": "CWC recruitment notification 2019 (as reported)",
+            "date": "2019",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Hold the degree and marks asked for in the notification and meet the age limit, then apply online when FCI or CWC releases a recruitment notice. A BBA graduate can apply for FCI Manager (Depot / Movement) directly if the marks condition is met; CWC's management-trainee posts have needed an MBA."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Neither body recruits every year, and the posts and rules change between notices.",
+          "Postings are at depots and warehouses across the zone or region you are selected for, including smaller towns.",
+          "FCI and CWC also fill assistant and junior posts through separate notices with lower entry requirements."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Air Cargo Executive",
+  "kicker": "Role · Aviation & logistics",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An air cargo executive handles goods that travel by air — from medicines and electronics to e-commerce parcels. Employers are freight forwarders, airline cargo departments, cargo-terminal operators and courier companies. The day involves preparing air waybills, booking space on flights, coordinating customs clearance and tracking shipments."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com or any graduate",
+            "note": "Short courses in air cargo or freight forwarding are common add-ons"
+          },
+          {
+            "label": "Key documents",
+            "value": "Air waybill, commercial invoice, packing list, shipping bill"
+          },
+          {
+            "label": "Workplace",
+            "value": "Forwarder offices and airport cargo terminals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start as documentation or operations executives at freight-forwarding or courier companies, or as cargo assistants with airlines and terminal operators. Knowledge of export-import paperwork helps in interviews."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Export-import documentation",
+          "Dangerous-goods awareness",
+          "Coordinating with customs and airlines",
+          "Excel and shipment-tracking systems"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: cargo supervisor, key-account executive, logistics manager.",
+          "The skills carry over to sea freight and wider logistics roles.",
+          "Terminal roles involve shifts; forwarder roles have deadline-driven days."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Aviation Management",
+            "href": "/explore/bba.aviation-management.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

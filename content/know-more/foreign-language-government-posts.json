@@ -1,0 +1,76 @@
+{
+  "title": "Foreign-Language Posts in Government",
+  "kicker": "Government language posts",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Some central ministries, defence and security organisations need people who can translate or interpret foreign languages. These posts are filled through occasional, post-by-post notifications rather than a regular annual exam."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "How posts are notified",
+            "value": "Irregular, post-by-post",
+            "note": "Through UPSC recruitment notices or the organisation's own advertisement"
+          },
+          {
+            "label": "Usual qualification",
+            "value": "Varies by post",
+            "note": "Often a degree or Master's in the language; some posts ask for experience"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Build certified proficiency and a degree in the language, then watch UPSC recruitment notices and ministry advertisements. Selection is usually by written test and/or interview in the language."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Openings are few and unpredictable; most language graduates also prepare for other exams.",
+          "Some posts carry security clearance or nationality conditions.",
+          "Experience in translation or interpretation strengthens an application."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related roles and paths",
+        "items": [
+          {
+            "label": "Translator",
+            "href": "/roles/translator"
+          },
+          {
+            "label": "Interpreter",
+            "href": "/roles/interpreter"
+          },
+          {
+            "label": "Government exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Warehouse Executive",
+  "kicker": "Role · Operations & supply chain",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A warehouse executive makes sure goods come in, are stored and go out correctly and on time. Employers include e-commerce and retail firms, third-party logistics companies, manufacturers and distributors. A typical day involves supervising inbound and outbound work, checking stock in the warehouse system, and solving shortages, damages and delays."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com or a degree with a supply-chain course"
+          },
+          {
+            "label": "Common tools",
+            "value": "Warehouse management systems, barcode scanners, Excel, ERP"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually join as warehouse, inventory or operations executives or trainees at logistics, e-commerce or retail firms. Comfort with shift work and spreadsheets helps; an internship at a fulfilment centre or warehouse is a common way in."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Inventory control and stock counts",
+          "Warehouse software and barcode systems",
+          "Team supervision",
+          "Safety and housekeeping practices",
+          "Spreadsheets and daily reports"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The job is on-site and can involve night shifts and peak-season pressure.",
+          "Warehouses are often on city outskirts or in industrial areas.",
+          "Next roles: warehouse manager, inventory manager, or wider operations roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Logistics & Supply Chain",
+            "href": "/explore/bba.logistics-supply-chain.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

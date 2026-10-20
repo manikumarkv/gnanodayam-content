@@ -1,0 +1,87 @@
+{
+  "title": "Reservation & Ticketing Executive",
+  "kicker": "Role · Travel & aviation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A reservation and ticketing executive books air tickets, hotels and packages for customers and handles date changes, cancellations and refunds. Employers include travel agencies, online travel companies, airline call centres and corporate travel desks. Much of the work happens on a global distribution system (GDS) — the booking software airlines and agents share."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate or Class 12 with a ticketing course",
+            "note": "BBA (Aviation or Tourism) and BTTM graduates often take this route"
+          },
+          {
+            "label": "Common tools",
+            "value": "GDS software (for example Amadeus, Sabre or Galileo), airline portals, Excel"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Office or call-centre shifts; travel desks may run 24x7"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually complete a short GDS ticketing course and join a travel agency, online travel company or corporate travel desk as a trainee. Airline and travel call centres also recruit graduates with good spoken English."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "GDS booking and fare rules",
+          "Handling changes, refunds and complaints",
+          "Clear spoken and written communication",
+          "Accuracy with names, dates and documents"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior travel consultant, team lead, corporate travel manager.",
+          "Online self-booking has reduced simple ticketing work, so complex itineraries and service skills carry more weight.",
+          "Travel demand is seasonal and sensitive to economic shocks."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Aviation Management",
+            "href": "/explore/bba.aviation-management.job"
+          },
+          {
+            "label": "BBA · Tourism & Travel",
+            "href": "/explore/bba.tourism-travel.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

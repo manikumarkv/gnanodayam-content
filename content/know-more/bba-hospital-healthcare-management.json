@@ -1,0 +1,100 @@
+{
+  "title": "Hospital & Healthcare Management",
+  "kicker": "BBA specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A BBA track that applies business subjects to hospitals and health services — hospital operations, healthcare finance and billing, health insurance, medical records, quality and accreditation, and health laws. It prepares you for non-clinical, administrative work; it does not qualify you to treat patients. Some universities offer a similar separate degree, the Bachelor of Hospital Administration (BHA)."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Regulator",
+            "value": "AICTE approval since 2024-25",
+            "note": "Alongside the affiliating university; BBA, BCA and BMS were brought under AICTE from 2024-25",
+            "source": "AICTE Approval Process Handbook 2024-27 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "BBA students (all specialisations)",
+            "value": "~8.8 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "BHA students (separate degree)",
+            "value": "~6,000",
+            "note": "All modes; BBA students in this track are counted under BBA",
+            "source": "AISHE 2023-24, programme-wise enrolment (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Admission is by Class 12 marks, CUET-UG, or a university's own test. Some universities offer the specialisation from the start as a named programme; others let you choose it in the second or third year. Many programmes include a hospital internship."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Entry work is in hospital front offices, billing and insurance desks, and patient-services teams; shifts and weekend duty are common.",
+          "Hospital-manager posts, especially in government health programmes, usually ask for an MHA, MBA (Healthcare) or MPH.",
+          "An internship in a hospital and familiarity with hospital software help in hiring.",
+          "Common next steps: an MHA or an MBA in healthcare management."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Hospital Administration Executive",
+            "href": "/roles/hospital-administration-executive"
+          },
+          {
+            "label": "Patient Care Coordinator",
+            "href": "/roles/patient-care-coordinator"
+          },
+          {
+            "label": "TPA / Insurance Desk Executive",
+            "href": "/roles/tpa-executive"
+          },
+          {
+            "label": "Medical Representative",
+            "href": "/roles/medical-representative"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

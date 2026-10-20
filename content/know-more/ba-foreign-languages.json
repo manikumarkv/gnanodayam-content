@@ -1,0 +1,95 @@
+{
+  "title": "Foreign Languages",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.A. in a foreign language such as French, German, Spanish, Japanese, Chinese, Russian, Korean or Arabic. Many programmes start from the basics and build to advanced reading, writing, speaking and translation, along with the literature and culture of the regions where the language is spoken."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in non-English foreign languages",
+            "value": "~8,700",
+            "note": "French, German, Spanish and other foreign languages, excluding English",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in non-English foreign languages",
+            "value": "~800",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central universities admit through CUET-UG; some language-focused universities hold their own test. Most programmes do not expect prior knowledge of the language, though a few admit beginners and advanced learners to separate streams."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Employers often look at certified proficiency levels (for example CEFR B2/C1, JLPT N2/N1) alongside the degree.",
+          "Common work is translation, language processes in BPO/KPO firms, localisation, tourism and language teaching.",
+          "A small number of graduates study each language, so classes are often small and jobs are concentrated in metro cities.",
+          "Certificate and diploma courses at cultural institutes are a separate route to the same skills."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Translator",
+            "href": "/roles/translator"
+          },
+          {
+            "label": "Interpreter",
+            "href": "/roles/interpreter"
+          },
+          {
+            "label": "Bilingual Process Associate",
+            "href": "/roles/bilingual-process-associate"
+          },
+          {
+            "label": "Localisation Specialist",
+            "href": "/roles/localisation-specialist"
+          },
+          {
+            "label": "Language Trainer",
+            "href": "/roles/language-trainer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

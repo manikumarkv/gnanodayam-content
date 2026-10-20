@@ -1,0 +1,78 @@
+{
+  "title": "Language Trainer",
+  "kicker": "Role · Education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A language trainer teaches a foreign language — to school students, college learners, working professionals or staff of companies with overseas clients. Language institutes, private schools, ed-tech platforms and corporate training teams hire trainers, and many teach independently online."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "B.A. or M.A. in the language with certified proficiency"
+          },
+          {
+            "label": "Common exams taught",
+            "value": "CEFR levels (DELF, Goethe), JLPT, HSK, DELE"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Start by teaching beginner-level batches at language institutes or online platforms; a demo class is the usual selection step. Teaching school students in formal posts may also need a B.Ed."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clear explanation of grammar",
+          "Spoken fluency and pronunciation",
+          "Lesson planning",
+          "Preparing learners for proficiency tests"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Demand follows study-abroad, migration and outsourcing trends.",
+          "Pay is often per batch or per hour at the start.",
+          "Experienced trainers move into curriculum design or examiner roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.A. · Foreign Languages",
+            "href": "/explore/ba.foreign-languages.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Education",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Education as a B.A. subject studies how people learn and how education systems work — the philosophy, psychology and sociology of education, child development, educational policy, and basic research methods. It is an academic subject, not a teacher-training course."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Teaching qualification",
+            "value": "No",
+            "note": "School teaching needs a B.Ed (or D.El.Ed for primary classes)"
+          },
+          {
+            "label": "Postgraduate students in Education",
+            "value": "~2.4 lakh",
+            "note": "Includes M.Ed and M.A. Education",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in Education",
+            "value": "~12,500",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Education is offered as a major or one of the subjects in a B.A. at many state and central universities, through CUET-UG or Class 12 marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It pairs naturally with a later B.Ed, which is the actual licence route to school teaching.",
+          "The four-year integrated ITEP is a separate route that combines a degree with a B.Ed from the start.",
+          "Graduate jobs without a B.Ed are mainly in tutoring, preschools, ed-tech and education NGOs.",
+          "College teaching of Education needs a Master's plus UGC-NET or a Ph.D."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Tutor",
+            "href": "/roles/tutor"
+          },
+          {
+            "label": "Pre-primary Teacher",
+            "href": "/roles/pre-primary-teacher"
+          },
+          {
+            "label": "Academic Counsellor",
+            "href": "/roles/academic-counsellor"
+          },
+          {
+            "label": "Instructional Designer",
+            "href": "/roles/instructional-designer"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

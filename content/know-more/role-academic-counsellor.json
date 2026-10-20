@@ -1,0 +1,79 @@
+{
+  "title": "Academic Counsellor",
+  "kicker": "Role · Education",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "An academic counsellor talks with students and parents about courses, fees and admissions for an ed-tech company, coaching institute, school or college. In most private organisations the role is closer to sales: counsellors work through enquiry leads and are measured on enrolments."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any degree",
+            "note": "Good spoken communication in English and a regional language"
+          },
+          {
+            "label": "Common tools",
+            "value": "Phone, CRM software, email and messaging"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers are hired directly by ed-tech firms, coaching institutes and colleges after a communication-focused interview; some roles include a short sales training period."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clear, patient communication",
+          "Understanding course options and eligibility",
+          "Handling targets and follow-ups",
+          "Record-keeping in a CRM"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many roles carry monthly enrolment targets and incentive-linked pay.",
+          "It differs from a psychology-based counsellor, which needs professional training.",
+          "Growth leads to team lead, admissions manager or student success roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.A. · Education",
+            "href": "/explore/ba.education.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

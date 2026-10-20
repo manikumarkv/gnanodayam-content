@@ -1,0 +1,83 @@
+{
+  "title": "Airline Ground Operations Executive",
+  "kicker": "Role · Aviation operations",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Between landing and the next take-off, many teams work on an aircraft at once — baggage and cargo loaders, fuellers, caterers, cleaners and engineers. A ground operations executive coordinates them so the flight leaves on time and safely, and prepares documents such as load sheets. Employers are airlines and ground-handling companies at airports."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate; aviation-management degrees and diplomas are common",
+            "note": "Some posts accept Class 12 with aviation training"
+          },
+          {
+            "label": "Workplace",
+            "value": "Airport ramp and operations control rooms"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Rotating shifts, including nights and holidays"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers join airlines or ground-handling companies as ground staff or operations trainees through their own recruitment drives. An airport entry pass needs a background check, and a medical and English test are common."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Time management under tight schedules",
+          "Coordinating several teams at once",
+          "Basic weight-and-balance and load-control concepts",
+          "Following safety and security procedures"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: duty manager, load controller, station manager.",
+          "Work is outdoors on the ramp in heat, rain and noise for part of the shift.",
+          "Airline schedules and staffing change with traffic and seasons."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Aviation Management",
+            "href": "/explore/bba.aviation-management.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

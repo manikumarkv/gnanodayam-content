@@ -70,6 +70,14 @@
           {
             "label": "BBA · Operations",
             "href": "/explore/bba.operations.job"
+          },
+          {
+            "label": "BBA · Logistics & Supply Chain",
+            "href": "/explore/bba.logistics-supply-chain.job"
+          },
+          {
+            "label": "B.Com · International Business",
+            "href": "/explore/bcom.international-business.job"
           }
         ]
       }

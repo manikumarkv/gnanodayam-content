@@ -1,0 +1,87 @@
+{
+  "title": "M.A. Philosophy",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in philosophy. Courses cover Indian and Western philosophy, logic, ethics, epistemology and metaphysics, with electives such as philosophy of mind, social and political philosophy, and philosophy of religion depending on the university."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; also offered through some distance and open universities"
+          },
+          {
+            "label": "PG students in Philosophy",
+            "value": "~14,000",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, usually with philosophy (some universities accept any degree, sometimes with a bridge course). Central and many state universities admit through CUET-PG; others hold their own entrance test or admit on graduation marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "College teaching needs UGC-NET or a Ph.D. after the master's, and teaching posts are limited.",
+          "Philosophy is an optional subject in the UPSC Civil Services exam.",
+          "Writing, editing and research roles are also open to philosophy postgraduates."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

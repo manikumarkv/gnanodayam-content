@@ -1,0 +1,90 @@
+{
+  "title": "M.A. in Hindi / a Regional Language",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year Master's in Hindi or another Indian language. It goes deeper into literary history, criticism, linguistics and, in many universities, translation studies and functional writing. It is also the usual qualification for translator, Rajbhasha and college-teaching posts in the language."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "Postgraduate students in Indian languages",
+            "value": "~4.5 lakh",
+            "note": "All Indian languages together",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Of these, in Hindi",
+            "value": "~2.2 lakh",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, usually with the language as a subject. Central universities admit through CUET-PG; state universities use their own entrance tests or graduation marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Large distance and open-university enrolment exists alongside regular programmes.",
+          "Common next steps are UGC-NET, a Ph.D., a B.Ed, or translator and Rajbhasha exams.",
+          "Private-sector work is mostly in media, publishing, translation and content."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related roles and paths",
+        "items": [
+          {
+            "label": "Translator",
+            "href": "/roles/translator"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Higher education options",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

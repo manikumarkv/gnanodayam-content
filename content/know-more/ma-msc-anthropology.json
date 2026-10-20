@@ -1,0 +1,83 @@
+{
+  "title": "M.A. / M.Sc. Anthropology",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in anthropology, offered as an M.A. or an M.Sc. depending on the university. Students usually specialise in social-cultural or biological (physical) anthropology, and some programmes offer archaeological or forensic anthropology. Fieldwork and a dissertation are a standard part of the course."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters with fieldwork"
+          },
+          {
+            "label": "PG students in Anthropology",
+            "value": "~4,500",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, usually with anthropology (some universities accept graduates in other social or life sciences). Central and many state universities admit through CUET-PG; others hold their own entrance test or admit on graduation marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A small field with few seats, concentrated in a limited number of universities.",
+          "Research and teaching posts usually need UGC-NET or a Ph.D. as well.",
+          "Fieldwork skills also lead to development-sector, social-research and market-research work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Market Research Analyst",
+            "href": "/roles/market-research-analyst"
+          },
+          {
+            "label": "Higher Education",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

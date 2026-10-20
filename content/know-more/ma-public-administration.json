@@ -1,0 +1,83 @@
+{
+  "title": "M.A. Public Administration",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year master's in public administration. It covers administrative theory, Indian and comparative administration, public policy, personnel and financial management, development administration and local governance, often with a project or dissertation."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters; widely offered through distance and open universities"
+          },
+          {
+            "label": "PG students in Public Administration",
+            "value": "~27,000",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree, in many universities in any subject. Central and many state universities admit through CUET-PG; others hold their own entrance test or admit on graduation marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many students take it alongside civil-services preparation, since Public Administration is a UPSC optional subject.",
+          "College teaching needs UGC-NET or a Ph.D. after the master's.",
+          "Non-government routes include NGO and CSR programme roles, policy research and administration."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

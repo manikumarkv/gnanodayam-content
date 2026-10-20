@@ -1,0 +1,78 @@
+{
+  "title": "Localisation Specialist",
+  "kicker": "Role · Languages & media",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A localisation specialist makes a product feel native in another language — translating and adapting app screens, games, websites, help content and marketing, and testing that the result reads and displays correctly. Localisation companies, software and game studios, and e-commerce firms hire for it."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Degree in the language, or strong certified proficiency"
+          },
+          {
+            "label": "Common tools",
+            "value": "CAT tools, localisation platforms, spreadsheets, bug trackers"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers often join as linguistic testers (language QA) or junior translators at localisation companies, after a language test."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Translation with cultural adaptation",
+          "Attention to detail in short UI text",
+          "Testing and reporting bugs",
+          "Basic comfort with software tools"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Indian languages are also localised heavily, not only foreign ones.",
+          "Machine translation is common in this work; review and quality checking are core tasks.",
+          "Growth leads to localisation project management or language lead roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "B.A. · Foreign Languages",
+            "href": "/explore/ba.foreign-languages.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

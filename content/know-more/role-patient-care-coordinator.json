@@ -1,0 +1,83 @@
+{
+  "title": "Patient Care Coordinator",
+  "kicker": "Role · Healthcare administration",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A patient care coordinator is the main non-clinical contact for a patient in a hospital. They book consultations and procedures, explain cost estimates and paperwork, and keep the patient, the family, the doctor and the billing desk on the same page until discharge. Employers include private hospitals, specialty clinics, IVF and dental chains, and medical-tourism desks that look after patients from other cities or countries."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA (Hospital Management), BHA, nursing or any degree",
+            "note": "Hospitals often train freshers on the job"
+          },
+          {
+            "label": "Common tools",
+            "value": "Hospital information system (HIS), phone and messaging, Excel"
+          },
+          {
+            "label": "Languages",
+            "value": "Local language plus English; other languages help on international-patient desks"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Most freshers apply directly to hospitals and clinic chains for patient-relations or coordinator openings, often starting at the help desk. An internship in a hospital during the degree is a common way to get a first offer."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Clear, patient communication",
+          "Explaining cost estimates and hospital procedures",
+          "Follow-up and record keeping",
+          "Handling complaints and anxious families"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: patient-services lead, international-patient manager, hospital operations.",
+          "The role is people-facing and emotionally demanding at times.",
+          "Nursing graduates sometimes move into this role from ward work."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Hospital & Healthcare Management",
+            "href": "/explore/bba.hospital-healthcare-management.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

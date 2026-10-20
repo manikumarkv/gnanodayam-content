@@ -1,0 +1,102 @@
+{
+  "title": "Hindi / Regional Languages",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.A. major in Hindi or another Indian language — Bengali, Marathi, Tamil, Telugu, Urdu, Sanskrit and others. It covers the language's literature across periods, grammar, linguistics, and practical writing; many courses add papers in translation, journalism or functional writing for offices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Undergraduate students in Indian languages",
+            "value": "~4.3 lakh",
+            "note": "All Indian-language majors together",
+            "source": "AISHE 2023-24, Table 12, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Postgraduate students in Hindi",
+            "value": "~2.2 lakh",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in Indian languages",
+            "value": "~17,000",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG, where a language test can be one of the subjects counted; state universities and colleges often admit on Class 12 marks. Some programmes expect the language to have been studied at school."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Most of the work is reading, close analysis of texts, and writing in the language.",
+          "Graduate jobs cluster around translation, media, publishing, content and teaching.",
+          "Central government translator and Rajbhasha posts usually ask for a Master's in Hindi or English.",
+          "School teaching needs a B.Ed; college teaching usually needs an M.A. plus UGC-NET or a Ph.D."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Translator",
+            "href": "/roles/translator"
+          },
+          {
+            "label": "Content Writer",
+            "href": "/roles/content-writer"
+          },
+          {
+            "label": "Journalist",
+            "href": "/roles/journalist"
+          },
+          {
+            "label": "Editor",
+            "href": "/roles/editor"
+          },
+          {
+            "label": "Teacher",
+            "href": "/roles/teacher"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

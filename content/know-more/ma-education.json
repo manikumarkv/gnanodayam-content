@@ -1,0 +1,83 @@
+{
+  "title": "M.A. Education",
+  "kicker": "Postgraduate degree",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A two-year Master's that studies education as an academic field — learning theory, philosophy and sociology of education, educational policy, curriculum, and research methods. Unlike the M.Ed, it does not require a B.Ed and is not a teaching licence."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2 years",
+            "note": "4 semesters"
+          },
+          {
+            "label": "Postgraduate students in Education",
+            "value": "~2.4 lakh",
+            "note": "Includes M.Ed and M.A. Education",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree; many universities accept any subject, and some prefer Education studied at B.A. level. Central universities admit through CUET-PG; others use their own tests or graduation marks."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It leads to research, education policy and NGO work, curriculum roles, and UGC-NET in Education.",
+          "School teaching still needs a B.Ed.",
+          "A Ph.D. after it opens college teaching of Education."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related roles and paths",
+        "items": [
+          {
+            "label": "Instructional Designer",
+            "href": "/roles/instructional-designer"
+          },
+          {
+            "label": "Academic Counsellor",
+            "href": "/roles/academic-counsellor"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Higher education options",
+            "href": "/explore/higher-education"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

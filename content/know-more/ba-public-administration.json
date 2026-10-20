@@ -1,0 +1,91 @@
+{
+  "title": "Public Administration",
+  "kicker": "B.A. major",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "Public administration as a major studies how governments are organised and run — administrative theory, Indian administration, public policy, personnel and financial administration, and local government through panchayats and municipalities."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Postgraduate students in Public Administration",
+            "value": "~27,000",
+            "note": "All PG programmes in the subject",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Ph.D. students in Public Administration",
+            "value": "~640",
+            "source": "AISHE 2023-24, Table 13, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Central and many other universities admit through CUET-UG; others admit on Class 12 marks or their own test. At many universities it is taken as one of the subjects in a general B.A. rather than as a single-subject honours."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The degree alone does not lead to a government post — those come through competitive exams open to graduates of any subject.",
+          "Public Administration is an optional subject in the UPSC Civil Services exam, and much of the syllabus overlaps with general studies.",
+          "Private and non-profit routes include office administration, NGO and CSR programme work, and policy research.",
+          "Common next steps: an M.A. Public Administration, a public policy master's, an MBA, or civil-services preparation."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Administrative Executive",
+            "href": "/roles/administrative-executive"
+          },
+          {
+            "label": "Development Sector Associate",
+            "href": "/roles/development-sector-associate"
+          },
+          {
+            "label": "Policy Analyst",
+            "href": "/roles/policy-analyst"
+          },
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Computer Applications",
+  "kicker": "B.Com specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A B.Com that adds computing papers to the usual commerce core — run as a named B.Com (Computer Applications) programme at many universities. Alongside financial accounting, tax, business law and economics, you study computerised accounting, office and spreadsheet tools, database basics and SQL, a programming language, and web or e-commerce fundamentals. The exact computing papers vary a lot by university."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "B.Com students (all specialisations)",
+            "value": "~39–41 lakh",
+            "note": "All modes; the higher figure includes B.Com (Hons)",
+            "source": "AISHE 2023-24, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Software usually taught",
+            "value": "Accounting software, spreadsheets, a database and a programming language",
+            "note": "The language (for example C, Java or Python) depends on the university"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 (commerce preferred, not always required). Central and many other universities admit through CUET-UG; others admit on Class 12 marks or their own process. Some universities set subject conditions for this programme, such as Mathematics or Computer Science in Class 12; check the prospectus. Where it is a named programme, you choose it at admission."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "It remains a commerce degree; software-developer roles usually need further study, and an MCA is the common bridge (most MCA programmes ask for Mathematics at Class 12 or graduation).",
+          "Entry-level work is often accounts executive on accounting software or ERP, MIS and reporting, back-office operations, or IT support.",
+          "Spreadsheet and SQL skills are frequently tested in hiring for reporting and analyst roles.",
+          "Common next steps: an MCA, M.Com or MBA, or a CA/CMA course alongside the degree."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Accountant",
+            "href": "/roles/accountant"
+          },
+          {
+            "label": "Reporting Analyst",
+            "href": "/roles/reporting-analyst"
+          },
+          {
+            "label": "Data Analyst",
+            "href": "/roles/data-analyst"
+          },
+          {
+            "label": "IT Support Engineer",
+            "href": "/roles/it-support-engineer"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

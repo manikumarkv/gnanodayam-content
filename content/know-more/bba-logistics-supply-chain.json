@@ -1,0 +1,104 @@
+{
+  "title": "Logistics & Supply Chain",
+  "kicker": "BBA specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A BBA track on how goods are bought, stored and moved — logistics and transport management, warehousing and inventory control, procurement, supply-chain planning, export-import basics, and the ERP and supply-chain software used to run them. Many programmes include an internship at a warehouse, transporter or e-commerce fulfilment centre."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Regulator",
+            "value": "AICTE approval since 2024-25",
+            "note": "Alongside the affiliating university; BBA, BCA and BMS were brought under AICTE from 2024-25",
+            "source": "AICTE Approval Process Handbook 2024-27 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "BBA students (all specialisations)",
+            "value": "~8.8 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Logistics cost in India",
+            "value": "~8% of GDP",
+            "note": "Estimated at 7.97%; a measure of the sector's size, not of jobs",
+            "source": "NCAER study for DPIIT (as reported)",
+            "date": "2023-24",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Admission is by Class 12 marks, CUET-UG, or a university's own test. Some institutes admit directly to a named BBA (Logistics / Supply Chain) programme; at others you pick the specialisation in the second or third year."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Work is close to the ground — warehouses, transport hubs, ports and e-commerce fulfilment centres — and can involve shifts or site postings.",
+          "Entry roles include logistics coordinator, warehouse or inventory executive, procurement executive and supply-chain associate.",
+          "Spreadsheet and ERP skills (for example SAP) are commonly expected.",
+          "Common next steps: an MBA (Operations or Supply Chain), or certifications in supply chain or lean methods."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Logistics Coordinator",
+            "href": "/roles/logistics-coordinator"
+          },
+          {
+            "label": "Supply Chain Associate",
+            "href": "/roles/supply-chain-associate"
+          },
+          {
+            "label": "Warehouse Executive",
+            "href": "/roles/warehouse-executive"
+          },
+          {
+            "label": "Procurement Executive",
+            "href": "/roles/procurement-executive"
+          },
+          {
+            "label": "Operations Executive",
+            "href": "/roles/operations-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

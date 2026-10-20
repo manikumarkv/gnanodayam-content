@@ -1,0 +1,83 @@
+{
+  "title": "Tour Manager",
+  "kicker": "Role · Travel & tourism",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A tour manager travels with a group from start to finish — on domestic or international package tours — making sure every hotel, coach, meal and visit happens as planned. They handle lost luggage, illness, delays and complaints on the spot. Employers are tour operators that run group tours; much of the work is seasonal."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "Any graduate; BBA (Tourism) and BTTM are common",
+            "note": "Passport and a clean travel record are needed for international tours"
+          },
+          {
+            "label": "Work pattern",
+            "value": "Days or weeks away on tour; seasonal demand"
+          },
+          {
+            "label": "Related role",
+            "value": "Licensed tourist guide (licensed separately by government)"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start with the operations or sales team of a tour operator and are trained to escort domestic tours first, then international ones. Some operators hire seasonal tour managers on contract."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Group leadership and public speaking",
+          "Staying calm in emergencies",
+          "Destination knowledge",
+          "Languages, including a foreign language for some tours"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Common next roles: senior tour manager, operations or product manager.",
+          "Long periods away from home are part of the job.",
+          "Seasonal and contract work is common, so income can be uneven."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Tourism & Travel",
+            "href": "/explore/bba.tourism-travel.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

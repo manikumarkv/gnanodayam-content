@@ -1,0 +1,79 @@
+{
+  "title": "Procurement Executive",
+  "kicker": "Role · Operations & supply chain",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A procurement executive buys the raw materials, parts, goods or services a company needs. Employers include manufacturers, retailers, e-commerce firms, hospitals and service companies. A typical day involves handling purchase requests, getting and comparing quotes, placing orders and following up with suppliers on delivery and payment."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Typical entry",
+            "value": "BBA, B.Com or B.Tech; MBA (Operations) for some roles"
+          },
+          {
+            "label": "Common tools",
+            "value": "ERP purchasing modules (SAP and similar), Excel, e-procurement portals"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Freshers usually start as purchase or procurement executives or trainees in a company's purchasing team. Spreadsheet and ERP skills and a supply-chain or operations specialisation help when applying."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "Skills you'll use",
+        "items": [
+          "Supplier evaluation and negotiation",
+          "Purchase orders and contracts basics",
+          "Cost comparison and spreadsheets",
+          "ERP data entry and reports",
+          "Follow-up and communication"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "The work is a mix of desk work and supplier calls, with some plant or vendor visits.",
+          "Procurement rules and approvals are strict in larger firms.",
+          "Next roles: senior buyer, category manager, procurement or supply-chain manager."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Paths that lead here",
+        "items": [
+          {
+            "label": "BBA · Logistics & Supply Chain",
+            "href": "/explore/bba.logistics-supply-chain.job"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

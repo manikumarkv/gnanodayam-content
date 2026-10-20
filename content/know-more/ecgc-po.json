@@ -1,0 +1,76 @@
+{
+  "title": "ECGC Probationary Officer",
+  "kicker": "Officer posts at India's export credit insurer",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "ECGC Ltd is a central government company under the Ministry of Commerce & Industry that insures exporters and banks against the risk of not being paid for exports. It recruits Probationary Officers — mostly in a generalist stream, with a few specialist posts — through its own national notification. Officers work on underwriting, policy servicing, claims and recovery in ECGC's offices."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Employer",
+            "value": "ECGC Ltd",
+            "note": "Formerly Export Credit Guarantee Corporation of India"
+          },
+          {
+            "label": "Selection stages",
+            "value": "Online test → interview",
+            "note": "The online test has objective sections and a descriptive English paper"
+          },
+          {
+            "label": "Posts notified, 2025 cycle",
+            "value": "~30",
+            "note": "Generalist and specialist combined",
+            "source": "ECGC PO advertisement, November 2025 (as reported)",
+            "date": "2025-11",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "A bachelor's degree in any discipline for the generalist stream (specialist posts ask for a matching qualification), and the age limit in that year's notice. Apply online when ECGC releases its PO notification, then clear the online test and the interview."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Intake is small, and notifications are not released every year.",
+          "The syllabus overlaps with bank PO and insurance officer exams, so many candidates prepare for these together.",
+          "Officers can be posted to ECGC offices across India."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related paths",
+        "items": [
+          {
+            "label": "Government & Competitive Exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Anthropological Survey of India (AnSI)",
+  "kicker": "Government research organisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A national research organisation under the Ministry of Culture, with headquarters in Kolkata and regional centres in different parts of the country. It studies India's populations — communities, cultures and human biology — and maintains anthropological collections and museums."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Parent ministry",
+            "value": "Ministry of Culture, Government of India"
+          },
+          {
+            "label": "Headquarters",
+            "value": "Kolkata",
+            "note": "With regional centres across India"
+          },
+          {
+            "label": "Typical eligibility",
+            "value": "Master's in anthropology for research posts",
+            "note": "Some posts and fellowships also ask for NET or research experience"
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Regular scientific posts (for example, assistant anthropologist) are filled through recruitment notices, including through UPSC. AnSI also advertises research fellowships and contract research posts directly. Openings are few and irregular; a master's in anthropology is the usual base requirement, so read each notice for the exact degree and specialisation asked for."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "A small employer — vacancies come up rarely.",
+          "State tribal research institutes and museums also employ anthropology postgraduates, usually through their own notices.",
+          "A Ph.D. or fieldwork experience helps for research posts."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Related",
+        "items": [
+          {
+            "label": "Research Associate",
+            "href": "/roles/research-associate"
+          },
+          {
+            "label": "Government & competitive exams",
+            "href": "/explore/government-competitive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}

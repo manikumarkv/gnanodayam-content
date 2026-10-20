@@ -1,0 +1,104 @@
+{
+  "title": "Aviation Management",
+  "kicker": "BBA specialisation",
+  "status": "published",
+  "blocks": [
+    {
+      "discriminant": "text",
+      "value": {
+        "body": "A BBA track on the business side of flying — airline and airport operations, ground handling, air cargo, aviation safety and security basics, reservations and ticketing, and customer service. It does not train you to fly or maintain aircraft; those need a DGCA pilot licence or an aircraft maintenance engineering (AME) licence."
+      }
+    },
+    {
+      "discriminant": "facts",
+      "value": {
+        "title": "Key facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "3 years",
+            "note": "4-year Honours option under NEP"
+          },
+          {
+            "label": "Regulator",
+            "value": "AICTE approval since 2024-25",
+            "note": "Alongside the affiliating university; BBA, BCA and BMS were brought under AICTE from 2024-25",
+            "source": "AICTE Approval Process Handbook 2024-27 (as reported)",
+            "date": "2024",
+            "verified": false
+          },
+          {
+            "label": "BBA students (all specialisations)",
+            "value": "~8.8 lakh",
+            "note": "All modes",
+            "source": "AISHE 2023-24, actual responses (Ministry of Education)",
+            "date": "2023-24",
+            "verified": false
+          },
+          {
+            "label": "Domestic air passengers",
+            "value": "~16.1 crore",
+            "note": "Carried by Indian airlines on domestic routes in 2024",
+            "source": "DGCA traffic data (as reported)",
+            "date": "2024",
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "callout",
+      "value": {
+        "tone": "info",
+        "title": "How you get in",
+        "body": "Class 12 in any stream. Admission is by Class 12 marks, CUET-UG, or a university's own test. Many aviation-management programmes are run by private universities and institutes, some with airline or airport training partners; the degree is awarded by the affiliating university."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "title": "At a glance",
+        "items": [
+          "Many airline and airport jobs (ground staff, cabin crew) recruit Class 12 pass or any graduate, so this degree is not required for entry, though the subject knowledge and internships help.",
+          "Cabin-crew and some ground posts have age, height and medical standards.",
+          "Shift work, including nights and holidays, is normal at airports.",
+          "Common next steps: an MBA, or a move into cargo, logistics or airline commercial roles."
+        ]
+      }
+    },
+    {
+      "discriminant": "links",
+      "value": {
+        "title": "Roles this often leads to",
+        "items": [
+          {
+            "label": "Airport Customer Service Agent",
+            "href": "/roles/airport-customer-service-agent"
+          },
+          {
+            "label": "Airline Ground Operations Executive",
+            "href": "/roles/ground-operations-executive"
+          },
+          {
+            "label": "Cabin Crew (Flight Attendant)",
+            "href": "/roles/flight-attendant"
+          },
+          {
+            "label": "Air Cargo Executive",
+            "href": "/roles/air-cargo-executive"
+          },
+          {
+            "label": "Reservation & Ticketing Executive",
+            "href": "/roles/reservation-ticketing-executive"
+          }
+        ]
+      }
+    }
+  ],
+  "lastReviewed": "2026-10",
+  "createdBy": {
+    "kind": "ai",
+    "name": "Claude",
+    "at": "2026-10"
+  }
+}
