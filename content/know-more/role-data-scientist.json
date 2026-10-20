@@ -69,6 +69,14 @@
           {
             "label": "B.Tech · AI & ML",
             "href": "/explore/btech.ai-ml.job"
+          },
+          {
+            "label": "BS-MS (IISER / NISER)",
+            "href": "/explore/bs-ms.job"
+          },
+          {
+            "label": "B.Stat / B.Math (ISI / CMI)",
+            "href": "/explore/bstat-bmath.job"
           }
         ]
       }

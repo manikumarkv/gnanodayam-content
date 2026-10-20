@@ -78,6 +78,10 @@
           {
             "label": "BBA · Human Resources",
             "href": "/explore/bba.human-resources.job"
+          },
+          {
+            "label": "BMS (Management Studies)",
+            "href": "/explore/bms.job"
           }
         ]
       }
