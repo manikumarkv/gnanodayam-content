@@ -74,35 +74,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "MBA enrolment (regular mode)",
-        "unit": "lakh students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2018-19",
-              "2019-20",
-              "2020-21",
-              "2021-22",
-              "2022-23"
-            ],
-            "series": [
-              {
-                "label": "MBA enrolment",
-                "values": [4.63, 4.54, 4.74, 5.26, 5.86]
-              }
-            ]
-          }
-        },
-        "note": "Regular mode only, so lower than the all-modes total. MBA is one route among several into consulting.",
-        "source": "AISHE 2022-23 (Ministry of Education)",
-        "date": "2018-23",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

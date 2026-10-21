@@ -86,29 +86,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "MHA enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "MHA enrolment",
-                "values": [5351, 5757, 5909]
-              }
-            ]
-          }
-        },
-        "note": "Master of Hospital Administration only; MBA (Healthcare) and MPH students are counted elsewhere. Based on actual responses from institutions that reported data; the true national figure is likely somewhat higher.",
-        "source": "AISHE 2021-22, 2022-23, 2023-24 (Ministry of Education), Table 11",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

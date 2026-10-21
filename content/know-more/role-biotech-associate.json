@@ -78,40 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "India's bioeconomy by segment",
-        "unit": "US$ billion",
-        "data": {
-          "discriminant": "donut",
-          "value": {
-            "slices": [
-              {
-                "label": "Bio-industrial",
-                "value": 90.2
-              },
-              {
-                "label": "Biopharma",
-                "value": 64.5
-              },
-              {
-                "label": "Bio-services",
-                "value": 26
-              },
-              {
-                "label": "Bio-agri",
-                "value": 14.6
-              }
-            ]
-          }
-        },
-        "note": "Estimated value of economic activity, not jobs. Segment definitions are the report's own; bio-services include contract research and testing.",
-        "source": "India Bioeconomy Report 2026, DBT–BIRAC (as reported)",
-        "date": "2025",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

@@ -73,33 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Students enrolled in hotel management degrees",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "BHM",
-                "values": [54588, 51692, 42975]
-              },
-              {
-                "label": "BHMCT",
-                "values": [20813, 21204, 20774]
-              }
-            ]
-          }
-        },
-        "note": "Excludes B.Sc Hospitality and culinary diplomas; based on institutions that responded to AISHE.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

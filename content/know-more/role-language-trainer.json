@@ -65,29 +65,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Undergraduate enrolment in Foreign Language",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "UG enrolment",
-                "values": [206714, 217370, 224924]
-              }
-            ]
-          }
-        },
-        "note": "Based on institutions that responded to AISHE each year; AISHE groups all foreign languages together in this table.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 12",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

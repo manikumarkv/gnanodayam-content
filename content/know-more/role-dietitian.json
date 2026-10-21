@@ -71,29 +71,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Postgraduate enrolment in nutrition",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "PG students",
-                "values": [3663, 4363, 4727]
-              }
-            ]
-          }
-        },
-        "note": "Based on institutions that responded to AISHE. The large majority are women. Shows the graduate pool, not dietitian posts.",
-        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 13 — Nutrition, PG level",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

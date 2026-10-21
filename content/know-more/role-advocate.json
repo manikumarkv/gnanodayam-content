@@ -78,35 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "LL.B students enrolled",
-        "unit": "lakh students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2019-20",
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24"
-            ],
-            "series": [
-              {
-                "label": "Enrolment",
-                "values": [3.96, 4.1, 4.56, 4.84, 5.12]
-              }
-            ]
-          }
-        },
-        "note": "Regular-mode LL.B enrolment across all years of the course; excludes integrated five-year programmes (B.A. LL.B etc.), which are listed separately.",
-        "source": "AISHE 2022-23 and 2023-24, Ministry of Education (regular-mode trend box)",
-        "date": "2019-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

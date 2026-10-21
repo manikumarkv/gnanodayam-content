@@ -78,29 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Students enrolled in BSW",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "BSW enrolment",
-                "values": [30784, 40944, 47685]
-              }
-            ]
-          }
-        },
-        "note": "Total across all years of the course, not annual intake. Mobilisers also come from BA and MSW backgrounds.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (programme-wise enrolment)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

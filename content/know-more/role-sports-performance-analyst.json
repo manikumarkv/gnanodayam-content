@@ -86,29 +86,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.P.Ed. enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "B.P.Ed. enrolment",
-                "values": [44224, 50411, 56072]
-              }
-            ]
-          }
-        },
-        "note": "Counts only institutions that responded to AISHE; performance analysis is one of several paths from this degree",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (programme-wise enrolment, actual responses)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

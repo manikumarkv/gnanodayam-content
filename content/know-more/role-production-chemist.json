@@ -86,35 +86,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Production of major chemicals",
-        "unit": "lakh tonnes",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": [
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24",
-              "2024-25"
-            ],
-            "series": [
-              {
-                "label": "Production",
-                "values": [112.4, 127.4, 130.4, 129.8, 139.8]
-              }
-            ]
-          }
-        },
-        "note": "Alkali, inorganic, organic, pesticide and dye groups from large and medium units only; petrochemicals are counted separately.",
-        "source": "Dept. of Chemicals & Petrochemicals, Annual Report 2025-26 (Annexure I)",
-        "date": "2020-25",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

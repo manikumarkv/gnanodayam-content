@@ -77,29 +77,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "UG enrolment in Mechanical Engineering",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Enrolment",
-                "values": [543641, 471588, 417166]
-              }
-            ]
-          }
-        },
-        "note": "Counts only institutions that responded to AISHE; production and industrial engineering are counted separately and are much smaller.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (UG enrolment by discipline, based on actual responses)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

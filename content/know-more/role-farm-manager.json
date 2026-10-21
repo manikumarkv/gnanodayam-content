@@ -74,29 +74,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.Agri enrolment in India",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Students enrolled",
-                "values": [154954, 169273, 176858]
-              }
-            ]
-          }
-        },
-        "note": "Counts students across all years of the B.Agri programme, not farm-manager jobs. Programmes reported under other names (such as B.Sc Agriculture) may be counted elsewhere.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education)",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

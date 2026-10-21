@@ -74,29 +74,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.P.Ed enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Enrolment",
-                "values": [44224, 50411, 56072]
-              }
-            ]
-          }
-        },
-        "note": "Bachelor of Physical Education only, all modes. Not every graduate becomes a coach; many teach physical education in schools.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24, Ministry of Education",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

@@ -65,29 +65,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "India's media & entertainment sector",
-        "unit": "₹ lakh crore",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2023", "2024", "2025"],
-            "series": [
-              {
-                "label": "Sector revenue",
-                "values": [2.3, 2.5, 2.78]
-              }
-            ]
-          }
-        },
-        "note": "Industry estimates from successive reports; revenue, not jobs.",
-        "source": "FICCI-EY Media & Entertainment Reports 2024, 2025 and 2026 (as reported)",
-        "date": "2023–2025",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

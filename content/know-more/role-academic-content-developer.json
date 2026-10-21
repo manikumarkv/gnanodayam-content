@@ -65,40 +65,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "School enrolment by level",
-        "unit": "% of enrolment",
-        "data": {
-          "discriminant": "donut",
-          "value": {
-            "slices": [
-              {
-                "label": "Primary",
-                "value": 48.0
-              },
-              {
-                "label": "Upper primary",
-                "value": 25.8
-              },
-              {
-                "label": "Secondary",
-                "value": 15.1
-              },
-              {
-                "label": "Higher secondary",
-                "value": 11.2
-              }
-            ]
-          }
-        },
-        "note": "Share of school enrolment by level of education; a sense of where learning material is used, not of jobs. Percentages are rounded.",
-        "source": "UDISE+ 2024-25 report, Ministry of Education, Table 2.1",
-        "date": "2024-25",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

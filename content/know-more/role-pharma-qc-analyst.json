@@ -84,29 +84,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "India's pharmaceutical exports",
-        "unit": "US$ billion",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["FY21", "FY22", "FY23", "FY24", "FY25"],
-            "series": [
-              {
-                "label": "Exports",
-                "values": [24.4, 24.6, 25.4, 27.9, 30.5]
-              }
-            ]
-          }
-        },
-        "note": "Figures from different releases; Pharmexcil's numbers differ slightly from DGCIS. Exports are one indicator of plant activity, not a count of QC jobs.",
-        "source": "DGCIS via Rajya Sabha reply (FY21-FY23); Commerce Ministry and Pharmexcil (as reported) for FY24-FY25",
-        "date": "FY 2020-21 to 2024-25",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

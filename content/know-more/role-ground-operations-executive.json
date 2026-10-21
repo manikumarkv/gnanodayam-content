@@ -70,29 +70,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Domestic air passengers in India",
-        "unit": "crore passengers",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021", "2022", "2023", "2024"],
-            "series": [
-              {
-                "label": "Passengers carried",
-                "values": [8.38, 12.32, 15.2, 16.13]
-              }
-            ]
-          }
-        },
-        "note": "Calendar-year totals for domestic airlines. 2021 was still affected by COVID-19 restrictions.",
-        "source": "DGCA domestic traffic data (as reported)",
-        "date": "2021–2024",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

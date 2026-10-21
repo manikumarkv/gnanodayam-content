@@ -81,29 +81,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Fish production in India",
-        "unit": "lakh tonnes",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Total fish production",
-                "values": [162.48, 175.45, 184]
-              }
-            ]
-          }
-        },
-        "note": "Inland and marine combined. The 2023-24 figure is a rounded 'over 184 lakh tonnes'; some official statements give different totals for recent years.",
-        "source": "Handbook on Fisheries Statistics 2022 (2021-22); Ministry of Fisheries, as reported (2022-23, 2023-24)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

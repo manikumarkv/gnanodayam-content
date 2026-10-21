@@ -74,29 +74,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.V.Sc. & A.H. enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "B.V.Sc. & A.H. enrolment",
-                "values": [20690, 20749, 22394]
-              }
-            ]
-          }
-        },
-        "note": "Based on actual responses from institutions; all years of the course combined. A separate 'B.V.Sc.' programme row is not included.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (Ministry of Education)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

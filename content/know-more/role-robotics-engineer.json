@@ -82,29 +82,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Industrial robots installed in India per year",
-        "unit": "robots",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2022", "2023", "2024", "2025"],
-            "series": [
-              {
-                "label": "Annual installations",
-                "values": [5353, 8510, 9100, 10500]
-              }
-            ]
-          }
-        },
-        "note": "2024 and 2025 are rounded figures from IFR press releases; the 2025 figure is as reported. Automotive is the largest buyer. Installations are not the same as robotics jobs.",
-        "source": "International Federation of Robotics, World Robotics 2024–2026, as reported",
-        "date": "2022–2025",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

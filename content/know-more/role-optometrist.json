@@ -88,29 +88,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.Optom enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "B.Optom enrolment",
-                "values": [8377, 8802, 9526]
-              }
-            ]
-          }
-        },
-        "note": "B.Optom (Bachelor of Clinical Optometry) only. Based on actual responses from institutions that reported data; the true national figure is likely somewhat higher.",
-        "source": "AISHE 2021-22, 2022-23, 2023-24 (Ministry of Education), Table 11",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "links",
       "value": {
         "title": "Paths that lead here",

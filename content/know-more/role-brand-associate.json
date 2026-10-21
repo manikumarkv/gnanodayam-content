@@ -78,35 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "BBA enrolment in regular mode",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2019-20",
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24"
-            ],
-            "series": [
-              {
-                "label": "BBA enrolment",
-                "values": [528740, 583952, 664621, 738886, 785735]
-              }
-            ]
-          }
-        },
-        "note": "Regular mode only; all-modes enrolment in 2023-24 was higher (~8.8 lakh). Counts all BBA students, not only marketing specialisations.",
-        "source": "AISHE 2023-24, Box 14 (Ministry of Education)",
-        "date": "2019-20 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

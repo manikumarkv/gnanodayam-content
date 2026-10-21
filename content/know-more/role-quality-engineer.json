@@ -70,29 +70,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "UG students in Mechanical Engineering",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "UG Mechanical enrolment",
-                "values": [543641, 471588, 417166]
-              }
-            ]
-          }
-        },
-        "note": "All years of the course. Shows the graduate pool, not the number of quality jobs. Counts only institutions that responded to AISHE, so national totals may be higher.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 12, UG enrolment by subject)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

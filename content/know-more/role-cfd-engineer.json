@@ -73,29 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "GATE 2025 Aerospace Engineering paper",
-        "unit": "candidates",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["Registered", "Appeared", "Qualified"],
-            "series": [
-              {
-                "label": "AE paper",
-                "values": [7576, 6009, 1074]
-              }
-            ]
-          }
-        },
-        "note": "One of the papers used for M.Tech admission in aerospace; many CFD engineers come through Mechanical instead.",
-        "source": "GATE 2025 Statistical and Performance Report, IIT Roorkee",
-        "date": "2025",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

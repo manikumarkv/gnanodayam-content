@@ -73,29 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "UG students in Design",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "UG Design enrolment",
-                "values": [45313, 50622, 58552]
-              }
-            ]
-          }
-        },
-        "note": "All design fields, of which interior design is one; all years of the course. Counts only institutions that responded to AISHE, so national totals may be higher.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Table 12, UG enrolment by subject)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

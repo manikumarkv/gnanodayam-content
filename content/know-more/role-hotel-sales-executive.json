@@ -77,29 +77,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.H.M. (Hotel Management) enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Students enrolled",
-                "values": [54588, 51692, 42975]
-              }
-            ]
-          }
-        },
-        "note": "Counts students across all years of the B.H.M. programme only; B.H.M.C.T. and other hotel degrees are counted separately. Based on institutions that reported to AISHE, so year-to-year changes partly reflect reporting.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education)",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

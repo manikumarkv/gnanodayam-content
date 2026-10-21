@@ -69,29 +69,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "PG enrolment in Geography",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Enrolment",
-                "values": [71538, 80722, 78033]
-              }
-            ]
-          }
-        },
-        "note": "Postgraduate level only; many map data roles hire graduates from other subjects too.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (enrolment by discipline at PG level, based on actual responses)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

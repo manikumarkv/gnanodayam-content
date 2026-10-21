@@ -78,29 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.P.Ed. enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "B.P.Ed. enrolment",
-                "values": [44224, 50411, 56072]
-              }
-            ]
-          }
-        },
-        "note": "Bachelor of Physical Education only, based on actual responses; B.P.E. and B.P.E.S. are separate rows not included here.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (Ministry of Education)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {
