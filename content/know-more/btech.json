@@ -56,37 +56,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Typical fresher CTC by experience",
-        "unit": "₹L",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "0 yr",
-              "2 yr",
-              "5 yr"
-            ],
-            "series": [
-              {
-                "label": "Median CTC",
-                "values": [
-                  4,
-                  8,
-                  16
-                ]
-              }
-            ]
-          }
-        },
-        "note": "Indicative; varies widely by branch, company and city.",
-        "source": "Glassdoor + Levels.fyi, approx.",
-        "date": "2026",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "links",
       "value": {
         "title": "Roles this often leads to",
