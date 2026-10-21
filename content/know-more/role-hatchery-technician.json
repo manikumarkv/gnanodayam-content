@@ -80,29 +80,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.F.Sc enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "B.F.Sc students",
-                "values": [4727, 5195, 5010]
-              }
-            ]
-          }
-        },
-        "note": "Bachelor of Fisheries Science, all years of the course. Pool of graduates, not hatchery jobs.",
-        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment table — B.F.Sc., all modes",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

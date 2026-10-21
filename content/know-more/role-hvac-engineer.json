@@ -79,29 +79,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Undergraduate enrolment in Mechanical Engineering",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "UG enrolment",
-                "values": [543641, 471588, 417166]
-              }
-            ]
-          }
-        },
-        "note": "Based on institutions that responded to AISHE each year; the entry degree for most HVAC engineers, not a count of HVAC jobs.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 12",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

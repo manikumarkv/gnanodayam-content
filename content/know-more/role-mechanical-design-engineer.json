@@ -78,29 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Students in Mechanical Engineering",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Enrolment, all levels",
-                "values": [574940, 496864, 444200]
-              }
-            ]
-          }
-        },
-        "note": "UG, PG and PhD combined; the 2023-24 value is published in thousands (444.2), so it is rounded. Counts only institutions that responded to AISHE, so national totals may be higher.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Engineering & Technology sub-stream enrolment, Figure 20)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

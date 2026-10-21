@@ -73,35 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "BCA enrolment, regular mode",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2019-20",
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24"
-            ],
-            "series": [
-              {
-                "label": "Enrolment",
-                "values": [463625, 493807, 570504, 712491, 865410]
-              }
-            ]
-          }
-        },
-        "note": "Regular mode only; BCA is one of several routes into QA. Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
-        "source": "AISHE 2023-24, Box 14 (Ministry of Education)",
-        "date": "2019-20 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

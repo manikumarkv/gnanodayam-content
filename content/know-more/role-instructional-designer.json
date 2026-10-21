@@ -72,29 +72,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.A. B.Ed. (integrated) enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "B.A. B.Ed.",
-                "values": [78465, 94205, 96811]
-              }
-            ]
-          }
-        },
-        "note": "All modes; based on institutions that responded to AISHE. B.A. B.Ed. is an integrated teacher-education programme; enrolment is not a count of instructional design jobs.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 11, actual responses",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

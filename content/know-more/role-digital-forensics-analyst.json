@@ -73,29 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Cyber-crime cases registered by year",
-        "unit": "cases",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021", "2022", "2023"],
-            "series": [
-              {
-                "label": "Cases",
-                "values": [52974, 65893, 86420]
-              }
-            ]
-          }
-        },
-        "note": "Registered FIRs only; complaints logged on the national cyber-crime portal are far higher.",
-        "source": "NCRB, Crime in India 2022 and 2023 (as reported)",
-        "date": "2021 to 2023",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

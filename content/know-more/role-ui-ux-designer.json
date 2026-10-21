@@ -66,29 +66,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.Des enrolment in India",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Students enrolled",
-                "values": [44526, 51460, 56720]
-              }
-            ]
-          }
-        },
-        "note": "Covers all B.Des specialisations (fashion, product, communication, interaction and others), not only UX. Counts students across all years, not admissions.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education)",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

@@ -73,29 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Undergraduate enrolment in aeronautical engineering",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "UG students",
-                "values": [20259, 18427, 18988]
-              }
-            ]
-          }
-        },
-        "note": "Based on institutions that responded to AISHE; aerospace-named branches may be counted elsewhere. Shows the size of the graduate pool, not job openings.",
-        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), Table 12 — Aeronautical Engineering, UG",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

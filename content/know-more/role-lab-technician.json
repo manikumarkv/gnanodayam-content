@@ -71,35 +71,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "NABL-accredited testing labs, five largest states",
-        "unit": "labs",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": [
-              "Maharashtra",
-              "Gujarat",
-              "Tamil Nadu",
-              "Uttar Pradesh",
-              "Karnataka"
-            ],
-            "series": [
-              {
-                "label": "Accredited testing labs",
-                "values": [786, 669, 469, 393, 373]
-              }
-            ]
-          }
-        },
-        "note": "Testing labs only; excludes medical and calibration labs, and the many college and research labs that are not accredited",
-        "source": "NABL directory of accredited testing laboratories (ISO/IEC 17025)",
-        "date": "Feb 2024",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

@@ -79,35 +79,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Crude steel production in India",
-        "unit": "million tonnes",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24",
-              "2024-25"
-            ],
-            "series": [
-              {
-                "label": "Crude steel",
-                "values": [103.5, 120.3, 127.2, 144.3, 152.2]
-              }
-            ]
-          }
-        },
-        "note": "Earlier provisional estimates for 2024-25 were about 151–152 MT. Steel output is one driver of testing work; labs also serve other metals, components and construction.",
-        "source": "Ministry of Steel (Annual Report 2025-26 and monthly sector overviews)",
-        "date": "2020-21 to 2024-25",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

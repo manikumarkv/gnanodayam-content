@@ -73,29 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Domestic air passengers carried",
-        "unit": "crore passengers",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2022", "2023", "2024"],
-            "series": [
-              {
-                "label": "Passengers",
-                "values": [12.3, 15.2, 16.1]
-              }
-            ]
-          }
-        },
-        "note": "Calendar years, rounded. 2022 was still recovering from Covid-19. Passenger numbers indicate airline activity, not dispatcher openings.",
-        "source": "DGCA monthly traffic data (as reported)",
-        "date": "2022–2024",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

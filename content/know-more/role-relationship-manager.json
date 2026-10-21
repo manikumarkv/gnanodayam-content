@@ -86,36 +86,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Bank branches by bank group",
-        "unit": "branches",
-        "data": {
-          "discriminant": "donut",
-          "value": {
-            "slices": [
-              {
-                "label": "Public sector banks",
-                "value": 86535
-              },
-              {
-                "label": "Private sector banks",
-                "value": 47275
-              },
-              {
-                "label": "Foreign banks",
-                "value": 774
-              }
-            ]
-          }
-        },
-        "note": "Scheduled commercial bank branches only; excludes RRBs, small finance banks, digital banking units and administrative offices.",
-        "source": "RBI, Trend and Progress of Banking in India 2024-25, Appendix Table IV.12",
-        "date": "End-March 2025",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

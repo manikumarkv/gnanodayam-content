@@ -78,35 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "LL.B. enrolment, regular mode",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2019-20",
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24"
-            ],
-            "series": [
-              {
-                "label": "Enrolment",
-                "values": [395985, 409725, 455718, 484002, 511824]
-              }
-            ]
-          }
-        },
-        "note": "Regular mode only; 3-year LL.B. programme. Based on institutions that responded to the survey; part of the year-to-year change reflects response coverage.",
-        "source": "AISHE 2023-24, Box 14 (Ministry of Education)",
-        "date": "2019-20 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

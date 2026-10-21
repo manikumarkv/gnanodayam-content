@@ -85,32 +85,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "How health claims were settled, FY24",
-        "unit": "% of claims",
-        "data": {
-          "discriminant": "donut",
-          "value": {
-            "slices": [
-              {
-                "label": "Through TPAs",
-                "value": 72
-              },
-              {
-                "label": "In-house by insurers",
-                "value": 28
-              }
-            ]
-          }
-        },
-        "note": "Share of settled claims by number. In FY25 the TPA share was reported at ~69%.",
-        "source": "IRDAI Annual Report 2023-24 (as reported)",
-        "date": "2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

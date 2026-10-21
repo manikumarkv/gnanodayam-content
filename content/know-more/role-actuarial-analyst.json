@@ -87,29 +87,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Fellows of the Institute of Actuaries of India",
-        "unit": "fellows",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021", "2022", "2023", "2024", "2025"],
-            "series": [
-              {
-                "label": "Fellows",
-                "values": [473, 515, 569, 654, 758]
-              }
-            ]
-          }
-        },
-        "note": "As on 31 March each year. Fellows are fully qualified actuaries; most members are students still writing exams.",
-        "source": "IAI Annual Report & Accounts 2024-25",
-        "date": "2021–2025",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

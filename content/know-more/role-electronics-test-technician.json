@@ -79,36 +79,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Domestic electronics production",
-        "unit": "₹ lakh crore",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2019-20",
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24",
-              "2024-25"
-            ],
-            "series": [
-              {
-                "label": "Production",
-                "values": [5.33, 5.34, 6.4, 8.25, 9.52, 11.3]
-              }
-            ]
-          }
-        },
-        "note": "Value of goods produced, not employment; mobile phones make up a large share. Figures rounded.",
-        "source": "MeitY figures in Parliament replies and PIB (as reported)",
-        "date": "2019-20 to 2024-25",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

@@ -77,29 +77,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "UG enrolment in Mining Engineering",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Enrolment",
-                "values": [10030, 9963, 11349]
-              }
-            ]
-          }
-        },
-        "note": "Counts only institutions that responded to AISHE; includes all years of study.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 reports, Ministry of Education (UG enrolment by discipline, based on actual responses)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

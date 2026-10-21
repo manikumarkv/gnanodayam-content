@@ -74,35 +74,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Design applications filed in India",
-        "unit": "applications",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24",
-              "2024-25"
-            ],
-            "series": [
-              {
-                "label": "Applications filed",
-                "values": [14242, 22699, 22698, 30389, 43005]
-              }
-            ]
-          }
-        },
-        "note": "Filings by all applicants, including foreign firms; not a count of designers or jobs.",
-        "source": "IP India (CGPDTM) Annual Reports (as reported)",
-        "date": "2020–2025",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

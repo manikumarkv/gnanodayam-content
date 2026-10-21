@@ -73,29 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "UG enrolment in Criminology & Forensic Science",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "UG enrolment",
-                "values": [2511, 2998, 3975]
-              }
-            ]
-          }
-        },
-        "note": "Covers all forensic and criminology UG students; few specialise in questioned documents. Based on actual responses from institutions that reported data; the true national figure is likely somewhat higher.",
-        "source": "AISHE 2021-22, 2022-23, 2023-24 (Ministry of Education), Table 12",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

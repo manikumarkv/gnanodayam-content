@@ -78,29 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.H.A. (Hospital Administration) enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "B.H.A. enrolment",
-                "values": [4830, 6498, 6041]
-              }
-            ]
-          }
-        },
-        "note": "Counts only institutions that responded to AISHE; BBA (Hospital Management) students are counted under BBA",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 11 (programme-wise enrolment, actual responses)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

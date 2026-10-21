@@ -66,29 +66,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Students enrolled in B.P.Ed.",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "B.P.Ed. enrolment",
-                "values": [44224, 50411, 56072]
-              }
-            ]
-          }
-        },
-        "note": "Counts only institutions that responded to AISHE. B.P.Ed. also leads to PE teaching, not only fitness training.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (programme-wise enrolment, actual responses)",
-        "date": "2021–2024",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

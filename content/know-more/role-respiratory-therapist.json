@@ -78,29 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "UG enrolment in Paramedical Science",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "UG enrolment",
-                "values": [65282, 93781, 115270]
-              }
-            ]
-          }
-        },
-        "note": "Whole Paramedical Science discipline at undergraduate level, based on actual responses; not specific to respiratory therapy. Part of the rise may reflect more institutions responding.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24, Table 12 (Ministry of Education)",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "links",
       "value": {
         "title": "Paths that lead here",

@@ -73,29 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Employment in factories (ASI)",
-        "unit": "crore people",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Employment",
-                "values": [1.72, 1.84, 1.95]
-              }
-            ]
-          }
-        },
-        "note": "Covers registered factories only; informal manufacturing is not included. Not a count of industrial engineers.",
-        "source": "Annual Survey of Industries, MoSPI (as reported)",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

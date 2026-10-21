@@ -74,29 +74,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "National highway construction",
-        "unit": "km",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2022-23", "2023-24", "2024-25"],
-            "series": [
-              {
-                "label": "Km built",
-                "values": [10331, 12349, 10660]
-              }
-            ]
-          }
-        },
-        "note": "National highways only; state roads, buildings and private projects employ many more site engineers.",
-        "source": "Ministry of Road Transport and Highways (as reported)",
-        "date": "2022-25",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

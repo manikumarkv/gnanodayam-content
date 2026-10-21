@@ -65,29 +65,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Bachelor of Physiotherapy enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "BPT students",
-                "values": [92586, 104297, 116439]
-              }
-            ]
-          }
-        },
-        "note": "Most BPT graduates work in clinical physiotherapy; ergonomics is one niche. Pool of graduates, not ergonomics jobs.",
-        "source": "AISHE reports 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment table — B.P.T., all modes",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

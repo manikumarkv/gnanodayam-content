@@ -71,29 +71,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "India's total exports (goods and services)",
-        "unit": "US$ billion",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2023-24", "2024-25", "2025-26"],
-            "series": [
-              {
-                "label": "Total exports",
-                "values": [778.13, 825.26, 860.09]
-              }
-            ]
-          }
-        },
-        "note": "2025-26 is a provisional estimate; 2024-25 revised from an earlier 820.93. Includes services, which do not need shipping documentation.",
-        "source": "Ministry of Commerce & Industry (PIB) monthly trade releases",
-        "date": "2023-24 to 2025-26",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

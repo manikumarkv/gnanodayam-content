@@ -69,29 +69,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "GATE 2025 Instrumentation Engineering paper",
-        "unit": "candidates",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["Registered", "Appeared", "Qualified"],
-            "series": [
-              {
-                "label": "IN paper",
-                "values": [14680, 11935, 2570]
-              }
-            ]
-          }
-        },
-        "note": "Qualifying GATE is used for M.Tech admission and some PSU recruitment; it is not a job offer.",
-        "source": "GATE 2025 Statistical and Performance Report, IIT Roorkee",
-        "date": "2025",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

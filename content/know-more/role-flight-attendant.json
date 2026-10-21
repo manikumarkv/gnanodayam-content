@@ -66,29 +66,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Domestic air passengers",
-        "unit": "crore passengers",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021", "2022", "2023", "2024"],
-            "series": [
-              {
-                "label": "Passengers carried",
-                "values": [8.38, 12.32, 15.2, 16.13]
-              }
-            ]
-          }
-        },
-        "note": "Calendar-year passengers on domestic flights; 2021 was still affected by Covid-19. Passenger growth is one driver of airline hiring, not a count of cabin crew jobs.",
-        "source": "DGCA annual domestic traffic data (as reported)",
-        "date": "2021-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

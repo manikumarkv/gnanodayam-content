@@ -74,29 +74,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Students enrolled in B.Agri",
-        "unit": "students",
-        "data": {
-          "discriminant": "bar",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "B.Agri enrolment",
-                "values": [154954, 169273, 176858]
-              }
-            ]
-          }
-        },
-        "note": "Based on institutions that responded to AISHE; table definitions differ slightly between years.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24 (Ministry of Education), programme-wise enrolment",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

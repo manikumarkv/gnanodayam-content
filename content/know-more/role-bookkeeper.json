@@ -78,35 +78,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.Com enrolment, regular mode",
-        "unit": "lakh students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2019-20",
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24"
-            ],
-            "series": [
-              {
-                "label": "B.Com (regular mode)",
-                "values": [36.7, 37.9, 38.7, 37.4, 34.1]
-              }
-            ]
-          }
-        },
-        "note": "Regular mode only (distance mode excluded); rounded to one decimal. Counts all years of the course, not graduates.",
-        "source": "AISHE 2023-24 (Ministry of Education), Box 14",
-        "date": "2019-20 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

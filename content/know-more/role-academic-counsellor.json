@@ -73,35 +73,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Students enrolled in higher education",
-        "unit": "crore",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": [
-              "2019-20",
-              "2020-21",
-              "2021-22",
-              "2022-23",
-              "2023-24"
-            ],
-            "series": [
-              {
-                "label": "Total enrolment",
-                "values": [3.85, 4.14, 4.33, 4.46, 4.5]
-              }
-            ]
-          }
-        },
-        "note": "Colleges and universities only; coaching institutes, ed-tech courses and school admissions are not counted.",
-        "source": "AISHE 2023-24 (five-year series)",
-        "date": "2019-20 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

@@ -80,29 +80,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "B.V.Sc. & A.H. enrolment",
-        "unit": "students",
-        "data": {
-          "discriminant": "line",
-          "value": {
-            "categories": ["2021-22", "2022-23", "2023-24"],
-            "series": [
-              {
-                "label": "Enrolment",
-                "values": [20690, 20749, 22394]
-              }
-            ]
-          }
-        },
-        "note": "B.V.Sc. & A.H. programme only, all modes, across all years of the course; the separate B.V.Sc. rows (~4,300–5,400) are not included.",
-        "source": "AISHE 2021-22, 2022-23 and 2023-24, Ministry of Education",
-        "date": "2021-22 to 2023-24",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {

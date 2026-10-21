@@ -70,36 +70,6 @@
       }
     },
     {
-      "discriminant": "chart",
-      "value": {
-        "title": "Registered nursing workforce by cadre",
-        "unit": "personnel",
-        "data": {
-          "discriminant": "donut",
-          "value": {
-            "slices": [
-              {
-                "label": "Registered nurses & midwives",
-                "value": 2340501
-              },
-              {
-                "label": "Nurse associates (incl. ANMs)",
-                "value": 1000805
-              },
-              {
-                "label": "Lady health visitors",
-                "value": 56854
-              }
-            ]
-          }
-        },
-        "note": "Registrations, not people currently working; critical care nurses come from the registered nurse cadre.",
-        "source": "Indian Nursing Council, via Rajya Sabha reply (as reported)",
-        "date": "2022",
-        "verified": false
-      }
-    },
-    {
       "discriminant": "fieldMetrics",
       "value": {
         "openings": {
