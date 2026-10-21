@@ -26,6 +26,47 @@ const seriesSchema = z.object({ label: z.string(), values: z.array(z.number()) }
 const sliceSchema = z.object({ label: z.string(), value: z.number() })
 
 export const CHART_TYPES = ['line', 'bar', 'area', 'pie', 'donut'] as const
+
+/**
+ * "About this field" (#152): five fixed fresher metrics for a role, each optional. A part that is
+ * present must name its source and date — there is no unsourced field metric.
+ */
+const metricTrust = {
+  source: z.string().min(1),
+  date: z.string().min(1),
+  verified: z.boolean().optional(),
+  note: z.string().optional(),
+}
+const share = z.number().min(0).max(100)
+
+export const fieldMetricsSchema = z.object({
+  type: z.literal('fieldMetrics'),
+  /** Job openings by year — is demand growing? */
+  openings: z
+    .object({
+      unit: z.string().optional(),
+      points: z.array(z.object({ year: z.string(), value: z.number() })).min(2),
+      ...metricTrust,
+    })
+    .optional(),
+  /** Graduates a year from the entry degrees — how many compete? */
+  competition: z
+    .object({ value: z.string().min(1), entryDegrees: z.string().optional(), ...metricTrust })
+    .optional(),
+  /** Who hires — share of openings by employer type. */
+  whoHires: z
+    .object({
+      slices: z.array(z.object({ label: z.string(), share })).min(1),
+      ...metricTrust,
+    })
+    .optional(),
+  /** Where the jobs are — share of openings by city. */
+  cities: z
+    .object({ items: z.array(z.object({ city: z.string(), share })).min(1), ...metricTrust })
+    .optional(),
+  /** Women in the field — share of students or workers. */
+  women: z.object({ share, ...metricTrust }).optional(),
+})
 export const CALLOUT_TONES = ['info', 'warn', 'note'] as const
 
 export const blockSchema = z.discriminatedUnion('type', [
@@ -63,6 +104,7 @@ export const blockSchema = z.discriminatedUnion('type', [
     verified: z.boolean().optional(),
     note: z.string().optional(),
   }),
+  fieldMetricsSchema,
 ])
 
 const createdBySchema = z.object({
@@ -109,9 +151,10 @@ export const contentDocSchema = z
     })
   })
 
-export const contentIndexSchema = z.array(z.string())
-
 export type Fact = z.infer<typeof factSchema>
+export type FieldMetrics = z.infer<typeof fieldMetricsSchema>
 export type Block = z.infer<typeof blockSchema>
 export type ChartType = (typeof CHART_TYPES)[number]
 export type ContentDoc = z.infer<typeof contentDocSchema>
+
+export const contentIndexSchema = z.array(z.string())

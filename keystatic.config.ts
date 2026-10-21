@@ -49,6 +49,79 @@ const proportional = fields.object({
   ),
 })
 
+/** Every field-metric part names its source + date (the app rejects a part without them). */
+const metricTrust = {
+  note: fields.text({ label: 'Note' }),
+  source: fields.text({
+    label: 'Source',
+    description: 'A named, dated report. Add "(as reported)" when quoting it second-hand.',
+  }),
+  date: fields.text({ label: 'As-of date', description: 'e.g. 2024 or 2023-24' }),
+  verified: fields.checkbox({ label: 'Checked by a person', defaultValue: false }),
+}
+
+/**
+ * "About this field" for role docs (gnanodayam #152): five fixed fresher metrics. Leave a part
+ * empty to leave it out — the page then shows "Not added yet" for it.
+ */
+const fieldMetrics = fields.object({
+  openings: fields.object(
+    {
+      unit: fields.text({ label: 'Unit', description: 'e.g. index (2021 = 100), job postings' }),
+      points: fields.array(
+        fields.object({
+          year: fields.text({ label: 'Year' }),
+          value: fields.number({ label: 'Value' }),
+        }),
+        { label: 'Points (two or more years)', itemLabel: (p) => p.fields.year.value || 'Year' },
+      ),
+      ...metricTrust,
+    },
+    { label: 'Job openings by year' },
+  ),
+  competition: fields.object(
+    {
+      value: fields.text({ label: 'Graduates a year', description: 'e.g. ~4 lakh' }),
+      entryDegrees: fields.text({
+        label: 'From which degrees',
+        description: 'e.g. B.Tech CSE/IT, BCA',
+      }),
+      ...metricTrust,
+    },
+    { label: 'Competition' },
+  ),
+  whoHires: fields.object(
+    {
+      slices: fields.array(
+        fields.object({
+          label: fields.text({ label: 'Employer type' }),
+          share: fields.number({ label: 'Share (%)' }),
+        }),
+        { label: 'Employer types', itemLabel: (p) => p.fields.label.value || 'Employer type' },
+      ),
+      ...metricTrust,
+    },
+    { label: 'Who hires' },
+  ),
+  cities: fields.object(
+    {
+      items: fields.array(
+        fields.object({
+          city: fields.text({ label: 'City' }),
+          share: fields.number({ label: 'Share of openings (%)' }),
+        }),
+        { label: 'Cities', itemLabel: (p) => p.fields.city.value || 'City' },
+      ),
+      ...metricTrust,
+    },
+    { label: 'Where the jobs are' },
+  ),
+  women: fields.object(
+    { share: fields.number({ label: 'Share of women (%)' }), ...metricTrust },
+    { label: 'Women in the field' },
+  ),
+})
+
 const blocks = fields.blocks(
   {
     text: {
@@ -165,6 +238,11 @@ const blocks = fields.blocks(
         note: fields.text({ label: 'Note' }),
         ...sourced,
       }),
+    },
+    fieldMetrics: {
+      label: 'Field metrics (role docs)',
+      itemLabel: () => 'About this field',
+      schema: fieldMetrics,
     },
   },
   { label: 'Blocks' },

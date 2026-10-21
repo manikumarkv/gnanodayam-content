@@ -19,6 +19,48 @@ function trust(f: { source: string; date: string; verified: boolean }) {
 }
 
 type Block = KnowMoreEntry['blocks'][number]
+type MetricsValue = Extract<Block, { discriminant: 'fieldMetrics' }>['value']
+type MetricsBlock = Extract<ContentDoc['blocks'][number], { type: 'fieldMetrics' }>
+
+/** A field-metric part's trust fields; empty optional text is left out. */
+function metricTrust(p: { source: string; date: string; verified: boolean; note: string }) {
+  return { source: p.source, date: p.date, verified: p.verified, note: opt(p.note) }
+}
+
+/** Keystatic always stores every part; an empty part (no data) is left out of the doc. */
+function toFieldMetrics(v: MetricsValue): MetricsBlock {
+  const { openings, competition, whoHires, cities, women } = v
+  return {
+    type: 'fieldMetrics',
+    openings: openings.points.length
+      ? {
+          unit: opt(openings.unit),
+          points: openings.points.map((p) => ({ year: p.year, value: p.value ?? 0 })),
+          ...metricTrust(openings),
+        }
+      : undefined,
+    competition: competition.value
+      ? {
+          value: competition.value,
+          entryDegrees: opt(competition.entryDegrees),
+          ...metricTrust(competition),
+        }
+      : undefined,
+    whoHires: whoHires.slices.length
+      ? {
+          slices: whoHires.slices.map((s) => ({ label: s.label, share: s.share ?? 0 })),
+          ...metricTrust(whoHires),
+        }
+      : undefined,
+    cities: cities.items.length
+      ? {
+          items: cities.items.map((c) => ({ city: c.city, share: c.share ?? 0 })),
+          ...metricTrust(cities),
+        }
+      : undefined,
+    women: women.share != null ? { share: women.share, ...metricTrust(women) } : undefined,
+  }
+}
 
 function toBlock(b: Block): ContentDoc['blocks'][number] {
   switch (b.discriminant) {
@@ -76,6 +118,8 @@ function toBlock(b: Block): ContentDoc['blocks'][number] {
         ...trust(b.value),
       }
     }
+    case 'fieldMetrics':
+      return toFieldMetrics(b.value)
   }
 }
 

@@ -48,3 +48,64 @@ describe('the published API', () => {
     expect(await readPublishedDoc('no-such-doc')).toBeNull()
   })
 })
+
+describe('field metrics block', () => {
+  const trust = {
+    source: 'AISHE 2023-24',
+    date: '2023-24',
+    verified: false,
+    note: '',
+  }
+  const empty = { ...trust, source: '', date: '' }
+  const entry = (value: unknown) =>
+    ({
+      title: 'Role',
+      kicker: '',
+      status: 'published',
+      blocks: [{ discriminant: 'fieldMetrics', value }],
+      lastReviewed: '',
+      createdBy: { kind: 'ai', name: 'Claude', at: '2026-10' },
+      verifiedBy: { name: '', at: '' },
+    }) as unknown as Parameters<typeof toContentDoc>[0]
+
+  it('keeps filled parts and drops empty ones', () => {
+    const doc = clean(
+      toContentDoc(
+        entry({
+          openings: { unit: '', points: [], ...empty },
+          competition: {
+            value: '~4 lakh',
+            entryDegrees: 'B.Tech CSE',
+            ...trust,
+          },
+          whoHires: { slices: [], ...empty },
+          cities: { items: [{ city: 'Bengaluru', share: 30 }], ...trust },
+          women: { share: 34, ...trust },
+        }),
+      ),
+    )
+    expect(contentDocSchema.safeParse(doc).success).toBe(true)
+    const block = doc.blocks[0]
+    expect(block.type === 'fieldMetrics' && Object.keys(block).sort()).toEqual([
+      'cities',
+      'competition',
+      'type',
+      'women',
+    ])
+  })
+
+  it('a filled part without a source fails the app schema', () => {
+    const doc = clean(
+      toContentDoc(
+        entry({
+          openings: { unit: '', points: [], ...empty },
+          competition: { value: '', entryDegrees: '', ...empty },
+          whoHires: { slices: [], ...empty },
+          cities: { items: [], ...empty },
+          women: { share: 34, ...empty },
+        }),
+      ),
+    )
+    expect(contentDocSchema.safeParse(doc).success).toBe(false)
+  })
+})
