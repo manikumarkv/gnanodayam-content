@@ -73,6 +73,48 @@
       }
     },
     {
+      "discriminant": "fieldMetrics",
+      "value": {
+        "openings": {
+          "unit": "",
+          "points": [],
+          "note": "",
+          "source": "",
+          "date": "",
+          "verified": false
+        },
+        "competition": {
+          "value": "~12 lakh",
+          "entryDegrees": "B.Sc (all subjects)",
+          "note": "B.Sc (all subjects) graduates in 2023-24 at institutions that reported to AISHE — everyone finishing that degree, not only those entering this role.",
+          "source": "AISHE 2023-24, Table 34 (programme-wise out-turn), Ministry of Education",
+          "date": "2023-24",
+          "verified": false
+        },
+        "whoHires": {
+          "slices": [],
+          "note": "",
+          "source": "",
+          "date": "",
+          "verified": false
+        },
+        "cities": {
+          "items": [],
+          "note": "",
+          "source": "",
+          "date": "",
+          "verified": false
+        },
+        "women": {
+          "share": 54,
+          "note": "Share of women among B.Sc (all subjects) graduates in 2023-24 — the entry degree, not people already working in this role.",
+          "source": "AISHE 2023-24, Table 34 (programme-wise out-turn), Ministry of Education",
+          "date": "2023-24",
+          "verified": false
+        }
+      }
+    },
+    {
       "discriminant": "links",
       "value": {
         "title": "Paths that lead here",
